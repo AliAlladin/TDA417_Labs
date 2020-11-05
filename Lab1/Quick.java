@@ -17,11 +17,14 @@ public class Quick {
      * @param a the array to be sorted
      */
     public static void sort(int[] a) {
+
         /**
          * Gives slow results
          */
         //StdRandom.shuffle(a);
         // TODO: try randomising the array before sorting.
+
+
         sort(a, 0, a.length - 1);
         assert isSorted(a);
     }
