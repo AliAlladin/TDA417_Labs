@@ -17,7 +17,7 @@ public class Quick {
      * @param a the array to be sorted
      */
     public static void sort(int[] a) {
-        // TODO: try randomising the array before sorting.
+        StdRandom.shuffle(a);
         sort(a, 0, a.length - 1);
         assert isSorted(a);
     }
