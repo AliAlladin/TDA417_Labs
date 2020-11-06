@@ -18,9 +18,6 @@ public class Quick {
      */
     public static void sort(int[] a) {
 
-        /**
-         * Gives slow results
-         */
         //StdRandom.shuffle(a);
         // TODO: try randomising the array before sorting.
 
@@ -32,7 +29,7 @@ public class Quick {
     // quicksort the subarray from a[lo] to a[hi]
     public static void sort(int[] a, int lo, int hi) { 
         // TODO: try switching to insertion sort if a[lo..hi] is small.
-        if (a.length>300){
+        if (a.length>80){
         if (hi <= lo) return;
 
         int j = partition(a, lo, hi);
