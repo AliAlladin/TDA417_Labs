@@ -4,10 +4,10 @@
 ** Lab 1: Sorting, Complexity
 *******************************************************************************/
 
-Name of lab group: Grupp 50
-Group member A:    Ali Alladin
-Group member B:    William Hugo
-Group member C:    Elias Johansson
+Name of lab group: [...]
+Group member A:    [...]
+Group member B:    [...]
+Group member C:    [...]
 
 
 /******************************************************************************
@@ -19,27 +19,27 @@ Group member C:    Elias Johansson
 
 Insertion.java on:
 
-- random inputs:      n^2
-- 95% sorted inputs:  n^2
-- sorted inputs:      n / n log n
+- random inputs:      [...]
+- 95% sorted inputs:  [...]
+- sorted inputs:      [...]
 
 Quick.java on:
 
-- random inputs:      n / n log n
-- 95% sorted inputs:  n / n log n
-- sorted inputs:      n^2
+- random inputs:      [...]
+- 95% sorted inputs:  [...]
+- sorted inputs:      [...]
 
 Merge.java on:
 
-- random inputs:      n / n log n
-- 95% sorted inputs:  n / n log n
-- sorted inputs:      n / n log n
+- random inputs:      [...]
+- 95% sorted inputs:  [...]
+- sorted inputs:      [...]
 
 Arrays.sort on:
 
 - random inputs:      n / n log n
-- 95% sorted inputs:  n / n log n
-- sorted inputs:      n / n log n
+- 95% sorted inputs:  [...]
+- sorted inputs:      [...]
 
 
 /******************************************************************************
