@@ -50,11 +50,15 @@ Arrays.sort on:
 ******************************************************************************/
 
 Shuffling the array first:
-[no] [yes+reason]
+Yes, it will treat all arrays as random which will improve the complexity,
+specially the sorted ones. The reason the quicksort on a sorted array was so
+ineffective was that it always chose the smallest element as the pivot.
 
 
 Median-of-three pivot selection:
-[no] [yes+reason]
+Yes, again specially for the sorted arrays. Since the array is sorted the median
+of 3 will choose the real median of the array as the pivot and that's when the
+algorithm is most effective.
 
 
 Insertion sort for small arrays:
@@ -67,7 +71,10 @@ Insertion sort for small arrays:
 **    Remember that you should try to find the answer in a systematic way.
 ******************************************************************************/
 
-[...]
+We are not completely sure whether the program expects more random arrays or
+more sorted/mostly sorted arrays. To play it safe we chose that 80 should be the
+cutoff time. This since insertion sort on an array of length 30 is faster
+independent of what kind of array it is.
 
 
 /******************************************************************************
