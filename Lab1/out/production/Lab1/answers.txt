@@ -50,15 +50,22 @@ Arrays.sort on:
 ******************************************************************************/
 
 Shuffling the array first:
-[no] [yes+reason]
+Yes, it will treat all the arrays as randomly ordered ones which gives always
+ensures a linear/logarithmic complexity. Shuffling the array makes it less
+probable that the smallest element, which would be the case for sorted arrays,
+would be chosen as the pivot. This would make the divide and conquer algorithm
+inefficient.
 
 
 Median-of-three pivot selection:
-[no] [yes+reason]
+Yes, it's faster than the original implementation for sorted arrays because
+the pivot is now chosen as the median instead of as the smallest element which
+makes the divide and conquer more efficient and makes it a linear/logarithmic
+complexity.
 
 
 Insertion sort for small arrays:
-[no] [yes+reason]
+No.
 
 
 /******************************************************************************
@@ -67,14 +74,19 @@ Insertion sort for small arrays:
 **    Remember that you should try to find the answer in a systematic way.
 ******************************************************************************/
 
-[...]
+Because we don't know the distribution of the arrays between random, 95% sorted,
+and sorted we picked a size where insertion was always faster for all of them.
+Te size of the array was somewhere between 30 and 100, the limiting factor were
+the random arrays that had a small performance loss at n=100. If random arrays
+were not as prevalent as the others insertion sort could be used for even larger
+arrays, but to be safe we picked a number slightly smaller than 100: n=80.
 
 
 /******************************************************************************
 ** 4. Which combination of improvements gives the best performance?
 ******************************************************************************/
 
-[...]
+Median of three and insertion sort.
 
 
 
