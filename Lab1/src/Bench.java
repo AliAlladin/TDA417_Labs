@@ -159,11 +159,11 @@ public class Bench {
         for (int i = 0; i < SAMPLE_SIZES.length; i++) {
             int size = SAMPLE_SIZES[i];
             System.out.println(String.format(
-                format,
-                size,
-                execute(algorithm, randomSamples[i]),
-                execute(algorithm, partiallySortedSamples[i]),
-                execute(algorithm, sortedSamples[i])));
+                    format,
+                    size,
+                    execute(algorithm, randomSamples[i]),
+                    execute(algorithm, partiallySortedSamples[i]),
+                    execute(algorithm, sortedSamples[i])));
         }
         System.out.println("");
     }

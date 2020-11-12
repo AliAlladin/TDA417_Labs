@@ -27,20 +27,19 @@ public class Quick {
     }
 
     // quicksort the subarray from a[lo] to a[hi]
-    public static void sort(int[] a, int lo, int hi) { 
+    public static void sort(int[] a, int lo, int hi) {
         // TODO: try switching to insertion sort if a[lo..hi] is small.
         if (a.length>80){
-        if (hi <= lo) return;
+            if (hi <= lo) return;
 
-        int j = partition(a, lo, hi);
-        sort(a, lo, j-1);
-        sort(a, j+1, hi);
-        assert isSorted(a, lo, hi);
-    }
-    //else{
-    //    Insertion.sort(a,lo,hi);
-    //    }
-    }
+            int j = partition(a, lo, hi);
+            sort(a, lo, j-1);
+            sort(a, j+1, hi);
+            assert isSorted(a, lo, hi);
+        }
+        else{
+            Insertion.sort(a,lo,hi);
+        }}
 
     // partition the subarray a[lo..hi] so that a[lo..j-1] <= a[j] <= a[j+1..hi]
     // and return the index j.
@@ -78,10 +77,10 @@ public class Quick {
         return j;
     }
 
-   /***************************************************************************
-    *  Helper sorting functions.
-    ***************************************************************************/
-    
+    /***************************************************************************
+     *  Helper sorting functions.
+     ***************************************************************************/
+
     // exchange a[i] and a[j]
     private static void exch(int[] a, int i, int j) {
         int swap = a[i];
@@ -102,9 +101,9 @@ public class Quick {
         }
     }
 
-   /***************************************************************************
-    *  Check if array is sorted - useful for debugging.
-    ***************************************************************************/
+    /***************************************************************************
+     *  Check if array is sorted - useful for debugging.
+     ***************************************************************************/
     private static boolean isSorted(int[] a) {
         return isSorted(a, 0, a.length - 1);
     }

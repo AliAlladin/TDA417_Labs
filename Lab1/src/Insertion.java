@@ -31,7 +31,7 @@ public class Insertion {
             while (j > lo && a[j-1] > val) {
                 a[j] = a[j-1];
                 j--;
-             }
+            }
             a[j] = val;
         }
     }

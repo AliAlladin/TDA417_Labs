@@ -117,7 +117,7 @@ public final class StdRandom {
 
     /**
      * Returns a random integer uniformly in [0, n).
-     * 
+     *
      * @param n number of possible integers
      * @return a random integer uniformly between 0 (inclusive) and {@code n} (exclusive)
      * @throws IllegalArgumentException if {@code n <= 0}
@@ -130,7 +130,7 @@ public final class StdRandom {
 
     /**
      * Returns a random long integer uniformly in [0, n).
-     * 
+     *
      * @param n number of possible {@code long} integers
      * @return a random long integer uniformly between 0 (inclusive) and {@code n} (exclusive)
      * @throws IllegalArgumentException if {@code n <= 0}
@@ -162,7 +162,7 @@ public final class StdRandom {
 
     /**
      * Returns a random real number uniformly in [0, 1).
-     * 
+     *
      * @return     a random real number uniformly in [0, 1)
      * @deprecated Replaced by {@link #uniform()}.
      */
@@ -173,7 +173,7 @@ public final class StdRandom {
 
     /**
      * Returns a random integer uniformly in [a, b).
-     * 
+     *
      * @param  a the left endpoint
      * @param  b the right endpoint
      * @return a random integer uniformly in [a, b)
@@ -189,7 +189,7 @@ public final class StdRandom {
 
     /**
      * Returns a random real number uniformly in [a, b).
-     * 
+     *
      * @param  a the left endpoint
      * @param  b the right endpoint
      * @return a random real number uniformly in [a, b)
@@ -220,7 +220,7 @@ public final class StdRandom {
     /**
      * Returns a random boolean from a Bernoulli distribution with success
      * probability 1/2.
-     * 
+     *
      * @return {@code true} with probability 1/2 and
      *         {@code false} with probability 1/2
      */
@@ -230,7 +230,7 @@ public final class StdRandom {
 
     /**
      * Returns a random real number from a standard Gaussian distribution.
-     * 
+     *
      * @return a random real number from a standard Gaussian distribution
      *         (mean 0 and standard deviation 1).
      */
@@ -251,7 +251,7 @@ public final class StdRandom {
     /**
      * Returns a random real number from a Gaussian distribution with mean &mu;
      * and standard deviation &sigma;.
-     * 
+     *
      * @param  mu the mean
      * @param  sigma the standard deviation
      * @return a real number distributed according to the Gaussian distribution
@@ -266,7 +266,7 @@ public final class StdRandom {
      * probability <em>p</em>.
      * The integer represents the number of independent trials
      * before the first success.
-     * 
+     *
      * @param  p the parameter of the geometric distribution
      * @return a random integer from a geometric distribution with success
      *         probability {@code p}; or {@code Integer.MAX_VALUE} if
@@ -415,7 +415,7 @@ public final class StdRandom {
     /**
      * Returns a random real number from an exponential distribution
      * with rate &lambda;.
-     * 
+     *
      * @param  lambda the rate of the exponential distribution
      * @return a random real number from an exponential distribution with
      *         rate {@code lambda}
@@ -503,7 +503,7 @@ public final class StdRandom {
      * @param  hi the right endpoint (exclusive)
      * @throws IllegalArgumentException if {@code a} is {@code null}
      * @throws IllegalArgumentException unless {@code (0 <= lo) && (lo < hi) && (hi <= a.length)}
-     * 
+     *
      */
     public static void shuffle(Object[] a, int lo, int hi) {
         validateNotNull(a);

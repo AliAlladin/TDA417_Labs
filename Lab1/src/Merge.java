@@ -38,7 +38,7 @@ public class Merge {
 
         // copy to aux[]
         for (int k = lo; k <= hi; k++) {
-            aux[k] = a[k]; 
+            aux[k] = a[k];
         }
 
         // merge back to a[]
@@ -54,9 +54,9 @@ public class Merge {
         assert isSorted(a, lo, hi);
     }
 
-   /***************************************************************************
-    *  Check if array is sorted - useful for debugging.
-    ***************************************************************************/
+    /***************************************************************************
+     *  Check if array is sorted - useful for debugging.
+     ***************************************************************************/
     private static final boolean isSorted(int[] a) {
         return isSorted(a, 0, a.length - 1);
     }
