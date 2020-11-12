@@ -1,0 +1,85 @@
+
+/******************************************************************************
+** DAT038, TDA417  Datastrukturer och algoritmer, LP2 2020
+** Lab 2: Autocomplete
+*******************************************************************************/
+
+Name of lab group: [...]
+Group member A:    [...]
+Group member B:    [...]
+Group member C:    [...]
+
+
+/******************************************************************************
+** 1. Describe how your firstIndexOf() method in RangeBinarySearch.java
+**    finds the first index of a key that equals the search key.
+******************************************************************************/
+
+[...]
+
+
+/******************************************************************************
+** 2. What is the worst case time complexity in the number of compares
+**    that each of the operations in the Autocomplete data type make,
+**    as a function of the number of terms n and the number of matching terms m?
+******************************************************************************/
+
+sortDictionary():  [...]
+
+[..short explanation..]
+
+
+allMatches():  [...]
+
+[..short explanation..]
+
+
+numberOfMatches():  [...]
+
+[..short explanation..]
+
+
+
+/******************************************************************************
+** Appendix: General information
+**
+** A. Approximately how many hours did you spend on the assignment?
+******************************************************************************/
+
+[..group member..]:  [..hours..]
+[..group member..]:  [..hours..]
+[..group member..]:  [..hours..]
+
+
+/******************************************************************************
+** B. Are there any known bugs / limitations?
+******************************************************************************/
+
+[...]
+
+
+/******************************************************************************
+** C. Did you collaborate with any other students on this lab?
+**    If so, please write in what way you collaborated and with whom.
+**    Also include any resources (including the web) that you may
+**    may have used in creating your design.
+******************************************************************************/
+
+[...]
+
+
+/******************************************************************************
+** D. Describe any serious problems you encountered.                    
+******************************************************************************/
+
+[...]
+
+
+/******************************************************************************
+** E. List any other comments here.
+**    Feel free to provide any feedback on how much you learned 
+**    from doing the assignment, and whether you enjoyed it.                                             
+******************************************************************************/
+
+[...]
+
