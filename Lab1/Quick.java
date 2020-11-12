@@ -37,9 +37,10 @@ public class Quick {
         sort(a, j+1, hi);
         assert isSorted(a, lo, hi);
     }
-    else{
-        Insertion.sort(a,lo,hi);
-        }}
+    //else{
+    //    Insertion.sort(a,lo,hi);
+    //    }
+    }
 
     // partition the subarray a[lo..hi] so that a[lo..j-1] <= a[j] <= a[j+1..hi]
     // and return the index j.

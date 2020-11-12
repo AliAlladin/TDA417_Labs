@@ -82,6 +82,7 @@ were not as prevalent as the others insertion sort could be used for even larger
 arrays, but to be safe we picked a number slightly smaller than 100: n=80.
 
 
+
 /******************************************************************************
 ** 4. Which combination of improvements gives the best performance?
 ******************************************************************************/
