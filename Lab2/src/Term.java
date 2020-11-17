@@ -32,8 +32,8 @@ public class Term {
         /* TODO */
         return new Comparator<Term>() {
             @Override
-            public int compare(Term o1, Term o2) {
-                return o1.word.compareToIgnoreCase(o2.word);
+            public int compare(Term term1, Term term2) {
+                return term1.word.compareToIgnoreCase(term2.word);
             }
         };
     }
@@ -43,8 +43,8 @@ public class Term {
         /* TODO */
         return new Comparator<Term>() {
             @Override
-            public int compare(Term o1, Term o2) {
-                return Long.compare(o1.weight, o2.weight);
+            public int compare(Term term1, Term term2) {
+                return Long.compare(term1.weight, term2.weight);
             }
         };
     }
@@ -55,8 +55,8 @@ public class Term {
         /* TODO */
         return new Comparator<Term>() {
             @Override
-            public int compare(Term o1, Term o2) {
-                return o1.getPrefix(k).compareToIgnoreCase(o2.getPrefix(k));
+            public int compare(Term term1, Term term2) {
+                return term1.getPrefix(k).compareToIgnoreCase(term2.getPrefix(k));
             }
         };
     }
