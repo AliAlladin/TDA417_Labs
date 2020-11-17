@@ -23,27 +23,42 @@ public class Term {
 
     // Extracts a prefix from the word.
     public String getPrefix(int len) {
-        /* TODO */
-        return null;
+        return String.copyValueOf(word.toCharArray(), 0, len);
+
     }
 
     // Compares the two terms in case-insensitive lexicographic order.
     public static Comparator<Term> byLexicographicOrder() {
         /* TODO */
-        return null;
+        return new Comparator<Term>() {
+            @Override
+            public int compare(Term term1, Term term2) {
+                return term1.word.compareToIgnoreCase(term2.word);
+            }
+        };
     }
 
     // Compares the two terms in descending order by weight.
     public static Comparator<Term> byReverseWeightOrder() {
         /* TODO */
-        return null;
+        return new Comparator<Term>() {
+            @Override
+            public int compare(Term term1, Term term2) {
+                return Long.compare(term1.weight, term2.weight);
+            }
+        };
     }
 
     // Compares the two terms in case-insensitive lexicographic order,
     // but using only the first k characters of each word.
     public static Comparator<Term> byPrefixOrder(int k) {
         /* TODO */
-        return null;
+        return new Comparator<Term>() {
+            @Override
+            public int compare(Term term1, Term term2) {
+                return term1.getPrefix(k).compareToIgnoreCase(term2.getPrefix(k));
+            }
+        };
     }
 
     // Returns a string representation of this term in the following format:
