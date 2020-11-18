@@ -44,7 +44,7 @@ public class Term {
         return new Comparator<Term>() {
             @Override
             public int compare(Term term1, Term term2) {
-                return Long.compare(term1.weight, term2.weight);
+                return Long.compare(term2.weight, term1.weight);
             }
         };
     }

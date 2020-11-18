@@ -27,6 +27,6 @@ public class Test {
                 arr2[i] = new Term("B", 0);
             }
         }
-        System.out.println("Index. " + RangeBinarySearch.firstIndexOf(arr, new Term("f", 0), Term.byLexicographicOrder()));
+        System.out.println("Index: " + RangeBinarySearch.lastIndexOf(arr2, new Term("b", 0), Term.byLexicographicOrder()));
     }
 }

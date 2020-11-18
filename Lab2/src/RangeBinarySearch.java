@@ -37,14 +37,13 @@ public class RangeBinarySearch {
     // Complexity: O(log N)
     public static int lastIndexOf(Term[] terms, Term key, Comparator<Term> comparator) {
         /* TODO */
-        int counter = 0;
+
         int lo = 0;
         int hi = terms.length - 1;
         while (lo <= hi) {
 
-            int mid = (lo + hi) / 2;
+            int mid = (int) Math.round(((double) hi+lo)/2);
             int compared = comparator.compare(key, terms[mid]);
-            counter++;
 
             if (compared < 0) {
                 hi = mid - 1;
@@ -52,7 +51,6 @@ public class RangeBinarySearch {
                 lo = mid + 1;
             } else {
                 if (mid == hi){
-                    System.out.println(counter);
                     return mid;
                 }
                 lo = mid;
