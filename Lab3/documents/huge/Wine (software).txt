@@ -1,0 +1,151 @@
+Wine (recursive backronym for Wine Is Not an Emulator) is a free and open-source compatibility layer that aims to allow computer programs (application software and computer games) developed for Microsoft Windows to run on Unix-like operating systems. Wine also provides a software library, known as Winelib, against which developers can compile Windows applications to help port them to Unix-like systems.Wine provides its own Windows runtime environment which translates Windows system calls into POSIX-compliant system calls, recreating the directory structure of Windows systems, and providing alternative implementations of Windows system libraries, system services through wineserver and various other components (such as Internet Explorer, the Windows Registry Editor, and msiexec). Wine is predominantly written using black-box testing reverse-engineering, to avoid copyright issues.The selection of "Wine is Not an Emulator" as the name of the Wine Project was the result of a naming discussion in August 1993 and credited to David Niemi. There is some confusion caused by an early FAQ using Windows Emulator and other invalid sources that appear after the Wine Project name being set. No code emulation or virtualization occurs when running a Windows application under Wine. "Emulation" usually would refer to execution of compiled code intended for one processor (such as x86) by interpreting/recompiling software running on a different processor (such as PowerPC). 
+While the name sometimes appears in the forms WINE and wine, the project developers have agreed to standardize on the form Wine.Wine is primarily developed for Linux and macOS, and there are (As of November 2018) well-maintained packages available for both platforms.In a 2007 survey by desktoplinux.com of 38,500 Linux desktop users, 31.5% of respondents reported using Wine to run Windows applications.  This plurality was larger than all x86 virtualization programs combined, as well as larger than the 27.9% who reported not running Windows applications.
+
+
+
+Bob Amstadt, the initial project leader, and Eric Youngdale started the Wine project in 1993 as a way to run Windows applications on Linux. It was inspired by two Sun Microsystems' products, the Wabi for the Solaris operating system, and the Public Windows Initiative, which was an attempt to get the Windows API fully reimplemented in the public domain as an ISO standard but rejected due to pressure from Microsoft in 1996. Wine originally targeted 16-bit applications for Windows 3.x, but  as of 2010 focuses on 32-bit and 64-bit versions which have become the standard on newer operating systems. The project originated in discussions on Usenet in comp.os.linux in June 1993. Alexandre Julliard has led the project since 1994.
+The project has proven time-consuming and difficult for the developers, mostly because of incomplete and incorrect documentation of the Windows API. While Microsoft extensively documents most Win32 functions, some areas such as file formats and protocols have no publicly available specification from Microsoft, and Windows also includes undocumented low-level functions, undocumented behavior and obscure bugs that Wine must duplicate precisely in order to allow some applications to work properly. Consequently, the Wine team has reverse-engineered many function calls and file formats in such areas as thunking.The Wine project originally released Wine under the same MIT License as the X Window System, but owing to concern about proprietary versions of Wine not contributing their changes back to the core project, work as of March 2002 has used the LGPL for its licensing.Wine officially entered beta with version 0.9 on 25 October 2005. Version 1.0 was released on 17 June 2008, after 15 years of development. Version 1.2 was released on 16 July 2010, version 1.4 on 7 March 2012, version 1.6 on 18 July 2013. and version 1.8 on 19 December 2015. Development versions are released roughly every two weeks.
+Wine-staging is a relatively independently maintained set of relatively aggressive patches not deemed ready by WineHQ developers for merging into the wine repository, but still considered useful by the wine-compholio fork. It mainly covers experimental functions and bug fixes. Since January 2017, patches in wine-staging begins to be actively merged into the WineHQ upstream as wine-compholio transferred the project to Alistair Leslie-Hughes, a key WineHQ developer.
+
+
+The main corporate sponsor of Wine is CodeWeavers, which employs Julliard and many other Wine developers to work on Wine and on CrossOver, CodeWeavers' supported version of Wine. CrossOver includes some application-specific tweaks not considered suitable for the WineHQ version, as well as some additional proprietary components.The involvement of Corel for a time assisted the project, chiefly by employing Julliard and others to work on it. Corel had an interest in porting WordPerfect Office, its office suite, to Linux (especially Corel Linux). Corel later cancelled all Linux-related projects after Microsoft made major investments in Corel, stopping their Wine effort.Other corporate sponsors include Google, which hired CodeWeavers to fix Wine so Picasa ran well enough to be ported directly to Linux using the same binary as on Windows; Google later paid for improvements to Wine's support for Adobe Photoshop CS2. Wine is also a regular beneficiary of Google's Summer of Code program.
+
+
+The goal of Wine is to implement the Windows APIs fully or partially that are required by programs that the users of Wine wish to run on top of a Unix-like system.
+
+
+The programming interfaces of the Microsoft Windows family of OSes consist largely of dynamic-link libraries (DLLs). These contain a huge number of wrapper sub-routines for the system calls of the kernel, the NTOS kernel-mode program (ntoskrnl.exe). A typical Windows program calls some Windows DLLs, which in turn calls user-mode gdi/user32 libraries, which in turn uses the kernel32.dll (win32 subsystem) responsible for dealing with the kernel through system calls. The system-call layer is considered private to Microsoft programmers as documentation is not publicly available, and published interfaces all rely on subsystems running on top of the kernel. Besides these, there are a number of programming interfaces implemented as services that run as separate processes. Applications communicate with user-mode services through RPCs.Wine implements the Windows application binary interface (ABI) entirely in user space, rather than as a kernel module. Wine mostly mirrors the hierarchy, with services normally provided by the kernel in Windows instead provided by a daemon known as the wineserver, whose task is to implement basic Windows functionality, as well as integration with the X Window System, and translation of signals into native Windows exceptions.  Although Wineserver implements some aspects of the Windows kernel, it is not possible to use native Windows drivers with it, due to Wine's underlying architecture. This prevents certain applications and games from working, for example those using StarForce copy-protection which requires virtual device drivers to be installed.
+
+
+Wine allows for loading both Windows DLLs and Unix shared objects for its Windows programs. Its builtin implementation of the most basic Windows DLLs, namely NTDLL, KERNEL32, GDI32, USER32, uses the shared object method because they must use functions in the host operating system as well. Higher-level libraries, such as WineD3D, are free to use the DLL format. In many cases users can choose to load a DLL from Windows instead of the one implemented by wine. Doing so can provide functionalities not yet implemented by wine, but may also cause malfunctions if it relies on something else not present in wine.Wine tracks its state of implementation through automated unit testing done at every git commit.
+
+
+While most office software does not make use of complex GPU-accelerated graphics APIs, computer games do. To run these games properly, Wine would have to forward the drawing instructions to the host OS, and even translate them to something the host can understand.
+DirectX is a collection of Microsoft APIs for rendering, audio and input. As of 2019, Wine 4.0 contains a DirectX 12 implementation for Vulkan API, and DirectX 11.2 for OpenGL. Wine 4.0 also allows Wine to run Vulkan applications by handing draw commands to the host OS, or in the case of macOS, by translating them into the Metal API by MoltenVK.
+XAudio
+As of February 2019, Wine 4.3 uses the FAudio library (and Wine 4.13 included a fix for it) to implement the XAudio2 audio API (and more).
+XInput and Raw Input
+Wine, since 4.0 (2019), supports game controllers through its builtin implementations of these libraries. They are built as Unix shared objects as they need to access the controller interfaces of the underlying OS, specifically through SDL.
+Direct2D
+Wine 4.0 supports Direct2D 1.2.
+
+
+Much of Wine's DirectX effort goes into building WineD3D, a translation layer from Direct3D and DirectDraw API calls into OpenGL. As of 2019, this component supports up to DirectX 11. As of December 12, 2016, wine is good enough to run Overwatch with D3D11. Besides being used in Wine, WineD3D DLLs are also useful in the Windows Operating System itself, allowing for older graphic cards to run games using newer DirectX versions and for old DDraw-based games to render correctly.Some work is ongoing to move the Direct3D backend to Vulkan API. Direct3D 12 support in 4.0 is provided by a "vkd3d" subproject, and WineD3D has in 2019 been experimentally ported to use the Vulkan API.Wine, when patched, can alternatively run Direct3D 9 without translation via the a free and open-source Gallium3D State Tracker for DX9. The Gallium3D layer allows for direct pass-through of drawing commands.
+
+
+
+Wine is usually invoked from the command-line interpreter: wine [program.exe].
+
+
+There is the utility winecfg that starts a graphical user interface with controls for adjusting basic options. It is a GUI configuration utility included with Wine. Winecfg makes configuring Wine easier by making it unnecessary to edit the registry directly, although, if needed, this can be done with the included registry editor (similar to Windows regedit).
+
+
+
+Some applications require more tweaking than simply installing the application in order to work properly, such as manually configuring Wine to use certain Windows DLLs. The Wine project does not integrate such workarounds into the Wine codebase, instead preferring to focus solely on improving Wine's implementation of the Windows API. While this approach focuses Wine development on long-term compatibility, it makes it difficult for users to run applications that require workarounds. Consequently, many third-party applications have been created to ease the use of those applications that don't work out of the box within Wine itself. The Wine wiki maintains a page of current and obsolete third-party applications.
+Winetricks is a script to install some basic components (typically Microsoft DLLs and fonts) and tweak settings required for some applications to run correctly under Wine. It can fully automate the install of a number of apps and games, including applying any needed workarounds. Winetricks has a GUI. The Wine project will accept bug reports for users of Winetricks, unlike most third-party applications. It is maintained by Wine developer Austin English.
+Q4Wine is an open GUI for advanced setup of Wine.
+Wine-Doors is an application-management tool for the GNOME desktop which adds functionality to Wine. Wine-Doors is an alternative to WineTools which aims to improve upon WineTools' features and extend on the original idea with a more modern design approach.
+IEs4Linux is a utility to install all versions of Internet Explorer, including versions 4 to 6 and version 7 (in beta).
+Wineskin is a utility to manage Wine engine versions and create wrappers for macOS.
+PlayOnLinux is an application to ease the installation of Windows applications (primarily games). There is also a corresponding Macintosh version called PlayOnMac.
+Lutris is an open source application to easily install Windows games on Linux.
+Bordeaux is a proprietary Wine GUI configuration manager that runs winelib applications. It also supports installation of third-party utilities, installation of applications and games, and the ability to use custom configurations. Bordeaux currently runs on Linux, FreeBSD, PC-BSD, Solaris, OpenSolaris, OpenIndiana, and macOS computers.
+
+
+The developers of the Direct3D portions of Wine have continued to implement new features such as pixel shaders to increase game support. Wine can also use native DLLs directly, thus increasing functionality, but then a license for Windows is needed unless the DLLs were distributed with the application itself.
+Wine also includes its own open-source implementations of several Windows programs, such as notepad, wordpad, control, iexplore, and explorer.The Wine Application Database (AppDB) is a community-maintained on-line database about which Windows programs works with Wine and how well they work.
+
+
+Wine ensures good backward compatibility with legacy Windows applications, including those written for Windows 3.1x.  Wine can mimic different Windows versions required for some programs, going as far back as Windows version 2.0. However, Windows 1.x and Windows 2.x support was removed from Wine development version 1.3.12. If DOSBox is installed on the system (see below on MS-DOS), Wine development version 1.3.12 and later nevertheless show the "Windows 2.0" option for the Windows version to mimic, but Wine still won't run most Windows 2.0 programs because MS-DOS and Windows functions are not currently integrated.
+Backward compatibility in Wine is superior to that of Windows, as newer versions of Windows can force users to upgrade legacy Windows applications. In many cases, Wine can offer better legacy support than newer versions of Windows with "Compatibility Mode". Wine can run 16-bit Windows programs (Win16) on a 64-bit operating system, which uses an x86-64 (64-bit) CPU, a functionality not found in 64-bit versions of Microsoft Windows. WineVDM allows 16-bit Windows applications to run on 64-bit versions of Windows.Wine partially supports Windows console applications, and the user can choose which backend to use to manage the console (choices include raw streams, curses, and user32). When using the raw streams or curses backends, Windows applications will run in a Unix terminal.
+
+
+Preliminary support for 64-bit Windows applications was added to Wine 1.1.10, in December 2008. As of April 2019, the support is considered stable. The two versions of wine are built separately, and as a result only building wine64 produces an environment only capable of running x86-64 applications.As of April 2019, Wine has stable support for a WoW64 build, which allows both 32-bit and 64-bit Windows applications to run inside the same Wine instance. To perform such a build, one must first build the 64-bit version, and then build the 32-bit version referencing the 64-bit version. Just like Microsoft's WoW64, the 32-bit build process will add parts necessary for handling 32-bit programs to the 64-bit build. This functionality is seen from at least 2010.
+
+
+Early versions of Microsoft Windows run on top of MS-DOS and Windows programs may depend on MS-DOS programs being runnable. Wine does not have good support for MS-DOS, but starting with development version 1.3.12, Wine tries running MS-DOS programs in DOSBox if DOSBox is available on the system. However, due to a bug, current versions of Wine incorrectly identify Windows 1.x and Windows 2.x programs as MS-DOS programs, attempting to run them in DOSBox (which does not work).
+
+
+Wine provides Winelib, which allows its shared-object implementations of the Windows API to be used as actual libraries for a Unix program. This allows for Windows code to be built into native Unix executables. Since October 2010, Winelib also works on the ARM platform.
+
+
+Support for Solaris SPARC was dropped in version 1.5.26.
+
+
+Wine provides some support for ARM (as well as ARM64/AArch64) processors and the Windows flavors that run on it. As of April 2019, Wine can run ARM/Win32 applications intended for unlocked Windows RT devices (but not Windows RT programs). Windows CE support (either x86 or ARM) is missing, but an unofficial, pre-alpha proof-of-concept version called WineCE allows for some support.
+
+
+
+On 3 February 2013 at the FOSDEM talk in Brussels, Alexandre Julliard demonstrated an early demo of Wine running on Google's Android operating system.Experimental builds of WINE for Android (x86 and ARM) were released in late 2017. It has been routinely updated by the official developers ever since. The default builds does not implement cross-architecture emulation via QEMU, and as a result ARM versions will only run ARM applications that use the Win32 API.
+
+
+Wine, by default, uses specialized Windows builds of Gecko and Mono to substitute for Microsoft's Internet Explorer and .NET framework. Wine has built-in implementations of JScript and VBScript. It is possible to download and run Microsoft's installers for those programs through winetricks or manually.
+Wine is not known to have good support for most versions of Internet Explorer. Of all the reasonably recent versions, Internet Explorer 8 for Windows XP is the only version that reports a usable rating on Wine's AppDB, out-of-the-box. Winetricks offer auto-installation for Internet Explorer 6 through 8, so these versions can be reasonably expected to work with its built-in workarounds.
+An alternative for installing Internet Explorer directly is to use the now-defunct IEs4Linux. It is not compatible with the latest versions of Wine, and the development of IEs4Linux is inactive.
+
+
+The core Wine development aims at a correct implementation of the Windows API as a whole and has sometimes lagged in some areas of compatibility with certain applications. Direct3D, for example, remained unimplemented until 1998, although newer releases have had an increasingly complete implementation.
+
+
+
+CodeWeavers markets CrossOver specifically for running Microsoft Office and other major Windows applications, including some games. CodeWeavers employs Alexandre Julliard to work on Wine and contributes most of its code to the Wine project under the LGPL. CodeWeavers also released a new version called CrossOver Mac for Intel-based Apple Macintosh computers on 10 January 2007.CrossOver now includes the functionality of both the CrossOver Games and CrossOver Pro lines therefore CrossOver Games and CrossOver Pro are no longer available as single products.CrossOver Games was optimized for running Windows video games. Unlike CrossOver, it didn't focus on providing the most stable version of Wine. Instead, experimental features are provided to support newer games.
+
+
+
+Findev Inc. produced the proprietary Cedega software. Formerly known as WineX, Cedega represented a fork from the last MIT-licensed version of Wine in 2002. Much like CrossOver Games, Findev's Cedega was targeted towards running Windows video games. On 7 January 2011, Findev Inc. announced continued development of Cedega Technology under the GameTree Developer Program. Findev Inc. allowed members to keep using their Cedega ID and password until 28 February 2011.
+
+
+
+Findev has also produced Cider, a library for Apple–Intel architecture Macintoshes. Instead of being an end-user product, Cider (like Winelib) is a wrapper allowing developers to adapt their games to run natively on Intel Mac without any changes in source code.
+
+
+The Russian company Etersoft has been developing a proprietary version of Wine since 2006. WINE@Etersoft supports popular Russian applications (for example, 1C:Enterprise by 1C Company). For 2010, Etersoft was going to issue WINE@Etersoft CAD, which is oriented towards CAD systems such as AutoCAD, BricsCAD, and Compass-3D.
+
+
+
+Darwine is a port of the Wine libraries to Darwin and to macOS for both the PowerPC and Intel x86 architectures. All patches for x86 version were merged back into the main branch of Wine in 2009. Development on the PPC version was abandoned. Mike Kronenberg previously created the WineHelper for Darwine to add a GUI and macOS style app for interacting with Wine, which was later replaced by WineBottler. Darwine now provides macOS compatible packages compiled from the Wine repository.
+
+
+The Pipelight Team has produced a custom version of Wine (wine-compholio) that acts as a wrapper for Windows NPAPI plugins within Linux browsers. This tool permits Linux users to run Microsoft Silverlight, the Microsoft equivalent of Adobe Flash, and the Unity web plugin, along with a variety of other NPAPI plugins.  The project provides an extensive set of patches against the upstream Wine project, some of which occasionally get approved and added to upstream Wine. Pipelight is largely obsolete, as modern browsers no longer support NPAPI plugins and Silverlight has been deprecated by Microsoft.
+
+
+
+On 21 August 2018, Valve announced a new variation of Wine, named Proton, designed to integrate with the Linux version of the company's Steam software (including Steam installations built into their Linux-based SteamOS operating system and Steam Machine computers). Valve's goal for Proton is to enable Steam users on Linux to play games which lack a native Linux port (particularly back-catalog games), and ultimately, through integration with Steam as well as improvements to game support relative to mainline Wine, to give users "the same simple plug-and-play experience" that they would get if they were playing the game natively on Linux. Proton entered public beta immediately upon being announced.Valve had already been collaborating with CodeWeavers since 2016 to develop improvements to Wine's gaming performance, some of which have already been merged to the upstream Wine project. Some of the specific improvements incorporated into Proton include Vulkan-based Direct3D 9, 10, 11, and 12 implementations via vkd3d, DXVK, and D9VK   multi-threaded performance improvements via esync, improved handling of fullscreen games, and better automatic game controller hardware support.Proton is fully open-source and available via GitHub.
+
+
+Other projects using Wine source code include:
+
+ReactOS, a project to write an operating system compatible with Windows NT versions 5.x and up (which includes Windows 2000 and its successors) down to the device driver level. ReactOS uses Wine source code considerably, but because of architectural differences, ReactOS code (such as DLLs written specifically for it, like ntdll, user32, kernel32, gdi32, and advapi) is not generally reused in Wine. In July 2009, Aleksey Bragin, the ReactOS project lead, started a new ReactOS branch called Arwinss, and it was officially announced in January 2010. Arwinss is an alternative implementation of the core Win32 components, and uses mostly unchanged versions of Wine's user32.dll and gdi32.dll.
+WineBottler, a wrapper around Wine in the form of a normal Mac Application. Manages multiple wine configurations for different programs in the form of "bottles."
+Wineskin, an open source Wine GUI configuration manager for macOS. Wineskin creates a wrapper around Wine in the form of a normal Mac Application. The wrapper can also be used to make a distributable "port" of software.
+Odin, a project to run Win32 binaries on OS/2 or convert them to OS/2 native format. The project also provides the Odin32 API to compile Win32 programs for OS/2.
+E/OS, a project attempting to allow any program designed for any operating system to be run without the need to actually install any other operating system.
+Virtualization products such as Parallels Desktop for Mac and VirtualBox use WineD3D to make use of the GPU.
+WinOnX, a commercial package of Wine for macOS that includes a GUI for adding and managing applications and virtual machines.
+
+
+The Wine project has received a number of technical and philosophical complaints and concerns over the years.
+
+
+Because of Wine's ability to run Windows binary code, concerns have been raised over native Windows viruses and malware affecting Unix-like operating systems. Wine can run most malware, but programs running in Wine are confined to the current user's privileges, restricting some undesirable consequences. For this reason the developers of Wine recommend never running it as the superuser. Malware research software such as ZeroWine runs Wine on Linux in a virtual machine, to keep the malware completely isolated from the host system.
+An alternative to improve the security without the slowness of using a virtual machine, is to run Wine in an LXC container, like Anbox software is doing by default with Android.
+Another security concern is when the implemented specifications are ill-designed and allow for security compromise. Because Wine implements these specs, it will also implement any security vulnerabilities they contain. An instance of this problem was the 2006 Windows Metafile vulnerability, which saw Wine implementing the vulnerable SETABORTPROC escape.
+
+
+A common concern about Wine is that its existence means that vendors are less likely to write native Linux, macOS, and BSD applications. As an example of this, it is worth considering IBM's 1994 operating system, OS/2 Warp. An article describes the weaknesses of OS/2 which killed it, the first one being:
+
+OS/2 offered excellent compatibility with DOS and Windows 3.1 applications. No, this is not an error. Many application vendors argued that by developing a DOS or Windows app, they would reach the OS/2 market in addition to DOS/Windows markets and they didn't develop native OS/2 applications.
+The Wine project itself responds to these complaints on one of its wiki pages:
+
+For most people there remain a handful of programs locking them in to Windows. It's obvious there will never be a Microsoft Office ported to Linux, however older versions of programs like TurboTax won't be ported either. Similarly, there are tens of thousands of games and internal corporate applications which will never be ported. If you want to use Linux and rely on any legacy Windows application, something like Wine is essential... Wine makes Linux more useful and allows for millions of users to switch who couldn't otherwise. This greatly raises Linux marketshare, drawing more commercial and community developers to Linux.
+Also, the Wine Wiki page claims that Wine can help break the chicken-and-egg problem for Linux on the desktop:
+This brings us to the chicken and egg issue of Linux on the desktop. Until Linux can provide equivalents for the above applications, its market share on the desktop will stagnate. But until the market share of Linux on the desktop rises, no vendor will develop applications for Linux. How does one break this vicious circle?
+Again, Wine can provide an answer. By letting users reuse the Windows applications they have invested time and money in, Wine dramatically lowers the barrier that prevents users from switching to Linux. This then makes it possible for Linux to take off on the desktop, which increases its market share in that segment. In turn, this makes it viable for companies to produce Linux versions of their applications, and for new products to come out just for the Linux market.
+This reasoning could be dismissed easily if Wine was only capable of running Solitaire. However, now it can run Microsoft Office, multimedia applications such as QuickTime and Windows Media Player, and even games such as Max Payne or Unreal Tournament 3. Almost any other complex application can be made to run well given a bit of time. And each time that work is done to add one application to this list, many other applications benefit from this work and become usable too.
+Have a look at our Application Database to get an idea on what can be run under Wine.
+
+The use of Wine for gaming has proved specifically controversial in the Linux community, as some feel it is preventing, or at least hindering, the further growth of native Linux gaming on the platform.
+
+
+Microsoft has not made public statements about Wine. However, the Windows Update software will block updates to Microsoft applications running in Wine. On 16 February 2005, Ivan Leo Puoti discovered that Microsoft had started checking the Windows Registry for the Wine configuration key and would block the Windows Update for any component. As Puoti noted: "It's also the first time Microsoft acknowledges the existence of Wine."
+

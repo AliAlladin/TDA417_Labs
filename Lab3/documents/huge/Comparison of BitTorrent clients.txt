@@ -1,0 +1,21 @@
+The following is a general comparison of BitTorrent clients, which are computer programs designed for peer-to-peer file sharing using the BitTorrent protocol.The BitTorrent protocol coordinates segmented file transfer among peers connected in a swarm. A BitTorrent client enables a user to exchange data as a peer in one or more swarms. Because BitTorrent is a peer-to-peer communications protocol that does not need a server, the BitTorrent definition of client differs from the conventional meaning expressed in the client–server model.Bram Cohen, author of the BitTorrent protocol, made the first BitTorrent client, which he also called BitTorrent, and published it in July 2001.Many BitTorrent programs are open-source software; others are freeware, adware or shareware. Some download managers, such as FlashGet and GetRight, are BitTorrent-ready. Opera 12, a web browser, can also transfer files via BitTorrent.
+In 2013 Thunder Networking Technologies publicly revealed that some of their employees surreptitiously distributed a Trojan horse with certain releases of Xunlei, the company's BitTorrent-ready download manager. Xunlei is included in the comparison tables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This comparison of unpatched publicly known vulnerabilities in latest stable version clients is based on vulnerabilities reports by SecurityFocus and Secunia. See computer security for more details about the importance of unpatched known flaws.
+
+
+GeneralOperating system support and programming languageSupported features 1Supported features 2
+

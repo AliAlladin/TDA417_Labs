@@ -1,0 +1,25 @@
+Peercasting is a method of multicasting streams, usually audio and/or video, to the Internet via peer-to-peer technology. It can be used for commercial, independent, and amateur multicasts. Unlike traditional IP Multicast, peercasting can facilitate on-demand content delivery.
+
+
+Peercasting usually works by having peers automatically relay a stream to other peers. The P2P overlay network helps peers find a relay for a specified stream to connect to. This method suffers from poor quality of service during times when relays disconnect or peers need to switch to a different relay, referred to as "churn".Another solution used is minute swarming, wherein a live stream is broken up into minute length files that are swarmed via P2P software such as BitTorrent, Coral, or Dijjer. However, this suffers from excessive overhead for the formation of a new swarm every minute.
+A new technique is to stripe a live stream into multiple substreams, akin to RAID striping.  Forward error correction and timing information is applied to these substreams such that the original stream can be reformed using at least all but one of the substreams (fountain codes are an efficient way to make and combine the substreams).  In turn, these streams are relayed using the first method.
+Another solution is to permit clients to connect to a new relay and resume streaming from where they left off by their old relay. Relays would retain a back buffer to permit clients to resume streaming from anywhere within the range of said buffer. This would essentially be an extension to the Icecast protocol.
+
+
+
+
+Alluvium (peercasting)
+FreeCast (2004)
+Tribler
+PULSE
+PeerCast (2002-2006)
+
+
+Ace Stream
+PeerCast for Android
+PPStream
+Rawflow
+Red Swoosh
+Sopcast
+Veoh
+

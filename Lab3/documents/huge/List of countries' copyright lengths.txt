@@ -1,0 +1,29 @@
+Copyright is the right to copy and publish a particular work. The terms "copy" and "publish" are quite broad. They also cover copying in electronic form, the making of translated versions, the creation of a television program based on the work, and putting the work on the Internet. A work is protected by copyright if it is a literary or artistic work. This is quite a broad expression, and almost all products of creative and original effort are copyrighted. Note that copyright protects only specific expressions of an idea, not the idea itself. A collection of facts may be copyrighted, assuming there is some creative activity involved in compiling the collection. Several countries provide a separate protection regime for collections of facts that qualify as "databases", but this regime has nothing to do with copyright. Copyright protection is automatic upon creation of the work. In some countries, registration with a Copyright Office has some benefits (like the ability to sue, or to receive more money in damages). When a work's copyright term ends, the work passes into the public domain.
+
+
+
+The Berne Convention stipulates that the duration of the term for copyright protection is the life of the author plus at least 50 years after their death. For some categories of works, the minimum duration is shorter. For example, the minimum term for applied art is 25 years. Movies have a minimum term of 50 years. Countries may choose a longer term of protection, and most countries have done so.
+In Berne-signatory countries, the duration of copyright is dependent on the duration of the author's life. Berne requires that copyright exist until a minimum of 50 years after the author's death. A number of countries, including the European Union and the United States, have extended that to 70 years after the author's death. A small number of countries have extended copyright further. The current lengthiest term is 100 years after the death of the author (Mexico).
+
+
+In 1989, the Berne Convention became effective in the U.S., and also, from that moment on, U.S. authors obtained copyright on their works automatically, without having to register their work. However, many U.S. texts on copyright still echo the old registration principle, which can be confusing.
+To confuse matters even more, copyright registration has not been abolished completely in the U.S. To start a lawsuit against infringers, it is still necessary in some countries to register a work. Registration offers the possibility to obtain statutory damages from the infringer, rather than only the actual damages.
+
+
+All countries within the European Union are signatory states of the Berne Convention. Additionally, Copyright in the European Union is regulated through European Directives. The member states of the European Union have, following a directive, increased the term to life of the author and 70 years after their death. Although this was not the original intention, this extension applies retroactively. Works that had ended up in the public domain because the author was dead for 50 years received an additional twenty years of protection.
+Most European countries, on the other hand, follow the principle that copyright protection is granted automatically upon creation of the work. This principle was first laid down in the Berne Convention (1886). The Berne Convention specifically forbids (in article 5) any member country to require any formality for getting copyright protection.
+
+
+This is a list of countries and their copyright terms, the lengths of their standard copyrights, in years. The table includes entries for non-country entities: the European Union, Berne Convention, and the Universal Copyright Convention, which set minimum terms for their member states or signatories. The Agreement on Trade Related Aspects of Intellectual Property Rights (TRIPS), though not included, requires a copyright length of at least 50 years after death.
+
+
+0, no copyright = Not copyrighted
+Life + xx years = Copyrighted for authors' lifetime plus xx years after their deaths
+xx years after publication, creation, etc. = copyrighted for xx years since publication, creation, etc., of works
+Until year end = Copyrighted until the end of a calendar year, i.e. December 31, unless otherwise specified
+Berne = Country has signed the Berne Convention, see Berne in the "Countries, ..." column
+TRIPS = The Agreement on Trade Related Aspects of Intellectual Property Rights (TRIPS) is an international agreement administered by the World Trade Organization (WTO) that sets down minimum standards for many forms of intellectual property (IP) regulation as applied to nationals of other WTO Members. This also indicates that this country has at least a minimum of 50 years after the death of the creator until the copyright expires.
+WCT = The World Intellectual Property Organization Copyright Treaty, (WIPO Copyright Treaty or WCT), is an international treaty on copyright law adopted by the member states of the World Intellectual Property Organization (WIPO) in 1996.
+
+
+

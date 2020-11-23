@@ -1,0 +1,36 @@
+Artificial scarcity is the scarcity of items that exists even though either the technology for production or the sharing capacity exists to create a theoretically limitless or at least greater quantity of production than currently exists. The most common causes are monopoly pricing structures, such as those enabled by laws that restrict competition or by high fixed costs in a particular marketplace. The inefficiency associated with artificial scarcity is formally known as a deadweight loss.
+
+
+
+In a capitalist system, an enterprise is judged to be successful and efficient if it is profitable. To obtain maximum profits, producers may be restricting production rather than ensuring the maximum utilisation of resources. This strategy of restricting production by firms in order to obtain profits in a capitalist system or mixed economy is known as creating artificial scarcity.
+Artificial scarcity essentially describes situations where the producers or owners of a good restrict its availability to others beyond what is strictly necessary. Ideas and information are prime examples of unnecessarily scarce products given artificial scarcity as illustrated in the following quote: If you have an apple, and I have an apple, and we exchange apples, then you and I will still each have one apple. But if you have an idea, and I have an idea, and we exchange these ideas, then each of us will have two ideas.
+
+Even though ideas as illustrated above can be shared with less constraints than physical goods, they are often treated as unique, scarce, inventions or creative works, and thus allotted protection as intellectual properties in order to allow the original authors to potentially profit from their own work.
+
+
+Cartels, monopolies and/or rentier capitalism
+Zoning, when used to limit intensity of land use below economic demand.
+Copyright, when used to disallow copying or disallow access to sources. Proprietary software is an example. Copyleft software is a counterexample (where Copyright is used to guarantee the right to copy the object and access source code).
+Patent
+The Agricultural Adjustment Act
+Hoarding, including cornering the market
+Deliberate destruction
+Paywalls
+Torrent poisoning such as poisoning bittorrent with half broken copies of music and videos to drive up prices when instead streamed from places the author has deals with
+
+
+
+
+Artificial scarcity is said to be necessary to promote the development of goods. In the example of digital information, it may be free to copy information ad infinitum, but it requires a significant investment to develop the information in the first place. In the example of the pharmaceutical industry, production of drugs is fairly cheap to execute on a large scale, but new drugs are very expensive. This is because the initial investment to develop a drug is generally billions of dollars. Typically, drug companies have profit margins much higher than this initial investment, but the high payoff also attracts many companies to compete, increasing the pace of drug development. A feature of many economies is also time limit in patent rights; after a set number of years enjoying an artificial scarcity, the patent wears off and cheap generic versions of a product enter the market. Thus, the drug developer gets a return on investment, and other companies subsequently compete to lower prices.
+
+
+
+
+
+Some classical liberals and libertarians oppose artificial scarcity, on the grounds that their lack of physical scarcity means they are not subject to the same rationale behind material forms of private property, and that most instances of artificial scarcity, such as intellectual property, are creations of the state that limit the rights of the individual.An economic liberal argument against artificial scarcity is that, in the absence of artificial scarcity, businesses and individuals would create tools based on their own need (demand). For example, if a business had a strong need for a voice recognition program, they would pay to have the program developed to suit their needs. The business would profit not on the program, but on the resulting boost in efficiency enabled by the program. The subsequent abundance of the program would lower operating costs for the developer as well as other businesses using the new program. Lower costs for businesses result in lower prices in the competitive free market. Lower prices from suppliers would also raise profits for the original developer. In abundance, businesses would continue to pay to improve the program to best suit their own needs, and increase profits. Over time, the original business makes a return on investment, and the final consumer has access to a program that suits their needs better than any one program developer can predict. This is the common rationale behind open-source software.
+
+
+
+Social liberals, socialists and anarchists argue that artificial scarcity is beneficial for the owner, but unfavourable towards the consumer, as it enables the owner to capitalise off ideas and products that are otherwise not property in the physical sense.
+Socialists extend their argument to include "socially wasteful production" such as the production of goods which are seen as "status" goods (e.g. diamonds or expensive cars). This sort of production leads to a situation of artificial scarcity of socially useful goods because a large part of society's resources are being diverted to the production of these goods. For example, capitalism has led to the growth of money-based activities like banking-retailing services, remedial measures to deal with trade union issues, and other such activities to protect capitalism, such as weapons research and the development of security firms; socialists argue that the allocation of resources to these activities is not socially useful.Some socialists argue that not only artificial scarcity but even the doctrine of scarcity itself is a creation of the capitalist system, because any kind of property was considered a burden for the nomadic lifestyle when civilisation was in the hunter-gatherer stage. Along with some free-market libertarians and anarchists, they will argue for sharing economies and post-scarcity economics, both questioning the scarcity of physical and intellectual goods as currently imposed by artificial cultural, bureaucratic, or economic constraints.
+

@@ -1,0 +1,5 @@
+SPAA, the ACM Symposium on Parallelism in Algorithms and Architectures, is an academic conference in the fields of parallel computing and distributed computing. It is sponsored by the Association for Computing Machinery special interest groups SIGACT and SIGARCH, and it is organized in cooperation with the European Association for Theoretical Computer Science (EATCS).
+
+
+SPAA was first organised on 18–21 June 1989, in Santa Fe, New Mexico, United States. In 1989–2002, SPAA was known as Symposium on Parallel Algorithms and Architectures. In 2003, the name changed to Symposium on Parallelism in Algorithms and Architectures to reflect the extended scope of the conference.In 2003 and 2007, SPAA was part of the Federated Computing Research Conference (FCRC), and in 1998, 2005, and 2009, SPAA was co-located with the ACM Symposium on Principles of Distributed Computing (PODC).
+

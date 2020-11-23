@@ -1,0 +1,87 @@
+PubMed is a free search engine accessing primarily the  MEDLINE database of references and abstracts on life sciences and biomedical topics. The United States National Library of Medicine (NLM) at the National Institutes of Health maintains the database as part of the Entrez system of information retrieval.From 1971 to 1997, MEDLINE online access to the MEDLARS Online computerized database primarily had been through institutional facilities, such as university libraries. PubMed, first released in January 1996, ushered in the era of private, free, home- and office-based MEDLINE searching. The PubMed system was offered free to the public starting in June 1997.
+
+
+In addition to MEDLINE, PubMed provides access to:
+
+older references from the print version of Index Medicus, back to 1951 and earlier
+references to some journals before they were indexed in Index Medicus and MEDLINE, for instance Science, BMJ, and Annals of Surgery
+very recent entries to records for an article before it is indexed with Medical Subject Headings (MeSH) and added to MEDLINE
+a collection of books available full-text and other subsets of NLM records
+PMC citations
+NCBI BookshelfMany PubMed records contain links to full text articles, some of which are freely available, often in PubMed Central and local mirrors such as UK PubMed Central.Information about the journals indexed in MEDLINE, and available through PubMed, is found in the NLM Catalog.As of 6 December 2018, PubMed has more than 29.1 million records going back to 1966, selectively to the year 1865, and very selectively to 1809; about 500,000 new records are added each year. As of the same date, 13.1 million of PubMed's records are listed with their abstracts, and 14.2 million articles have links to full-text (of which 3.8 million articles are available, full-text for free for any user). Approximately 12% of the records in PubMed correspond to cancer-related entries, which have grown from 6% in the 1950s to 16% in 2016. 
+Other significant proportion of records correspond to "chemistry" (8.69%), "therapy" (8.39%), and "infection" (5%).In 2016, NLM changed the indexing system so that publishers will be able to directly correct typos and errors in PubMed indexed articles.PubMed has been reported to include some articles published in predatory journals. MEDLINE and PubMed policies for the selection of journals for database inclusion are slightly different. Weaknesses in the criteria and procedures for indexing journals in PubMed Central may allow publications from predatory journals to leak into PubMed.
+
+
+
+
+Simple searches on PubMed can be carried out by entering key aspects of a subject into PubMed's search window.
+PubMed translates this initial search formulation and automatically adds field names, relevant MeSH (Medical Subject Headings) terms, synonyms, Boolean operators, and 'nests' the resulting terms appropriately, enhancing the search formulation significantly, in particular by routinely combining (using the OR operator) textwords and MeSH terms.
+The examples given in a PubMed tutorial demonstrate how this automatic process works:
+
+Causes Sleep Walking is translated as ("etiology"[Subheading] OR "etiology"[All Fields] OR "causes"[All Fields] OR "causality"[MeSH Terms] OR "causality"[All Fields]) AND ("somnambulism"[MeSH Terms] OR "somnambulism"[All Fields] OR ("sleep"[All Fields] AND "walking"[All Fields]) OR "sleep walking"[All Fields])
+
+Likewise,
+
+soft
+ Attack Aspirin Prevention is translated as ("myocardial infarction"[MeSH Terms] OR ("myocardial"[All Fields] AND "infarction"[All Fields]) OR "myocardial infarction"[All Fields] OR ("heart"[All Fields] AND "attack"[All Fields]) OR "heart attack"[All Fields]) AND ("aspirin"[MeSH Terms] OR "aspirin"[All Fields]) AND ("prevention and control"[Subheading] OR ("prevention"[All Fields] AND "control"[All Fields]) OR "prevention and control"[All Fields] OR "prevention"[All Fields])
+
+A new PubMed interface was launched in October 2009 and encouraged the use of such quick, Google-like search formulations; they have also been described as 'telegram' searches.  By default the results are sorted by Most Recent, but this can be changed to Best Match, Publication Date, First Author, Last Author, Journal, or Title.
+
+
+For optimal searches in PubMed, it is necessary to understand its core component, MEDLINE, and especially of the MeSH (Medical Subject Headings) controlled vocabulary used to index MEDLINE articles. They may also require complex search strategies, use of field names (tags), proper use of limits and other features; reference librarians and search specialists offer search services.The search into PubMed's search window is only recommended for the search of unequivocal topics or new interventions that do not yet have a MeSH heading created, as well as for the search for commercial brands of medicines and proper noun. It is also useful when there is no suitable heading or the descriptor represents a partial aspect. The search using the thesaurus MeSH is more accurate and will give us less irrelevant results. In addition, it saves the disadvantage of the free text search in which the spelling, singular/plural or abbreviated differences have to be taken into consideration. On the other side, we will lose those articles more recently incorporated into the database to which descriptors have not yet been assigned. Therefore, to guarantee an exhaustive search, we must use a combination of controlled language headings and free text terms.
+
+
+When a journal article is indexed, numerous article parameters are extracted and stored as structured information. Such parameters are: Article Type (MeSH terms, e.g., "Clinical Trial"), Secondary identifiers, (MeSH terms), Language, Country of the Journal or publication history (e-publication date, print journal publication date).
+
+
+Publication type parameter allows searching by the type of publication, including reports of various kinds of clinical research.
+
+
+Since July 2005, the MEDLINE article indexing process extracts identifiers from the article abstract and puts those in a field called Secondary Identifier (SI). The secondary identifier field is to store accession numbers to various databases of molecular sequence data, gene expression or chemical compounds and clinical trial IDs. For clinical trials, PubMed extracts trial IDs for the two largest trial registries: ClinicalTrials.gov (NCT identifier) and the International Standard Randomized Controlled Trial Number Register (IRCTN identifier).
+
+
+A reference which is judged particularly relevant can be marked and "related articles" can be identified. If relevant, several studies can be selected and related articles to all of them can be generated (on PubMed or any of the other NCBI Entrez databases) using the 'Find related data' option. The related articles are then listed in order of "relatedness". To create these lists of related articles, PubMed compares words from the title and abstract of each citation, as well as the MeSH headings assigned, using a powerful word-weighted algorithm. The 'related articles' function has been judged to be so precise that the authors of a paper suggested it can be used instead of a full search.
+
+
+PubMed automatically links to MeSH terms and subheadings. Examples would be: "bad breath" links to (and includes in the search) "halitosis", "heart attack" to "myocardial infarction", "breast cancer" to "breast neoplasms". Where appropriate, these MeSH terms are automatically "expanded", that is, include more specific terms. Terms like "nursing" are automatically linked to "Nursing [MeSH]" or "Nursing [Subheading]". This feature is called Auto Term Mapping and is enacted, by default, in free text searching but not exact phrase searching (i.e. enclosing the search query with double quotes). This feature makes PubMed searches more sensitive and avoids false-negative (missed) hits by compensating for the diversity of medical terminology.PubMed does not apply automatic mapping of the term in the following circumstances: by writing the quoted phrase (e.g., "kidney allograft"), when truncated on the asterisk (e.g., kidney allograft*), and when looking with field labels (e.g., Cancer [ti]).
+
+
+The PubMed optional facility "My NCBI" (with free registration) provides tools for
+
+saving searches
+filtering search results
+setting up automatic updates sent by e-mail
+saving sets of references retrieved as part of a PubMed search
+configuring display formats or highlighting search termsand a wide range of other options. The "My NCBI" area can be accessed from any computer with web-access.
+An earlier version of "My NCBI" was called "PubMed Cubby".
+
+
+LinkOut, a NLM facility to link (and make available full-text) local journal holdings. Some 3,200 sites (mainly academic institutions) participate in this NLM facility (as of March 2010), from Aalborg University in Denmark to ZymoGenetics in Seattle. Users at these institutions see their institution's logo within the PubMed search result (if the journal is held at that institution) and can access the full-text. Link out is being consolidated with Outside Tool as of the major platform update coming in the Summer of 2019.
+
+
+In 2016, PubMed allows authors of articles to comment on articles indexed by PubMed. This feature was initially  tested in a pilot mode (since 2013) and was made permanent in 2016. In February 2018, PubMed Commons was discontinued due to the fact that "usage has remained minimal".
+
+
+PubMed/MEDLINE can be accessed via handheld devices, using for instance the "PICO" option (for focused clinical questions) created by the NLM. A "PubMed Mobile" option, providing access to a mobile friendly, simplified PubMed version, is also available.
+
+
+askMEDLINE, a free-text, natural language query tool for MEDLINE/PubMed, developed by the NLM, also suitable for handhelds.
+
+
+
+A PMID (PubMed identifier or PubMed unique identifier) is a unique integer value, starting at 1, assigned to each PubMed record. A PMID is not the same as a PMCID (PubMed Central identifier) which is the identifier for all works published in the free-to-access PubMed Central.The assignment of a PMID or PMCID to a publication tells the reader nothing about the type or quality of the content. PMIDs are assigned to letters to the editor, editorial opinions, op-ed columns, and any other piece that the editor chooses to include in the journal, as well as peer-reviewed papers. The existence of the identification number is also not proof that the papers have not been retracted for fraud, incompetence, or misconduct. The announcement about any corrections to original papers may be assigned a PMID.
+Each number that we enter in the PubMed search window is treated by default as if it were a PMID. Therefore, we can locate any reference in PubMed using the PMID. To do this we only have to enter the PMID number in the search window.
+
+
+
+The National Library of Medicine leases the MEDLINE information to a number of private vendors such as Embase, Ovid, Dialog, EBSCO, Knowledge Finder and many other commercial, non-commercial, and academic providers. As of October 2008, more than 500 licenses had been issued, more than 200 of them to  providers outside the United States. As licenses to use MEDLINE data are available for free, the NLM in effect provides a free testing ground for a wide range of alternative interfaces and 3rd party additions to PubMed, one of a very few large, professionally curated databases which offers this option.
+Lu identifies a sample of 28 current and free Web-based PubMed versions, requiring no installation or registration, which are grouped into four categories:
+
+Ranking search results, for instance: eTBLAST; MedlineRanker; MiSearch;
+Clustering results by topics, authors, journals etc., for instance: Anne O'Tate; ClusterMed;
+Enhancing semantics and visualization, for instance: EBIMed; MedEvi.
+Improved search interface and retrieval experience, for instance, askMEDLINE BabelMeSH; and PubCrawler.As most of these and other alternatives rely essentially on PubMed/MEDLINE data leased under license from the NLM/PubMed, the term "PubMed derivatives" has been suggested. Without the need to store about 90 GB of original PubMed Datasets, anybody can write PubMed applications using the eutils-application program interface as described in "The E-utilities In-Depth: Parameters, Syntax and More", by Eric Sayers, PhD. Various citation format generators, taking PMID numbers as input, are examples of web applications making use of the eutils-application program interface. Sample web pages include Citation Generator - Mick Schroeder, Pubmed Citation Generator - Ultrasound of the Week, PMID2cite, and Cite this for me.
+
+
+Alternative methods to mine the data in PubMed use programming environments such as Matlab, Python or R. In these cases, queries of PubMed are written as lines of code and passed to PubMed and the response is then processed directly in the programming environment.  Code can be automated to systematically queries with different keywords such as disease, year, organs, etc. A recent publication (2017) found that the proportion of cancer-related entries in PubMed has risen from 6% in the 1950s to 16% in 2016.The data accessible by PubMed can be mirrored locally using an unofficial tool such as MEDOC.
+

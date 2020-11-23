@@ -1,0 +1,105 @@
+Media ethics is the subdivision of applied ethics dealing with the specific ethical principles and standards of media, including broadcast media, film, theatre, the arts, print media and the internet. The field covers many varied and highly controversial topics, ranging from war journalism to Benetton ad campaigns.
+Media ethics involves promoting and defending values such as a universal respect for life and  the rule of law and legality. Media Ethics defines and deals with ethical questions about how media should use texts and pictures provided by the citizens.
+Literature regarding the ways in which specifically the Internet impacts media ethics in journalism online is scarce, thereby complicating the idea for a universal code of media ethics.
+
+
+Research and publications in the field of information ethics has been produced since the 1980s. Notable figures include and Robert Hauptman (who focused his work specifically on censorship, privacy, access to information, balance in collection development, copyright, fair use, and codes of ethics), Rafael Capurro, Barbara J. Kostrewski and Charles Oppenheim (who wrote the article "“Ethics in Information Science” , discussing issues as confidentiality of information, bias in information provided to clients or consumers, the quality of data supplied by online vendors, etc.).In the 1990s, the term "information ethics" began to be explored by various Computer Science and Information departments in the United States.In the late 1990s, textbooks such as Richard Severson's The Principles of Information Ethics and Marsha Cook Woodbury's Computer and Information Ethics, and Deborah G. Johnson's Computer Ethics were published.
+
+
+Media ethics:  Issues of moral principles and values as applied to the conduct, roles, and *content of the mass media, in particular journalism ethics and standards and marketing ethics;  also the field of study concerned with this topic. In relation to news coverage it includes issues such as impartiality, objectivity, balance, bias, privacy, and the public interest. More generally, it also includes stereotyping, taste and decency, obscenity, freedom of speech, advertising practices such as product placement, and legal issues such as defamation. On an institutional level it includes debates over media ownership and control, commercialization, accountability, the relation of the media to the political system, issues arising from regulation (e.g. censorship) and deregulation.
+
+
+
+The ethics of journalism is one of the most well-defined branches of media ethics, primarily because it is frequently taught in
+schools of journalism. Journalistic ethics tend to dominate media ethics, sometimes almost to the exclusion of other areas.  Topics covered by journalism ethics include:
+
+News manipulation. News can manipulate and be manipulated. Governments and corporations may attempt to manipulate news media; governments, for example, by censorship, and corporations by share ownership. The methods of manipulation are subtle and many. Manipulation may be voluntary or involuntary. Those being manipulated may not be aware of this. See: news propaganda.
+Truth. Truth may conflict with many other values.
+Public interest. Revelation of military secrets and other sensitive government information may be contrary to the public interest, even if it is true. However, public interest is not a term which is easy to define.
+Privacy. Salacious details of the lives of public figures is a central content element in many media. Publication is not necessarily justified simply because the information is true. Privacy is also a right, and one which conflicts with free speech. See: paparazzi.
+Fantasy. Fantasy is an element of entertainment, which is a legitimate goal of media content. Journalism may mix fantasy and truth, with resulting ethical dilemmas. See: National Enquirer, Jayson Blair scandal, Adnan Hajj photographs controversy.
+Taste. Photo journalists who cover war and disasters confront situations which may shock the sensitivities of their audiences. For example, human remains are rarely screened. The ethical issue is how far should one risk shocking an audience's sensitivities in order to correctly and fully report the truth. See photojournalism.
+Conflict with the law. Journalistic ethics may conflict with the law over issues such as the protection of confidential news sources. There is also the question of the extent to which it is ethically acceptable to break the law in order to obtain news. For example, undercover reporters may be engaging in deception, trespass and similar torts and crimes. See undercover journalism, investigative journalism.
+
+
+The Internet has shaped and redefined various ethical and moral issues for both online journalists and journalists  utilizing online resources.While some journalists continue to adhere to ethical principles of traditional journalism, many journalists believe that with the absence of a mutually agreed upon code of ethics specifically pertaining to internet ethics, and lack of literature dealing specifically with the ways in which the Internet impacts media ethics in journalism online, the online environment poses new threats to the profession.
+
+
+Some of the core issues of media ethics in online journalism include commercial pressures, accuracy and credibility (which include the issues dealing with hyperlinks), verification of facts, regulation, privacy, and news-gathering methods.
+
+
+Issues in the ethics of entertainment media include:
+
+The depiction of violence and sex, and the presence of strong language. Ethical guidelines and legislation in this area are common and many media (e.g. film, computer games) are subject to ratings systems and supervision by agencies. An extensive guide to international systems of enforcement can be found under motion picture rating system.
+“Fluff or “Celebrity News”: Over the years, print media has been dying out so journalists began to report on what is referred to as “Celebrity News”, or “Fluff.” As more outlets adopt this topic to report on, people become dependent on them. According to Alden Weight, most people know not to completely trust these outlets due to ethical discrepancies, but the issue arises when people who are not as mature or educated find these reports to be completely true.
+Product placement. An increasingly common marketing tactic is the placement of products in entertainment media. The producers of such media may be paid high sums to display branded products. The practice is controversial and largely unregulated. Detailed article: product placement.
+Advertising: Attraction and persuasion are currently found in modern journalism. It is found that these methods of advertising may alter an audience's point of view of what is realistic and falsified information.
+Stereotypes. Both advertising and entertainment media make heavy use of stereotypes. Stereotypes may negatively affect people's perceptions of themselves or promote socially undesirable behavior. The stereotypical portrayals of men, affluence and ethnic groups are examples of major areas of debate
+Women in Media: Entertainment media often exploits female bodies by objectifying and de-humanizing them. By doing so, the concept of female bodies being bought and sold becomes common.
+Media outlets usually use either images or imagery of female bodies to counter negative news that is provided throughout the day.
+Taste and taboos. Entertainment media often questions of our values for artistic and entertainment purposes. Normative ethics is often about moral values, and what kinds should be enforced and protected. In media ethics, these two sides come into conflict. In the name of art, media may deliberately attempt to break with existing norms and shock the audience. That poses ethical problems when the norms abandoned are closely associated with certain relevant moral values or obligations.  The extent to which this is acceptable is always a hotbed of ethical controversy. See: Turner Prize, obscenity, freedom of speech, aesthetics.
+
+
+In democratic countries, a special relationship exists between media and government. Although the freedom of the media may be constitutionally enshrined and have precise legal definition and enforcement, the exercise of that freedom by individual journalists is a matter of personal choice and ethics.
+Modern democratic government subsists in representation of millions by hundreds. For the representatives to be accountable, and for the process of government to be transparent, effective communication paths must exist to their constituents. Today these paths consist primarily of the mass media, to the extent that if press freedom disappeared, so would most political accountability.
+In this area, media ethics merges with issues of civil rights and politics. Issues include: 
+
+Subversion of media independence by financial interests.
+Government monitoring of media for intelligence gathering against its own people. See, for example, NSA call database.See: freedom of information, media transparency Right to Information.
+L Mera
+
+
+Media integrity refers to the ability of a media outlet to serve the public interest and democratic process, making it resilient to institutional corruption within the media system, economy of influence, conflicting dependence and political clientelism. Media integrity encompasses following qualities of a media outlet: 
+
+independence from private or political interests
+transparency about own financial interests
+commitment to journalism ethics and standards
+responsiveness to citizensThe concept was devised particularly for the media systems in the region of South East Europe, within the project South East European Media Observatory, gathering organisations which are part of the South East European Network for Professionalization of Media (SEENPM).
+
+
+Within the last two decades, numerous regional discussions have taken place in Europe, Latin America, Africa, and Asia in order to create a universal code of ethics for the information society.One of the core issues in developing a universal code for media ethics is the difficulty of finding a common ground between ethical principles from one culture to another. Also, such codes may be interpreted differently according to various moral and legal standards.
+
+
+The ethical facet of the global information society has been on the UNESCO (United Nations Educational, Scientific and Cultural Organization) agenda since 1997, when the organization initiated their first INFOethics Congress. The objective of this summit was to spark debate on the ethical dimension of the global information society. The UNESCO INFOethics Congresses then met in 1998 and 2000, where specialists coming from a wide range of educational, scientific, and cultural environments addressed the ethical dimensions of global media and information.
+
+
+In 2004, the ICIE, or International Center for Information Ethics, organized the firs international symposium on information ethics in Karlsuhe, Germany. Experts with varying scientific backgrounds such as computer science, information science, media studies, and economics, gathered from all over the world to discuss the internet from both an ethical and intercultural perspective.
+
+
+
+
+
+
+Media economics where things such as -- deregulation of media, concentration of media ownership, FCC regulations in the U.S, media trade unions and labor issues, and other such worldwide regulating bodies, citizen media (low power FM, community radio) -- have ethical implications......
+
+
+The media has manipulated the way public officials conduct themselves through the advancement of technology. Constant television coverage displays the legislative proceedings; exposing faster than ever before, unjust rulings throughout the government process. Truth telling is crucial in media ethics as any opposition of truth telling is considered deception. Anything shown by the media whether print or video is considered to be original. When a statement is written in an article or a video is shown of a public official, it is the original “truthful” words of the individual official themselves.
+
+
+If values differ interculturally, the issue arises of the extent to which behaviour should be modified in the light of the values of specific cultures. Two examples of controversy from the field of media ethics:
+
+Google's self-censorship in China.
+The Jyllands-Posten Muhammad cartoons controversy in Denmark, and subsequently worldwide.
+
+
+One theoretical question for media ethics is the extent to which media ethics is just another topical subdivision of applied ethics, differing only in terms of case applications and raising no theoretical issues peculiar to itself. The oldest subdivisions of applied ethics are medical ethics and business ethics. Does media ethics have anything new to add other than interesting cases?
+
+
+Privacy and honesty are issues extensively covered in medical ethical literature, as is
+the principle of harm-avoidance. The trade-offs between economic goals and social values has been
+covered extensively in business ethics (as well as medical and environmental ethics).
+
+
+The issues of freedom of speech and aesthetic values (taste) are primarily at home in media ethics. However a number of further issues distinguish media ethics as a field in its own right.
+A theoretical issue peculiar to media ethics is the identity of observer and observed. The press is one of the primary guardians in a democratic society of many of the freedoms, rights and duties discussed by other fields of applied ethics. In media ethics the ethical obligations of the guardians themselves comes more strongly into the foreground. Who guards the guardians? This question also arises in the field of legal ethics.
+A further self-referentiality or circular characteristic in media ethics is the questioning of its own values. Meta-issues can become identical with the subject matter of media ethics. This is most strongly seen when artistic elements are considered. Benetton advertisements and Turner prize candidates are both examples of ethically questionable media uses which question their own
+questioner.
+Another characteristic of media ethics is the disparate nature of its goals. Ethical dilemmas emerge when goals conflict. The goals of media usage diverge sharply. Expressed in a consequentialist manner, media usage may be subject to pressures to maximize: economic profits, entertainment value, information provision, the upholding of democratic freedoms, the development of art and culture, fame and vanity.
+
+
+Hauptman, Robert (2002-04-11). Ethics and Librarianship. McFarland. ISBN 9780786480807.
+Capurro, Rafael. "Informationethos und Informationsethik (Information Ethos and Information Ethics)". Nachrichten für Dokumentation. 39 (1–4).
+Capurro; Britz, Rafael; Johannes B. (2010). "In Search of a Code of Global Information Ethics: The Road Travelled and New Horizons" (PDF). Ethical Space: The International Journal of Communication Ethics. 7 – via Academic Search Complete.
+Severson, Richard J. (1997-02-19). The Principles of Information Ethics. M.E. Sharpe. ISBN 9780765633460.
+Woodbury, Marsha Cook (2010). Computer and Information Ethics. Stipes Pub. ISBN 9781609040024.
+

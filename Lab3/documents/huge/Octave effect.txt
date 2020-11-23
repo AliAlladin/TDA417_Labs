@@ -1,0 +1,20 @@
+Octave effect boxes are a type of special effects unit which mix the input signal with a synthesised signal whose musical tone is an octave lower or higher than the original.  The synthesised octave signal is derived from the original input signal by halving (octave-down) or doubling (octave-up) the frequency.  This is possible due to the simple two-to-one relationship between the frequencies of musical notes which are separated by an octave. One of the first popular musicians to employ the octave effect was Jimi Hendrix, who also used a variety of other effects in his recordings and public performances. Hendrix used an octave-fuzz pedal known as the octavia.
+Analog octave effects differ from harmonizers and pitch shifters which digitally sample the sound and process it to change its pitch.
+
+
+
+
+
+Octave-up effects usually use full wave rectification using diodes to "fold up" the negative part of the waveform to make a new waveform an octave higher in pitch.
+
+
+
+Octave-down effects are typically produced by converting the signal to a square wave, and then using flip-flop circuits to divide the frequency by two. This creates a buzzy synthesizer like tone. The MXR Blue Box used this method to create a two octave drop (expanded to include one octave down in later re-issues). Jimmy Page used a Blue Box to record the solo on Led Zeppelin's Fool in the Rain.
+
+The Boss OC-2 unit generates tones at one and two octaves down from the input signal.  This effect also uses flip-flops to generate square waves at 1/2 and 1/4 of the input signal frequency, but rather than simply mixing in these signals, it uses them to invert the polarity of the input signal on every other cycle (every two out of four cycles for the second octave).   This effectively amplitude modulates the input signal with a carrier at half the input signal, creating new frequency components at 1/2 and 3/2 the input signal.  The 3/2 component is low-pass filtered out.  This more complex approach lessens the synthetic sound of the octave tones by making them more closely associated with the original signal, and also makes the effect volume-sensitive.
+The Boss OC-3 (2006) has an additional mode called "Poly" where only a low note is added with the idea to add a bass line to chords.
+The Mu-tron Octave Divider (about 1972) had a unique generator that tuned into the low octave as long as the input signal was strong and then continued generating the same frequency while that input signal faded.
+
+
+Octave pedals can be used in conjunction with fuzz (see octafuzz) and/or distortion. It can be used on guitar to make it sound more aggressive (such as the lead-in solo by Prince on When Doves Cry) or sound like a bass. The song Seven Nation Army by The White Stripes features an octave pedal on electric guitar, simulating the sound of a bass.
+

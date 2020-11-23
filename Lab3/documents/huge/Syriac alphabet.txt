@@ -1,0 +1,119 @@
+The Syriac alphabet (ܐܠܦ ܒܝܬ ܣܘܪܝܝܐ ʾĀlep̄ Bêṯ Sūryāyā) is a writing system primarily used to write the Syriac language since the 1st century AD. It is one of the Semitic abjads descending from the Aramaic alphabet through the Palmyrene alphabet, and shares similarities with the Phoenician, Hebrew, Arabic and the traditional Mongolian scripts.
+Syriac is written from right to left in horizontal lines. It is a cursive script where most—but not all—letters connect within a word. There is no letter case distinction between upper and lower case letters, though some letters change their form depending on their position within a word. Spaces separate individual words.
+All 22 letters are consonants, although there are optional diacritic marks to indicate vowels and other features. In addition to the sounds of the language, the letters of the Syriac alphabet can be used to represent numbers in a system similar to Hebrew and Greek numerals.
+Apart from Classical Syriac Aramaic, the alphabet has been used to write other dialects and languages. Several Christian Neo-Aramaic languages from Turoyo to the Northeastern Neo-Aramaic dialects of Assyrian and Chaldean, once vernaculars, primarily began to be written in the 19th century. The Serṭā variant specifically has recently been adapted to write Western Neo-Aramaic, traditionally written in a square Aramaic script closely related to the Hebrew alphabet. Besides Aramaic, when Arabic began to be the dominant spoken language in the Fertile Crescent after the Islamic conquest, texts were often written in Arabic using the Syriac script as knowledge of the Arabic alphabet was not yet widespread; such writings are usually called Karshuni or Garshuni (ܓܪܫܘܢܝ). In addition to Semitic languages, Malayalam was also written with Syriac script and was called Suriyani Malayalam, as well as Sogdian.
+
+
+
+There are three major variants of the Syriac alphabet: ʾEsṭrangēlā, Maḏnḥāyā and Serṭā.
+
+
+
+The oldest and classical form of the alphabet is ʾEsṭrangēlā (ܐܣܛܪܢܓܠܐ‎). The name of the script is thought to derive from the Greek adjective strongýlē (στρογγύλη, 'rounded'), though it has also been suggested to derive from serṭā ʾewwangēlāyā (ܣܪܛܐ ܐܘܢܓܠܝܐ‎, 'gospel character'). Although ʾEsṭrangēlā is no longer used as the main script for writing Syriac, it has received some revival since the 10th century. It is often used in scholarly publications (such as the Leiden University version of the Peshitta), in titles, and in inscriptions. In some older manuscripts and inscriptions, it is possible for any letter to join to the left, and older Aramaic letter forms (especially of Ḥeṯ and the lunate Mem) are found. Vowel marks are usually not used with ʾEsṭrangēlā, being the oldest form of the script and arising before the development of specialized diacritics.
+
+
+The East Syriac dialect is usually written in the Maḏnḥāyā (ܡܲܕ݂ܢܚܵܝܵܐ‎, 'Eastern') form of the alphabet. Other names for the script include Swāḏāyā (ܣܘܵܕ݂ܵܝܵܐ‎, 'conversational' or 'vernacular', often translated as 'contemporary', reflecting its use in writing modern Neo-Aramaic), ʾĀṯūrāyā (ܐܵܬ݂ܘܼܪܵܝܵܐ‎, 'Assyrian', not to be confused with the traditional name for the Hebrew alphabet), Kaldāyā (ܟܲܠܕܵܝܵܐ‎, 'Chaldean'), and, inaccurately, "Nestorian" (a term that was originally used to refer to the Church of the East in the Sasanian Empire). The Eastern script resembles ʾEsṭrangēlā somewhat more closely than the Western script.
+
+
+The Eastern script uses a system of dots above and/or below letters, based on an older system, to indicate vowel sounds not found in the script:
+
+A dot above and a dot below a letter represent [a], transliterated as a or ă (called ܦܬ݂ܵܚܵܐ‎, Pṯāḥā),
+Two diagonally-placed dots above a letter represent [ɑ], transliterated as ā or â or å (called ܙܩܵܦ݂ܵܐ‎, Zqāp̄ā),
+Two horizontally-placed dots below a letter represent [ɛ], transliterated as e or ĕ (called ܪܒ݂ܵܨܵܐ ܐܲܪܝܼܟ݂ܵܐ‎, Rḇāṣā ʾărīḵā or ܙܠܵܡܵܐ ܦܫܝܼܩܵܐ‎, Zlāmā pšīqā; often pronounced [ɪ] and transliterated as i in the East Syriac dialect),
+Two diagonally-placed dots below a letter represent [e], transliterated as ē (called ܪܒ݂ܵܨܵܐ ܟܲܪܝܵܐ‎, Rḇāṣā karyā or ܙܠܵܡܵܐ ܩܲܫܝܵܐ‎, Zlāmā qašyā),
+The letter Waw with a dot below it represents [u], transliterated as ū or u (called ܥܨܵܨܵܐ ܐܲܠܝܼܨܵܐ‎, ʿṢāṣā ʾălīṣā or ܪܒ݂ܵܨܵܐ‎, Rḇāṣā),
+The letter Waw with a dot above it represents [o], transliterated as ō or o (called ܥܨܵܨܵܐ ܪܘܝܼܚܵܐ‎, ʿṢāṣā rwīḥā or ܪܘܵܚܵܐ‎, Rwāḥā),
+The letter Yōḏ with a dot beneath it represents [i], transliterated as ī or i (called ܚܒ݂ܵܨܵܐ‎, Ḥḇāṣā),
+A combination of Rḇāṣā karyā (usually) followed by a letter Yōḏ represents [e] (possibly *[e̝] in Proto-Syriac), transliterated as ē or ê (called ܐܲܣܵܩܵܐ‎, ʾĂsāqā).It is thought that the Eastern method for representing vowels influenced the development of the niqqud markings used for writing Hebrew.
+In addition to the above vowel marks, transliteration of Syriac sometimes includes ə, e̊ or superscript e (or often nothing at all) to represent an original Aramaic schwa that became lost later on at some point in the development of Syriac. Some transliteration schemes find its inclusion necessary for showing spirantization or for historical reasons. Whether because its distribution is mostly predictable (usually inside a syllable-initial two-consonant cluster) or because its pronunciation was lost, both the East and the West variants of the alphabet traditionally have no sign to represent the schwa. 
+
+
+
+The West Syriac dialect is usually written in the Serṭā or Serṭo (ܣܶܪܛܳܐ‎, 'line') form of the alphabet, also known as the Pšīṭā (ܦܫܺܝܛܳܐ‎, 'simple'), 'Maronite' or the 'Jacobite' script (although the term Jacobite is considered derogatory). Most of the letters are clearly derived from ʾEsṭrangēlā, but are simplified, flowing lines. A cursive chancery hand is evidenced in the earliest Syriac manuscripts, but important works were written in ʾEsṭrangēlā. From the 8th century, the simpler Serṭā style came into fashion, perhaps because of its more economical use of parchment. 
+
+
+The Western script is usually vowel-pointed, with miniature Greek vowel letters above or below the letter which they follow:
+
+Capital Alpha (Α) represents [a], transliterated as a or ă (ܦܬ݂ܳܚܳܐ‎, Pṯāḥā),
+Lowercase Alpha (α) represents [ɑ], transliterated as ā or â or å (ܙܩܳܦ݂ܳܐ‎, Zqāp̄ā; pronounced as [o] and transliterated as o in the West Syriac dialect),
+Lowercase Epsilon (ε) represents both [ɛ], transliterated as e or ĕ, and [e], transliterated as ē (ܪܒ݂ܳܨܳܐ‎, Rḇāṣā),
+Capital Eta (H) represents [i], transliterated as ī (ܚܒ݂ܳܨܳܐ‎, Ḥḇāṣā),
+A combined symbol of capital Upsilon (Υ) and lowercase Omicron (ο) represents [u], transliterated as ū or u (ܥܨܳܨܳܐ‎, ʿṢāṣā),
+Lowercase Omega (ω), used only in the vocative interjection ʾō (ܐܘّ‎, 'O!').
+
+
+The Syriac alphabet consists of the following letters, shown in their isolated (non-connected) forms. When isolated, the letters Kāp̄, Mīm, and Nūn are usually shown with their initial form connected to their final form (see below). The letters ʾĀlep̄, Dālaṯ, Hē, Waw, Zayn, Ṣāḏē, Rēš and Taw (and, in early ʾEsṭrangēlā manuscripts, the letter Semkaṯ) do not connect to a following letter within a word; these are marked with an asterisk (*).
+
+
+
+
+
+
+
+
+Three letters act as matres lectionis: rather than being a consonant, they indicate a vowel. ʾĀlep̄ (ܐ), the first letter, represents a glottal stop, but it can also indicate a vowel, especially at the beginning or the end of a word. The letter Waw (ܘ) is the consonant w, but can also represent the vowels o and u. Likewise, the letter Yōḏ (ܝ) represents the consonant y, but it also stands for the vowels i and e.
+
+
+In modern usage, some alterations can be made to represent phonemes not represented in classical phonology. A mark similar in appearance to a tilde (~), called majlīyānā (ܡܲܓ̰ܠܝܼܵܢܵܐ‎), is placed above or below a letter in the Maḏnḥāyā variant of the alphabet to change its phonetic value (see also: Geresh):
+
+Added below Gāmal: [ɡ] to [d͡ʒ] (voiced palato-alveolar affricate)
+Added below Kāp̄: [k] to [t͡ʃ] (voiceless palato-alveolar affricate)
+Added above or below Zayn: [z] to [ʒ] (voiced palato-alveolar sibilant)
+Added above Šīn: [ʃ] to [ʒ]
+
+
+In addition to foreign sounds, a marking system is used to distinguish qūššāyā (ܩܘܫܝܐ, 'hard' letters) from rūkkāḵā (ܪܘܟܟܐ, 'soft' letters). The letters Bēṯ, Gāmal, Dālaṯ, Kāp̄, Pē, and Taw, all stop consonants ('hard') are able to be 'spirantized' (lenited) into fricative consonants ('soft'). The system involves placing a single dot underneath the letter to give its 'soft' variant and a dot above the letter to give its 'hard' variant (though, in modern usage, no mark at all is usually used to indicate the 'hard' value):
+
+The mnemonic bḡaḏkp̄āṯ (ܒܓܕܟܦܬ) is often used to remember the six letters that are able to be spirantized (see also: Begadkefat).
+In the East Syriac variant of the alphabet, spirantization marks are usually omitted when they interfere with vowel marks. The degree to which letters can be spirantized varies from dialect to dialect as some dialects have lost the ability for certain letters to be spirantized. For native words, spirantization depends on the letter's position within a word or syllable, location relative to other consonants and vowels, gemination, etymology, and other factors. Foreign words do not always follow the rules for spirantization.
+
+
+Syriac uses two (usually) horizontal dots above a letter within a word, similar in appearance to diaeresis, called syāmē (ܣܝ̈ܡܐ, literally 'placings', also known in some grammars by the Hebrew name ribbūi [רִבּוּי], 'plural'), to indicate that the word is plural. These dots, having no sound value in themselves, arose before both eastern and western vowel systems as it became necessary to mark plural forms of words, which are indistinguishable from their singular counterparts in regularly-inflected nouns. For instance, the word malkā (ܡܠܟܐ, 'king') is consonantally identical to its plural malkē (ܡܠܟ̈ܐ, 'kings'); the syāmē above the word malkē (ܡܠܟ̈ܐ) clarifies its grammatical number. Irregular plurals also receive syāmē even though their forms are clearly plural: e.g. baytā (ܒܝܬܐ, 'house') and its irregular plural bāttē (ܒ̈ܬܐ, 'houses'). Because of redundancy, some modern usage forgoes syāmē points when vowel markings are present.
+There are no firm rules for which letter receives syāmē; the writer has full discretion to place them over any letter. Typically, if a word has at least one Rēš, then syāmē are placed over the Rēš that is nearest the end of a word (and also replace the single dot above it: ܪ̈). Other letters that often receive syāmē are low-rising letters—such as Yōḏ and Nūn—or letters that appear near the middle or end of a word.
+Besides plural nouns, syāmē are also placed on:
+
+plural adjectives, including participles (except masculine plural adjectives/participles in the absolute state);
+the cardinal numbers 'two' and the feminine forms of 11-19, though inconsistently;
+and certain feminine plural verbs: the 3rd person feminine plural perfect and the 2nd and 3rd person feminine plural imperfect.
+
+
+Syriac uses a line, called mṭalqānā (ܡܛܠܩܢܐ, literally 'concealer', also known by the Latin term linea occultans in some grammars), to indicate a silent letter that can occur at the beginning or middle of a word. In Eastern Syriac, this line is diagonal and only occurs above the silent letter (e.g. ܡܕ݂ܝܼܢ݇ܬܵܐ‎, 'city', pronounced mḏīttā, not *mḏīntā, with the mṭalqānā over the Nūn, assimilating with the Taw). The line can only occur above a letter ʾĀlep̄, Hē, Waw, Yōḏ, Lāmaḏ, Mīm, Nūn, ʿĒ or Rēš (which comprise the mnemonic ܥܡ̈ܠܝ ܢܘܗܪܐ ʿamlay nūhrā, 'the works of light'). In Western Syriac, this line is horizontal and can be placed above or below the letter (e.g. ܡܕ݂ܺܝܢ̄ܬܳܐ‎, 'city', pronounced mḏīto, not *mḏīnto).
+Classically, mṭalqānā was not used for silent letters that occurred at the end of a word (e.g. ܡܪܝ mār[ī], '[my] lord'). In modern Turoyo, however, this is not always the case (e.g. ܡܳܪܝ̱‎ mor[ī], '[my] lord').
+
+
+In the 1930s, following the state policy for minority languages of the Soviet Union, a Latin alphabet for Syriac was developed with some material promulgated. Although it did not supplant the Syriac script, the usage of the Latin script in the Syriac community has still become widespread because most of the Assyrian diaspora is in Europe and the Anglosphere, where the Latin alphabet is predominant. As a result of Westernization, the Latin alphabet has been used for Syriac writing. Some letters are altered and would feature diacritics and macrons to indicate long vowels, schwas and diphthongs. The letters with diacritics and macrons are mostly upheld in educational or formal writing.
+The Latin letters below are commonly used when it comes to transliteration from the Syriac script to Latin:
+Ā is used to denote a long "a" sound or [ɑː] as heard in "car".
+Ḏ is used to represent a voiced dental fricative, the "th" sound as heard in "that".
+Ē is used to denote an "ee" sound or [eː].
+Ĕ is to represent an "eh" sound or [ɛ], as heard in Ninwĕ or "mare".
+Ḥ represents a voiceless pharyngeal fricative ([ħ]), only upheld by Turoyo and Chaldean speakers.
+Ō represents a long "o" sound or [ɔː].
+Š is a voiceless postalveolar fricative, the English digraph "sh".
+Ṣ denotes an emphatic "s" or "thick s".
+Ṭ is an emphatic "t", as heard in the word ṭla ("three").
+Ū is used to represent an "oo" sound or the close back rounded vowel [uː].Sometimes additional letters may be used and they tend to be:
+
+Ḇ may be used in the transliteration of biblical Aramaic to show the voiced bilabial fricative allophone value ("v") of the letter Bēṯ.
+Ī denotes a schwa sound, usually when transliterating biblical Aramaic.
+Ḵ is utilized for the voiceless velar fricative or the "kh" sound.
+Ṯ is used to denote the "th" sound or the voiceless dental fricative.
+
+
+The Syriac alphabet was added to the Unicode Standard in September, 1999 with the release of version 3.0.
+Additional letters for Suriyani Malayalam were added in June, 2017 with the release of version 10.0.
+
+
+
+The Unicode block for Syriac is U+0700–U+074F:
+
+The Syriac Abbreviation (a type of overline) can be represented with a special control character called the Syriac Abbreviation Mark (U+070F).
+The Unicode block for Suriyani Malayalam specific letters is called the Syriac Supplement block and is U+0860–U+086F:
+
+
+Note: HTML numeric character references can be in decimal format (&#DDDD;) or hexadecimal format (&#xHHHH;). For example, &#1813; and &#x0715; (1813 in decimal) both represent U+0715 SYRIAC LETTER DALATH.
+
+
+
+
+

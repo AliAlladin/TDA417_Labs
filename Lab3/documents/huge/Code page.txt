@@ -1,0 +1,104 @@
+In computing, a code page is a character encoding and as such it is a specific association of a set of printable characters and control characters with unique numbers.
+The term "code page" originated from IBM's EBCDIC-based mainframe systems, but Microsoft, SAP, and Oracle Corporation are among the few vendors which use this term. The majority of vendors identify their own character sets by a name. In the case when there is a plethora of character sets (like in IBM), identifying character sets through a number is a convenient way to distinguish them. Originally, the code page numbers referred to the page numbers in the IBM standard character set manual, a condition which has not held for a long time. Vendors that use a code page system allocate their own code page number to a character encoding, even if it is better known by another name; for example, UTF-8 has been assigned page numbers 1208 at IBM, 65001 at Microsoft, and 4110 at SAP.
+Hewlett-Packard uses a similar concept in its HP-UX operating system and its Printer Command Language (PCL) protocol for printers (either for HP printers or not). The terminology, however, is different: What others call a character set, HP calls a symbol set, and what IBM or Microsoft call a code page, HP calls a symbol set code. HP developed a series of symbol sets, each with an associated symbol set code, to encode both its own character sets and other vendors’ character sets.
+The multitude of character sets leads many vendors to recommend Unicode.
+
+
+IBM introduced the concept of systematically assigning a small, but globally unique, 16 bit number to each character encoding that a computer system or collection of computer systems might encounter. The IBM origin of the numbering scheme is reflected in the fact that the smallest (first) numbers are assigned to variations of IBM's EBCDIC encoding and slightly larger numbers refer to variations of IBM's extended ASCII encoding as used in its PC hardware.
+With the release of PC DOS version 3.3 (and the near identical MS-DOS 3.3) IBM introduced the code page numbering system to regular PC users, as the code page numbers (and the phrase "code page") were used in new commands to allow the character encoding used by all parts of the OS to be set in a systematic way.After IBM and Microsoft ceased to cooperate in the 1990s, the two companies have maintained the list of assigned code page numbers independently from each other, resulting in some conflicting assignments. At least one third-party vendor (Oracle) also has its own different list of numeric assignments. IBM's current assignments are listed in their CCSID repository, while Microsoft's assignments are documented within the MSDN. Additionally, a list of the names and approximate IANA (Internet Assigned Numbers Authority) abbreviations for the installed code pages on any given Windows machine can be found in the Registry on that machine (this information is used by Microsoft programs such as Internet Explorer).
+Most well-known code pages, excluding those for the CJK languages and Vietnamese, fit all their code-points into eight bits and do not involve anything more than mapping each code-point to a single character; furthermore, techniques such as combining characters, complex scripts, etc., are not involved.
+The text mode of standard (VGA-compatible) PC graphics hardware is built around using an 8-bit code page, though it is possible to use two at once with some color depth sacrifice, and up to eight may be stored in the display adaptor for easy switching. There was a selection of third-party code page fonts that could be loaded into such hardware. However, it is now commonplace for operating system vendors to provide their own character encoding and rendering systems that run in a graphics mode and bypass this hardware limitation entirely.  However the system of referring to character encodings by a code page number remains applicable, as an efficient alternative to string identifiers such as those specified by the IETF and IANA for use in various protocols such as e-mail and web pages.
+
+
+The majority of code pages in current use are supersets of ASCII, a 7-bit code representing 128 control codes and printable characters. In the distant past, 8-bit implementations of the ASCII code set the top bit to zero or used it as a parity bit in network data transmissions. When the top bit was made available for representing character data, a total of 256 characters and control codes could be represented. Most vendors (including IBM) used this extended range to encode characters used by various languages and graphical elements that allowed the imitation of primitive graphics on text-only output devices. No formal standard existed for these ‘extended ASCII character sets’ and vendors referred to the variants as code pages, as IBM had always done for variants of EBCDIC encodings.
+
+
+Unicode is an effort to include all characters from all currently and historically used human languages into single character enumeration (effectively one large single code page), removing the need to distinguish between different code pages when handling digitally stored text. Unicode tries to retain backwards compatibility with many legacy code pages, copying some code pages 1:1 in the design process. An explicit design goal of Unicode was to allow round-trip conversion between all common legacy code pages, although this goal has not always been achieved.
+Some vendors, namely IBM and Microsoft, have anachronistically assigned code page numbers to Unicode encodings. This convention allows code page numbers to be used as metadata to identify the correct decoding algorithm when encountering binary stored data.
+
+
+
+
+These code pages are used by IBM in its EBCDIC character sets for mainframe computers.
+
+
+These code pages are used by IBM in its PC DOS operating system. These code pages were originally embedded directly in the text mode hardware of the graphic adapters used with the IBM PC and its clones, including the original MDA and CGA adapters whose character sets could only be changed by physically replacing a ROM chip that contained the font.  The interface of those adapters (emulated by all later adapters such as VGA) was typically limited to single byte character sets with only 256 characters in each font/encoding (although VGA added partial support for slightly larger character sets).
+
+When dealing with older hardware, protocols and file formats, it is often necessary to support these code pages, but newer encoding systems, in particular Unicode, are encouraged for new designs.
+DOS code pages are typically stored in .CPI files.
+
+
+These code pages are used by IBM in its AIX operating system. They emulate several character sets, namely those ones designed to be used accordingly to ISO, such as UNIX-like operating systems.
+
+Code page 819 is identical to Latin-1, ISO/IEC 8859-1, and with slightly-modified commands, permits MS-DOS machines to use that encoding. It was used with IBM AS/400 minicomputers.
+
+
+These code pages are used by IBM in its OS/2 operating system.
+
+1004 – Latin-1 Extended, Desk Top Publishing/Windows
+
+
+These code pages are used by IBM when emulating the Microsoft Windows character sets. Most of these code pages have the same number as Microsoft code pages, although they are not exactly identical. Some code pages, though, are new from IBM, not devised by Microsoft.
+
+
+These code pages are used by IBM when emulating the Apple Macintosh character sets.
+
+
+These code pages are used by IBM when emulating the Adobe character sets.
+
+
+These code pages are used by IBM when emulating the HP character sets.
+
+
+These code pages are used by IBM when emulating the DEC character sets.
+
+
+
+
+
+
+These code pages are used by Microsoft in its own Windows operating system. Microsoft defined a number of code pages known as the ANSI code pages (as the first one, 1252 was based on an apocryphal ANSI draft of what became ISO 8859-1). Code page 1252 is built on ISO 8859-1 but uses the range 0x80-0x9F for extra printable characters rather than the C1 control codes used in ISO-8859-1. Some of the others are based in part on other parts of ISO 8859 but often rearranged to make them closer to 1252.
+
+Microsoft recommends new applications use UTF-8 or UCS-2/UTF-16 instead of these code pages.
+
+
+These code pages represent DBCS character encodings for various CJK languages. In Microsoft operating systems, these are used as both the "OEM" and "Windows" code page for the applicable locale.
+
+
+These code pages are used by Microsoft in its MS-DOS operating system. Microsoft refers to these as the OEM code pages because they were defined by the OEMs who licensed MS-DOS for distribution with their hardware, not by Microsoft or a standards organization. Most of these code pages have the same number as the equivalent IBM code pages, although they are not exactly identical. There are minimum differences in some code pages from IBM and Microsoft.
+
+
+These code pages are used by Microsoft when emulating the Apple Macintosh character sets.
+
+
+The following code page numbers are specific to Microsoft Windows. IBM may use different numbers for these code pages. They emulate several character sets, namely those ones designed to be used accordingly to ISO, such as UNIX-like operating systems.
+
+
+
+
+HP developed a series of Symbol Sets (each with its associated Symbol Set Code) to encode either its own character sets or other vendors’ character sets. They are normally 7-bit character sets which, when moved to the higher part and associated with the ASCII character set, make up 8-bit character sets.
+
+
+
+
+
+
+These code pages are independent assignments by third party vendors. Since the original IBM PC code page (number 437) was not really designed for international use, several partially compatible country or region specific variants emerged.
+These code pages number assignments are not official neither by IBM, neither by Microsoft and almost none of them is referred as a usable character set by IANA. The numbers assigned to these code pages are arbitrary and may clash to registered numbers in use by IBM or Microsoft. Some of them may predate codepage switching being added in DOS 3.3.
+
+
+
+List of known code page assignments (incomplete):
+
+
+Many older character encodings (unlike Unicode) suffer from several problems. Some code page vendors insufficiently document the meaning of all code point values, which decreases the reliability of handling textual data through various computer systems consistently. Some vendors add proprietary extensions to some code pages to add or change certain code point values; for example, byte 0x5C in Shift JIS can represent either a back slash or a yen currency symbol depending on the platform. Finally, in order to support several languages in a program that does not use Unicode, the code page used for each string/document needs to be stored.
+Due to Unicode's extensive documentation, vast repertoire of characters and stability policy of characters, the problems listed above are rarely a concern for Unicode. Applications may also mislabel text in Windows-1252 as ISO-8859-1. Fortunately, the only difference between these code pages is that the code point values used by ISO-8859-1 for control characters are instead used as additional printable characters in Windows-1252. Since control characters have no function in HTML, web browsers tend to use Windows-1252 rather than ISO-8859-1. In HTML5, treating ISO-8859-1 as Windows-1252 is even codified as standard. Later, UTF-8 has succeeded both encodings in terms of popularity on the Internet.
+
+
+When, early in the history of personal computers, users did not find their character encoding requirements met, private or local code pages were created using Terminate and Stay Resident utilities or by re-programming BIOS EPROMs. In some cases, unofficial code page numbers were invented (e.g. CP895).
+When more diverse character set support became available most of those code pages fell into disuse, with some exceptions such as the Kamenický or KEYBCS2 encoding for the Czech and Slovak alphabets. Another character set is Iran System encoding standard that was created by Iran System corporation for Persian language support. This standard was in use in Iran in DOS-based programs and after introduction of Microsoft code page 1256 this standard became obsolete. However some Windows and DOS programs using this encoding are still in use and some Windows fonts with this encoding exist.
+In order to overcome such problems, the IBM Character Data Representation Architecture level 2 specifically reserves ranges of code page IDs for user-definable and private-use assignments. Whenever such code page IDs are used, the user must not assume that the same functionality and appearance can be reproduced in another system configuration or on another device or system unless the user takes care of this specifically.
+The code page range 57344-61439 (E000h-EFFFh) is officially reserved for user-definable code pages (or actually CCSIDs in the context of IBM CDRA), whereas the range 65280-65533 (FF00h-FFFDh) is reserved for any user-definable "private use" assignments.
+For example, a non-registered custom variant of code page 437 (1B5h) or 28591 (6FAF) could become 57781 (E1B5h) or 61359 (EFAFh), respectively, in order to avoid potential conflicts with other assignments and maintain the sometimes existing internal numerical logic in the assignments of the original code pages. An unregistered private code page not based on an existing code page, a device specific code page like a printer font, which just needs a logical handle to become addressable for the system, a frequently changing download font, or a code page number with a symbolic meaning in the local environment could have an assignment in the private range like 65280 (FF00h).
+The code page IDs 0, 65534 (FFFEh) and 65535 (FFFFh) are reserved for internal use by operating systems such as DOS and must not be assigned to any specific code pages.
+

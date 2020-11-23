@@ -1,0 +1,41 @@
+The Solvency II Directive (2009/138/EC) is a Directive in European Union law that codifies and harmonises the EU insurance regulation. Primarily this concerns the amount of capital that EU insurance companies must hold to reduce the risk of insolvency.
+Following an EU Parliament vote on the Omnibus II Directive on 11 March 2014, Solvency II came into effect on 1 January 2016. This date had been previously pushed back many times.
+
+
+EU insurance legislation aims to unify a single EU insurance market and enhance consumer protection. The third-generation Insurance Directives established an "EU passport" (single licence) for insurers to operate in all member states if they fulfilled EU conditions. Many member states concluded the EU minima were not enough, and took up their own reforms, which still led to differing regulations, hampering the goal of a single market.
+
+
+A number of the large Life Insurers in the UK are unhappy with the way the legislation has been developed. In particular, concerns have been publicly expressed over a number of years by the CEO of Prudential, the UK's largest Life Insurance company.Doubts about the basis of the Solvency II legislation, in particular the enforcement of a market-consistent valuation approach have also been expressed by American subsidiaries of UK parents - the impact of the 'equivalency' requirements are not well understood and there is some concern that the legislation could lead to overseas subsidiaries becoming uncompetitive with local peers, resulting in the need to sell them off, potentially resulting in a 'Fortress Europe'.
+
+
+Since the initial Solvency I Directive 73/239/EEC was introduced in 1973, more elaborate risk management systems developed. Solvency II reflects new risk management practices to define required capital and manage risk. While the "Solvency I" Directive was aimed at revising and updating the current EU Solvency regime, Solvency II has a much wider scope. A solvency capital requirement may have the following purposes:
+
+To reduce the risk that an insurer would be unable to meet claims;
+To reduce the losses suffered by policyholders in the event that a firm is unable to meet all claims fully;
+To provide early warning to supervisors so that they can intervene promptly if capital falls below the required level; and
+To promote confidence in the financial stability of the insurance sectorOften called "Basel for insurers," Solvency II is somewhat similar to the banking regulations of Basel II.  For example, the proposed Solvency II framework has three main areas (pillars):
+
+Pillar 1 consists of the quantitative requirements (for example, the amount of capital an insurer should hold).
+Pillar 2 sets out requirements for the governance and risk management of insurers, as well as for the effective supervision of insurers.
+Pillar 3 focuses on disclosure and transparency requirements.
+
+
+Title I General rules on the taking-up and pursuit of direct insurance and reinsurance activitiesChapter I Subject matter, scope and definitions
+Chapter II Taking-up of business
+Chapter III Supervisory authorities and general rules
+Chapter IV Conditions governing business
+Chapter V Pursuit of life and non-life insurance activity
+Chapter VI Rules relating to the valuation of assets and liabilities, technical provisions, own funds, solvency capital requirement, minimum capital requirement and investment rules
+Chapter VII Insurance and reinsurance undertakings in difficulty or in an irregular situation
+Chapter VIII Right of establishment and freedom to provide services
+Chapter IX Branches established within the community and belonging to insurance or reinsurance undertakings with head offices situated outside the community
+Chapter X Subsidiaries of insurance and reinsurance undertakings governed by the laws of a third country and acquisitions of holdings by such undertakingsTitle II Specific provisions for insurance and reinsuranceTitle III Supervision of insurance and reinsurance undertakings in a groupTitle IV Reorganisation and winding-up of insurance undertakings
+
+
+The pillar 1 framework set out qualitative and quantitative requirements for calculation of technical provisions and Solvency Capital Requirement (SCR) using either a standard formula given by the regulators or an internal model developed by the (re)insurance company. Technical provisions comprise two components: the best estimate of the liabilities (i.e. the central actuarial estimate) plus a risk margin. Technical provisions are intended to represent the current amount the (re)insurance company would have to pay for an immediate transfer of its obligations to a third party.
+The SCR is the capital required to ensure that the (re)insurance company will be able to meet its obligations over the next 12 months with a probability of at least 99.5%. In addition to the SCR capital a Minimum capital requirement (MCR) must be calculated which represents the threshold below which the national supervisor (regulator) would intervene. The MCR is intended to correspond to an 85% probability of adequacy over a one-year period and is bounded between 25% and 45% of the SCR.
+For supervisory purposes, the SCR and MCR can be regarded as "soft" and "hard" floors respectively. That is, a regulatory ladder of intervention applies once the capital holding of the (re)insurance undertaking falls below the SCR, with the intervention becoming progressively more intense as the capital holding approaches the MCR. The Solvency II Directive provides regional supervisors with a number of discretions to address breaches of the MCR, including the withdrawal of authorisation from selling new business and the winding up of the company.
+
+
+Think- tanks such as the World Pensions Council (WPC) have argued that European legislators pushed dogmatically and naïvely for the adoption of the Basel II and Solvency II recommendations. In essence, they forced private banks, central banks, insurance companies and their regulators to rely more on assessments of credit risk by private rating agencies. Thus, part of the public regulatory authority was abdicated in favor of private rating agencies. The calibration of the standard formula for assessing equity risk has been strongly criticized by the German economist Stefan Mittnik for the fact that the procedure used for determining correlations between different asset classes gives rise to spurious (i.e., unreliable) correlations or spurious relationships.The demanding nature of Solvency II legislation compared to current regulations has attracted criticism. According to RIMES, complying with the new legislation will impose a complex and significant burden on many European financial organizations, with 75% of firms in 2011 reporting that they were not in a position to comply with Pillar III reporting requirements.The Matching adjustment mechanism of Solvency II has also been criticised as a form of creative accounting that hides the real value of liabilities.
+

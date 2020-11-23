@@ -1,0 +1,42 @@
+An inducement prize contest (IPC) is a competition that awards a cash prize for the accomplishment of a feat, usually of engineering. IPCs are typically designed to extend the limits of human ability. Some of the most famous IPCs include the Longitude prize (1714–1765), the Orteig Prize (1919–1927) and the prizes from the X Prize Foundation.
+IPCs are distinct from recognition prizes, such as the Nobel Prize, in that IPCs have prospectively defined criteria for what feat is to be achieved for winning the prize, while recognition prizes may be based on the beneficial effects of the feat.
+Research has shown that IPCs can be extremely effective in pushing the advancement of technology.
+
+
+Throughout history, there have been instances where IPCs were successfully utilized to push the boundaries of what would have been considered state-of-the-art at the time.The Longitude Prize was a reward offered by the British government for a simple and practical method for the precise determination of a ship's longitude.  The prize, established through an Act of Parliament (the Longitude Act) in 1714, was administered by the Board of Longitude.
+Another example happened during the first years of the Napoleonic Wars.  The French government offered a hefty cash award of 12,000 francs to any inventor who could devise a cheap and effective method of preserving large amounts of food. The larger armies of the period required increased, regular supplies of quality food. Limited food availability was among the factors limiting military campaigns to the summer and autumn months. In 1809, a French confectioner and brewer,  Nicolas Appert, observed that food cooked inside a jar did not spoil unless the seals leaked, and developed a method of sealing food in glass jars. The reason for lack of spoilage was unknown at the time, since it would be another 50 years before Louis Pasteur demonstrated the role of microbes in food spoilage.
+Yet another example is the Orteig Prize which was a $25,000 reward offered on May 19, 1919, by New York hotel owner Raymond Orteig to the first allied aviator(s) to fly non-stop from New York City to Paris or vice versa. On offer for five years, it attracted no competitors. Orteig renewed the offer for another five years in 1924 when the state of aviation technology had advanced to the point that numerous competitors vied for the prize.  Several famous aviators made unsuccessful attempts at the New York–Paris flight before relatively unknown American Charles Lindbergh won the prize in 1927 in his aircraft Spirit of St. Louis.
+A leading organization in development and managing IPCs is the X PRIZE Foundation.  Its mission is to bring about "radical breakthroughs for the benefit of humanity" through incentivized competition. It fosters high-profile competitions that motivate individuals, companies and organizations across all disciplines to develop innovative ideas and technologies that help solve the grand challenges that restrict humanity's progress.  The most high-profile X PRIZE to date was the Ansari X PRIZE relating to spacecraft development awarded in 2004.  This prize was intended to inspire research and development into technology for space exploration.  Indeed, the X Prize has inspired other "letter" named inducement prize competitions such as the H-Prize, N-Prize, and so forth. In 2006, there was much interest in prizes for automotive achievement, such as the 250 mpg car.In Europe there has been a re-emergence of challenge prizes that following in the tradition of the Longitude Prize for solutions which impact on social problems. Nesta Challenges, based in London, is an example of this running prizes for innovations that for example reduce social isolation or make renewable energy generators accessible to off the grid refugees and returnees.
+
+
+In some literature on the subject, it has been stated that well-designed IPCs can garner economic activity on the order of 10 to 20 times the amount of the prize face value.
+
+
+Ansari X PRIZE for Suborbital Spaceflight, won in 2004 by Scaled Composites SpaceShipOne
+Automotive X PRIZE
+Alkali Prize for a process to turn salt into soda ash, won by Nicolas Leblanc posthumously in the early 19th century
+Brain Preservation Technology Prize
+Brexit Prize – prize for British exit from the European Union
+NASA's Centennial Challenges
+The Clay Mathematics Institute Millennium Prize will award to anyone who provides a solution to one of seven important mathematics problems, one was solved in 2003.
+Cornell Cup USA, presented by Intel
+DARPA Grand Challenge
+Egg-Tech Prize by the Foundation for Food and Agriculture Research (FFAR); FFAR and the Open Philanthropy Project are offering $6 million in prizes to improve early detection of a chick’s sex during the egg production process
+The Feynman Grand Prize offers $250,000 for a nano-scale robotic arm and computing device that demonstrate the feasibility of a nanotechnology assembler.
+Global Security Challenge
+Google Lunar X Prize
+Intelligent Ground Vehicle Competition
+Kremer prize for man-powered aircraft, won in 1977 by the MacCready Gossamer Condor.
+L Prize is a US Department of Energy competition to increase efficiency of solid-state lighting.
+Longitude prize won in the 18th century by John Harrison
+Lunar Lander Challenge
+Methuselah Mouse Prize or also known as the "M-Prize"
+Montyon Prizes established in 1820, a series of prizes awarded annually by the Académie française
+Netflix Prize for predicting user's rankings of films significantly better than the company's method, won in 2009.
+Orteig Prize for a non-stop flight between New York and Paris, won by Charles Lindbergh in 1927
+Peugeot Concours Design
+Prize4Life offers between $15,000 and $5 million in prize awards for medical discoveries that remove the largest barriers to finding a cure for  ALS (Lou Gehrig's disease)
+Tricorder X Prize
+Virgin Earth Challenge
+Wolfskehl Prize for proving Fermat's Last Theorem, won by Andrew Wiles in 1997
+

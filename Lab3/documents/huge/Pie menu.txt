@@ -1,0 +1,37 @@
+In user interface design, a pie menu (also known as a radial menu) is a circular context menu where selection depends on direction. It is a graphical control element. A pie menu is made of several "pie slices" around an inactive center and works best with stylus input, and well with a mouse. Pie slices are drawn with a hole in the middle for an easy way to exit the menu.
+Pie menus work well with keyboard acceleration, particularly four and eight item menus, on the cursor keys and the number pad. A goal of pie menus is to provide a smooth, reliable gestural style of interaction for novices and experts. A slice can lead to another pie menu; selecting this may center the pointer in the new menu.
+A marking menu is a variant of this technique that makes the menu less sensitive to variance in gesture size.As a kind of context menu, pie menus are often context-sensitive, showing different options depending on what the pointer was pointing at when the menu was requested.
+
+
+The first documented radial menu is attributed to a system called PIXIE in 1969. Some universities explored alternative visual layouts.In 1986, Mike Gallaher and Don Hopkins together independently arrived at the concept of a context menu based on the angle to the origin where the exact angle and radius could be passed as parameters to a command, or the radius could be used to trigger a submenu.The first performance comparison to linear menus was performed in 1988 showing an increase in performance of 15% less time and a reduction of selection errors.The role-playing video game Secret of Mana featured an innovative icon-based radial menu system in 1993. Its ring menu system was adopted by later video games.
+
+
+For novice users, pie menus are easy because they are a self-revealing gestural interface: They show what you can do and direct you how to do it. By clicking and popping up a pie menu, looking at the labels, moving the pointer in the desired direction, then clicking to make a selection, users learn the menu and practice the gesture to "mark ahead" ("mouse ahead" in the case of a mouse, "wave ahead" in the case of a dataglove). With a little practice, it becomes quite easy to mark ahead even through nested pie menus.
+For the expert, the pie menus are more efficient. Because they might have built up the muscle memory for certain menu actions, and able to select the option they want without looking the pop up selections. In some cases, only when used more slowly like a traditional menu, does a pie menu pop up on the screen, to reveal the available selections. Moreover, novices can gradually become experts when they practice the same pie menu selection for many times and start to remember the menu and the motion.  As Jaron Lanier of VPL Research has remarked, "The mind may forget, but the body remembers." Pie menus take advantage of the body's ability to remember muscle motion and direction, even when the mind has forgotten the corresponding symbolic labels.
+
+
+Pie menus are faster and more reliable to select from than linear menus, because selection depends on direction instead of distance. The circular menu slices are large in size and near the pointer for fast interaction (see Fitts's law). Experienced users use muscle memory without looking at the menu while selecting from it. Nested pie menus can efficiently offer many options, and some pie menus can pop up linear menus, and combine linear and radial items in the same menu. Pie menus just like any popup menu are shown only when requested, resulting in less visual distraction and cognitive load than toolbars and menu bars that are always shown.
+Pie menus show available options, in contrast to invisible mouse gestures. Pie menus, which delay appearance until the pointer is not moving, reduce intrusiveness to the same level as mouse gestures for experienced users. Pie menus take up more screen space than linear menus, and the number of slices in an individual menu must be kept low for effectiveness by using submenus. When using pie menus, submenus may overlap with the parent menu, but the parent menu may become translucent or hidden.
+Pie menus are most suited for actions that have been laid out by humans, and have logical grouping choices. Linear menus are most suited for dynamic, large menus that have many possible options, without any logical grouping, since pie menus can only show a limited number of menu items. Around 3-12 items can be reasonably accommodated in a radial layout, but additional items past that tend to counteract the benefits of using pie menus in the first place. This can be overcome with related techniques that allow chaining commands in one single gesture through submenus.However, using interaction techniques that are not pointer-based have proven problematic with both pie and linear menus for cluttered digital tabletop, where physical objects might occlude menu items.Pie menus are unavailable as standard graphical control element in common commercial toolkits. Video games often require custom widget development, so pie menu cost is lower in that particular scenario.
+
+
+Secret of Mana and its successor Secret of Evermore (where the menu was used to accelerate the pacing of combat)
+Blender, an open source 3D modelling program, which currently has pie menus as an optional feature
+Grand Theft Auto V, for weapon and radio station selection
+PowerAnimator, a commercial 3D modelling program that used marking menus
+Mozilla and Mozilla Firefox extensions RadialContext and easyGestures
+Autodesk Maya, a commercial 3D modelling program
+Metisse and Unix Desktop Environment, window managers for the X Window System
+modo, an advanced polygon and subdivision surface modeling package
+Songza, a music search engine and internet jukebox that uses a pie menu for its main mode of interaction, by Aza Raskin
+Quicksilver via the Constellation plug-in
+Sugar (GUI), GUI implementation for the One Laptop per Child project
+BumpTop, a computer desktop created to mimic paper files on a real world desk that uses pie menus as many of its control menus
+Android Browser in Android
+OneNote App for Windows 8 and Windows RT
+The Cherry mouse driver for the Power Pad mouse M-1000 optionally offers a circular context menu
+The Temple of Elemental Evil (video game)
+Mass Effect (video game)
+The Sims (video game), which extensively utilized pie menus for player-directed interaction. These pie menus were primarily developed by Don Hopkins.
+Second Life
+

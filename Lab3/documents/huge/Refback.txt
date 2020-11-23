@@ -1,0 +1,6 @@
+A refback is one of four types of linkbacks, methods for Web authors to request notification when somebody links to one of their documents. This enables authors to keep track of who is linking to, or referring to their articles.
+A Refback is simply the usage of the HTTP referrer header to discover incoming links.  Whenever a browser traverses an incoming link from Site A (originator) to Site B (receptor) the browser will send a referrer value indicating the URL from where the user came. Site B might publish a link to Site A after visiting Site A and extracting relevant information from Site A such as the title, meta information, the link text, and so on.Refback only requires Site B to be Refback enabled in order to establish this communication. Refback requires Site A to physically link to Site B. Refback also requires browsers to traverse the links.
+
+
+If the referred-to site does not validate the referring site URL, it may be subject to referrer spam (due to forged referrer headers) and may end up with links to dynamic web content and private web sites, such as web-based e-mail. Validating the referrer was considered to be a potential denial-of-service attack vector, but is such a trivial attack that modern web server software has been hardened against this kind of attack.
+

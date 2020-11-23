@@ -1,0 +1,76 @@
+The following outline is provided as an overview of and introduction to tort law:
+Tort law – defines what a legal injury is and, therefore, whether a person may be held liable for an injury they have caused. Legal injuries are not limited to physical injuries. They may also include emotional, economic, or reputational injuries as well as violations of privacy, property, or constitutional rights.
+
+
+
+
+Intentional tort – category of torts that describes a civil wrong resulting from an intentional act on the part of the tortfeasor (alleged wrongdoer).
+
+Assault (tort) –  intentionally and voluntarily causing the reasonable apprehension of an immediate harmful or offensive contact.
+Battery (tort) –  Bringing about an unconsentful harmful or offensive contact with a person or to something closely associated with that person (such as an item of clothing).  It differs from assault in that it requires actual contact.
+False imprisonment –  A person is intentionally confined without legal authority.
+Intentional infliction of emotional distress –  Intentional conduct that results in extreme emotional distress.
+Consent –  A possible excuse against civil or criminal liability under the defense that they should not be held liable as the actions were not taken without their permission.
+Necessity (tort) –  The defense of necessity gives the state or individual property of another; typically invoked only against the intentional torts of Trespass to chattels, trespass to land, or conversion (law).  It is expressed in Latin as necessitas inducit privilegium quod jura privata, "Necessity induces a privilege because of a private right."
+Self-defense –  Civilians acting on their own behalf to engage in violence for the sake of self-defense of one's own life or the lives of others, including the use of deadly force.  Differs from necessity in that it is usually the response to an immediate danger.
+
+
+Trespass to land –  Committed when an individual intentionally enters the land of another without lawful excuse.  It is actionable per se, and thus the party whose land was entered may sue even if no actual harm is done.
+Trespass to Chattels – Committed when an individual intentionally interferes with the personal property of another. Slight deprivation, like briefly placing a hand on someone else's car, is not actionable.
+Conversion (law) –  An intentional tort to personal property where the defendant's willful interference with the chattel deprives plaintiff of the possession of the same.
+Detinue –  An action for the wrongful detention of goods, initiated by an individual who claims to have a greater right to their immediate possession than the current possessor or holder.
+Replevin –  Signifies the recovery by a person of goods unlawfully taken out of his or her possession by a legal process.
+Trover –  A form of lawsuit for recovery of damages for wrongful taking of personal property.
+
+
+Dignitary torts – a specific category of intentional torts where the cause of action is being subjected to certain kinds of indignities.
+
+Defamation –  The communication of a statement that makes a false claim, expressively stated or implied to be factual, that may harm the reputation of an entity.
+Invasion of privacy –  The unlawful intrusion into the personal life of another person without just cause.
+Breach of confidence –  Protects private information conveyed in confidence; typically requires that the information be of a confidential nature, communicated in confidence, and was disclosed to the detriment of the claimant.
+Abuse of process –  A malicious and deliberate misuse or perversion of regularly issued court process not justified by the underlying legal action.
+Malicious prosecution –  Similar to abuse of process, but includes intent, pursuing without probable cause, and dismissal in favor of the victim.  In some jurisdictions, malicious prosecution is reserved for the wrongful initiation of criminal proceedings, while malicious use of process refers to the wrongful initiation of civil proceedings.
+Alienation of affections –  Brought by a spouse against a third party, whom the spouse believes has interfered with his or her marriage. There is no requirement that all affections in the marriage be destroyed, only that there has been some diminution in the love and affection between the married couple.
+
+
+Economic torts – torts that provide the common law rules on liability which arise out of business transactions such as interference with economic or business relationships and are likely to involve pure economic loss. Also called business torts.
+
+Fraud –  Making of a false representation by one party with an intention to induce another party into an act of commission or omission owing to which the later party suffers a damage. The first Party may or may not be the benefited by the damage caused to second party. Also, the first party need not be in collusion with someone who actually benefited.
+Tortious interference –  One person intentionally damages the plaintiff's contractual or other business relationships.
+Conspiracy (civil) –  An agreement between two or more parties to deprive a third party of legal rights or deceive a third party to obtain an illegal objective.
+Restraint of trade –  Contractual obligations not to trade are illegal agreements on public policy grounds unless they are reasonable in the interests concerning both parties and the public at large; this mainly affects post-termination restrictive covenants in employment contracts.
+
+
+Nuisance –  Denial of quiet enjoyment to owners of real property. A private nuisance is an unreasonable, unwarranted, or unlawful interference with another person's private use and enjoyment of his or her property; whereas a public nuisance is an interference with the rights of the public generally. The test to determine whether an interference is reasonable is whether the gravity of the harm is outweighed by the social benefit of the nuisance.
+
+
+Negligence – failure to exercise the care that a reasonably prudent person would exercise in like circumstances
+
+Duty of care –  Obligation imposed on an individual requiring that they adhere to a reasonable standard of care while performing acts that could possibly harm others.
+Breach of duty –  There can be no liability in negligence unless the claimant established that he or she was owed a duty of care by the defendant and that there has been a breach of that duty.
+Factual causation –  Whether or not a given injury would have occurred without a breach of duty.
+Legal causation or remoteness –  The idea that liability may be so remote from the defendant that the negligence was not foreseeable or preventable by that party.
+Damages –  Places a monetary value on the harm done, following the principle of restitutio in integrum, "restoration to the original condition".
+Negligent Infliction of Emotional Distress - The idea that one has a legal duty to use reasonable care to avoid causing emotional distress to another individual.
+
+
+Attractive nuisance –  A landowner may be liable for injuries to children trespassing on the land if the injury is caused by a hazardous object or condition on the land is likely to attract children.The duty to visitors in tort law is dependent on how the party involved not owning the land has entered the land.
+
+Trespasser –  A person who is trespassing on a property without the permission on the owner.  Conversely, the status of a visitor as a trespasser grants certain rights to the visitor if they are injured due to the negligence of the property owner.
+Licensee –  A person who is on the property of another, despite the fact that the property is not open to the general public; historically, emergency workers have been considered licensees.
+Invitee –  A person who is invited to the land by the possessor of the land, either as a guest or to conduct business.
+
+
+
+Product liability –  The area of law in which products manufacturers, distributors and sellers are held responsible for the injuries caused by their products.  Generally, a product liability claim is based on either a design defect, a manufacturing defect, or a failure to warn.  This topic is closely associated with negligence, breach of warranty and consumer protection.
+Ultrahazardous activity –  An activity so dangerous that a person engaged in such an activity can be held strictly liable for injuries caused to another person, regardless of whether or not reasonable precautions were taken to prevent others from being injured.
+
+
+Comparative negligence –  A partial defense that reduces the amount of damages a plaintiff can claim based upon the degree to which the plaintiff's own negligence contributed to the damages. Most jurisdictions have adopted this doctrine; those not adopting it are Alabama, Maryland, North Carolina, Virginia, And Washington D.C.
+Contributory negligence –  A defense based on negligence of the plaintiff wherein the plaintiff's actions caused the event which drew the suit.  An example of this is a pedestrian crossing a road carelessly and was hit by a driver driving carelessly.
+Last clear chance –  Doctrine under which a plaintiff can recover against comparative and contributory negligence defenses if they can demonstrate that the defendant had the last opportunity to avoid the accident.
+Eggshell skull –  Doctrine under which an individual is held liable for all consequences resulting from his actions even if the victim suffers an unusually high levels of damage (i.e., a pre-existing vulnerability or medical condition).  The term comes an example argument that if a person had a skull as delicate as the shell of an egg, and an assailant was unaware of that condition hit that person on the head and it subsequently broke, the responsible party should be liable for all damages resulting from the content.
+Vicarious liability –  A form of strict secondary liability arising from respondeat superior.  The responsibility of the superior for the acts of their subordinates, under which, they are responsible for negligent acts committed by their employees during the course of their employment.
+Volenti non fit injuria –  Latin for "To a willing person, no injury is done", this common law doctrine means that if someone willingly puts themselves in a position where harm might result, they can not sue if harm occurs.  That is, a boxer consents to being hit, and the injuries related to boxing are thus not actionable (although if his opponent were to hit him with an iron bar, that would be actionable as he did not know such things would occur).
+Ex turpi causa non oritur actio –  "From a dishonorable cause an action does not arise".  In The United States, this legal doctrine is more commonly known as equitability of unclean hands, and it prevents a criminal from bringing a claim against another criminal.
+

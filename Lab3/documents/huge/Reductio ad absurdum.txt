@@ -1,0 +1,31 @@
+In logic, reductio ad absurdum (Latin for "reduction to absurdity"), also known as argumentum ad absurdum (Latin for "argument to absurdity"), apagogical arguments or the appeal to extremes, is a form of argument that attempts either to disprove a statement by showing it inevitably leads to a ridiculous, absurd, or impractical conclusion, or to prove one by showing that if it were not true, the result would be absurd or impossible. Traced back to classical Greek philosophy in Aristotle's Prior Analytics (Greek: ἡ εἰς τὸ ἀδύνατον ἀπόδειξις, lit. 'demonstration to the impossible', 62b), this technique has been used throughout history in both formal mathematical and philosophical reasoning, as well as in debate.
+The "absurd" conclusion of a reductio ad absurdum argument can take a range of forms, as these examples show:
+
+The Earth cannot be flat; otherwise, we would find people falling off the edge.
+There is no smallest positive rational number because, if there were, then it could be divided by two to get a smaller one.The first example argues that denial of the premise would result in a ridiculous conclusion, against the evidence of our senses. The second example is a mathematical proof by contradiction which argues that the denial of the premise would result in a logical contradiction (there is a "smallest" number and yet there is a number smaller than it).
+
+
+This technique is used throughout Greek philosophy, beginning with Presocratic philosophers. The earliest Greek example of a reductio argument is supposedly in fragments of a satirical poem attributed to Xenophanes of Colophon (c. 570 – c. 475 BCE). Criticizing Homer's attribution of human faults to the gods, he states that humans also believe that the gods' bodies have human form. But if horses and oxen could draw, they would draw the gods with horse and oxen bodies. The gods cannot have both forms, so this is a contradiction. Therefore, the attribution of other human characteristics to the gods, such as human faults, is also false.
+The earlier dialogues of Plato (424–348 BCE), relating the debates of his teacher Socrates, raised the use of reductio arguments to a formal dialectical method (elenchus), now called the Socratic method which is taught in law schools.   Typically Socrates' opponent would make an innocuous assertion, then Socrates by a step-by-step train of reasoning, bringing in other background assumptions, would make the person admit that the assertion resulted in an absurd or contradictory conclusion, forcing him to abandon his assertion. The technique was also a focus of the work of Aristotle (384–322 BCE).
+Greek mathematicians proved fundamental propositions utilizing reductio ad absurdum. Euclid of Alexandria (mid-3rd – mid-4th centuries BCE) and Archimedes of Syracuse (c. 287 – c. 212 BCE) are two very early examples.
+
+
+Aristotle clarified the connection between contradiction and falsity in his principle of non-contradiction, which states that a proposition cannot be both true and false.  That is, a proposition 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   and its negation 
+  
+    
+      
+        ¬
+        Q
+      
+    
+    {\displaystyle \lnot Q}
+   (not-Q) cannot both be true.  Therefore if a proposition and its negation can both be derived logically from a premise, it can be concluded that the premise is false. This technique, called proof by contradiction has formed the basis of reductio ad absurdum arguments in formal fields like logic and mathematics.
+

@@ -1,0 +1,8 @@
+ISO 7736 is a standard size for dashboard mounted head units, for car audio. It was originally established by German national organization for standardization, the Deutsches Institut für Normung, as DIN 75490, and is therefore commonly referred to as the DIN size. It was adopted by the International Organization for Standardization in 1984.
+It does not define connectors for car audio, which are defined in ISO 10487.
+Head units come in either single (180 x 50 mm panel) or double DIN (180 x 100.3 mm panel) size. The advantage of double DIN is that it has a larger display, suitable for use with Apple CarPlay or Android Auto.
+
+
+
+		
+

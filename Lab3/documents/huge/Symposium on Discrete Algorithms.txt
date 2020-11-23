@@ -1,0 +1,2 @@
+The Annual ACM-SIAM Symposium on Discrete Algorithms (SODA) is an academic conference in the fields of algorithm design and discrete mathematics. It is considered to be one of the top conferences for research in algorithms. SODA has been organized annually since 1990, typically in January. SODA is jointly sponsored by the ACM Special Interest Group on Algorithms and Computation Theory (SIGACT) and the SIAM Activity Group on Discrete Mathematics, and in format is more similar to a theoretical computer science conference than to a mathematics conference.
+

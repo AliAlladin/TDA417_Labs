@@ -1,0 +1,133 @@
+The roots of the reconstructed Proto-Indo-European language (PIE) are basic parts of words that carry a lexical meaning, so-called morphemes. PIE roots usually have verbal meaning like "to eat" or "to run". Roots never occur alone in the language. Complete inflected verbs, but also nouns and adjectives are formed by adding further morphemes to a root and by changing the root's vowel in a process called ablaut.
+A root consists of a central vowel that is preceded and followed by at least one consonant each. A number of rules have been determined that specify which consonants can occur together, and in which order. Basically, the consonants with the highest sonority (*l, *r, *y, *n) are nearest to the vowel, and the ones with the lowest sonority such as plosives are furthest away, notwithstandig certain exceptions such as thorn clusters.
+Sometimes new roots were created in PIE or its early descendants by various processes such as root extensions (adding a sound to the end of an existing root) or metathesis.
+
+
+Typically, a root plus a suffix forms a stem, and adding an ending forms a word.
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      
+                        r
+                        o
+                        o
+                        t
+                        +
+                        s
+                        u
+                        f
+                        f
+                        i
+                        x
+                      
+                      ⏟
+                    
+                  
+                  
+                    
+                      s
+                      t
+                      e
+                      m
+                    
+                  
+                
+                +
+                
+                  e
+                  n
+                  d
+                  i
+                  n
+                  g
+                
+              
+              ⏟
+            
+          
+          
+            
+              w
+              o
+              r
+              d
+            
+          
+        
+      
+    
+    {\displaystyle \underbrace {\underbrace {\mathrm {root+suffix} } _{\mathrm {stem} }+\mathrm {ending} } _{\mathrm {word} }}
+  
+For example, *bʰéreti "he bears" can be split into the root *bʰer- "to bear", the suffix *-e- "imperfective aspect" and the ending *-ti "present tense, third person singular".The suffix is sometimes missing, which has been interpreted as a zero suffix. Words with zero suffix are termed root verbs and root nouns. An example is *h₁és-mi / *h₁és-∅-mi "I am". Beyond this basic structure, there is the nasal infix which functions as a present tense marker, and reduplication, a prefix with a number of grammatical and derivational functions.
+
+
+
+Verbal suffixes, including the zero suffix, convey grammatical information about tense and aspect, two grammatical categories that are not clearly distinguished. Imperfective (present, durative) and perfective aspect (aorist, punctual) are universally recognised, while some of the other aspects remain controversial. Two of the four moods, the subjunctive and the optative, are also formed with suffixes, which sometimes results in forms with two consecutive suffixes: *bʰér-e-e-ti > *bʰérēti "he would bear", with the first *e being the present tense marker, and the second the subjunctive marker. Reduplication can mark the present and the perfect.Verbal endings convey information about grammatical person, number and voice. The imperative mood has its own set of endings.
+
+
+
+Nouns usually derive from roots or verb stems by suffixation or by other means. (See the morphology of the Proto-Indo-European noun for some examples.) This can hold even for roots that are often translated as nouns: *ped-, for example, can mean "to tread" or "foot", depending on the ablaut grade and ending. Some noun stems like *h₂egʷn-o- "lamb" or *h₂ster- "star", however, do not derive from known verbal roots. In any case, the meaning of a noun is given by its stem, whether this is composed of a root plus a suffix or not. This leaves the ending, which conveys case and number.Adjectives are also derived by suffixation of (usually verbal) roots. An example is *ǵn̥h₁-tó-s "begotten, produced" from the root *ǵenh₁- "to beget, to produce". The endings are the same as with nouns.
+
+
+Infinitives are verbal nouns and, just like other nouns, are formed with suffixes. It is not clear whether any of the infinitive suffixes reconstructed from the daughter languages (*-dʰye-, *-tu-, *-ti-, among others) was actually used to express an infinitive in PIE.Participles are verbal adjectives formed with the suffixes *-ent- (active imperfective and aorist participle), *-wos- (perfect participle) and *-mh₁no- or *-m(e)no- (mediopassive participle), among others.
+
+
+In its base form, a PIE root consists of a single vowel, preceded and followed by consonants. Except for a very few cases, the root is fully characterized by its consonants, while the vowel may change in accordance with inflection or word derivation. Thus, the root *bʰer- can also appear as *bʰor-, with a long vowel as *bʰēr- or *bʰōr-, or even unsyllabic as *bʰr-, in different grammatical contexts. This process is called ablaut, and the different forms are called ablaut grades. The five ablaut grades are the e-grade, o-grade, lengthended e- and o-grades, and the zero-grade that lacks a vowel.In linguistic works, *e is used to stand in for the various ablaut grades that the vowel may appear in. Some reconstructions also include roots with *a as the vowel, but the existence of *a as a distinct vowel is disputed; see Indo-European ablaut: a-grade. The vowel is flanked on both sides by one or more consonants; the preceding consonants are the onset, the following ones are the coda.
+The onset and coda must contain at least one consonant; a root may not begin or end with the ablaut vowel. Consequently, the simplest roots have an onset and coda consisting of one consonant each. Such simple roots are common; examples are: *deh₃- "to give", *bʰer- "to bear", *dʰeh₁- "to put", *dʰew- "to run", *h₁ed- "to eat", *h₂eḱ- "sharp", *ped- "to tread", *sed- "to sit", and *wes- "to clothe". Roots can also have a more complex onset and coda, consisting of a consonant cluster (multiple consonants). These include: *dʰwes- "to breathe", *h₁rewdʰ- "red", *h₂erh₃- "to plough", *h₃reǵ- "straight", *leyǵ- "to bind", *prews- "to freeze", *srew- "to flow", *swep- "to sleep", and *wleykʷ- "to moisten". The maximum number of consonants seems to be five, as in *strengʰ- "to twine".Early PIE scholars reconstructed a number of roots beginning or ending with a vowel. The latter type always had a long vowel (*dʰē- "to put", *bʰwā- "to grow", *dō- "to give"), while this restriction did not hold for vowel-initial roots (*ed- "to eat", *aǵ- "to drive", *od- "to smell"). Laryngeal theory can explain this behaviour by reconstructing a laryngeal following the vowel (*dʰeh₁-, *bʰweh₂-, *deh₃-, resulting in a long vowel) or preceding it (*h₁ed-, *h₂eǵ-, *h₃ed-, resulting in a short vowel). These reconstructions obey the mentioned rules.
+
+
+When the onset or coda of a root contains a consonant cluster, the consonants in this cluster must be ordered according to their sonority. The vowel constitutes a sonority peak, and the sonority must progressively rise in the onset and progressively fall in the coda.
+PIE roots distinguish three main classes of consonants, arranged from high to low sonority:
+Non-labial sonorants *l, *r, *y, *n, denoted collectively as *R.
+Labial sonorants *w, *m, denoted collectively as *M.
+Obstruents, denoted collectively as *C. These include three subgroups:
+Plosives (voiceless *p *t *ḱ *k *kʷ, voiced *b *d *ǵ *g *gʷ and aspirated *bʰ *dʰ *ǵʰ *gʰ *gʷʰ), denoted collectively as *P.
+The sibilant *s.
+The laryngeals *h₁ *h₂ *h₃, denoted collectively as *H.The following rules apply:
+A consonant closer to the main vowel must have a higher sonority than the consonant further away. Thus, consonants in the onset must follow the order *CMR, and the reverse *RMC in the coda, giving *CMReRMC as the full root shape. Roots with a different order of sonority, like **mter- or **resl-, are not allowed.
+Only one member of each sonority class may appear in the onset or coda. Thus, roots like **wmek-, **lekt- or **peyl- are not allowed.Laryngeals can also occur in the coda before a sonorant, as in *peh₂w- "small".
+
+
+The obstruent slot of an onset or coda may consist of multiple obstruents itself. Here, too, only one member of each subgroup of obstruents may appear in the cluster; a cluster may not contain multiple laryngeals or plosives.The rules for the ordering within a cluster of obstruents are somewhat different, and do not fit into the general sonority hierarchy:
+
+Only voiceless plosives occur when preceded by *s in the onset.
+A laryngeal may appear before or after any obstruent other than another laryngeal. Examples are *keh₂p- "to grab", *peth₂- "to fly", *h₂sews- "to dry", *sh₂ew- "to pour, rain", *h₁ger- "to awake", and *th₂ews- "to be silent".In several roots, a phenomenon called s-mobile occurs, where some descendants include a prepended *s while other forms lack it. There does not appear to be any particular pattern; sometimes forms with *s and without it even occur side by side in the same language.
+
+
+PIE abided by the general cross-linguistic constraint against the co-occurrence of two similar consonants in a word root. In particular, no examples are known of roots containing two plain voiced plosives (**ged-) or two glides (**ler-). A few examples of roots with two fricatives or two nasals (*h₂eh₃- "to burn", *nem- "to give, to take" etc.) can be reconstructed, but they were rare as well. An exception, however, were the voiced aspirated and voiceless plosives, which relatively commonly co-occurred (e.g. *dʰegʷʰ- "to burn", *peth₂- "to fly"). In particular, roots with two voiced aspirates were more than twice as common than could be expected to occur by chance.An additional constraint prohibited roots containing both a voiced aspirated and a voiceless plosive (**tebʰ-), unless the latter occurs in a word-initial cluster after an *s (e.g. *stebʰ- "to stiffen"). Taken together with the abundance of *DʰeDʰ-type roots, it has been proposed that this distribution results from a limited process of voice assimilation in pre-PIE, where a voiceless stop was assimilated to a voiced aspirate, if another one followed or preceded within a root.
+
+
+Thorn clusters are sequences of a dental (*t, *d, *dʰ) plus a velar plosive (*k, *g, *gʰ etc.). Their role in PIE phonotactics is unknown. Roots like *dʰgʷʰey- "to perish" apparently violate the phonotactical rules, but are quite common.
+Some roots cannot be reconstructed with an ablauting *e, an example being *bʰuh₂- "to grow, to become". Such roots can be seen as generalized zero grades of unattested forms like **bʰweh₂-, and thus follow the phonotactical rules.Some roots like *pster- "to sneeze" or *pteh₂k- "to duck" do not appear to follow these rules. This might be due to incomplete understanding of PIE phonotactics or to wrong reconstructions. *pster-, for example, might not have existed in PIE at all, if the Indo-European words usually traced back to it are onomatopoeias.
+
+
+The meaning of a reconstructed root is conventionally that of a verb; the terms root and verbal root are almost synonymous in PIE grammar. This is because, apart from a limited number of so-called root nouns, PIE roots overwhelmingly participate in verbal inflection through well-established morphological and phonological mechanisms. Their meanings are not always directly reconstructible, due to semantic shifts that led to discrepancies in the meanings of reflexes in the attested daughter languages. Many nouns and adjectives are derived from verbal roots via suffixes and ablaut.Nevertheless, some roots did exist that did not have a primary verbal derivation. Apart from the aforementioned root nouns, the most important of these were the so-called Caland roots, which had adjectival meaning. Such roots generally formed proterokinetic adjectives with the suffix *-u-, thematic adjectives in *-ró- and compounding stems in *-i-. They included at least *h₁rewdʰ- "red", *h₂erǵ- "white", *dʰewb- "deep" and *gʷreh₂- "heavy".Verbal roots were inherently either imperfective or perfective. To form a verb from the root's own aspect, verb endings were attached directly to the root, either with or without a thematic vowel. The "other" aspect, if it was needed, would then be a so-called "characterised" stem, as detailed in Proto-Indo-European verb. The characterised imperfective stems are often different in different descendants, but with no association between certain forms and the various branches of Indo-European, which suggests that a number of aspects fell together before PIE split up.
+
+
+Roots were occasionally created anew within PIE or its early descendants. A variety of methods have been observed.
+
+
+Root extensions are additions of one or two sounds, often plosives, to the end of a root. These extensions do not seem to change the meaning of a root, and often lead to variant root forms across different descendants. The source and function of these extensions is not known.For *(s)tew- 'to push, hit, thrust', we can reconstruct:
+*(s)tewk- > Ancient Greek τύκος (túkos) "hammer"
+*(s)tewk- > Russian стуκ (stuk) and сту́κать (stúkat´) "knock" and "to knock"
+*(s)tewg- > English stoke (Germanic k goes back to PIE *g.)
+*(s)tewd- > Vedic tudáti "beats"
+
+
+When the root contains a sonorant, the zero grade is ambiguous as to whether the sonorant should be placed before the ablaut vowel or after it. Speakers occasionally analysed such roots the "wrong" way, and this has led to some roots being created from existing ones by swapping the position of the sonorant.An example of such a pair of roots, both meaning "to increase, to enlarge":
+
+*h₂weg- > Gothic wahsjan "to grow", Ancient Greek αὔξω (aúxō) "to increase".
+*h₂ewg- > Gothic aukan "to increase, to grow", Latin augeō "to increase", Lithuanian áugti "to grow".Another example concerns the root "sky", which formed a vṛddhi derivative in this way:
+*dyew- > Ancient Greek Ζεύς (Zeús), Latin diēs "day", Sanskrit dyú "sky, day".
+*deyw- > Latin dīvus "divine", Old Prussian deiwis, Sanskrit devá "deity".
+
+
+Sometimes, commonly used words became the template for a new root that was back-formed from the word, different from the root from which the word was originally formed. For example, the ablauting noun *h₂óy-u ~ *h₂y-éw- "lifetime" was formed as a u-stem derivative of the root *h₂ey-. The oblique stem alternant *h₂yéw- was then reinterpreted as the e-grade of a new root, which formed a new neuter s-stem *h₂yéw-os ~ *h₂yéw-es-, a formation which is only created from roots.
+

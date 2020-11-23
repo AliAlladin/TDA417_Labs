@@ -1,0 +1,111 @@
+The J programming language, developed in the early 1990s by Kenneth E. Iverson and Roger Hui, is a synthesis of APL (also by Iverson) and the FP and FL function-level languages created by John Backus.To avoid repeating the APL special-character problem, J uses only the basic ASCII character set, resorting to the use of the dot and colon as inflections to form short words similar to digraphs. Most such primary (or primitive) J words serve as mathematical symbols, with the dot or colon extending the meaning of the basic characters available.  Also, many characters which in other languages often must be paired (such as [] {} "" `` or <>) are treated by J as stand-alone words or, when inflected, as single-character roots of multi-character words.
+J is a very terse array programming language, and is most suited to mathematical and statistical programming, especially when performing operations on matrices. It has also been used in extreme programming and network performance analysis.Like the original FP/FL languages, J supports function-level programming via its tacit programming features.
+Unlike most languages that support object-oriented programming, J's flexible hierarchical namespace scheme (where every name exists in a specific locale) can be effectively used as a framework for both class-based and prototype-based object-oriented programming.
+Since March 2011, J is free and open-source software under the GNU General Public License version 3 (GPLv3). One may also purchase source under a negotiated license.
+
+
+J permits point-free style and function composition. Thus, its programs can be very terse and are considered difficult to read by some programmers.
+The "Hello, World!" program in J is
+
+  'Hello, world!'
+
+This implementation of hello world reflects the traditional use of J – programs are entered into a J interpreter session, and the results of expressions are displayed.  It's also possible to arrange for J scripts to be executed as standalone programs.  Here's how this might look on a Unix system:
+
+Historically, APL used / to indicate the fold, so +/1 2 3 was equivalent to 1+2+3.  Meanwhile, division was represented with the classic mathematical division symbol (the obelus, ÷), which was implemented by overstriking a minus sign and a colon (on both EBCDIC and ASCII paper text terminals). Because ASCII in general does not support overstrikes in a device-independent way, and does not include a division symbol per se, J uses % to represent division, as a visual approximation or reminder. (This illustrates something of the mnemonic character of J's tokens, and some of the quandaries imposed by the use of ASCII.)
+Defining a J function named avg to calculate the average of a list of numbers yields:
+
+  avg=: +/ % #
+
+This is a test execution of the function:
+
+  avg 1 2 3 4
+2.5
+
+# counts the number of items in the array. +/ sums the items
+of the array. % divides the sum by the number of items. Above, avg is defined using a train of three verbs (+/, %, and #) termed a fork.  Specifically (V0 V1 V2) Ny is the same as (V0(Ny)) V1 (V2(Ny)) which shows some of the power of J. (Here V0, V1, and V2 denote verbs and Ny denotes a noun.)
+Some examples of using avg:
+
+  v=: ?. 20 $100     NB. a random vector
+  v
+46 55 79 52 54 39 60 57 60 94 46 78 13 18 51 92 78 60 90 62
+  avg v
+59.2
+
+  4 avg\ v            NB. moving average on periods of size 4
+58 60 56 51.25 52.5 54 67.75 64.25 69.5 57.75 38.75 40 43.5 59.75 70.25 80 72.5
+
+  m=: ?. 4 5 $50     NB. a random matrix
+  m
+46  5 29  2  4
+39 10  7 10 44
+46 28 13 18  1
+42 28 10 40 12
+
+  avg"1 m             NB. apply avg to each rank 1 subarray (each row) of m
+17.2 22 21.2 26.4
+
+Rank is a crucial concept in J.  Its significance in J is similar to the significance of select in SQL and of while in C.
+Implementing quicksort, from the J Dictionary yields:
+
+The following is an implementation of quicksort demonstrating tacit programming. The later involves composing functions together and not referring explicitly to any variables.  J's support for forks and hooks dictates rules on how arguments applied to this function will be applied to its component functions.
+
+Sorting in J is usually accomplished using the built-in (primitive) verbs /: (sort up) and \: (sort down). User-defined sorts such as quicksort, above, typically are for illustration only.
+The following example demonstrates the usage of the self-reference verb $: to recursively calculate fibonacci numbers:
+
+This recursion can also be accomplished by referring to the verb by name, although this is of course only possible if the verb is named:
+
+The following expression exhibits pi with n digits and demonstrates the extended precision abilities of J:
+
+  n=: 50                      NB. set n as the number of digits required
+  <.@o. 10x^n                 NB. extended precision 10 to the nth * pi
+314159265358979323846264338327950288419716939937510
+
+
+J supports three simple types:
+
+Numeric
+Literal (Character)
+BoxedOf these, numeric has the most variants.
+One of J's numeric types is the bit.  There are two bit values: 0, and 1.  Also, bits can be formed into lists.  For example,  1 0 1 0 1 1 0 0  is a list of eight bits.  Syntactically, the J parser treats that as one word. (The space character is recognized as a word-forming character between what would otherwise be numeric words.)  Lists of arbitrary length are supported.
+Further, J supports all the usual binary operations on these lists, such as and, or, exclusive or, rotate, shift, not, etc.  For example,
+
+  1 0 0 1 0 0 1 0 +. 0 1 0 1 1 0 1 0     NB. or
+1 1 0 1 1 0 1 0
+
+  3 |. 1 0 1 1 0 0 1 1 1 1 1             NB. rotate
+1 0 0 1 1 1 1 1 1 0 1
+
+J also supports higher order arrays of bits. They can be formed into two-dimensional, three-dimensional, etc. arrays. The above operations perform equally well on these arrays.
+Other numeric types include integer (e.g., 3, 42), floating point (3.14, 8.8e22), complex (0j1, 2.5j3e88), extended precision integer (12345678901234567890x), and (extended precision) rational fraction (1r2, 3r4).  As with bits, these can be formed into lists or arbitrarily dimensioned arrays.  As with bits, operations are performed on all numbers in an array.
+Lists of bits can be converted to integer using the #. verb.  Integers can be converted to lists of bits using the #: verb.  (When parsing J, . (period) and : (colon) are word-forming characters.  They are never tokens alone, unless preceded by whitespace characters.)
+J also supports the literal (character) type.  Literals are enclosed in quotes, for example, 'a' or 'b'.  Lists of literals are also supported using the usual convention of putting multiple characters in quotes, such as 'abcdefg'.  Typically, individual literals are 8-bits wide (ASCII), but J also supports other literals (Unicode).  Numeric and boolean operations are not supported on literals, but collection-oriented operations (such as rotate) are supported.
+Finally, there is a boxed data type.  Typically, data is put in a box using the < operation (with no left argument; if there's a left argument, this would be the less than operation).  This is analogous to C's & operation (with no left argument).  However, where the result of C's & has reference semantics, the result of J's < has value semantics.  In other words, < is a function and it produces a result.  The result has 0 dimensions, regardless of the structure of the contained data.  From the viewpoint of a J programmer, < puts the data into a box and allows working with an array of boxes (it can be assembled with other boxes, and/or more copies can be made of the box).
+
+  <1 0 0 1 0
++---------+
+|1 0 0 1 0|
++---------+
+
+The only collection type offered by J is the arbitrarily dimensioned array.  Most algorithms can be expressed very concisely using operations on these arrays.
+J's arrays are homogeneously typed, for example the list  1 2 3  is a list of integers despite  1  being a bit.  For the most part, these sorts of type issues are transparent to programmers.  Only certain specialized operations reveal differences in type.  For example, the list  1.0  0.0 1.0 0.0  would be treated exactly the same, by most operations, as the list  1 0 1 0 .
+J also supports sparse numeric arrays where non-zero values are stored with their indices.  This is an efficient mechanism where relatively few values are non-zero.
+J also supports objects and classes, but these are an artifact of the way things are named, and are not data types.  Instead, boxed literals are used to refer to objects (and classes).  J data has value semantics, but objects and classes need reference semantics.Another pseudo-type—associated with name, rather than value—is the memory mapped file.
+
+
+J's documentation includes a dictionary, with words in J identified as nouns, verbs, modifiers, and so on. Primary words are listed in the vocabulary, in which their respective parts of speech are indicated using markup. Note that verbs have two forms: monadic (arguments only on the right) and dyadic (arguments on the left and on the right). For example, in '-1' the hyphen is a monadic verb, and in '3-2' the hyphen is a dyadic verb. The monadic definition is mostly independent of the dyadic definition, regardless of whether the verb is a primitive verb or a derived verb.
+
+
+J provides control structures (details here) similar to other procedural languages. Prominent control words in each category include:
+
+assert.
+break.
+continue.
+for.
+goto_label.
+if. else. elseif.
+return.
+select. case.
+throw.
+try. catch.
+while. whilst.
+

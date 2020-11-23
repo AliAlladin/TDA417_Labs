@@ -1,0 +1,16 @@
+Metric typographic units have been devised and proposed several times to overcome the various traditional point systems. After the French revolution of 1789 one popular proponent of a switch to metric was Didot, who had been able to standardise the continental European typographic measurement a few decades earlier. The conversion did not happen, though. The Didot point was metrically redefined as ​1⁄2660 m (≈ 0.376 mm)  in 1879 by Berthold.
+The advent and success of desktop publishing (DTP) software and word processors for office use, coming mostly from the non-metric United States, basically revoked this metrication process in typography. DTP commonly uses the PostScript point, which is defined as ​1⁄72 of an inch (352.(7) μm).
+
+
+With the introduction of phototypesetting in the 1970s metric units were increasingly used in typography. The Didot point was redefined once again to 375 μm exactly (​3⁄8 mm). 
+
+
+Also in the 1970s, the new unit quart (quarter millimetre, abbreviated ‘q’) of 250 μm (​1⁄4 mm) was devised. The German draft standard DIN 16507-2 has suggested that digital typography will be specified using millimeters, with sizes in multiples of 0.250  mm. In some special cases where finer resolution is required, it is permitted with sizes in multiples of 0.100 or 0.050 mm (respectively 2.5 and 5 times finer step sizes).German graphic designer and typographer Otl Aicher (1922 – 1991) vividly encouraged the use of the quart, and provided a suggested list of common sizes:
+
+Note that Aicher’s font sizes are based on the DIN standard then in development, which uses the H-height, whereas in lead typesetting the larger cap height was used. Some typographers have proposed using the x-height instead, because the psychological size depends more on the size of default, lowercase letters.
+
+
+The resolution of computer screens is often denoted in millimetres pitch, whereas office printers are usually denoted reciprocally in dots per inch (‘dpi’, ‘d/in’). Phototypesetters have long used micrometres. 
+To convert dpi resolution to μm resolution, the formula to be used is ​25400⁄R, where R is the resolution in dpi. So for example 96 dpi translates to a resolution of 265 μm.
+The CSS3 media queries draft introduces the unit dots per centimetre (dpcm) for resolution.
+

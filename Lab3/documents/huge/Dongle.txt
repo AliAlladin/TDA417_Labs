@@ -1,0 +1,39 @@
+A dongle is a small piece of computer hardware that connects to a port on another device to provide it with additional functionality, or enable a pass-through to such a device that adds functionality.In computing, the term was initially synonymous with software protection dongles—a form of hardware digital rights management where a piece of software will only operate if a specified dongle—which typically contains a license key or some other cryptographic protection mechanism—is plugged into the computer while it is running.
+The term has since been applied to other forms of devices with a similar form factor, such as adapters that convert ports to handle different types of connectors (such as DVI to VGA for displays, USB to serial connection, and in modern computing, USB-C to other types of ports, and Mobile High-Definition Link), USB wireless adapters for standards such as Bluetooth and Wi-Fi (the term "stick" or "key" is more commonly used to describe USB flash drives, as well as modern forms of dongles with slimmer form factors more akin to flash drives), and small form-factor digital media players that plug into HDMI ports.
+
+
+
+There are varying accounts on the etymology of the word "dongle"; in a 1999 paper, P. B. Schneck stated that the origin was unclear, but that it was possibly a corruption of the word "dangle" (since these devices "dangle" from a port on a PC).A 1992 Byte magazine advertisement by Rainbow Technologies claimed that dongles were invented by and named after a person named "Don Gall", which spawned an urban legend. Linguist Ben Zimmer noted that the claim was likely a by-product of their "tongue-and-cheek" marketing style, and "was so egregiously false that the company happily owned up to it as a marketing ploy when pressed by Eric S. Raymond, who maintains the Jargon File, an online lexicon of hacker slang."
+
+
+
+
+Security dongles are typically used to help prevent unauthorized use and copying of certain forms of software. Initially using ports such as the serial port or parallel port, most are now in USB format.
+On the other hand, some unlicensed game cartridges have a "daisy chain" that allows licensed games to pass along their authorization, for instance to circumvent the 10NES chip on the Nintendo Entertainment System.
+
+
+
+In the mid-to-late 2010s, the dongle form factor was extended to digital media players with a small, stick-like form factor — such as Chromecast and Fire TV Stick — that are designed to plug directly into an HDMI port on a television or AV receiver (powered via Micro USB connection to the television itself or an AC adapter), in contrast to a larger set-top box-style device. Single-board computers, such as the Intel Compute Stick, have also been produced in a similar means.
+
+
+Very short cables that connect relatively large jacks to smaller plugs allowing cables to be easily installed and removed from equipment with limited space available for connectors.  The Chromecast device mentioned above, for example, comes with a short HDMI extension cable to allow its use in cramped quarters. Some devices come with a permanently attached length of cable that negates the need for a short adapter cable.
+
+
+Cassette adapters enable cassette-radios to allow AUX in, like with iPod/MP3 player/smartphone/portable CD player.
+Personal FM transmitters allow content from a portable media player, portable CD player, smartphone, portable cassette player, or other portable audio system to be heard on an FM radio.
+IDE/PATA connectivity can be re-channeled with some dongles:
+Floppy disk drives have been emulated on solid-state "dongles" to ensure legacy recognition, allowing SD cards to serve software to old Commodore 64 and Apple II era computers.
+Allows SD cards to be recognized as "hard drives" on old DOS computers
+Old school video game consoles:
+The Everdrive series of game cartridges has enabled classic systems such as the Sega Mega Drive and Nintendo 64 to allow one cartridge to have a number of games that were formerly on multiple cartridges of their own, by use of an SD card with ROMs on them; since it can allow a real game console to access ROMs, which an emulator would normally do.
+The Sega 32X was an add-on for the Sega Megadrive which allowed a 32-bit library of games to play on a system that was normally just 16-bit, though it suffered from having its own AC adapter in order to work.
+The Nintendo DS contains a cartridge slot used primarily for Game Boy and Game Boy Advance games, but was also used as a slot for add-on dongles such as the Rumble Pak.
+USB host connectivity grants more flexibility to computer-based devices
+Bluetooth
+legacy game controllers have special adapters
+SD card readers
+Flash drives
+Mobile broadband modems
+Older cars that "externalized" their CD players and changers from the head unit can now use "emulators" that allow USB and SD cards with MP3s and other audio files to be recognized as "tracks" to the CD control unit circuitry.
+Adapters that convert miniature implementations of an interface to the full-sized equivalent, or are required to provide the electrical and mechanical interfaces for expansion cards that cannot physically accommodate them (such as PCMCIA, Compact Flash and ExpressCard expansion cards which are just millimetres thick, too small for a standard connector without having the connector and housing extend beyond the dimensions specified by the standard). Although commonly referred to as "dongles", the alternative term "Pig-tail" is favoured by some in the IT industry, due to the appearance of a full-sized connection element, with a short, thin wire extending, somewhat reminiscent of the rear of porcine animals. The term is somewhat descriptive, and allows one to avoid using the word dongle except for its original meaning.
+

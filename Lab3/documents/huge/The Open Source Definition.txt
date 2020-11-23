@@ -1,0 +1,28 @@
+The Open Source Definition is a document published by the Open Source Initiative, to determine whether a software license can be labeled with the open-source certification mark.The definition was taken from the exact text of the Debian Free Software Guidelines, written and adapted primarily by Bruce Perens with input from the Debian developers on a private Debian mailing list. The document was created 9 months before the formation of the Open Source Initiative.
+
+
+Open source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria:
+
+Free Redistribution The license shall not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license shall not require a royalty or other fee for such sale.
+Source Code The program must include source code, and must allow distribution in source code as well as compiled form. Where some form of a product is not distributed with source code, there must be a well-publicized means of obtaining the source code for no more than a reasonable reproduction cost preferably, downloading via the Internet without charge. The source code must be the preferred form in which a programmer would modify the program. Deliberately obfuscated source code is not allowed. Intermediate forms such as the output of a preprocessor or translator are not allowed.
+Derived Works The license must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software.
+Integrity of The Author's Source Code The license may restrict source-code from being distributed in modified form only if the license allows the distribution of "patch files" with the source code for the purpose of modifying the program at build time. The license must explicitly permit distribution of software built from modified source code. The license may require derived works to carry a different name or version number from the original software.
+No Discrimination Against Persons or Groups The license must not discriminate against any person or group of persons.
+No Discrimination Against Fields of Endeavor The license must not restrict anyone from making use of the program in a specific field of endeavor. For example, it may not restrict the program from being used in a business, or from being used for genetic research.
+Distribution of License The rights attached to the program must apply to all to whom the program is redistributed without the need for execution of an additional license by those parties.
+License Must Not Be Specific to a Product The rights attached to the program must not depend on the program's being part of a particular software distribution. If the program is extracted from that distribution and used or distributed within the terms of the program's license, all parties to whom the program is redistributed should have the same rights as those that are granted in conjunction with the original software distribution.
+License Must Not Restrict Other Software The license must not place restrictions on other software that is distributed along with the licensed software. For example, the license must not insist that all other programs distributed on the same medium must be open-source software.
+License Must Be Technology-Neutral No provision of the license may be predicated on any individual technology or style of interface.
+
+
+
+
+The open source movement's definition of open source software by the Open Source Initiative and the official definitions of free software by the Free Software Foundation (FSF) basically refer to the same software licenses (with a few minor exceptions see Comparison of free and open-source software licenses), both definitions stand therefore for the same qualities and values. Despite that, FSF founder Richard Stallman stresses underlying philosophical differences when he comments:
+
+The term “open source” software is used by some people to mean more or less the same category as free software. It is not exactly the same class of software: they accept some licences that we consider too restrictive, and there are free software licences they have not accepted. However, the differences in extension of the category are small: nearly all free software is open source, and nearly all open source software is free.
+
+
+Open Knowledge International (OKI) described in their Open Definition for open content, open data, and open licenses, "open/free" as synonymous in the definitions of open/free in the Open Source Definition, the FSF and the Definition of Free Cultural Works:
+
+This essential meaning matches that of "open" with respect to software as in the Open Source Definition and is synonymous with “free” or “libre” as in the Free Software Definition and Definition of Free Cultural Works.
+

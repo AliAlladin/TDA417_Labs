@@ -1,0 +1,35 @@
+Mail fraud and wire fraud are federal crimes in the United States that involve mailing or electronically transmitting something associated with fraud. Jurisdiction is claimed by the federal government if the illegal activity crosses interstate or international borders.
+
+
+18 U.S.C. § 1341 provides:
+
+Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, or to sell, dispose of, loan, exchange, alter, give away, distribute, supply, or furnish or procure for unlawful use any counterfeit or spurious coin, obligation, security, or other article, or anything represented to be or intimated or held out to be such counterfeit or spurious article, for the purpose of executing such scheme or artifice or attempting so to do, places in any post office or authorized depository for mail matter, any matter or thing whatever to be sent or delivered by the Postal Service, or deposits or causes to be deposited any matter or thing whatever to be sent or delivered by any private or commercial interstate carrier, or takes or receives therefrom, any such matter or thing, or knowingly causes to be delivered by mail or such carrier according to the direction thereon, or at the place at which it is directed to be delivered by the person to whom it is addressed, any such matter or thing, shall be fined under this title or imprisoned not more than 20 years, or both. If the violation occurs in relation to, or involving any benefit authorized, transported, transmitted, transferred, disbursed, or paid in connection with, a Presidential declared major disaster or emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)), or affects a financial institution, such person shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
+
+
+18 U.S.C. § 1343 provides:
+
+Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, transmits or causes to be transmitted by means of wire, radio, or television communication in interstate or foreign commerce, any writings, signs, signals, pictures, or sounds for the purpose of executing such scheme or artifice, shall be fined under this title or imprisoned not more than 20 years, or both. If the violation affects a financial institution, such person shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
+
+
+
+18 U.S.C. § 1346 provides:
+
+For the purposes of this chapter, the term "scheme or artifice to defraud" includes a scheme or artifice to deprive another of the intangible right of honest services.
+
+
+There are three elements to mail and wire fraud:
+
+A mail or wire communication
+a scheme and Intent to defraud someone
+a material deceptionMail fraud applies only to United States domestic mailings and use of interstate carriers (UPS, FedEx) which must originate in one state, and successfully terminate pursuant to the address label inside another state, a transportation that is termed "interstate" (over which Congress has power to regulate) and does require that the mailing cross at least one state line into another state;  wire fraud has been expanded by Congress to include foreign wire communication or interstate connections via (e.g.) an e-mail server or telephone switch or radio communication.
+
+
+In McNally v. United States (1987), the Supreme Court held that 18 U.S.C. §§ 1341 and 1343 did not reach honest services fraud. Congress responded by passing 18 U.S.C. § 1346. In Skilling v. United States (2010), the Court construed § 1346 to apply only to bribes and kickbacks.
+
+
+There are many types of mail fraud schemes, including employment fraud, financial fraud, fraud against older Americans, sweepstakes and lottery fraud, and telemarketing fraud. Additional information about these various types of mail fraud schemes can be found on the United States Postal Inspection Service website.In the 1960s and 1970s, Chief Postal Inspector Martin McGee, also known as "The Top Sleuth" or "Mr. Mail Fraud", led his department in exposing and prosecuting numerous mail fraud swindles such as land sales, phony advertising practices, insurance ripoffs, and fraudulent charitable organizations that used the mail to facilitate their illegal activities.
+
+
+The scope of 18 U.S.C. §1341 and 18 U.S.C. §1343 is broad. These statutes have been held by the Supreme Court to encompass "everything designed to defraud by representations as to the past or present, or suggestions and promises as to the future." Lower courts have progressively expanded this ruling, finding that the law "puts its imprimatur on the accepted moral standards and condemns conduct which fails to match the 'reflection of moral uprightness, of fundamental honesty, fair play and right dealing in the general and business life of members of society'". As interpreted, these requirements are not difficult to meet; the Justice Department claims to defer federal prosecution for petty local fraud.
+In 1987, the Supreme Court of the United States ruled in McNally v. United States to narrow the scope of the mail and wire fraud statutes, ruling that the statute pertained only to schemes to defraud victims of tangible property, including money. In 1988, Congress enacted a new law that specifically criminalized schemes to defraud victims of "the intangible right of honest services" (honest services fraud).
+

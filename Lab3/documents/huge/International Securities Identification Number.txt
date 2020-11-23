@@ -1,0 +1,91 @@
+An International Securities Identification Number (ISIN) uniquely identifies a security. Its structure is defined in ISO 6166. The ISIN code is a 12-character alphanumeric code that serves for uniform identification of a security through normalization of the assigned National Number, where one exists, at trading and settlement.
+
+
+ISINs were first used in 1981, but didn't reach wide acceptance until 1989, when the G30 countries recommended adoption. The ISIN was endorsed a year later by ISO with the ISO 6166 standard.
+Initially information was distributed via CD-ROMs and this was later replaced by distribution over the internet.
+In 2004 the European Union mandated the use of instrument identifiers in some of its regulatory reporting, which included ISIN as one of the valid identifiers.
+
+
+ISO 6166 (or ISO6166:2013 as of the 2013 revision) defines the structure of an International Securities Identification Number (ISIN). An ISIN uniquely identifies a fungible security.
+Securities with which ISINs can be used are:
+
+Equities (shares, units, depository receipts)
+Debt instruments (bonds and debt instruments other than international, international bonds and debt instruments, stripped coupons and principal, treasury bills, others)
+Entitlements (rights, warrants)
+Derivatives (options, futures)
+Others (commodities, currencies, indices, interest rates)ISINs consist of two alphabetic characters, which are the ISO 3166-1 alpha-2 code for the issuing country, nine alpha-numeric characters (the National Securities Identifying Number, or NSIN, which identifies the security, padded as necessary with leading zeros), and one numerical check digit. They are thus always 12 characters in length. When the NSIN changes due to corporate actions or other reasons, the ISIN will also change. Issuance of ISINs is decentralized to individual national numbering agencies (NNAs). Since existing national numbering schemes administered by the various NNAs form the basis for ISINs, the methodology for assignment is not consistent across agencies globally.
+An ISIN cannot specify a particular trading location, or another identifier, typically a MIC (Market Identifier Code) or the three-letter exchange code, will have to be specified in addition to the ISIN. The currency of the trade will also be required to uniquely identify the instrument using this method.
+
+
+Since 1989, when ISINs were introduced, they have slowly gained traction worldwide in their usage.
+ISINs are being introduced worldwide and are the most popular global securities identifier. Trading, clearing and settlement systems in many countries have adopted ISINs as a secondary measure of identifying securities. Some countries, mainly in Europe, have moved to using the ISIN as their primary means of identifying securities. In addition new European regulations such as Solvency II increasingly require the ISIN to be reported.
+
+
+The ISIN is generally included in services sold by financial data vendors and intermediaries. These services are normally paid services as more value added data is included with the information. In general, the issuer of a security will include the ISIN in issuance papers or other documentation for identification purposes.
+
+
+In 2009, Standard & Poor's was formally charged by the European Commission (EC) with abusing its position in licensing international securities identification codes for United States securities by requiring European financial firms and data vendors to pay licensing fees for their use. "This behaviour amounts to unfair pricing", the EC said in its statement of objections which lays the groundwork for an adverse finding against S&P. "The (numbers) are indispensable for a number of operations that financial institutions carry out – for instance, reporting to authorities or clearing and settlement – and cannot be substituted”.In 2011, Standard and Poor's provided six undertakings to the European Commission to remedy the situation. The agreement is applicable to all consuming companies in the European Economic Area. These expired at the end of 2016.
+
+
+The examples below describes one approach for applying the Luhn algorithm on two different ISINs. The difference in the two examples has to do with if there are an odd or even number of digits after converting letters to number. Since the NSIN element can be any alpha numeric sequence (9 characters), an odd number of letters will result in an even number of digits and an even number of letters will result in an odd number of digits. For an odd number of digits, the approach in the first example is used. For an even number of digits, the approach in the second example is used. The Luhn algorithm can also be applied in the same manner for both types or lengths (alternating multiply the string of digits by 1 and 2, starting from the end of the string), being more generic.
+
+
+Apple, Inc.: ISIN US0378331005, expanded from CUSIP 037833100
+The main body of the ISIN is the original CUSIP, assigned in the 1970s. The country code "US" has been added on the front, and an additional check digit at the end. The country code indicates the country of issue. The check digit is calculated using the Luhn algorithm.
+Convert any letters to numbers:
+U = 30, S = 28. US037833100 -> 30 28 037833100 
+Collect odd and even characters:
+3028037833100 = (3, 2, 0, 7, 3, 1, 0), (0, 8, 3, 8, 3, 0)
+Multiply the group containing the rightmost character (which is the FIRST group) by 2:
+(6, 4, 0, 14, 6, 2, 0)
+Add up the individual digits:
+(6 + 4 + 0 + (1 + 4) + 6 + 2 + 0) + (0 + 8 + 3 + 8 + 3 + 0) = 45
+Take the 10s modulus of the sum:
+45 mod 10 = 5
+Subtract from 10:
+10 − 5 = 5
+Take the 10s modulus of the result (this final step is important in the instance where the modulus of the sum is 0, as the resulting check digit would be 10).
+5 mod 10 = 5
+So the ISIN check digit is five.
+
+
+TREASURY CORP VICTORIA 5 3/4% 2005-2016: ISIN AU0000XVGZA3.
+The check digit is calculated using the Luhn algorithm.
+Convert any letters to numbers:
+A = 10, G = 16, U = 30, V = 31, X = 33, Z = 35. AU0000XVGZA -> 10 30 0000 33 31 16 35 10.
+Collect odd and even characters:
+103000003331163510 = (1, 3, 0, 0, 3, 3, 1, 3, 1), (0, 0, 0, 0, 3, 1, 6, 5, 0)
+Multiply the group containing the rightmost character (which is the SECOND group) by 2:
+(0, 0, 0, 0, 6, 2, 12, 10, 0)
+Add up the individual digits:
+(1 + 3 + 0 + 0 + 3 + 3 + 1 + 3 + 1) + (0 + 0 + 0 + 0 + 6 + 2 + (1 + 2) + (1 + 0) + 0) = 27
+Take the 10s modulus of the sum:
+27 mod 10 = 7
+Subtract from 10:
+10 − 7 = 3
+Take the 10s modulus of the result (this final step is important in the instance where the modulus of the sum is 0, as the resulting check digit would be 10).
+3 mod 10 = 3
+So the ISIN check digit is three.
+
+
+BAE Systems: ISIN GB0002634946, expanded from SEDOL 000263494
+The main body is the SEDOL, padded on the front with the addition of two zeros. The country code "GB" is then added on the front, and the check digit on the end as in the example above.
+
+
+The Treasury Corporation of Victoria ISIN illustrates a flaw in ISIN's check digit algorithm which allows transposed letters: Suppose the ISIN was mis-typed as AU0000VXGZA3 (instead of AU0000XVGZA3)
+A = 10, G = 16, U = 30, V = 31, X = 33, Z = 35. "AU0000VXGZA" -> 10 30 00 00 31 33 16 35 10".
+Collect odd and even characters:
+103000003133163510 = (1, 3, 0, 0, 3, 3, 1, 3, 1), (0, 0, 0, 0, 1, 3, 6, 5, 0)
+Multiply the group containing the rightmost character (which is the SECOND group) by 2:
+(0, 0, 0, 0, 2, 6, 12, 10, 0)
+Add up the individual digits:
+(1 + 3 + 0 + 0 + 3 + 3 + 1 + 3 + 1) + (0 + 0 + 0 + 0 + 2 + 6 + (1 + 2) + (1 + 0) + 0) = 27
+Take the 10s modulus of the sum:
+27 mod 10 = 7
+Subtract from 10:
+10 − 7 = 3
+Take the 10s modulus of the result (this final step is important in the instance where the modulus of the sum is 0, as the resulting check digit would be 10).
+3 mod 10 = 3
+So the ISIN check digit is still three even though two letters have been transposed.
+Such flaw against a single transposed pair of letters or digits would have been avoided using two check digits instead of just one (i.e., a 97 modulus instead of the 10 modulus, like in IBAN numbers which may also mix letters and digits). Some protocols require the transmission of additional check digits added to the full ISIN number.
+

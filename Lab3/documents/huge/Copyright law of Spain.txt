@@ -1,0 +1,219 @@
+Spanish copyright law governs copyright (Spanish: derechos de autor), that is the rights of authors of literary, artistic or scientific works, in Spain. It was first instituted by the Law of 10 January 1879,[1] and, in its origins, was influenced by French copyright law and by the movement led by Victor Hugo for the international protection of literary and artistic works. As of 2006, the principal dispositions are contained in Book One of the Intellectual Property Law of 11 November 1987 as modified.[2] A consolidated version of this law was approved by Royal Legislative Decree 1/1996 of 12 April 1996:[3] unless otherwise stated, all references are to this law.
+
+
+The conception of a "protected work"in Spain (contained in Title II, Chapter 2) is 
+generalist, and covers (art. 10.1) "all original literary, artistic or scientific creations expressed in any medium or support", including:
+
+books, pamphlets, writings, addresses, lectures, judicial reports (informes forenses) and other works of the same nature;
+musical compositions with or without words;
+dramatic and dramatico-musical works, choreographies, mime and theatrical works in general
+cinematographic works and any other audiovisual works;*
+sculptures; drawings, paintings, engravings, lithographies; cartoons and comics; their preparatory work and any other physical works;
+projects, plans, models and designs of architectural and engineering works;
+graphs, maps and pictures relating to topography, geography and science in general;
+photographs and analogous works;
+computer programs.*Cinematographic works, other audiovisual works and computer programs are subject to slightly different treatment from other types of work.
+The title of a work is also protected so far as it is original (art. 10.2). Derived works are protected alongside
+the protection of the original work (art. 11), and include:
+
+translations and adaptations;
+revisions, updates and notes;musical arrangements;
+any other transformation of a work.Collections of works (e.g. anthologies) and other collections of data which, by reason of the selection or arrangement of 
+the contents, constitute intellectual creations are also protected (art. 12)
+Works are protected by "the sole fact of their creation" (art. 1), regardless of the nationality of the author or the 
+place of publication. Corporate persons can only be authors of collective works (arts. 4.2, 8).
+
+
+Article 13 provides that the following official works are not covered by copyright protection:
+
+Laws and reglementary dispositions (disposiciones legales o reglamentarias), either approved or awaiting approval (y sus correspondientes proyectos)
+Court judgements (resoluciones de los órganos jurisdiccionales)
+Acts, agreements, deliberations and rulings of public bodies (actos, acuerdos, deliberaciones y dictámenes de los organismos públicos)
+Official translations of any of the above (las traducciones oficiales de todos los textos anteriores)Images are only concerned by this exception to copyright protection when they form an integral part of any of the above, for 
+example the diagrams in a patent: otherwise the copyright is held by the author of the image (e.g. the photographer).
+
+
+Registration of a protected work is optional, but a Register of Intellectual Property (Registro de la Propiedad Intelectual) 
+exists (see "External links") for authors who wish to take advantage of it. Registration provides prima facie 
+evidence of creation and authorship (art. 140.3, renumbered to art. 145.3 by Ley 5/1998).
+
+
+The author has the exclusive right to exploit the work in any way or form, subject to the legal limitations 
+on the exclusivity, and notably the rights of reproduction, distribution, public communication and transformation (art. 17). 
+The author may transfer any or all of these rights to another person, although such a transfer cannot prevent the author from 
+producing a collection (partial or complete) of his/her works (art. 22). Any agreement to transfer rights of exploitation must be made in 
+writing (art. 45): it cannot cover the totality of the future works of an author (art. 43.3), cannot require the 
+author not to produce works in the future (art. 43.4) and cannot cover forms of distribution which do not exist at the 
+time of the agreement (art. 43.5). Such an agreement must normally guarantee the author a reasonable share of the income 
+derived from the exploitation of the work (art. 46.1, 47), although a fixed-sum payment is allowed in certain 
+cases (art. 46.2). The different rights of exploitation are independent of one another (art. 23).
+The authors of works of plastic art have the right to 3% of the resale price of their works when the resale price is greater 
+than or equal to 300,000 pesetas (1,807 euros): this right cannot be renounced or transferred during the lifetime of the 
+author (art. 24).
+
+
+The main dispositions concerning the duration of copyright are contained in Title III, Chapter 1, as modified. In general, 
+copyright protection in Spain lasts for the life of the author plus seventy years (art. 26). Collective works are
+protected for seventy years following publication (art. 28.2), as are pseudonymous and anonymous works unless the identity 
+of the author becomes known (art. 27.2). It always assigns copyright to the author and he or she is not allowed to disclaim it.  Posthumous works are protected for seventy years following publication provided 
+they are published within seventy years of the death of the author. All of these time periods 
+are calculated starting from 1 January following death or publication (art. 30).
+
+
+As in other countries, there are a number of societies which collectively manage the licensing of different types of work and the collection of royalties on behalf of copyright holders. 
+These societies (entidades de gestión) are governed by Title IV of Book Three of the Intellectual Property Law (arts. 142–152, renumbered as arts. 147–157
+by the Ley 5/1998), which provides for their authorisation by the Ministry of Culture. The largest such copyright management society is the Sociedad General de Autores y Editores (SGAE), 
+which was established by law in 1941 as the Sociedad General de Autores de España[4] and which had a de facto monopoly on the collective management of copyright royalties before the passage of the 1987 Intellectual Property Law.
+
+
+The moral rights of the author, contained in Chapter 3, Section 1, of Title II, go beyond the minimum requirements 
+of the Berne Convention. They are enumerated in article 14:
+
+the right to decide whether the work should be published and in what form;
+the right to publish the work under his/her real name, pseudonymously or anonymously;
+the right to be identified as the author of the work
+the right to insist on the respect of the integrity of the work and to prevent any distortion, modification, alteration or derogatory action in relation to the work which would be prejudicial to his/her legitimate interests or reputation;
+the right to modify the work in the respect of the rights of third parties and of the protection of "Works of Cultural Interest" (Bienes de Interés Cultural)
+the right to withdraw the work from commercial exploitation, due to a change of his/her intellectual or moral convictions, with compensation to the holders of the rights of exploitation. If the author later decides to re-undertake the exploitation of his/their work he/she will have to offer preferably the corresponding rights to the former rightsholder and in conditions reasonably similar to the previous ones.
+the right to access to the single copy or a rare copy of the work in order to exercise any of the other rights. This right does not include the right to displace the work, and must be exercised with the minimum of inconvenience to the legal owner of the copy and with compensation for any prejudice.The right to the respect of the integrity of the work is limited in the case of computer programs, where the author cannot 
+object to the production of future versions or derived works except with a specific agreement to that effect (art. 98). 
+The author of a work cannot renounce his/her moral rights, nor transfer them to another person during his/her lifetime.
+
+
+The rights to be identified as author and to the respect of the integrity of the work are perpetual, and may be exercised 
+after the author's death by his/her executors, heirs or (by default) by the State (arts. 15, 16). The rights to 
+modify the work and to withdraw the work from commercial exploitation may only be exercised by the author during his/her 
+lifetime (this is implicit in the wording of 5º and 6º of art. 14).
+
+
+The special rules concerning audiovisual works are contained in Title VI of Book One. The authors of an audiovisual work are considered to be (art. 87):
+
+the director;
+the authors of the scenario or adaptation and of the dialogue;
+the composers of any music created specifically for the work.The authors are presumed to grant an exclusive licence to the producer, unless there is an agreement to the contrary, covering the reproduction, communication to the public and distribution of the work (art. 88): this is the opposite of the case for other types of work, where the licence is assumed to be non-exclusive unless there is a provision to the contrary (art. 48).
+The authors may only exercise their moral rights with relation to the final version of the work (art. 93).
+
+
+The special rules concerning computer programs are contained in Title VII of Book One: through successive modifications, they are now very close to the rules for other types of work. Article 96 gives a definition of "computer program", and reiterates the criteria for copyright protection: the work is only protected to the extent that it is the author's own intellectual creation, and the ideas and principles underlying any of the elements of the program, 
+including those underlying its interfaces, are not protected by copyright (under certain circumstances, they may be protectable by patent law). An employer is assumed to have an exclusive grant of the rights of exploitation of computer programs written by employees in the course of their work (art. 97.4). Article 100 lists the following specific limitations of the rights of exploitation of a computer program, insofar as the following are permitted:
+
+reproduction and transformation necessary for the use of the program;
+creation of a back-up copy;
+observation, study and verification of the ideas and principles underlying the program;
+modification to produce successive versions by the holder of the rights of exploitation;
+modification to ensure interoperability with an independently-created program.The term of protection in computer programs is the same as that for other types of work (art. 98).
+
+
+A number of "related" rights are detailed in Book Two of the Intellectual Property Law: these are similar in form to the 
+rights of Book One, but may not directly concern the author of the work. They are independent of the rights of the author of the work: this is especially important for photographs and audiovisual works, which are automatically protected by 
+related rights regardless of their copyright status but which may also enjoy the greater protection provided by copyright. The limitations to copyright protection also apply to these related rights (art. 132).
+
+
+A performer is any person who "presents, sings, reads, recites, interprets or exercutes a work in any form," including the stage director and the conductor of an orchestra (art. 105). Performers have the exclusive rights to authorize:
+
+the recording and/or reproduction of the performance (arts. 106, 107);
+the communication of the performance to the public (art. 108);
+the distribution of recordings or reproductions of the performance (art. 109).These rights last for fifty years from either the date of the performance or the date of publication of a recording of the performance, whichever is the later (art. 112). The period of protection runs to 31 December of the relevant year.
+Performers also have the moral right to have their name associated with their performances, and to object to distortion or mutilation of their performances: these moral rights last for the life of the performer and for twenty years after his or her death.
+
+
+The person who makes a sound recording has the exclusive right to authorize the reproduction, the communication to the public and the distribution of that recording (arts. 114–117). These rights last for fifty years after the date of the recording 
+or the date of publication, whichever is the later, and run to 31 December of the relevant year (art. 119). Corporate persons can be the holders of these rights if the recording was first made under their "initiative and responsibility".
+
+
+An "audiovisual recording" (grabación audiovisual) is any recording of a scene or sequence of images, with or without sound, whether or not it counts as an "audiovisual work" (obra audiovisual) (art. 120): an example would be the images from a security camera. 
+The person who takes the "initiative and responsibility" to make such a recording has the exclusive right to authorize its reproduction, communication to the public and distribution (arts. 121–123). These rights extend to photographs taken during the production of 
+an audiovisual recording (art. 124), and last for fifty years after the production of the recording or its publication, whichever is the later, running to 31 December of the relevant year (art. 125). They are independent of the copyright in the audiovisual work. 
+Corporate persons can be the holders of these rights. All rights fall under Jurisdiction of local law
+
+
+Broadcasting organisations have the exclusive right to authorise (art. 126):
+
+the recording of their broadcasts in any form;
+the reproduction of their broadcasts in any form;
+the retransmission of their broadcasts;
+the communication of the broadcasts to a paying public.
+the distribution of recordings of their broadcasts.These rights last for fifty years from the date of broadcast, running to 31 December of the relevant year (art. 127).
+
+
+The sui generis protection of databases was instituted by the Law 5/1998 of 6 March 1998 incorporating Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the Legal Protection of Databases.[5] The provisions are 
+contained in Title VIII of Book Two (arts. 133–137 under the revised numbering), but are not included in the 1996 consolidated version of the Intellectual Property Law. Database rights specifically protect the "substantial investment" in the form of "finance, time, energy or effort", assessed "either qualitatively or quantitatively", which was necessary to create the database (art. 133.1).
+The maker of the database, who may be a corporate person, can prevent a user from extracting "all or a substantial portion, evaluated qualitatively or quantitatively," of the contents of the database, either through a single access or through multiple accesses (art. 133). The user may not 
+do anything which "conflicts with the normal exploitation of the database" or which "unreasonably prejudices the legitimate interests of the maker of the database" (art. 134) There are (limited) exceptions for the private use of non-electronic databases, for teaching and research and for 
+public security and for administrative or judicial procedures (art. 135).
+Database rights last for fifteen years from the completion of the database or from its publication, whichever is the later, although "substantial changes" to the database start a new period of protection: the protection runs to 31 December of the relevant year (art. 136). Database rights are independent of any copyright which might exist in the 
+database or its contents (art. 137); for example, a database which relied on a subjective choice of material could qualify for copyright as a compilation, and a database of copyrighted works (for example, Wikipedia) does not override the copyright existing on individual entries.
+
+
+The main limitations to the exclusive rights of exploitation are contained in Title III, Chapter 2. The summary 
+below does not follow the order of this chapter and the headings given below have no legal basis or force.
+
+
+The law explicitly allows to make private copies of copyrighted work without the author's consent for published works if the copy is not for commercial use. To compensate authors, the law  establishes a compensatory tax associated with certain recording media (CDs, DVDs,  cassettes), managed through societies of authors and editors (as SGAE and CEDRO). Such private copies of a protected work must be made for the private use (not collective, nor lucrative) of the copier (2�º of 
+art. 31): the author is compensated by a tax on the means of reproduction (e.g. photocopiers, blank cassettes) 
+determined at article 25. However, computer programs can not be copied except for a backup copy (art. 99.2): they can 
+be modified for the sole use of the person performing the modification (art. 99.4). Any work can be played in a "strictly home" environment (art. 20.1) without the author's consent. The moral rights of the author can only be exercised in the 
+respect of the rights of owners of copies of the work or of rights to its exploitation, as detailed in article 14.
+Some consumer's associations and specialized lawyers contend that the current legislation allows file sharing (as with  p2p networks) as this is not for profit and is for private use [6][7]. Additionally, the Penal Code explicitly requires the intention of commercial profit in order to commit a crime against the Intellectual Property [8].
+
+
+Lectures, addresses, judicial proceedings and other works of the same nature may be reproduced or communicated for the sole
+purpose of reporting on current events (art. 33.2). The proceedings of parliament and of public corporations may be 
+reproduced or communicated for any purpose (art. 33.2). Works of news reporting may be reproduced in other news media, 
+with identification of the author and remuneration (art. 33.1). Any work which can be seen or heard may be reproduced, 
+distributed and publicly communicated for the purpose of, and only to the extent necessary for, providing information 
+thereof in the context of reporting on current events (art. 34).
+
+
+Museums, libraries and similar public or cultural institutions may make reproductions of works for the purposes of research (art. 37).
+"Fragments" of written, sound or audiovisual works or "isolated" plastic, photographic, figurative or analogous works may be 
+included in another original work for the purposes of teaching or research (fines docentes o de investigación) if the 
+following conditions are met (art. 32):
+
+the source work has been published;
+it is included for citation or for analysis, commentary or critical judgement;
+it is included with a citation of the source and the name of the author;
+it is only included to the extent justified by the purposes of teaching or research.Press reviews and collections are expressly covered by the provisions of article 32.
+
+
+Works may be reproduced for judicial and administrative actions (1º of art. 31). Musical works may be performed at official public ceremonies and religious services, if these are free of charge to the public and if the musicians are not specifically 
+paid for performing the protected works (art. 38). Transcription of works may be made into Braille or another medium 
+specific for the use of the blind, provided that the use of the copies is non-lucrative (3º of art. 31). The 
+executors or heirs of a deceased author can be forced to publish the works which remained unpublished during the author's 
+lifetime if their refusal to do so is judged contrary to article 44 of the Constitution 
+(art. 40, Intellectual Property Law).
+
+
+Works which are permanently situated in parks, streets, squares or public routes may be reproduced in paintings, drawings, 
+photographs and by audiovisual means (art. 35). Parodies of a work are permitted without the consent of the original 
+author provided that there is no risk of confusion with the original work and that no damage is caused 
+(ni se infiera un daño) to the original work or to its author (art. 39).
+
+
+A work enters the public domain at the expiration of its term of protection. However, the 
+rights to be identified as the author and to the respect for the integrity of the work are perpetual (art. 41), 
+and must be respected even for works in the public domain.
+
+
+The 1987 Intellectual Property Law established the Comisión Mediadora y Arbitral de la Propiedad Intelectual ("Intellectual Property Mediation and Arbitration Commission") 
+under the auspices of the Ministry of Culture (art. 153, renumbered as art. 158 by Ley 5/1998). Its role is to mediate between cable distributors 
+(widespread and numerous in Spain) and rightsholders; and to arbitrate between copyright management societies and those who use their repertoires.
+
+
+Ley orgánica 6/1987
+Ley 20/1992, del 7 de julio, de modificación de la Ley 22/1987, de 11 de noviembre, de Propiedad Intelectual (this law is included in the consolidated version of the Intellectual Property Law)
+
+
+The first four of these laws are included in the consolidated version of the Intellectual Property Law.
+
+
+Spain is a signatory to the following international copyright treaties, which have direct force under Spanish law.
+
+Berne Convention for the Protection of Literary and Artistic Works 5 December 1887; Paris Act 10 October 1974 (for the substantive clauses arts. 1–21)
+Universal Copyright Convention: Geneva Act 16 September 1955; Paris Act 10 July 1974
+Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms 24 August 1974
+Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS) 1 January 1995Spain has also signed, but as of September 2006 not yet ratified, the WIPO Copyright Treaty.
+
+
+Works by Spanish authors became eligible for U.S. copyright by a Presidential Proclamation of 10 July 1895[10] under the authority of The Chase Act of 1891, later section 9(b) of the Copyright Act of 1909. All Spanish works which had not entered the public domain in Spain through expiry of their copyright protection, that is all works first published in Spain by authors who are living or who died on or after 1 January 1926, were automatically accorded U.S. copyrights (if they were not already protected in the U.S.) on 1 January 1996 by the Uruguay Round Agreements Act of 1994:[11] these U.S. copyrights run for 95 years from the date of publication (regardless of the Spanish copyright term) for works first published before 1 January 1978 and for collective or anonymous works, and for the life of the author plus seventy years (identical to the Spanish copyright term) for other works.[12]
+

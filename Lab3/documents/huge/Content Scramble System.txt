@@ -1,0 +1,48 @@
+The Content Scramble System (CSS) is a digital rights management (DRM) and encryption system employed on many commercially produced DVD-Video discs. CSS utilizes a proprietary 40-bit stream cipher algorithm. The system was introduced on October 29, 1996 and was first compromised in 1999.
+CSS is one of several complementary systems designed to restrict DVD-Video access.
+It has been superseded by newer DRM schemes such as Content Protection for Recordable Media (CPRM), or by Advanced Encryption Standard (AES) in the Advanced Access Content System (AACS) DRM scheme used by HD DVD and Blu-ray Disc, which have 56-bit and 128-bit key sizes, respectively, providing a much higher level of security than the less secure 40-bit key size of CSS.
+
+
+The content scramble system (CSS) is a collection of proprietary protection mechanisms for DVD-Video discs. CSS attempts to restrict access to the content only for licensed applications. According to the DVD Copy Control Association (CCA), which is the consortium that grants licenses, CSS is supposed to protect the intellectual property rights of the content owner.
+The details of CSS are only given to licensees for a fee. The license, which binds the licensee to a non-disclosure agreement, wouldn't permit the development of open-source software for DVD-Video playback. Instead, there is libdvdcss, a reverse engineered implementation of CSS. Libdvdcss is a source for documentation, along with the publicly available DVD-ROM- and MMC- specifications. There has also been some effort to collect CSS details from various sources.A DVD-Video can be produced with or without CSS. The publisher may for instance decide to go without CSS protection to save license and production costs.
+
+
+The content scramble system deals with three participants: the disc, the drive and the player. The disc holds the copyright information and the encrypted feature. The drive provides the means to read the disc. The player decrypts and presents the audio and visual content of the feature. All participants must conform to the CCA's license agreement.
+There are three protection methods:
+
+Playback protection is based on encryption: the player requires a secret key to decrypt the feature.
+Read protection is based on the drive: access to significant disc data is only granted if the player authenticates successfully.
+Regional restriction is based on the disc and the drive: the drive can deny access if the disc doesn't belong to the drive's region.The first two protection methods have been broken. Circumvention of regional protection is not possible with every drive -- even if the drive grants access to the feature, prediction of title keys may fail. However, DVD players exist which do not enforce regional restrictions (the user has to disable the protection though), which makes regional restrictions less effective as a component of CSS.
+
+
+The DVD-ROM's main-data (§16), which are consecutive logical blocks of 2048 bytes, are structured according to the DVD-Video format. The DVD-Video contains (besides others) an MPEG program stream which consists of so-called Packs. If CSS is applied to the disc then a subset of all Packs is encrypted with a title-key.
+A DVD-ROM contains, besides the main-data, additional data areas. CSS stores there:
+
+a flag that indicates whether CSS is applied or not (§6.23.3.2.2),
+the 8-bit region-management-information (region code),
+a disc-key-block that holds 409 encrypted variants of the disc-key (§6.23.3.2.3).CSS also uses six bytes in the frame header for each logical block of user data (§16.3,§6.29.3.1.5):
+
+one byte with copyright management information,
+five bytes holding an encrypted title-key.
+
+
+The drive treats a DVD-Video disc as any DVD-ROM disc. The player reads the disc's user-data and processes them according to the DVD-Video format. However, if the drive detects a disc that has been compiled with CSS, it denies access to logical blocks that are marked as copyrighted (§6.15.3). The player has to execute an authentication handshake first (§4.10.2.2). The authentication handshake is also used to retrieve the disc-key-block and the title-keys.
+The drive may also support Regional Playback Control (RPC) to limit the playback of DVD-Video content to specific regions of the world (§3.3.26). RPC Phase II drives hold an 8-bit region-code and adhere to all requirements of the CSS license agreement (§6.29.3.1.7). It appears that RPC Phase II drives reject title-key requests on region mismatch. However, reading of user-data may still work.
+
+
+CSS employs a stream cipher and mangles the keystream with the plain-text data to produce the cipher text. The stream cipher is based on two linear feedback shift register (LFSR) and set up with a 40-bit seed.
+Mangling depends on the type of operation. There are three types: 
+
+the decryption of a disc- or title-key,
+the decryption of a Pack and
+the encryption of keys for the authentication handshake.In order to decrypt a DVD-Video, the player reads the disc-key-block and uses its player-key to decrypt the disc-key. Thereafter, the player reads the title-keys and decrypts them with the disc-key. A different title-key can be assigned for the Video Manager and for each Video Title Set. The title-keys are used to decrypt the Packs.
+
+
+CSS employs cryptographic keys with a size of only 40 bits. This makes CSS vulnerable to a brute-force attack. At the time CSS was introduced, it was forbidden in the United States for manufacturers to export cryptographic systems employing keys in excess of 40 bits, a key length that had already been shown to be wholly inadequate in the face of increasing computer processing power (see Data Encryption Standard).
+Based on the leaked DeCSS source-code, Frank A. Stevenson published in November 1999 three exploits that rendered the CSS cipher practically ineffective:
+A correlation attack enables the recovery of a keystream's seed at complexity of 216.
+The mangling of disc- and title-keys can be reversed at a complexity of 28.
+A disc-key can be recovered from its hash-value at a complexity of 225.The latter exploit recovers a disk-key from its hash-value in less than 18 seconds on an Intel Pentium III @ 450 MHz.
+The CSS design was prepared for the leak of a few player-keys. New discs wouldn't contain an encrypted variant for these player-keys in the disc-key-block. However, Stevenson's exploits made it possible to generate all player-keys. Libdvdcss uses such a list of generated player-keys.
+There are cases when no title-keys are available. A drive may deny access on region mismatch but still permit reading of the encrypted DVD-Video. Ethan Hawke presented a plain-text prediction for data repetitions in the MPEG program stream that enables the recovery of title-keys in real-time directly from the encrypted DVD-Video.In Geeks Bearing Gifts, author Ted Nelson states "DVD encryption was intentionally made light by the DVD encryption committee, based on arguments in a libertarian book Computer Lib.", a claim cited as originating from personal communication with an anonymous source; Nelson is the author of Computer Lib.
+

@@ -1,0 +1,12 @@
+ISO 19439:2006 Enterprise integration—Framework for enterprise modelling, is an international standard for enterprise modelling and enterprise integration developed by the International Organization for Standardization, based on CIMOSA and GERAM.
+
+
+ISO 19439 framework wants to provide a "unified conceptual basis for model-based enterprise engineering that enables consistency, convergence and interoperability of the various modelling methodologies and supporting tools. The framework does not encompass methodological processes; it is neutral in this regard".This standard specifies a framework, which "serves as a common basis to identify and coordinate standards development for modelling of enterprises, but not restricted to, computer integrated manufacturing. It also serves as the basis for further standards for the development of models that will be computer-enactable and enable business process model-based decision support leading to model-based operation, monitoring and control".
+
+
+According to David Shorter (2004) the ISO19439 is alike CIMOSA, and has defines three dimensions for enterprise modelling:
+
+Model phase : "The enterprise model phases are based on the idea that enterprise models have a life cycle that is related to the life cycle of the entity being modeled. The phases defined in the standard are: Domain Identification, Concept Definition, Requirements Definition, Design Specification, Implementation Description, Domain Operation, Decommission Definition."
+View dimension : "This is based on the idea that both enterprise modelers and users filter their observations of the real world by particular views. The predefined views are: Function View, Information View, Resource View, Organization View/Decision View."
+Genericity dimension: "This defines the dimension from general concepts to particular models . The standard defines three levels of genericity: Generic Level, Partial Level, Particular Level" 
+

@@ -1,0 +1,36 @@
+Rondo and its French part-equivalent, rondeau, are words that have been used in music in a number of ways, most often in reference to a musical form but also to a character type that is distinct from the form.
+Despite the common etymological root, rondo and rondeau are essentially different as musical forms. Rondeau is a vocal musical form that was typically developed as of the 13th century (as monophonic music) and as of the 14th century (as polyphonic music), although both of them nearly disappeared from the repertoire by the beginning of the 16th century onward.  Rondo, on the other hand, is an instrumental musical form developed typically as of the 17th century.
+
+
+In rondo form, a principal theme (sometimes called the "refrain") alternates with one or more contrasting themes, generally called "episodes", but also occasionally referred to as "digressions" or "couplets". Possible patterns in the Classical period include: ABA, ABACA, or ABACABA. These are sometimes designated "first rondo", "second rondo", and "third rondo", respectively. The first rondo is distinguished from the three-part song form principally by the fact that at least one of the themes is a song form in itself, but the difference in melodic and rhythmic content of the themes in the rondo form is usually greater than in the song form, and the accompanimental figuration in the parts of the rondo (unlike the song form) is usually contrasted. The number of themes can vary from piece to piece, and the recurring element is sometimes embellished and/or shortened in order to provide for variation.
+A Baroque predecessor to the rondo was the ritornello. Ritornello form was used in the fast movements of baroque concertos, and in many baroque vocal and choral works.  The ripieno (tutti) plays the main ritornello theme, while soloists play the intervening episodes. As typical of Baroque continuo playing, in the tutti sections the soloists also play as part of the ensemble; while in the solo sections most of the remaining instruments in the ensemble may stop, in order to provide some transparency to the soloist(s), or may be used sparsely (in either case, the solos are accompanied thoroughly or punctuated by a harpsichord or the like, together with a violoncello da gamba or the like).  While Rondo form is similar to ritornello form, it is different in that ritornello brings back the subject or main theme in fragments and in different keys, but the rondo brings back its theme complete and in the same key. Cedric Thorpe Davie is one author, however, who considers the ritornello form the ancestor, not of the rondo form, but of the classical concerto form (which also occurs, as a form, in many a classical-era aria.)A common expansion of rondo form is to combine it with sonata form, to create the sonata rondo form. Here, the second theme acts in a similar way to the second theme group in sonata form by appearing first in a key other than the tonic and later being repeated in the tonic key.  Unlike sonata form, thematic development does not need to occur except possibly in the coda.
+
+
+Johann Sebastian Bach: E major Violin Concerto, last movement
+Wolfgang Amadeus Mozart: Horn Concerto No. 4 in E-flat major, last movement
+Ludwig van Beethoven: Rondo for piano and orchestra, WoO, 6
+Ludwig van Beethoven: Piano Sonata, Op. 13, last movement
+Ludwig van Beethoven: Piano Sonata Op. 53, last movement.
+Ludwig van Beethoven: Piano Concerto No. 5, last movement.
+Antonín Dvořák:  Cello Concerto in B minor, third Movement
+Antonín Dvořák: Symphony No. 6, second movement
+Aram Khachaturian: Violin Concerto, second movement.
+
+
+Rondo as a character-type (as distinct from the form) refers to music that is fast and vivacious – normally Allegro. Many classical rondos feature music of a popular or folk character.  Music that has been designated as "rondo" normally subscribes to both the form and character.  On the other hand, there are many examples of slower, reflective works that are rondo in form but not in character; they include Mozart's Rondo in A minor, K. 511 (marked Andante).
+
+
+The term and perhaps the formal principle may have derived from the medieval poetic form rondeau, which contains repetitions of a couplet separated by longer sections of poetry. (Arnold Schoenberg disputed that claim of origin in an essay in Style and Idea by noting that "if musical rondo form were really supposed to be modelled on the poetic form, it could only be so very superficially".)  However, it has been musicologically preferred that the term rondeau be reserved to the vocal musical form, while the term rondo (or even rondò) be reserved for the instrumental musical form.
+
+
+The term (or its French equivalent) has other uses, in particular the rondeau, either the vocal Rondeau of the Medieval and early Renaissance period, or the French Baroque Rondeau usually associated with brief movements (for keyboard or larger ensemble) of the Baroque era and earlier, e.g. Jean-Philippe Rameau's "Rondeau des Indes Galantes" or Les Barricades Mystérieuses which is also not really a rondo, but a form of its own.A well-known operatic vocal genre of the late 18th century, referred to at that time by the same name but distinguished today in English and German writing by the differently accented term "rondò" is cast in two parts, slow-fast.
+
+
+
+
+Rondo and Ritornello Forms in Tonal Music
+Rondo form in traditional marches from Limoux' carnival
+http://www.karmina.cz/mp3/cd7/09.mp3
+ Texts on Wikisource:
+"Rondo" . New International Encyclopedia. 1905.
+"Rondeau" . Encyclopedia Americana. 1920.

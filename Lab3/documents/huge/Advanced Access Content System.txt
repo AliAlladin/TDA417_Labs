@@ -1,0 +1,61 @@
+The Advanced Access Content System (AACS) is a standard for content distribution and digital rights management, intended to restrict access to and copying of the post-DVD generation of optical discs. The specification was publicly released in April 2005 and the standard has been adopted as the access restriction scheme for HD DVD and Blu-ray Disc (BD). It is developed by AACS Licensing Administrator, LLC (AACS LA), a consortium that includes Disney, Intel, Microsoft, Panasonic, Warner Bros., IBM, Toshiba and Sony. AACS has been operating under an "interim agreement" since the final specification (including provisions for Managed Copy) has not yet been finalized.
+Since appearing in devices in 2006, several AACS decryption keys have been extracted from software players and published on the Internet, allowing decryption by unlicensed software.
+
+
+
+
+AACS uses cryptography to control and restrict the use of digital media. It encrypts content under one or more title keys using the Advanced Encryption Standard (AES).  Title keys are decrypted using a combination of a media key (encoded in a Media Key Block) and the Volume ID of the media (e.g., a physical serial number embedded on a pre-recorded disc).
+The principal difference between AACS and CSS, the DRM system used on DVDs and CDs, lies in how the device decryption keys and codes are organized.
+Under CSS, all players of a given model group are provisioned with the same shared activated decryption key.  Content is encrypted under the title-specific key, which is itself encrypted under each model's key. Thus each disc contains a collection of several hundred encrypted keys, one for each licensed player model.
+In principle, this approach allows licensors to "revoke" a given player model (prevent it from playing back future content) by omitting to encrypt future title keys with the player model's key. In practice, however, revoking all players of a particular model is costly, as it causes many users to lose playback capability. Furthermore, the inclusion of a shared key across many players makes key compromise significantly more likely, as was demonstrated by a number of compromises in the mid-1990s.
+The approach of AACS provisions each individual player with a unique set of decryption keys which are used in a broadcast encryption scheme. This approach allows licensors to "revoke" individual players, or more specifically, the decryption keys associated with the player. Thus, if a given player's keys are compromised and published, the AACS LA can simply revoke those keys in future content, making the keys/player useless for decrypting new titles.
+AACS also incorporates traitor tracing techniques. The standard allows for multiple versions of short sections of a movie to be encrypted with different keys, while a given player will only be able to decrypt one version of each section. The manufacturer embeds varying digital watermarks in these sections, and upon subsequent analysis of the pirated release the compromised keys can be identified and revoked (this feature is called Sequence keys in the AACS specifications).
+
+
+Volume IDs are unique identifiers or serial numbers that are stored on pre-recorded discs with special hardware. They cannot be duplicated on consumers' recordable media. The point of this is to prevent simple bit-by-bit copies, since the Volume ID is required (though not sufficient) for decoding content. On Blu-ray discs, the Volume ID is stored in the BD-ROM Mark.To read the Volume ID, a cryptographic certificate (the Private Host Key) signed by the AACS LA is required. However, this has been circumvented by modifying the firmware of some HD DVD and Blu-ray drives.
+
+
+To view the movie, the player must first decrypt the content on the disc. The decryption process is somewhat convoluted. The disc contains 4 items—the Media Key Block (MKB), the Volume ID, the Encrypted Title Keys, and the Encrypted Content. The MKB is encrypted in a subset difference tree approach. Essentially, a set of keys are arranged in a tree such that any given key can be used to find every other key except its parent keys. This way, to revoke a given device key, the MKB needs only be encrypted with that device key's parent key.
+Once the MKB is decrypted, it provides the Media Key, or the km. The km is combined with the Volume ID (which the program can only get by presenting a cryptographic certificate to the drive, as described above) in a one-way encryption scheme (AES-G) to produce the Volume Unique Key (Kvu). The Kvu is used to decrypt the encrypted title keys, and that is used to decrypt the encrypted content.
+
+
+
+AACS-compliant players must follow guidelines pertaining to outputs over analog connections. This is set by a flag called the Image Constraint Token (ICT), which restricts the resolution for analog outputs to 960×540. Full 1920×1080 resolution is restricted to HDMI or DVI outputs that support HDCP. The decision to set the flag to restrict output ("down-convert") is left to the content provider. Warner Pictures is a proponent of ICT, and it is expected that Paramount and Universal will implement down-conversion as well.
+AACS guidelines require that any title which implements the ICT must clearly state so on the packaging. The German magazine "Der Spiegel" has reported about an unofficial agreement between film studios and electronics manufacturers to not use ICT until 2010 – 2012. However, some titles have already been released that apply ICT.
+
+
+On 5 June 2009, the licensing agreements for AACS were finalized, which were updated to make Cinavia detection on commercial Blu-ray disc players a requirement.
+
+
+Managed Copy refers to a system by which consumers can make legal copies of films and other digital content protected by AACS. This requires the device to obtain authorization by contacting a remote server on the Internet. The copies will still be protected by DRM, so infinite copying is not possible (unless it is explicitly allowed by the content owner). It is mandatory for content providers to give the consumer this flexibility in both the HD DVD and the Blu-ray standards (commonly called Mandatory Managed Copy). The Blu-ray standards adopted Mandatory Managed Copy later than HD DVD, after HP requested it.Possible scenarios for Managed Copy include (but are not limited to):
+
+Create an exact duplicate onto a recordable disc for backup
+Create a full-resolution copy for storage on a media server
+Create a scaled-down version for watching on a portable deviceThis feature was not included in the interim standard, so the first devices on the market did not have this capability. It was expected to be a part of the final AACS specification.In June 2009, the final AACS agreements were ratified and posted online, and include information on the Managed Copy aspects of AACS.
+
+
+On 24 February 2001, Dalit Naor, Moni Naor and Jeff Lotspiech published a paper entitled "Revocation and Tracing Schemes for Stateless Receivers", where they described a broadcast encryption scheme using a construct called Naor-Naor-Lotspiech subset-difference trees. That paper laid the theoretical foundations of AACS.The AACS LA consortium was founded in 2004. With DeCSS in hindsight, the IEEE Spectrum magazine's readers voted AACS to be one of the technologies most likely to fail in the January 2005 issue.
+The final AACS standard was delayed, and then delayed again when an important member of the Blu-ray group voiced concerns. At the request of Toshiba, an interim standard was published which did not include some features, like managed copy. As of 15 October 2007, the final AACS standard had not yet been released.
+
+
+On 26 December 2006, a person using the alias "muslix64" published a working, open-sourced AACS decrypting utility named BackupHDDVD, looking at the publicly available AACS specifications. Given the correct keys, it can be used to decrypt AACS-encrypted content. A corresponding BackupBluRay program was soon developed. Blu-ray Copy is a program capable of copying Blu-rays to the hard drive or to blank BD-R discs.
+
+
+
+Both title keys and one of the keys used to decrypt them (known as Processing Keys in the AACS specifications) have been found by using debuggers to inspect the memory space of running HD DVD and Blu-ray player programs.
+Hackers also claim to have found Device Keys
+(used to calculate the Processing Key) and a Host Private Key
+(a key signed by the AACS LA used for hand-shaking between host and HD drive; required for reading the Volume ID). The first unprotected HD movies were available soon afterwards.
+The processing key was widely published on the Internet after it was found and the AACS LA sent multiple DMCA takedown notices in the aim of censoring it.
+Some sites that rely on user-submitted content, like Digg and Wikipedia, tried to remove any mentions of the key.
+The Digg administrators eventually gave up trying to censor submissions that contained the key.The AACS key extractions highlight the inherent weakness in any DRM system that permit software players for PCs to be used for playback of content. No matter how many layers of encryption are employed, it does not offer any true protection, since the keys needed to obtain the unencrypted content stream must be available somewhere in memory for playback to be possible. The PC platform offers no way to prevent memory snooping attacks on such keys, since a PC configuration can always be emulated by a virtual machine, in theory without any running program or external system being able to detect the virtualization. The only way to wholly prevent attacks like this would require changes to the PC platform (see Trusted Computing) which could provide protection against such attacks. This would require that content distributors do not permit their content to be played on PCs without trusted computing technology, by not providing the companies making software players for non-trusted PCs with the needed encryption keys.
+On 16 April 2007, the AACS consortium announced that it had expired certain encryption keys used by PC-based applications. Patches were available for WinDVD and PowerDVD which used new and uncompromised encryption keys.
+The old, compromised keys can still be used to decrypt old titles, but not newer releases as they will be encrypted with these new keys. All users of the affected players (even those considered "legitimate" by the AACS LA) are forced to upgrade or replace their player software in order to view new titles.
+Despite all revocations, current titles can be decrypted using new MKB v7, v9 or v10 keys widely available in the Internet.
+Besides spreading processing keys on the Internet, there have also been efforts to spread title keys on various sites.
+The AACS LA has sent DMCA takedown notices to such sites on at least one occasion.
+There is also commercial software (AnyDVD HD) that can circumvent the AACS protection. Apparently this program works even with movies released after the AACS LA expired the first batch of keys.While great care has been taken with AACS to ensure that contents are encrypted right up to the display device, on the first versions of some Blu-ray and HD DVD software players a perfect copy of any still frame from a film could be made simply by utilizing the Print Screen function of the Windows operating system. This was broken in later versions.
+
+
+On 30 May 2007, Canadian encryption vendor Certicom sued Sony alleging that AACS violated two of its patents, "Strengthened public key protocol" and "Digital signatures on a Smartcard." The patents were filed in 1999 and 2001 respectively, and in 2003 the National Security Agency paid $25 million for the right to use 26 of Certicom's patents, including the two that Sony is alleged to have infringed on.
+

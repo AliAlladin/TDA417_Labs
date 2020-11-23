@@ -1,0 +1,36 @@
+Hotelling's rule defines the net price path as a function of time while maximizing economic rent in the time of fully extracting a non-renewable natural resource. The maximum rent is also known as Hotelling rent or scarcity rent and is the maximum rent that could be obtained while emptying the stock resource. In an efficient exploitation of a non-renewable and non-augmentable resource, the percentage change in net-price per unit of time should equal the discount rate in order to maximise the present value of the resource capital over the extraction period.
+This concept was the result of analysis of non-renewable resource management by Harold Hotelling, published in the Journal of Political Economy in 1931. Devarajan and Fisher note that a similar result was published by L. C. Gray in 1914, considering the case of a single mine owner.
+The simple rule can be expressed by the equilibrium situation representing the optimal solution.
+
+  
+    
+      
+        
+          
+            
+              
+                P
+                ′
+              
+              (
+              t
+              )
+            
+            
+              P
+              (
+              t
+              )
+            
+          
+        
+        =
+        δ
+        ,
+      
+    
+    {\displaystyle {\frac {P'(t)}{P(t)}}=\delta ,}
+  when P(t) is the unit profit at time t and δ is the discount rate.
+The economic rent obtained is an abnormal rent, often referred to as resource rent, since it generates from a situation where the resource owner has open access to the resource for free. In other words, the resource rent is the resource royalty or resource's net price (price received from selling the resource minus costs. In this case costs are zero). The resource rent therefore equals the shadow value of the natural resource or natural capital.
+The concept of resource rent also includes biological and other renewable resources.
+

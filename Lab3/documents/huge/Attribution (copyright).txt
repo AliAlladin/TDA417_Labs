@@ -1,0 +1,10 @@
+Attribution, in copyright law, is acknowledgement as credit to the copyright holder or author of a work. If a work is under copyright, there is a long tradition of the author requiring attribution while directly quoting portions of work created by that author.
+An author may formally require attribution required via a license, legally preventing others from claiming to have written the work and allowing a copyright holder to retain reputational benefits from having written it. In cases when the copyright holder is the author themselves, this behavior is often moralized as a sign of decency and respect to acknowledge the creator by giving them credit for the work.
+This said, a work in the public domain, which is any not covered by copyright, has no such attribution requirement in most parts of the world. This is the distinguishing factor between plagiarism, which is not a crime, and copyright infringement, which may be a cause of legal action from the author.
+
+
+The most fundamental form of attribution is the statement of the copyright holder's identity, often in the form Copyright © [year] [copyright holder’s name]. The preservation of such a notice was an invariable requirement to prevent a work entering the public domain; this changed in the United States on March 1, 1989 when the requirement of copyright registration and copyright signment was ended. Copyright holder attribution is in most countries in the world not required, due to Berne convention.
+
+
+Author attribution is required by several licenses, such as the open-content Creative Commons licenses and most free and/or open source software licenses such as the MIT permissive license. Open content licenses without the requirement for author attribution include public domain equivalent licenses, like CC0.
+

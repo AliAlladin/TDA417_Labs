@@ -1,0 +1,41 @@
+A trope or tropus may refer to a variety of different concepts in medieval, 20th-, and 21st-century music.
+The term trope derives from the Greek τρόπος (tropos), "a turn, a change" (Liddell and Scott 1889), related to the root of the verb τρέπειν (trepein), "to turn, to direct, to alter, to change" (Anon. 2009). The Latinised form of the word is tropus.
+In music, a trope is adding another section, or trope to a plainchant or section of plainchant, thus making it appropriate to a particular occasion or festival.
+
+
+From the 9th century onward, trope refers to additions of new music to pre-existing chants in use in the Western Christian Church (Planchart 2001).
+Three types of addition are found in music manuscripts: 
+
+new melismas without text (mostly unlabelled or called "trope" in manuscripts)
+addition of a new text to a pre-existing melisma (more often called prosula, prosa, verba or versus)
+new verse or verses, consisting of both text and music (mostly called trope, but also laudes or versus in manuscripts) (Planchart 2001). The new verses can appear preceding or following the original material, or in between phrases.In the Medieval era, troping was an important compositional technique where local composers could add their own voice to the body of liturgical music. These added ideas are valuable tools to examine compositional trends in the Middle Ages, and help modern scholars determine the point of origin of the pieces, as they typically mention regional historical figures (St. Saturnin of Toulouse, for example would appear in tropes composed in Southern France).  Musical collections of tropes are called tropers.
+Tropes were a particular feature of the music and texts of the Sarum Use (the use of Salisbury, the standard liturgical use of England until the Reformation), although they occurred widely in the Latin church.  Deus creator omnium, was widely used in the Sarum Use and is in the form of a troped Kyrie.
+
+Deus creator omnium tu theos ymon nostri pie eleyson.
+Tibi laudes coniubilantes regum rex Christe oramus te eleyson.
+Laus virtus pax et imperium cui est semper sine fine eleyson.
+Christe rex unice Patris almi nate coeterne eleyson.
+Qui perditum hominem salvasti de morte reddens vite eleyson.
+Ne pereant pascue oves tue Jesu pastor bone eleyson.
+Consolator Spiritus supplices ymas te exoramus eleyson.
+Virtus nostra Domine atque salus nostra in eternum eleyson.
+Summe Deus et une vite dona nobis tribue misertus nostrique tu digneris eleyson.O God, creator of all things, most benevolent God: have mercy upon us.
+To you, Christ, King of Kings, we pray and rejoice together: have mercy.
+Praise, strength, peace and power are given to him always and without end: have mercy.
+Christ, king coeternal and only-begotten of the father: have mercy.
+Who saved lost man from death and restored him to life: have mercy.
+Jesus, good shepherd, let not your sheep perish: have mercy.
+Holy Spirit, the Comforter, we implore you to pray for us: have mercy.
+Lord God our strength and salvation in eternity: have mercy.
+Great and ever-living God, you have had pity on us.  Grant your gifts to those whom you deem worthy: have mercy.The standard Latin-rite ninefold Kyrie is the backbone of this trope.  Although the supplicatory format ('eleyson'/'have mercy') has been retained, the Kyrie in this troped format adopts a distinctly Trinitarian cast with a tercet address to the Holy Spirit which is not present in the standard Kyrie.  Deus creator omnium is thus a fine example of the literary and doctrinal sophistication of some of the tropes used in the Latin rite and its derived uses in the mediæval period.
+
+
+In certain types of atonal and serial music, a trope is an unordered collection of different pitches, most often of cardinality six (now usually called an unordered hexachord, of which there are two complementary ones in twelve-tone equal temperament) (Whittall 2008, 273). Tropes in this sense were devised and named by Josef Matthias Hauer in connection with his own twelve-tone technique, developed simultaneously with but overshadowed by Arnold Schoenberg's.
+Hauer discovered the 44 tropes, pairs of complementary hexachords, in 1921 allowing him to classify any of the 479,001,600 twelve-tone melodies into one of forty-four types (Whittall 2008, 24).
+The primary purpose of the tropes is not analysis (although it can be used for it) but composition. A trope is neither a hexatonic scale nor a chord. Likewise, it is neither a pitch-class set nor an interval-class set. A trope is a framework of contextual interval relations. Therefore, the key information a trope contains is not the set of intervals it consists of (and by no means any set of pitch-classes), it is the relational structure of its intervals (Sedivy 2011, 83).
+Each trope contains different types of symmetries and significant structural intervallic relations on varying levels, namely within its hexachords, between the two halves of an hexachord and with relation to whole other tropes.
+Based on the knowledge one has about the intervallic properties of a trope, one can make precise statements about any twelve-tone row that can be created from it. A composer can utilize this knowledge in many ways in order to gain full control over the musical material in terms of form, harmony and melody.
+The hexachords of trope no. 3 are related by inversion. Trope 3 is therefore suitable for the creation of inversional and retrograde inversional structures. Moreover, its primary formative intervals are the minor second and the major third/minor sixth. This trope contains [0,2,6] twice inside its first hexachord (e.g. F-G-B and G♭-A♭-C and [0,4,6] in the second one (e.g. A-C♯-D♯ and B♭-D-E). Its multiplications M5 and M7 will result in trope 30 (and vice versa). Trope 3 also allows the creation of an intertwined retrograde transposition by a major second and therefore of trope 17 (e.g., G-A♭-C-B-F-F♯-|-E-E♭-C♯-D-B♭-A → Bold pitches represent a hexachord of trope 17)  (Sedivy 2011, 83-90, 98, and 116).
+
+In general, familiarity with the tropes enables a composer to precisely predetermine a whole composition according to almost any structural plan. For instance, an inversional twelve-tone row from this trope 3 (such as G-A♭-C-B-F-F♯-D-C♯-A-B♭-E-D♯) that is harmonized by the [3-3-3-3] method as suggested by Hauer, will result in an equally inversional sequence of sonorities. This will enable the composer, for example, to write an inversional canon or a mirror fugue easily (see example 1). The symmetry of a twelve-tone row can thus be transferred to a whole composition likewise. Consequently, trope technique allows the integration of a formal concept into both a twelve-tone row and a harmonic matrix—and therefore into a whole musical piece (Sedivy 2011, 85).
+

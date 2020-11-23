@@ -1,0 +1,70 @@
+iTunes () is a media player, media library, Internet radio broadcaster, mobile device management utility, and the client app for iTunes Store. It is used to purchase, play, download, and organize digital multimedia, on personal computers running the macOS and Windows operating systems. iTunes is developed by Apple Inc. It was announced on January 9, 2001.
+The original and main focus of iTunes is music, with a library offering organization, collection, and storage of users' music collections. It can be used to rip songs from CDs, as well as play content with the use of dynamic, smart playlists. Options for sound optimizations exist, as well as ways to wirelessly share the iTunes library. In 2005, Apple expanded on the core features with support for digital video, podcasts, e-books, and mobile apps purchased from the iOS App Store, the last of which it discontinued in 2017. The original iPhone smartphone required iTunes for activation. Until the release of iOS 5 in 2011, iTunes was required for updating mobile apps. Newer iOS devices rely less on iTunes, though it can still be used to back up the contents of mobile devices, as well as to share files with personal computers.
+iTunes has received significant criticism for a bloated user experience, with Apple adopting an all-encompassing feature-set in iTunes rather than sticking to its original music-based purpose. On June 3, 2019, Apple announced that iTunes in macOS Catalina would be replaced by separate apps, namely Music, Podcasts, and TV. Finder would take over the device management capabilities. This change would not affect Windows or older macOS versions.
+
+
+
+SoundJam MP, released by Casady & Greene in 1998, was renamed "iTunes" when Apple purchased it in 2000. The primary developers of the software moved to Apple as part of the acquisition, and simplified SoundJam's user interface, added the ability to burn CDs, and removed its recording feature and skin support. The first version of iTunes, promotionally dubbed "World’s Best and Easiest To Use Jukebox Software", was announced on January 9, 2001. Subsequent releases of iTunes often coincided with new hardware devices, and gradually included support for new features, including "smart playlists," the iTunes Store, and new audio formats.
+
+
+Apple released iTunes for Windows in 2003. In May 2017, Microsoft and Apple announced that they would bring iTunes to the Microsoft Store by the end of that year in order to work on Windows 10 S devices, which are limited to software available in the Microsoft Store. However, Apple told ZDNet in December that it "[needs] a little more time to get it right", and thus won't be available in 2017. Apple released the Microsoft Store version on April 26, 2018.
+
+
+iTunes features a music library. Each track has attributes, called metadata, that can be edited by the user, including changing the name of the artist, album, and genre, year of release, artwork, among other additional settings. The software supports importing digital audio tracks that can then be transferred to iOS devices, as well as supporting ripping content from CDs. iTunes supports WAV, AIFF, Apple Lossless, AAC, and MP3 audio formats. It uses the Gracenote music database to provide track name listings for audio CDs. When users rip content from a CD, iTunes attempts to match songs to the Gracenote service. For self-published CDs, or those from obscure record labels, iTunes will normally only list tracks as numbered entries ("Track 1", "Track 2") on an unnamed album by an unknown artist, requiring manual input of data.File metadata is displayed in users' libraries in columns, including album, artist, genre, composer, and more. Users can enable or disable different columns, as well as change view settings.
+
+
+Introduced in 2004, "Party Shuffle" selected tracks to play randomly from the library, though users could press a button to skip the current song and go to the next in the list. The feature was later renamed "iTunes DJ", before being discontinued altogether, replaced by a simpler "Up Next" feature that notably lost some of "iTunes DJ"'s functionality.Introduced in iTunes 8 in 2008, "Genius" can automatically generate a playlist of songs from the user's library that "go great together". "Genius" transmits information about the user's library to Apple anonymously, and evolves over time to enhance its recommendation system. It can also suggest purchases to fill out "holes" in the library. The feature was updated with iTunes 9 in 2009 to offer "Genius Mixes", which generated playlists based on specific music genres."Smart playlists" are a set of playlists that can be set to automatically filter the library based on a customized list of selection criteria, much like a database query. Multiple criteria can be entered to manage the smart playlist. Selection criteria examples include a genre like Christmas music, songs that haven't been played recently, or songs the user has listened to the most in a time period.
+
+
+Through a "Home Sharing" feature, users can share their iTunes library wirelessly. Computer firewalls must allow network traffic, and users must specifically enable sharing in the iTunes preferences menu. iOS applications also exist that can transfer content without Internet. Additionally, users can set up a network-attached storage system, and connect to that storage system through an app.
+
+
+To compensate for the "boring" design of standard CDs, iTunes can print custom-made jewel case inserts. After burning a CD from a playlist, one can select that playlist and bring up a dialog box with several print options, including different "Themes" of album artworks.
+
+
+iTunes includes sound processing features, such as equalization, "sound enhancement" and crossfade. There is also a feature called Sound Check, which automatically adjusts the playback volume of all songs in the library to the same level.
+
+
+In May 2005, video support was introduced to iTunes with the release of iTunes 4.8, though it was limited to bonus features part of album purchases. The following October, Apple introduced iTunes 6, enabling support for purchasing and viewing video content purchased from the iTunes Store. At launch, the store offered popular shows from the ABC network, including Desperate Housewives and Lost, along with Disney Channel series That's So Raven and The Suite Life of Zack and Cody. Then-CEO Steve Jobs told the press that "We’re doing for video what we’ve done for music — we’re making it easy and affordable to purchase and download, play on your computer, and take with you on your iPod".In 2008, Apple and select film studios introduced "iTunes Digital Copy", a feature on select DVDs and Blu-ray discs allowing a digital copy in iTunes and associated media players.
+
+
+
+In June 2005, Apple updated iTunes with support for podcasts. Users can subscribe to podcasts, change update frequency, define how many episodes to download and how many to delete.Similarly to songs, "Smart playlists" can be used to control podcasts in a playlist, setting criteria such as date and number of times listened to.
+
+
+
+In January 2010, Apple announced the iPad tablet, and along with it, a new app for it called Apple Books (previously known as iBooks). The app allowed users to purchase e-books from the iTunes Store, manage them through iTunes, and transfer the content to their iPad.
+
+
+
+On July 10, 2008, Apple introduced native mobile apps for its iOS operating system. On iOS, a dedicated App Store application served as the storefront for browsing, purchasing and managing applications, whereas iTunes on computers had a dedicated section for apps rather than a separate app. In September 2017, Apple updated iTunes to version 12.7, removing the App Store section in the process. However, the following month, iTunes 12.6.3 was also released, retaining the App Store, with 9to5Mac noting that the secondary release was positioned by Apple as "necessary for some businesses performing internal app deployments".
+
+
+
+On April 28, 2003, Apple introduced the iTunes Store, then-named "iTunes Music Store". It allowed users to buy and download songs, with 200,000 tracks available at launch. In its first week, customers bought more than one million songs. Music purchased was protected by FairPlay, an encryption layer referred to as digital rights management (DRM). The use of DRM, which limited devices capable of playing purchased files, sparked efforts to remove the protection mechanism. Eventually, after an open letter to the music industry by then-CEO Steve Jobs in February 2007, Apple introduced a selection of DRM-free music in the iTunes Store in April 2007, followed by its entire music catalog without DRM in January 2009.In October 2005, Apple announced that movies and television shows would become available through its iTunes Store, employing the DRM protection.
+
+
+In May 2007, Apple announced the launch of "iTunes U" via the iTunes Store, which delivers university lectures from top U.S. colleges.With iTunes version 12.7 in August 2017, iTunes U collections became a part of the Podcasts app.
+
+
+In June 2011, Apple announced "iTunes in the Cloud", in which music purchases were stored on Apple's servers and made available for automatic downloading on new devices. For music the user owns, such as content ripped from CDs, the company introduced "iTunes Match", a feature that can upload content to Apple's servers, match it to its catalog, change the quality to 256kbit/s AAC format, and make it available to other devices.
+
+
+
+When iTunes was first released, it came with support for the Kerbango Internet radio tuner service. In June 2013, the company announced iTunes Radio, a free music streaming service. In June 2015, Apple announced Apple Music, its paid music streaming service, and subsequently rebranded iTunes Radio into Beats 1, a radio station accompanying Apple Music.
+
+
+iTunes was used to activate early iPhone models. Beginning with the iPhone 3G in June 2008, activation did not require iTunes, making use of activation at point of sale.
+
+
+
+With the release of iTunes 10 in September 2010, Apple announced iTunes Ping, which then-CEO Steve Jobs described as "social music discovery". It had features reminiscent of Facebook, including profiles and the ability to follow other users. Ping was discontinued in September 2012.
+
+
+
+
+The Telegraph reported in November 2011 that Apple had been aware of a security vulnerability since 2008 that would let unauthorized third parties install "updates" to users' iTunes software. Apple fixed the issue prior to the Telegraph's report, and told the media that "The security and privacy of our users is extremely important", though this was questioned by security researcher Brian Krebs, who told the publication that "A prominent security researcher warned Apple about this dangerous vulnerability in mid-2008, yet the company waited more than 1,200 days to fix the flaw".
+
+
+iTunes has been repeatedly accused of being bloated as part of Apple's efforts to turn it from a music player to an all-encompassing multimedia platform. Former PC World editor Ed Bott accused the company of hypocrisy in its advertising attacks on Windows for similar practices.During the announcement of macOS Catalina, Craig Federighi addressed the evolution of iTunes, and joked about the potential to include Email, Calendar, and Safari in iTunes before announcing iTunes's separation into independent apps.
+

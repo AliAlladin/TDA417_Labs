@@ -1,0 +1,32 @@
+Alvin Ira Goldman (born 1938) is an American philosopher who is Board of Governors Professor of Philosophy and Cognitive Science at Rutgers University in New Jersey and a leading figure in epistemology.
+
+
+Goldman earned his BA from Columbia University and PhD from Princeton University, and previously taught at the University of Michigan (1963–1980), the University of Illinois, Chicago (1980–1983) and the University of Arizona (1983–1994). He joined the Rutgers faculty in 1994. He has done influential work on a wide range of philosophical topics, but his principal areas of research are epistemology, philosophy of mind, and cognitive science.
+He is married to the ethicist Holly Martin Smith.
+
+
+
+
+Goldman's early book, A Theory of Human Action (a revised version of his Ph.D. thesis), presents a systematic way of classifying and relating the many actions we perform at any time.  Its influence was broad and can be found in, among other writings, John Rawls' book A Theory of Justice.  Goldman's early work in action theory soon gave way to work in other branches of philosophy, most influentially epistemology.
+
+
+Goldman's accounts of knowledge and justified belief, using notions like causation and reliability instead of normative concepts like permissibility and obligation, contributed to a philosophical approach that came to be known in the 1970s as naturalized epistemology.  (Unlike W.V.O. Quine's version of naturalized epistemology, however, Goldman's retains a traditional focus on questions of justification.)  Goldman's view emerged initially as part of the efforts in the 1960s to find a "fourth" condition in response to the Gettier challenge to the account of knowledge as "justified true belief."  In his 1967 paper, "A Causal Theory of Knowing", Goldman proposed that knowledge amounts to true belief appropriately caused by the fact that makes it true.  Later, he claimed knowledge amounts to true belief that is produced by a reliable process.Goldman has described his "naturalistic" approach to epistemology as splitting "epistemology (individual epistemology, anyway) into two parts.... The first part is dedicated to the 'analytic' task of identifying the criteria, or satisfaction conditions, for various normative epistemic statuses. With respect to the normative status of justifiedness (of belief), the proposed criterion is the reliability of the belief-forming processes by which the belief is produced. Defense of this criterion of justifiedness was not based on scientific psychology, but rather a familiar form of armchair methodology. The second part is the task where science enters the picture. Psychological science is required to identify the kinds of operations or computations available to the human cognizer, how well they work when operating on certain inputs and under certain conditions."More recently, Goldman has focused his epistemological efforts on questions of social epistemology, of the different social mechanisms through which knowledge is transmitted in society.  His work in social epistemology has dealt with the law (especially evidence), voting and media, among other topics.  He attempts to provide (in his words) a less radical view of social epistemology than those suggested by cultural theorists and postmodernists under that name.  His approach uses tools of analytic philosophy especially formal epistemology to analyze problems in social knowledge.  Some of this work is summarized in his book Knowledge in a Social World.
+
+
+Goldman has devoted significant time to showing how research in cognitive science is relevant to a variety of branches of philosophy including epistemology.  Much of this work appears in his books Epistemology and Cognition, Philosophical Applications of Cognitive Science, and Simulating Minds.
+
+
+Action (1965)
+"A Causal Theory of Knowing" in The Journal of Philosophy v. 64 (1967), pp. 357–372.
+A Theory of Human Action (1970)
+"Epistemics: The Regulative Theory of Cognition," The Journal of Philosophy 75 (1978) pp. 509–523.
+"What is Justified Belief?" in Justification and Knowledge (1979), pp. 1–23.
+Epistemology and Cognition (1986)
+Liaisons: Philosophy Meets the Cognitive and Social Sciences (1991)
+Philosophical Applications of Cognitive Science (1993)
+Readings in Philosophy and Cognitive Science (editor), (1993)
+Knowledge in a Social World (1999)
+Pathways to Knowledge: Private and Public (2004)
+Simulating Minds (2006)
+Joint Ventures: Mindreading, Mirroring, and Embodied Cognition (2013)
+

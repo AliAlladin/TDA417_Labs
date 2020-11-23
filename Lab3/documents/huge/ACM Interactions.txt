@@ -1,0 +1,27 @@
+ACM interactions  magazine serves a number of related worlds, offering content to educate and inspire designers, providing viewpoints related to culture and anthropology, describing innovation and creation in a business environment, and continually investigating the relationship between people, experiences, and technology.  Its publisher is ACM and the headquarters is in New York City.
+
+
+As of December 28 2016:
+
+Citation Count: 6,906
+Downloads (cumulative): 1,404,167
+Downloads (12 Months): 98,227
+Downloads (6 Weeks): 12,567
+
+
+First published in 1994, interactions initially appeared quarterly but moved to bi-monthly in 1996.  Since 2000, SIGCHI -- ACM's Special Interest Group on Computer Human Interaction -- has included a subscription to interactions among its benefits of membership.
+ACM interactions is the third largest ACM publication, and receives the second most citations, according to an article by new editors Wakkary and Stolterman in SIGCHI 2011.
+
+
+Each issue contains a cover story, regarded as the keynote article. Forums are published three times a year by specific Forum Editors, contributing a perspective such as sustainability or public policy. Blogspots are opinionated personal pieces, The Demo Hour segments represent a glimpse at a specific project, and Day in the Lab articles feature labs across the globe.Finally, the majority of each issue is contained in (typically) 5-6 feature articles, describing issues of general importance to the HCI community.
+
+
+1994-1995 John Rheinfrank and Bill Hefley
+1996 John Rheinfrank
+1997-1998 Vacant
+1998-2004 Steven Pemberton
+2005-2007 Jonathan Arnowitz and Elizabeth Dykstra-Erickson
+2008-2010 Richard Anderson and Jon Kolko
+2011-2016 Ron Wakkary and Erik Stolterman
+2016-  Simone Barbosa and Gilbert Cockton
+

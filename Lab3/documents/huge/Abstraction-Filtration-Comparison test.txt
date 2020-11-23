@@ -1,0 +1,31 @@
+The Abstraction-Filtration-Comparison test (AFC) is a method of identifying substantial similarity for the purposes of applying copyright law. In particular, the AFC test is used to determine whether non-literal elements of a computer program have been copied by comparing the protectable elements of two programs. The AFC test was developed by the United States Court of Appeals for the Second Circuit in 1992 in its opinion for
+Computer Associates Int. Inc. v. Altai Inc. It has been widely adopted by United States courts and recognized by courts outside the United States as well. 
+
+
+The Second Circuit Court of Appeals developed the AFC test for use in Computer Associates Int'l, Inc. v. Altai Inc. In that case, Computer Associates sued Altai for copyright infringement of a computer job scheduler program that was designed to be easily ported between operating systems. Proving copyright infringement requires proving both ownership of the copyright and that copying took place. This second requirement can be met either by direct proof, or as is more usually done, by demonstrating the following: 1) the defendant had access to the copyright material and 2) there is substantial similarity between the copyrighted work and the defendant's work. Demonstrating substantial similarity can be difficult when the two works are not exact replicas, either in full or in part. The Second Circuit court had found there was little previous guidance on how best to do this.
+One notable previous treatment of substantial similarity of the structure, sequence and organization (SSO) of software was adopted by the Third Circuit in Whelan v. Jaslow.  The court there suggested identifying the main function of a program as the idea and everything that is not strictly necessary for the purposes of the idea can be considered expression. The Altai court declined to follow this method, noting that the Whelan method "did not place enough emphasis on practical considerations". The AFC test was devised to handle that issue; it is a method for determining whether substantial similarity exists between two computer programs, especially in non-literal elements of the program.
+
+
+The AFC test is a three-step process for determining substantial similarity of the non-literal elements of a computer program. The process requires the court to first identify the increasing levels of abstraction of the program. Then, at each level of abstraction, material that is not protectable by copyright is identified and filtered out from further examination. The final step is to compare the defendant's program to the plaintiff's, looking only at the copyright-protected material as identified in the previous two steps, and determine whether the plaintiff's work was copied. In addition, the
+court will assess the relative significance of any copied material with respect to the entire program.
+
+
+The purpose of the abstraction step is to identify which aspects of the program constitute its expression and which are the ideas. By what is commonly referred to as the idea/expression dichotomy, copyright law protects an author's expression, but not the idea behind that expression. In a computer program, the lowest level of abstraction, the concrete code of the program, is clearly expression, while the highest level of
+abstraction, the general function of the program, might be better classified as the idea behind the program.  The abstractions test was first developed by the Second Circuit for use in literary works, but in the AFC test, they outline how it might be applied to computer
+programs. The court identifies possible levels of abstraction that can be defined. In increasing order
+of abstraction; these are: individual instructions, groups of instructions organized into a "hierarchy of modules", the functions of the lowest-level modules, the functions of the higher-level modules, the "ultimate function" of the code.
+
+
+The second step is to remove from consideration aspects of the program which are not legally protectable by copyright. The analysis is done at each level of abstraction identified in the previous step. The
+court identifies three factors to consider during this step: elements dictated by efficiency, elements dictated by external factors, and elements taken from the public domain.The court explains that elements dictated by efficiency are removed from consideration based on the merger doctrine which states that a form of expression that is incidental to the idea can not be protected by copyright. In computer programs, concerns for efficiency may limit the possible ways to achieve a particular function, making a particular expression necessary to achieving the idea. In this case, the expression is not protected by copyright.Eliminating elements dictated by external factors is an application of the scènes à faire doctrine
+to computer programs. The doctrine holds that elements necessary for, or standard to, expression in some particular theme can not be protected by copyright. Elements dictated by external factors may include hardware specifications, interoperability and compatibility requirements, design standards, demands of the market being served, and standard programming techniques.Finally, material that exists in the public domain can not be copyrighted and is also removed from the analysis.
+
+
+The final step of the AFC test is to consider the elements of the program identified in the first step and remaining after the second step, and for each of these compare the defendant's work with the plaintiff's to determine if the one is a copy of the other. In addition, the court will look at
+the importance of the copied portion with respect to the entire program.
+
+
+Following the Altai case, the AFC method has been widely adopted. Since 1992, every court to deal with the issue of determining substantial similarity in the non-literal aspects of computer programs has chosen the AFC method over the Whelan method. The analysis of the filtration step has been endorsed by courts in Canada and France. In the UK, the AFC test has the dubious honor of being endorsed and disapproved in successive cases. Current English law does not follow the AFC test laid out in Altai.
+
+
+

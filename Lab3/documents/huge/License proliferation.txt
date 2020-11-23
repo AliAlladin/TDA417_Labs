@@ -1,0 +1,45 @@
+License proliferation is the phenomenon of an abundance of already existing and the continued creation of new software licenses for software and software packages in the FOSS ecosystem. License proliferation affects the whole FOSS ecosystem negatively by the burden of increasingly complex license selection, license interaction, and license compatibility considerations.
+
+
+Often when a software developer would like to merge portions of different software programs they are unable to do so because the licenses are incompatible. When software under two different licenses can be merged into a larger software work, the licenses are said to be compatible. As the number of licenses increases, the probability that a Free and open-source software (FOSS) developer will want to merge software that are available under incompatible licenses increases. There is also a greater cost to companies that wish to evaluate every FOSS license for software packages that they use. Strictly speaking, no one is in favor of license proliferation. Rather, the issue stems from the tendency for organizations to write new licenses in order to address real or perceived needs for their software releases.
+
+
+License proliferation is especially a problem when licenses have only limited or complicated license compatibility relationships with other licenses. Therefore, some consider compatibility with the widely used GNU General Public License (GPL) an important characteristic, for instance David A. Wheeler as also the Free Software Foundation (FSF), who maintains a list of the licenses that are compatible with the GPL. On the other hand, some recommend Permissive licenses, instead of copyleft licenses, due to the better compatibility with more licenses. The Apache Foundation for instance criticizes the fact that while the Apache License is compatible with the copyleft GPLv3, the GPLv3 is not compatible with the permissive Apache license — Apache software can be included in GPLv3 software but not vice versa. As another relevant example, the GPLv2 is by itself not compatible with the GPLv3. The 2007 released GPLv3 was criticized by several authors for adding another incompatible license in the FOSS ecosystem.
+
+
+A vanity licenses is a license that is written by a company or person for no other reason than to write their own license ("NIH syndrome"). If a new license is created that has no obvious improvement or difference over another more common FOSS license it can often be criticized as a vanity license. As of 2008, many people create a custom new license for their newly released program, without knowing the requirements for a FOSS license and without realizing that using a nonstandard license can make that program almost useless to others.
+
+
+
+
+In July 2013, GitHub started a license selection wizard called choosealicense. GitHub's choosealicense frontpage offers as a quick selection only three licenses: the MIT License, the Apache License and the GNU General Public License. Some additional licenses are offered on subpages and via links. Following in 2015, approx. 77% of all licensed projects on GitHub were licensed under at least one of these three licenses.
+
+
+From 2006 Google Code only accepted projects licensed under the following seven licenses:
+Apache License 2.0
+New BSD License
+MIT License
+GNU General Public License 2.0
+GNU Lesser General Public License 2.1
+Mozilla Public License 1.1
+Artistic License/GPL dual-licensed (often used by the Perl community)One year later, around 2008, the GNU General Public License 3.0 was added and strongly recommended together with the permissive Apache license, notably excluded was the AGPLv3 to reduce license proliferation.In 2010, Google removed these restrictions, and announced that it would allow projects to use any OSI-approved license (see #OSI's stance below), but with the limitation that public domain projects are only allowed as single case decision.
+
+
+Open Source Initiative (OSI) maintains a list of approved licenses . Early in its history, the OSI contributed to license proliferation by approving vanity and non-reusable licenses. In 2004 a OSI License Proliferation Project was started has prepared a License Proliferation Report in 2007. The report defined classes of licenses:
+
+Licenses that are popular and widely used or with strong communities
+International licenses
+Special purpose licenses
+Other/Miscellaneous licenses
+Licenses that are redundant with more popular licenses
+Non-reusable licenses
+Superseded licenses
+Licenses that have been voluntarily retired
+Uncategorized LicensesThe group of "popular" licenses include nine licenses: Apache License 2.0, New BSD license, GPLv2, LGPLv2, MIT license, Mozilla Public License 1.1, Common Development and Distribution License, Common Public License, Eclipse Public License.
+
+
+Richard Stallman, former president of FSF, and Bradley M. Kuhn, former Executive Director, have argued against license proliferation since 2000, when they instituted the FSF license list, which urges developers to license their software under GPL compatible free software license(s), though multiple GPL-incompatible free software licenses are listed with a comment stating that there is no problem using and/or working on a piece of software already under the licenses in question while also urging readers of the list not to use those licenses on software they write.Ciarán O'Riordan of FSF Europe argues that the main thing that the FSF can do to prevent license proliferation is to reduce the reasons for making new licenses in the first place, in an editorial entitled How GPLv3 tackles license proliferation. Generally the FSF Europe consistently recommends the use of the GNU GPL as much as possible, and when that is not possible, to use GPL-compatible licenses.
+
+
+In 2005 Intel has voluntarily retracted their Intel Open Source License from the OSI list of open source licenses and has also ceased to use or recommend this license to reduce license proliferation.The 451group created in June 2009 a proliferation report called The Myth of Open Source License Proliferation. A 2009 paper from the University of Washington School of Law titled Open Source License Proliferation: Helpful Diversity or Hopeless Confusion? called for three things as a solution: "A Wizzier Wizzard" (for license selection), "Best Practices and Legacy Licenses", "More Legal Services For Hackers". The OpenSource Software Collaboration Counseling (OSSCC) recommends, based on the originally nine recommended OSI licenses, five licenses: the Apache License 2.0, New BSD License, CDDL, MIT license, and to some degree the MPL, as they support collaboration, grant patent use and offer patent protection. Notably missing is the GPL as "this license cannot be used inside other works under a different license."
+

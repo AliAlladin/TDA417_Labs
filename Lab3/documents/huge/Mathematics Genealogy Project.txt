@@ -1,0 +1,14 @@
+The Mathematics Genealogy Project is a web-based database for the academic genealogy of mathematicians. By 13 February 2019, it contained information on 238,725 mathematical scientists who contributed to research-level mathematics. For a typical mathematician, the project entry includes graduation year, thesis title, alma mater, doctoral advisor, and doctoral students.
+
+
+The project grew out of founder Harry Coonce's desire to know the name of his advisor's advisor. Coonce was Professor of Mathematics at Minnesota State University, Mankato, at the time of the project's founding, and the project went online there in fall 1997. Coonce retired from Mankato in 1999, and in fall 2002 the university decided that it would no longer support the project. The project relocated at that time to North Dakota State University. Since 2003, the project has also operated under the auspices of the American Mathematical Society and in 2005 it received a grant from the Clay Mathematics Institute. Harry Coonce has been assisted by Mitchel T. Keller, Assistant Professor at Washington and Lee University. Keller is currently the Managing Director of the project.
+
+
+The Mathematics Genealogy Mission statement states, "Throughout this project when we use the word "mathematics" or "mathematician" we mean that word in a very inclusive sense. Thus, all relevant data from statistics, computer science, philosophy or operations research is welcome."
+
+
+The genealogy information is obtained from sources such as Dissertation Abstracts International and Notices of the American Mathematical Society, but may be supplied by anyone via the project's website. The searchable database contains the name of the mathematician, university which awarded the degree, year when the degree was awarded, title of the dissertation, names of the advisor and second advisor, a flag of the country where the degree was awarded, a listing of doctoral students, and a count of academic descendants. Some historically significant figures who lacked a doctoral degree are listed, notably Joseph Louis Lagrange.
+
+
+It has been noted that "The data collected by the mathematics genealogy project are self-reported, so there is no guarantee that the observed genealogy network is a complete description of the mentorship network. In fact, 16,147 mathematicians do not have a recorded mentor, and of these, 8,336 do not have any recorded proteges." Maimgren, Ottino and Amaral (2010) stated that "for [mathematicians who graduated between 1900 and 1960] we believe that the graduation and mentorship record is the most reliable."
+

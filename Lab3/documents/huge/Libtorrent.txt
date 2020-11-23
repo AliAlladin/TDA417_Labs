@@ -1,0 +1,78 @@
+libtorrent is an open-source implementation of the BitTorrent protocol. It is written in and has its main library interface in C++. Its most notable features are support for Mainline DHT, IPv6, HTTP seeds and μTorrent's peer exchange. libtorrent uses Boost, specifically Boost.Asio to gain its platform independence. It is known to build on Windows and most Unix-like operating systems (OS X, Linux, and many BSDs).
+libtorrent is kept up to date with bittorrent extensions that developers deem most useful, and is actively being optimized to work in a broader set of environments. Many of its features can be disabled at compile time to not include code that would not be used in a particular use case. It aims to be the most suitable libtorrent implementation for embedded devices as well as desktops and seed-servers. Some of its implementation details are described in the features section.
+The original author of libtorrent is Arvid Norberg. It is the first client to support the extension protocol together with μTorrent, which is now a foundation that many other extensions build upon.
+
+
+
+
+
+
+plugin interface for implementing custom bittorrent extensions without having to modify libtorrent
+supports the μTorrent peer exchange protocol (PEX).
+supports local peer discovery (multicasts for peers on the same local network)
+tracker scrapes
+supports lt_trackers extension, to exchange trackers between peers
+supports the no_peer_id=1 extension that will ease the load off trackers.
+supports the compact=1 tracker parameter.
+support for merkle hash tree torrents. This makes the size of torrent files scale well with the size of the content.
+uses a separate disk I/O thread to not have the disk ever block on network or client interaction.
+supports files larger than 2 gigabytes on systems that support it.
+fast resume support, a way to get rid of the costly piece check at the start of a resumed torrent. Saves the storage state, piece_picker state as well as all local peers in a separate fast-resume file.
+has an adjustable read and write disk cache for improved disk throughput.
+queues torrents for file check, instead of checking all of them in parallel.
+does not have any requirements on the piece order in a torrent that it resumes. This means it can resume a torrent downloaded by any client.
+supports both sparse files and compact file allocation (where pieces are kept consolidated on disk)
+seed mode, where the files on disk are assumed to be complete, and each piece's hash is verified the first time it is requested.
+adjusts the length of the request queue depending on download rate.
+serves multiple torrents on a single port and in a single thread
+supports http proxies and basic proxy authentication
+supports gzipped tracker-responses
+can limit the upload and download bandwidth usage and the maximum number of unchoked peers
+possibility to limit the number of connections.
+delays have messages if there's no other outgoing traffic to the peer, and doesn't send have messages to peers that already has the piece. This saves bandwidth.
+selective downloading. The ability to select which parts of a torrent you want to download.
+ip filter to disallow ip addresses and ip ranges from connecting and being connected
+NAT-PMP and UPnP support (automatic port mapping on routers that support it)
+can proxy torrent traffic through the I2P anonymity network.
+
+
+All disk I/O in libtorrent is done asynchronously to the network thread, by the disk io thread. When a block is read, the disk io thread reads all subsequent blocks from that piece into the read cache, assuming that the peer requesting the block will also request more blocks from the same piece. This decreases the number of syscalls for reading data. It also decreases delay from seeking.
+Similarly, for write requests, blocks are cached and flushed to disk once one full piece is complete or the piece is the least recently updated one when more cache space is needed. The cache dynamically allocates space between the write and read cache. The write cache is strictly prioritized over the read cache.
+The cache blocks that are in use, are locked into physical memory to avoid it being paged out to disk. Allowing the disk cache to be paged out to disk means that it would become extremely inefficient to flush it, since it would have to be read back into physical memory only to be flushed back out to disk again.
+In order to conserve memory, and system calls, iovec file operations are used to flush multiple cache blocks in a single call.
+On low-memory systems, the disk cache can be disabled altogether or set to smaller limit, to save memory.
+
+
+On CPUs with small L2 caches, copying memory can be expensive operations. It is important to keep copying to a minimum on such machines. This mostly applies to embedded systems.
+In order to minimize the number of times received data is copied, the receive buffer for payload data is received directly into a page aligned disk buffer. If the connection is encrypted, the buffer is decrypted in-place. The buffer is then moved into the disk cache without being copied. Once all the blocks for a piece have been received, or the cache needs to be flushed, all the blocks are passed directly to writev() to flush them in a single syscall. This means a single copy into user space memory, and a single copy back into kernel memory.
+When seeding and uploading in general, unnecessary copying is avoided by caching blocks in aligned buffers, that are copied once into the peer's send buffer. The peer's send buffer is not guaranteed to be aligned, even though it is most of the time. The send buffer is then encrypted with the peer specific key and chained onto the iovec for sending.
+This means there is one user space copy in order to allow unaligned peer requests and peer-specific encryption.
+
+
+The piece picker is a central component in a bittorrent implementation. The piece picker in libtorrent is optimized for quickly finding the rarest pieces. It keeps a list of all available pieces sorted by rarity, and pieces with the same rarity, shuffled. The rarest first mode is the dominant piece picker mode. Other modes are supported as well, and used by peers in specific situations.
+The piece picker allows to combine the availability of a piece with a priority. Together they determine the sort order of the piece list. Pieces with priority 0 will never be picked, which is used for the selective download feature.
+In order to have as few partially finished pieces as possible, peers have an affinity towards picking blocks from the same pieces as other peers in the same speed category.
+The speed category is a coarse categorization of peers based on their download rate. This makes slow peers pick blocks from the same piece, and fast peers pick from the same piece, and hence decreasing the likelihood of slow peers blocking the completion of pieces.
+The piece picker can also be set to download pieces in sequential order.
+
+
+This is BEP30 of the BitTorrent protocol. Merkle hash tree torrents is an extension that lets a torrent file only contain the root hash of the hash tree forming the piece hashes. The main benefit of this feature is that regardless of how many pieces there are in a torrent, the .torrent file will always be the same size. It will only grow with the number of files (since it still has to contain the file names).
+With regular torrents, clients have to request multiple blocks for pieces, typically from different peers, before the data can be verified against the piece hash. The larger the pieces are, the longer it will take to download a complete piece and verify it. Before the piece is verified, it cannot be shared with the swarm, which means the larger piece sizes, the slower turnaround data has when it is downloaded by peers.
+Since on average the data has to sit around, waiting, in client buffers before it has been verified and can be uploaded again.
+Another problem with large piece sizes is that it is harder for a client to pinpoint the malicious or buggy peer when a piece fails, and it will take longer to re-download it and take more tries before the piece succeeds the larger the pieces are.
+The piece size in regular torrents is a tradeoff between the size of the .torrent file itself and the piece size. Often, for files that are 4 GB, the piece size is 2 or 4 MB, just to avoid making the .torrent file too big.
+Merkle torrents solves these problems by removing the tradeoff between .torrent size and piece size. With merkle torrents, the piece size can be the minimum block size (16 KB), which lets peers verify every block of data received from peers, immediately. This gives a minimum turnaround time and completely removes the problem of identifying malicious peers.
+
+
+Some applications that use libtorrent:
+
+Deluge, cross-platform BitTorrent client
+Electric Sheep screen saver, BitTorrent client for screensaver
+Free Download Manager, Windows open source download manager
+Koinonein BitTorrent Client, BitTorrent client for Windows
+LimeWire, multi-platform file sharing client
+Miro, a cross-platform Internet television application
+qBittorrent, C++ / Qt BitTorrent client
+Runes of Magic, an MMORPG whose FOG downloader uses libtorrent for updating the game client.
+World of Tanks, a MMORPG whose launcher uses libtorrent for updating the game client.
+

@@ -1,0 +1,24 @@
+The Free Software Definition written by Richard Stallman and published by Free Software Foundation (FSF), defines free software as being software that ensures that the end users have freedom in using, studying, sharing and modifying that software. The term "free" is used in the sense of "free speech," not of "free of charge." The earliest-known publication of the definition was in the February 1986 edition of the now-discontinued GNU's Bulletin publication of FSF. The canonical source for the document is in the philosophy section of the GNU Project website. As of April 2008, it is published there in 39 languages.  FSF publishes a list of licences which meet this definition.
+
+
+The definition published by FSF in February 1986 had two points:
+The word "free" in our name does not refer to price; it refers to freedom.  First, the freedom to copy a program and redistribute it to your neighbors, so that they can use it as well as you.  Second, the freedom to change a program, so that you can control it instead of it controlling you; for this, the source code must be made available to you.
+
+In 1996, when the gnu.org website was launched, "free software" was defined referring to "three levels of freedom" by adding an explicit mention of the freedom to study the software (which could be read in the two-point definition as being part of the freedom to change the program).  Stallman later avoided the word "levels", saying that you need all of the freedoms, so it's misleading to think in terms of levels.
+Finally, another freedom was added, to explicitly say that users should be able to run the program. The existing freedoms were already numbered one to three, but this freedom should come before the others, so it was added as "freedom zero".The modern definition defines free software by whether or not the recipient has the following four freedoms:
+
+The freedom to run the program as you wish, for any purpose (freedom 0).
+The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+The freedom to redistribute copies so you can help your neighbor (freedom 2).
+The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+Freedoms 1 and 3 require source code to be available because studying and modifying software without its source code is highly impractical.
+
+
+In July 1997, Bruce Perens published the Debian Free Software Guidelines. A definition based on the DFSG was also used by the Open Source Initiative (OSI) under the name "The Open Source Definition".
+
+
+
+Despite the philosophical differences between the free-software movement and the open-source-software movement, the official definitions of free software by the FSF and of open-source software by the OSI basically refer to the same software licences, with a few minor exceptions. While stressing the philosophical differences, the Free Software Foundation comments:
+
+The term "open source" software is used by some people to mean more or less the same category as free software. It is not exactly the same class of software: they accept some licences that we consider too restrictive, and there are free software licences they have not accepted. However, the differences in extension of the category are small: nearly all free software is open source, and nearly all open source software is free.
+

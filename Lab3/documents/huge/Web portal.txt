@@ -1,0 +1,78 @@
+A web portal is a specially designed website that brings information from diverse sources, like emails, online forums and search engines, together in a uniform way. Usually, each information source gets its dedicated area on the page for displaying information (a portlet); often, the user can configure which ones to display. Variants of portals include mashups and intranet "dashboards" for executives and managers. The extent to which content is displayed in a "uniform way" may depend on the intended user and the intended purpose, as well as the diversity of the content. Very often design emphasis is on a certain "metaphor" for configuring and customizing the presentation of the content (e.g., a dashboard or map) and the chosen implementation framework or code libraries. In addition, the role of the user in an organization may determine which content can be added to the portal or deleted from the portal configuration.
+A portal may use a search engine's application programming interface (API) to permit users to search intranet content as opposed to extranet content by restricting which domains may be searched. Apart from this common search engines feature, web portals may offer other services such as e-mail, news, stock quotes, information from databases and even entertainment content. Portals provide a way for enterprises and organizations to provide a consistent "look and feel" with access control and procedures for multiple applications and databases, which otherwise would have been different web entities at various URLs. The features available may be restricted by whether access is by an authorized and authenticated user (employee, member) or an anonymous website visitor.
+
+
+In the late 1990s the Web portal was a Web IT buzzword. After the proliferation of Web browsers in the late-1990s many companies tried to build or acquire a portal to attempt to obtain a share of an Internet market. The Web portal gained special attention because it was, for many users, the starting point of their Web browsing if it was set as their home page. The content and branding of a portal could change as Internet companies merged or were acquired. Netscape became a part of America Online, the Walt Disney Company launched Go.com, IBM and others launched Prodigy (-only users.) Portal metaphors are widely used by public library sites for borrowers using a login as users and by university intranets for students and for faculty. Vertical markets remain for ISV's (Independent Software Vendors) offering management and executive intranet "dashboards" for corporations and government agencies in areas such as GRC and risk management.
+
+
+Web portals are sometimes classified as horizontal or vertical. A horizontal portal is used as a platform to several companies in the same economic sector or to the same type of manufacturers or distributors. A vertical portal (also known as a "vortal") is a specialized entry point to a specific market or industry niche, subject area, or interest. Some vertical portals are known as "vertical information portals" (VIPs). VIPs provide news, editorial content, digital publications, and e-commerce capabilities. In contrast to traditional vertical portals, VIPs also provide dynamic multimedia applications including social networking, video posting, and blogging.
+
+
+
+
+A personal portal is a Web Page at a Web site on the World Wide Web or a local HTML home page including JavaScript and perhaps running in a modified Web browser. A personal portal typically provides personalized capabilities to its visitors or its local user, providing a pathway to other content. It may be designed to use distributed applications, different numbers and types of middleware and hardware to provide services from a number of different sources and may run on a non-standard local Web server. In addition, business portals can be designed for sharing and collaboration in workplaces. A further business-driven requirement of portals is that the content be presented on multiple platforms such as personal computers, laptops, tablet computers, personal digital assistants (PDAs), cell phones and smartphones.
+Information, news, and updates are examples of content that could be delivered through such a portal. Personal portals can be related to any specific topic such as providing friends information on a social network or providing links to outside content that may help others beyond your reach of services. Portals are not limited to simply providing links. Outside of business intranet user, very often simpler portals become replaced with richer mashup designs. Within enterprises, early portals were often replaced by much more powerful "dashboard" designs. Some also have relied on newer protocols such as some version of RSS aggregation and may or may not involve some degree of Web harvesting.
+
+
+At the end of the dot-com boom in the 1990s, many governments had already committed to creating government web portal sites for their citizens. These included primary portals to the governments as well as portals developed for specific branches (e.g., a particular government ministry, department or agency), or for specific sub-audiences (e.g., senior citizens, parents, post-secondary students, etc.). Notable government web portals include:
+
+australia.gov.au for Australia.
+Disability.gov for citizens with disabilities in the United States.
+Europa (web portal) links to all EU agencies and institutions in addition to press releases and audiovisual content from press conferences.
+GobiernoUSA.gov for the United States (in Spanish).
+gov.uk for citizens & businesslink.gov.uk for businesses in the United Kingdom.
+Health-EU portal gathers all relevant health topics from across Europe.
+india.gov.in for India.
+National Resource Directory links to resources for United States Service Members, Veterans and their families.
+USA.gov for the United States (in English).
+
+
+Cultural portals aggregate digitised cultural collections of galleries, libraries (see: library portal), archives and museums. This type of portal provides a point of access to invisible Web cultural content that may not be indexed by standard search engines. Digitised collections can include scans or digital photos of books, artworks, photography, journals, newspapers, maps, diaries and letters and digital files of music, sound recordings, films, and archived websites as well as the descriptive metadata associated with each type of cultural work (e.g., metadata provides information about the author, publisher, etc.). These portals are often based around a specific national or regional groupings of institutions. Notable cultural portals include:
+
+Digital Public Library of America (in development)
+DigitalNZ – A cultural portal led by the National Library of New Zealand focused on New Zealand digital content.
+Europeana – A cultural portal for the European Union based in the National Library of the Netherlands and overseen by the Europeana Foundation.
+TUT.by - A commercial cultural portal focused on Belarusian digital content.
+
+
+
+Corporate intranets became common during the 1990s. As intranets grew in size and complexity, organization webmasters were faced with increasing content and user management challenges. A consolidated view of company information was judged insufficient; users wanted personalization and customization. Webmasters, if skilled enough, were able to offer some capabilities, but for the most part ended up driving users away from using the intranet. Many companies began to offer tools to help webmasters manage their data, applications and information more easily, and by providing different users with personalized views. Portal solutions can also include workflow management, collaboration between work groups or branches, and policy-managed content publication. Most can allow internal and external access to specific corporate information using secure authentication or single sign-on.
+JSR168 Standards emerged around 2001. Java Specification Request (JSR) 168 standards allow the interoperability of portlets across different portal platforms. These standards allow portal developers, administrators and consumers to integrate standards-based portals and portlets across a variety of vendor solutions. The concept of content aggregation seems to still gain momentum and portal solution will likely continue to evolve significantly over the next few years. The Gartner Group predicts generation 8 portals to expand on the Business Mashups concept of delivering a variety of information, tools, applications and access points through a single mechanism.With the increase in user-generated content (blog posts, comments, photos), disparate data silos, and file formats, information architects and taxonomists will be required to allow users the ability to tag (classify) the data or content. For example, if a vice-president makes a blog post, this post could be tagged with her/his name, title, and the subject of the post. Tagging makes it easier for users of the intranet to find the content they are interested in. This will ultimately cause a ripple effect where users will also be generating ad hoc navigation and information flows. Corporate portals also offer customers and employees self-service opportunities.
+
+
+Also known as stock-share portals, stock market portals or stock exchange portals are Web-based applications that facilitates the process of informing the share-holders with substantial online data such as the latest price, ask/bids, the latest News, reports and announcements. Some stock portals use online gateways through a central depository system (CDS) for the visitors (ram) to buy or sell their shares or manage their portfolio.
+
+
+Search portals aggregate results from several search engines into one page. You can find search portals specialized in a product, for example property search portals. Library search portals are also known as discovery interfaces.
+
+
+Property search portals aggregate data about properties for sale by real estate agents. Notable property search portals in the UK include Nestoria, Nuroa, OnTheMarket, Rightmove and Zoopla.
+
+
+A tender portal is a gateway for government suppliers to bid on providing goods and services. Tender portals allow users to search, modify, submit, review and archive data in order to provide a complete online tendering process.
+Using online tendering, bidders can do any of the following:
+
+Receive notification of the tenders.
+Receive tender documents online.
+Fill out the forms online.
+Submit proposals and documents.
+Submit bids online.
+
+
+Hosted Web portals gained popularity and a number of companies began offering them as a hosted service. The hosted portal market fundamentally changed the composition of portals. In many ways they served simply as a tool for publishing information instead of the loftier goals of integrating legacy applications or presenting correlated data from distributed databases. The early hosted portal companies such as Hyperoffice.com or the now defunct InternetPortal.com focused on collaboration and scheduling in addition to the distribution of corporate data. As hosted Web portals have risen in popularity their feature set has grown to include hosted databases, document management, email, discussion forums and more. Hosted portals automatically personalize the content generated from their modules to provide a personalized experience to their users. In this regard they have remained true to the original goals of the earlier corporate Web portals.
+Emerging new classes of Internet portals called Cloud Portals are showcasing the power of API (Application Programming Interface) rich software systems leveraging SOA (service-oriented architecture, Web services, and custom data exchange) to accommodate machine to machine interaction creating a more fluid user experience for connecting users spanning multiple domains during a given "session". Cloud portals like Nubifer Cloud Portal show what is possible using Enterprise Mashup and Web Service integration approaches to building cloud portals.
+
+
+A number of portals have come about which are specific to a particular domain, offering access to related companies and services; a prime example of this trend would be the growth in property portals that give access to services such as estate agents, removal firm, and solicitors that offer conveyancing. Along the same lines, industry-specific news and information portals have appeared, such as the clinical trials-specific portal.
+
+
+
+
+The main concept is to present the user with a single Web page that brings together or aggregates content from a number of other systems or servers. The application server or architecture performs most of the crucial functions of the application. This application server is in turn connected to database servers, and may be part of a clustered server environment. High-capacity portal configurations may include load balancing strategies. For portals that present application functionality to the user, the portal server is in reality the front piece of a server configuration that includes some connectivity to the application server. For early Web browsers permitting HTML frameset and iframe elements, diverse information could be presented without violating the browser same-source security policy (relied upon to prevent a variety of cross-site security breaches). More recent client-side technologies rely on JavaScript frameworks and libraries that rely on more recent Web functionality such as WebSockets and asynchronous callbacks using XMLHttpRequests.
+The server hosting the portal may only be a "pass through" for the user. By use of portlets, application functionality can be presented in any number of portal pages. For the most part, this architecture is transparent to the user. In such a design, security and concurrent user capacity can be important issues, and security designers need to ensure that only authenticated and authorized users can generate requests to the application server. If the security design and administration does not ensure adequate authentication and authorization, then the portal may inadvertently present vulnerabilities to various types of attacks.
+
+
+Web Services for Remote Portlets v1
+JSR 168 (Java)
+JSR 286 (Java Portlet v2.0 Definition Standard)
+

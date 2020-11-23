@@ -1,0 +1,14 @@
+Space shifting (or spaceshifting), also known as place shifting (or placeshifting), allows media, such as music or films, which are stored on one device, to be accessed from another place through another device. Space shifting is frequently done through computer networks, for example by viewing a television broadcast from a WiFi equipped set-top box on a WiFi equipped notebook. Other media shifting processes include time shifting, a process whereby a radio or television broadcast is recorded and played back at a different time, and format shifting where media files are converted into different formats.A practical purpose of placeshifting is to avoid copyright infringement claims, as when viewing content through the Slingbox or similar consumer electronics.
+In the 1980s, in the United States, Radio Shack marketed and distributed a different technology to view Audio/Video output remotely.  It worked on the cordless phone frequencies and broadcast the signal with their proprietary transmitters and receivers branded Archer/Rabbit VCR Multiplying System.
+
+
+Here are a few products and devices known for offering space shifting technology:
+
+TV2Me - the original placeshifting device, developed by Ken Schaffer
+LocationFree Player
+Slingbox
+Subsonic (media server)
+Ampache
+Plex (software)
+Monsoon Multimedia
+

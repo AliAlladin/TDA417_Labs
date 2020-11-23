@@ -1,0 +1,44 @@
+Collusion is a secret cooperation or deceitful agreement in order to deceive others, although not necessarily illegal, as is a conspiracy. A secret agreement between two or more parties to limit open competition by deceiving, misleading, or defrauding others of their legal rights, or to obtain an objective forbidden by law typically by defrauding or gaining an unfair market advantage is an example of collusion. It is an agreement among firms or individuals to divide a market, set prices, limit production or limit opportunities.
+It can involve "unions, wage fixing, kickbacks, or misrepresenting the independence of the relationship between the colluding parties".  In legal terms, all acts effected  by collusion are considered void.
+
+
+In the study of economics and market competition, collusion takes place within an industry when rival companies cooperate for their mutual benefit. Collusion most often takes place within the market structure of oligopoly, where the decision of a few firms to collude can significantly impact the market as a whole. Collusion which is covert, on the other hand, is known as tacit collusion, and is legal. Adam Smith in the Wealth of Nations explains that since the masters (business owners) are fewer in numbers, it becomes much easier for them to collude in order to serve common interests among them, such as keeping the wages of workers low, while it is much more difficult for the labor to coordinate in order to protect their own interests due to their vast numbers. Therefore, business owners have a bigger advantage over the working class. Nevertheless, according to Adam Smith, people rarely hear about the coordination and collaboration that happens between business owners as it happens in an informal way.
+
+
+According to neoclassical price-determination theory and game theory, the independence of suppliers forces prices to their minimum, increasing efficiency and decreasing the price determining ability of each individual firm. However, if firms collude to all increase prices, loss of sales is minimized, as consumers lack alternative choices at lower prices. This benefits the colluding firms at the cost of efficiency to society.One variation of this traditional theory is the theory of kinked demand. Firms face a kinked demand curve if, when one firm decreases its price, other firms are expected to follow suit in order to maintain sales; when one firm increases its price, however, its rivals are unlikely to follow, as they would lose the sales' gains that they would otherwise get by holding prices at the previous level.  Kinked demand potentially fosters supra-competitive prices because any one firm would receive a reduced benefit from cutting price, as opposed to the benefits accruing under neoclassical theory and certain game theoretic models such as Bertrand competition.
+
+
+Practices that suggest possible collusion include:
+
+Uniform prices
+A penalty for price discounts
+Advance notice of price changes
+Information exchange
+
+
+Collusion is illegal in the United States, Canada and most of the EU due to antitrust laws, but implicit collusion in the form of price leadership and tacit understandings still takes place. Several examples of collusion in the United States include:
+
+Market division and price-fixing among manufacturers of heavy electrical equipment in the 1960s, including General Electric.
+An attempt by Major League Baseball owners to restrict players' salaries in the mid-1980s.
+The sharing of potential contract terms by NBA free agents in an effort to help a targeted franchise circumvent the salary cap.
+Price fixing within food manufacturers providing cafeteria food to schools and the military in 1993.
+Market division and output determination of livestock feed additive, called lysine, by companies in the US, Japan and South Korea in 1996, Archer Daniels Midland being the most notable of these.
+Chip dumping in poker or any other card game played for money.
+Ben and Jerry's and Häagen-Dazs collusion of products in 2013: Ben and Jerry's makes chunkier flavors with more treats in them, while Häagen-Dazs sticks to smoother flavors. 
+The Google and Apple against employee poaching collusion case in 2015, in which it was revealed that both companies agreed not to hire employees from one another in order to halt the rise of wages.In the EU:
+
+The illegal collusion between the giant German automakers BMW, Daimler and Volkswagen, discovered by the European Commission in 2019, to hinder technological progress in improving the quality of vehicle emissions in order to reduce the cost of production and maximize profits.There are many ways that implicit collusion tends to develop:
+
+The practice of stock analyst conference calls and meetings of industry participants almost necessarily results in tremendous amounts of strategic and price transparency. This allows each firm to see how and why every other firm is pricing their products.
+If the practice of the industry causes more complicated pricing, which is hard for the consumer to understand (such as risk-based pricing, hidden taxes and fees in the wireless industry, negotiable pricing), this can cause competition based on price to be meaningless (because it would be too complicated to explain to the customer in a short advertisement). This causes industries to have essentially the same prices and compete on advertising and image, something theoretically as damaging to consumers as normal price fixing.
+
+
+There can be significant barriers to collusion. In any given industry, these may include:
+
+The number of firms: As the number of firms in an industry increases, it is more difficult to successfully organize, collude and communicate.
+Cost and demand differences between firms: If costs vary significantly between firms, it may be impossible to establish a price at which to fix output.
+Cheating: There is considerable incentive to cheat on collusion agreements; although lowering prices might trigger price wars, in the short term the defecting firm may gain considerably. This phenomenon is frequently referred to as "chiseling".
+Potential entry: New firms may enter the industry, establishing a new baseline price and eliminating collusion (though anti-dumping laws and tariffs can prevent foreign companies entering the market).
+Economic recession: An increase in average total cost or a decrease in revenue provides incentive to compete with rival firms in order to secure a larger market share and increased demand.
+Anticollusion legal framework and collusive lawsuit.
+

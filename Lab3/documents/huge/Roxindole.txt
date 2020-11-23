@@ -1,0 +1,6 @@
+Roxindole (EMD-49,980) is a dopaminergic and serotonergic drug which was originally developed for the treatment of schizophrenia. In clinical trials its antipsychotic efficacy was only modest but it was unexpectedly found to produce potent and rapid antidepressant and anxiolytic effects. As a result, roxindole was further researched for the treatment of depression instead. It has also been investigated as a therapy for Parkinson's disease and prolactinoma.Roxindole acts as an agonist at the following receptors:
+D2 receptor (pKi = 8.55)
+D3 receptor (pKi = 8.93)
+D4 receptor (pKi = 8.23)
+5-HT1A receptor (pKi = 9.42)At D2 and possibly D3 receptors roxindole is a partial agonist with preferential actions at autoreceptors and has been touted as a 'selective' autoreceptor agonist, hence the justification of its application as an antipsychotic. Weaker activity at the serotonin 1B and 1D receptors has been seen. It is also a serotonin reuptake inhibitor (IC50 = 1.4 nM) and has been reported to act as a 5-HT2A receptor antagonist as well.
+

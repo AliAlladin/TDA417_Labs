@@ -1,0 +1,104 @@
+An autorun.inf file is a text file that can be used by the AutoRun and AutoPlay components of Microsoft Windows operating systems. For the file to be discovered and used by these component, it must be located in the root directory of a volume. As Windows has a case-insensitive view of filenames, the autorun.inf file can be stored as AutoRun.inf or Autorun.INF or any other case combination.
+The AutoRun component was introduced in Windows 95 as a way of reducing support costs. AutoRun enabled application CD-ROMs to automatically launch a program which could then guide the user through the installation process. By placing settings in an autorun.inf file, manufacturers could decide what actions were taken when their CD-ROM was inserted. The simplest autorun.inf files have just two settings: one specifying an icon to represent the CD in Windows Explorer (or "My Computer") and one specifying which application to run.
+Extra settings have been added in successive versions of Windows to support AutoPlay and other new features.
+
+
+autorun.inf is an ASCII text file located in the root folder of a CD-ROM or other volume device medium (See AutoPlay device types). The structure is that of a classic Windows .ini file, containing information and commands as "key=value" pairs, grouped into sections. These keys specify:
+
+The name and the location of a program to call when the medium is inserted (the "AutoRun task").
+The name of a file that contains an icon that represents the medium in Explorer (instead of the standard drive icon).
+Commands for the menu that appears when the user right-clicks the drive icon.
+The default command that runs when the user double-clicks the drive icon.
+Settings that alter AutoPlay detection routines or search parameters.
+Settings that indicate the presence of drivers.
+
+
+Autorun.inf has been used to execute a malicious program automatically, without the user knowing. This functionality was removed in Windows 7 and a patch for Windows XP and Vista was released on August 25, 2009 and included in Microsoft Automatic Updates on February 8, 2011.
+
+
+The mere existence of an autorun.inf file on a medium does not mean that Windows will automatically read it or use its settings. How an inf file is handled depends on the version of Windows in use, the volume drive type and certain Registry settings.
+Assuming Registry settings allow, the following autorun.inf handling takes place:
+
+Windows versions prior to Windows XPOn any drive type, the autorun.inf is read, parsed and instructions followed immediately and silently.
+The "AutoRun task" is the application specified by the open or shellexecute keys. If an AutoRun task is specified it is executed immediately without user interaction.Windows XP, prior to Service Pack 2Introduction of AutoPlay.
+Drives of type DRIVE_CDROM invoke AutoPlay if no autorun.inf file is found.
+Drives of type DRIVE_REMOVABLE do not use the autorun.inf file. Any discovered removable media are handled by AutoPlay.
+All other handling is as before.XP Service Pack 2 and up (includes Vista)Drives of type DRIVE_FIXED are now handled by AutoPlay. Any specified AutoRun task appears as an option within the AutoPlay dialog together with any text specified by the optional action key.
+Drives of type DRIVE_REMOVABLE now use autorun.inf but continue to be handled by AutoPlay. Any specified AutoRun task needs to be paired with the mandatory action key to appear as an option within the AutoPlay dialog. Otherwise the AutoRun task is omitted.
+All other handling is as before.Vista and laterThe AutoRun task is no longer automatically and silently executed on any drive type. All volumes are handled by AutoPlay which, by default, will present an appropriate dialog to the user.Windows 7, Windows 8, Windows 8.1, Windows 10For all drive types, except DRIVE_CDROM, the only keys available in the [autorun] section are label and icon. Any other keys in this section will be ignored. Thus only CD and DVD media types can specify an AutoRun task or affect double-click and right-click behaviour.
+There is a patch available, KB971029 for Windows XP and later, that will change AutoRun functionality to this behaviour.
+
+
+This simple autorun.inf file specifies setup.exe as the application to run when AutoRun is activated. The first icon stored within setup.exe itself will represent the drive in Explorer:
+
+
+Following are the sections and keys allowed in a valid autorun.inf. There also exist architecture specific section types for systems such as Windows NT 4 running on RISC. However these are long outdated and not described here.
+
+
+The autorun section contains the default AutoRun commands. An autorun.inf file must contain this section to be valid. Keys allowed are:
+
+ action=text 
+ action=@[filepath\]filename,-resourceID 
+
+Windows XP SP2 or later; drives of type DRIVE_REMOVABLE and DRIVE_FIXED
+Specifies text used in the AutoPlay dialog to represent the program specified in the open or shellexecute keys. The text is expressed as either text or as a resource reference. The icon is displayed next to the text. This item is always first in the AutoPlay dialog and is always selected by default.
+If the (action) key does not appear on drives of type:
+DRIVE_REMOVABLE
+the AutoPlay dialog appears but without additional menu items. Essentially, the AutoRun task is omitted. This makes the action key mandatory for drives of this type.
+DRIVE_FIXED
+default text is created and used in the AutoPlay dialog.
+On all other drive types the key is ignored.
+ icon=iconfilename[,index] 
+The name of a file resource containing an icon. This icon replaces the standard drive icon in Windows Explorer. This file must be in the same directory as the file specified by the open key.
+ label=text 
+Specifies a text label representing the drive in Windows Explorer.
+ open=[exepath\]exefile [param1 [param2 ...]] 
+Specifies the path, file name and optional parameters to the application that AutoRun launches when a user inserts a disc in the drive. It is the CreateProcess function that is called by AutoRun. Note that if the application name includes spaces the path should be enclosed in double quote, e.g. open=""spread sheets.exe""
+ shellexecute=[filepath\]filename [param1 [param2 ...]] 
+
+Windows 2000, Windows ME or later
+Similar to open, but using file association information to run the application. The file name can therefore be an executable or a data file. It is the ShellExecuteEx function that is called by AutoRun.
+ UseAutoPlay=1 
+
+Windows XP or later; drives of type DRIVE_CDROM
+Use AutoPlay rather than AutoRun with CD-ROMs. The action taken on CD-ROM insertion will depend on the version of Windows being used.
+On versions of Windows earlier than XP, this key has no effect and actions specified by open or shellexecute are performed.
+On Windows XP and later, the user will be presented with the AutoPlay dialog and any actions specified by open or shellexecute are ignored.
+ shell\verb\command=[exepath\]exefile [param1 [param2 ...]] 
+Adds a custom command to the drive's shortcut menu. verb is a string with no embedded spaces. verb is also the text that will appear in the shortcut menu unless specifically altered to some other text. See below for an example.
+ shell\verb=menu text 
+Optionally specify the text displayed in the shortcut menu for the verb above. Use an ampersand (&) to select a hotkey for the menu. See below for an example.
+ shell=verb 
+Defines the menu command referred to by shell\verb as the default command in the shortcut menu. The default command is the command executed when the drive icon is double-clicked. If missing, the default menu item will be "AutoPlay", which launches the application specified by the open entry.
+Example:
+
+
+Windows Vista or laterThe Content section allows authors to communicate the type and intent of content to AutoPlay without AutoPlay having to examine the media.
+Valid keys are: MusicFiles, PictureFiles, VideoFiles. Each key can be set to indicate true or false values and values are not case sensitive.
+
+true or (1, y, yes, t)
+display the handlers associated with that content type
+false or (0, n, no, f)
+do not display the handlers associated with that content typeExample:
+
+
+Windows Vista or laterLimits AutoPlay's content search to only those folders listed, and their subfolders. The folder names are always taken as absolute paths (a path from the root directory of the media) whether or not a leading slash is used.
+Example:
+
+
+Windows Vista or laterAutoPlay's content search system will not scan the folders listed, nor their subfolders. IgnoreContentPaths takes precedence over ExclusiveContentPaths so if a path given in a [IgnoreContentPaths] section is a subfolder of a path given in an [ExclusiveContentPaths] section it is still ignored.
+Example:
+
+
+Only Windows XPThis section is used to indicate where driver files may be located. This prevents a lengthy search through the entire contents of a CD-ROM. Windows XP will fully search:
+
+floppy disks in drives A or B
+CD/DVD media less than 1 GB in size.without this section present. All other media should include this section to have Windows XP autodetect any drivers stored on that media.
+The section is not used with AutoRun or AutoPlay and is only referred to during a driver installation phase. The only valid key is:
+
+DriverPath=directorypath
+
+which lists a path Windows will search for driver files. All subdirectories of that path are also searched. Multiple key entries are allowed.
+If no DriverPath entry is provided in the [DeviceInstall] section or the DriverPath entry has no value, then that drive is skipped during a search for driver files.
+Example:
+

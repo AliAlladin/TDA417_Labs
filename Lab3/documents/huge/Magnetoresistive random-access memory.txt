@@ -1,0 +1,119 @@
+Magnetoresistive random-access memory (MRAM) is a type of non-volatile random-access memory which stores data in magnetic domains. Developed in the mid-1980s, proponents have argued that magnetoresistive RAM will eventually surpass competing technologies to become a dominant or even universal memory. Presently, other memory technologies such as flash RAM and DRAM have practical advantages that have so far kept MRAM in a niche role in the market. It is currently in production by Everspin Technologies, and other companies, including GlobalFoundries and Samsung, have announced in 2016 product plans. A recent, comprehensive review article on magnetoresistance and magnetic random access memories is available as an open access paper in Materials Today.
+
+
+
+Unlike conventional RAM chip technologies, data in MRAM is not stored as electric charge or current flows, but by magnetic storage elements. The elements are formed from two ferromagnetic plates, each of which can hold a magnetization, separated by a thin insulating layer. One of the two plates is a permanent magnet set to a particular polarity; the other plate's magnetization can be changed to match that of an external field to store memory. This configuration is known as a magnetic tunnel junction and is the simplest structure for an MRAM bit. A memory device is built from a grid of such "cells".
+The simplest method of reading is accomplished by measuring the electrical resistance of the cell. A particular cell is (typically) selected by powering an associated transistor that switches current from a supply line through the cell to ground. Due to the tunnel magnetoresistance, the electrical resistance of the cell changes due to the relative orientation of the magnetization in the two plates. By measuring the resulting current, the resistance inside any particular cell can be determined, and from this the magnetization polarity of the writable plate. Typically if the two plates have the same magnetization alignment (low resistance state) this is considered to mean "1", while if the alignment is antiparallel the resistance will be higher (high resistance state) and this means "0".
+Data is written to the cells using a variety of means. In the simplest "classic" design, each cell lies between a pair of write lines arranged at right angles to each other, parallel to the cell, one above and one below the cell. When current is passed through them, an induced magnetic field is created at the junction, which the writable plate picks up. This pattern of operation is similar to magnetic-core memory, a system commonly used in the 1960s. This approach requires a fairly substantial current to generate the field, however, which makes it less interesting for low-power uses, one of MRAM's primary disadvantages. Additionally, as the device is scaled down in size, there comes a time when the induced field overlaps adjacent cells over a small area, leading to potential false writes. This problem, the half-select (or write disturb) problem, appears to set a fairly large minimal size for this type of cell. One experimental solution to this problem was to use circular domains written and read using the giant magnetoresistive effect, but it appears that this line of research is no longer active.
+A newer technique, spin-transfer torque (STT) or spin-transfer switching, uses spin-aligned ("polarized") electrons to directly torque the domains. Specifically, if the electrons flowing into a layer have to change their spin, this will develop a torque that will be transferred to the nearby layer. This lowers the amount of current needed to write the cells, making it about the same as the read process. There are concerns that the "classic" type of MRAM cell will have difficulty at high densities due to the amount of current needed during writes, a problem that STT avoids. For this reason, the STT proponents expect the technique to be used for devices of 65 nm and smaller. The downside is the need to maintain the spin coherence. Overall, the STT requires much less write current than conventional or toggle MRAM. Research in this field indicates that STT current can be reduced up to 50 times by using a new composite structure. However, higher-speed operation still requires higher current.Other potential arrangements include "thermal-assisted switching" (TAS-MRAM), which briefly heats up (reminiscent of phase-change memory) the magnetic tunnel junctions during the write process and keeps the MTJs stable at a lower temperature the rest of the time; and "vertical transport MRAM" (VMRAM), which uses current through a vertical column to change magnetic orientation, a geometric arrangement that reduces the write disturb problem and so can be used at higher density.A review article provides the details of materials and challenges associated with MRAM in the perpendicular geometry. The authors describe a new term called "Pentalemma", which represents a conflict in five different requirements such as write current, stability of the bits, readability, read/write speed and the process integration with CMOS. The selection of materials and the design of MRAM to fulfill those requirements are discussed.
+
+
+
+
+The main determinant of a memory system's cost is the density of the components used to make it up. Smaller components, and fewer of them, mean that more "cells" can be packed onto a single chip, which in turn means more can be produced at once from a single silicon wafer. This improves yield, which is directly related to cost.
+DRAM uses a small capacitor as a memory element, wires to carry current to and from it, and a transistor to control it – referred to as a "1T1C" cell. This makes DRAM the highest-density RAM currently available, and thus the least expensive, which is why it is used for the majority of RAM found in computers.
+MRAM is physically similar to DRAM in makeup, and often does require a transistor for the write operation (though not strictly necessary). The scaling of transistors to higher density necessarily leads to lower available current, which could limit MRAM performance at advanced nodes.
+
+
+Since the capacitors used in DRAM lose their charge over time, memory assemblies that use DRAM must  refresh all the cells in their chips 16 times a second, reading each one and re-writing its contents. As DRAM cells decrease in size it is necessary to refresh the cells more often, resulting in greater power consumption.
+In contrast, MRAM never requires a refresh. This means that not only does it retain its memory with the power turned off but also there is no constant power-draw. While the read process in theory requires more power than the same process in a DRAM, in practice the difference appears to be very close to zero. However, the write process requires more power to overcome the existing field stored in the junction, varying from three to eight times the power required during reading. Although the exact amount of power savings depends on the nature of the work — more frequent writing will require more power – in general MRAM proponents expect much  lower power consumption (up to 99% less) compared to DRAM. STT-based MRAMs eliminate the difference between reading and writing, further reducing power requirements.
+It is also worth comparing MRAM with another common memory system — flash RAM. Like MRAM, flash does not lose its memory when power is removed, which makes it very common in applications requiring persistent storage. When used for reading, flash and MRAM are very similar in power requirements. However, flash is re-written using a large pulse of voltage (about 10 V) that is stored up over time in a charge pump, which is both power-hungry and time-consuming. In addition, the current pulse physically degrades the flash cells, which means flash can only be written to some finite number of times before it must be replaced.
+In contrast, MRAM requires only slightly more power to write than read, and no change in the voltage, eliminating the need for a charge pump. This leads to much faster operation, lower power consumption, and an indefinitely long lifetime.
+
+
+MRAM is often touted as being a non-volatile memory. However, the current mainstream high-capacity MRAM, spin-transfer torque memory, provides improved retention at the cost of higher power consumption, i.e., higher write current. In particular, the critical (minimum) write current is directly proportional to the thermal stability factor Δ. The retention is in turn proportional to exp(Δ). The retention, therefore, degrades exponentially with reduced write current.
+
+
+Dynamic random-access memory (DRAM) performance is limited by the rate at which the charge stored in the cells can be drained (for reading) or stored (for writing). MRAM operation is based on measuring voltages rather than charges or currents, so there is less "settling time" needed. IBM researchers have demonstrated MRAM devices with access times on the order of 2 ns, somewhat better than even the most advanced DRAMs built on much newer processes. A team at the German Physikalisch-Technische Bundesanstalt have demonstrated MRAM devices with 1 ns settling times, better than the currently accepted theoretical limits for DRAM, although the demonstration was a single cell. The differences compared to flash are far more significant, with write speeds as much as thousands of times faster. However, these speed comparisons are not for like-for-like current. High-density memory requires small transistors with reduced current, especially when built for low standby leakage. Under such conditions, write times shorter than 30 ns may not be reached so easily. In particular, to meet solder reflow stability of 260 °C over 90 seconds, 250 ns pulses have been required. This is related to the elevated thermal stability requirement driving up the write bit error rate. In order to avoid breakdown from higher current, longer pulses are needed.
+For the perpendicular STT MRAM, the switching time is largely determined by the thermal stability Δ as well as the write current. A larger Δ (better for data retention) would require a larger write current or a longer pulse. A combination of high speed and adequate retention is only possible with a sufficiently high write current.
+The only current memory technology that easily competes with MRAM in terms of performance at comparable density is static random-access memory (SRAM). SRAM consists of a series of transistors arranged in a flip-flop, which will hold one of two states as long as power is applied. Since the transistors have a very low power requirement, their switching time is very low. However, since an SRAM cell consists of several transistors, typically four or six, its density is much lower than DRAM. This makes it expensive, which is why it is used only for small amounts of high-performance memory, notably the CPU cache in almost all modern central processing unit designs.
+Although MRAM is not quite as fast as SRAM, it is close enough to be interesting even in this role. Given its much higher density, a CPU designer may be inclined to use MRAM to offer a much larger but somewhat slower cache, rather than a smaller but faster one. It remains to be seen how this trade-off will play out in the future.
+
+
+The endurance of MRAM is affected by write current, just like retention and speed, as well as read current. When the write current is sufficiently large for speed and retention, the probability of MTJ breakdown needs to be considered. If the read current/write current ratio is not small enough, read disturb becomes more likely, i.e., a read error occurs during one of the many switching cycles. The read disturb error rate is given by 1 - exp(-(tread/τ)/exp(Δ(1-(Iread /Icrit)))), where τ is the relaxation time (1 ns) and Icrit is the critical write current. Higher endurance requires a sufficiently low Iread/Icrit. However, a lower Iread also reduces read speed.
+
+
+MRAM has similar performance to SRAM, enabled by the use of sufficient write current. However, this dependence on write current also makes it a challenge to compete with the higher density comparable to mainstream DRAM and Flash. Nevertheless, some opportunities for MRAM exist where density need not be maximized. From a fundamental physics point of view, the spin-transfer torque approach to MRAM is bound to a "rectangle of death" formed by retention, endurance, speed, and power requirements, as covered above.
+
+While the power-speed tradeoff is universal for electronic devices, the endurance-retention tradeoff at high current and the degradation of both at low Δ is problematic. Endurance is largely limited to 108 cycles.
+
+
+Flash and EEPROM's limited write-cycles are a serious problem for any real RAM-like role. In addition, the high power needed to write the cells is a problem in low-power roles, where non-volatile RAM is often used. The power also needs time to be "built up" in a device known as a charge pump, which makes writing dramatically slower than reading, often as low as 1/1000 as fast.  While MRAM was certainly designed to address some of these issues, a number of other new memory devices are in production or have been proposed to address these shortcomings.
+To date, the only similar system to enter widespread production is ferroelectric RAM, or F-RAM (sometimes referred to as FeRAM).
+Also seeing renewed interest are silicon-oxide-nitride-oxide-silicon (SONOS) memory and ReRAM. 3D XPoint has also been in development, but is known to have a higher power budget than DRAM.
+
+
+
+1955 — Magnetic core memory had the same reading writing principle as MRAM
+1984 — Arthur V. Pohm and James M. Daughton, while working for Honeywell, developed the first magnetoresistance memory devices.
+1984 — GMR effect discovered
+1988 — European scientists (Albert Fert and Peter Grünberg) discovered the "giant magnetoresistive effect" in thin-film structures.
+1989 — Pohm and Daughton left Honeywell to form Nonvolatile Electronics, Inc. (later renamed to NVE Corp.) sublicensing the MRAM technology they have created.
+1995 — Motorola (later to become Freescale Semiconductor, and subsequently NXP Semiconductors) initiates work on MRAM development
+1996 — Spin Torque Transfer is proposed
+1998 — Motorola develops 256 Kb MRAM test chip.
+2000 — IBM and Infineon established a joint MRAM development program.
+2000 — Spintec laboratory's first Spin Torque Transfer patent.
+2002
+NVE Announces technology exchange with Cypress Semiconductor.
+Toggle patent granted to Motorola
+2003 — A 128 kbit MRAM chip was introduced, manufactured with a 180 nm lithographic process
+2004
+June — Infineon unveiled a 16-Mbit prototype, manufactured with a 180 nm lithographic process
+September — MRAM becomes a standard product offering at Freescale.
+October — Taiwan developers of MRAM tape out 1 Mbit parts at TSMC.
+October — Micron drops MRAM, mulls other memories.
+December — TSMC, NEC and Toshiba describe novel MRAM cells.
+December — Renesas Technology promotes a high performance, high-reliability MRAM technology.
+Spintech laboratory's first observation of Thermal Assisted Switching (TAS) as MRAM approach.
+Crocus Technology is founded; the company is a developer of second-generation MRAM
+2005
+January — Cypress Semiconductor samples MRAM, using NVE IP.
+March — Cypress to Sell MRAM Subsidiary.
+June — Honeywell posts data sheet for 1-Mbit rad-hard MRAM using a 150 nm lithographic process
+August — MRAM record: memory cell runs at 2 GHz.
+November — Renesas Technology and Grandis collaborate on development of 65 nm MRAM employing spin torque transfer (STT).
+November — NVE receives an SBIR grant to research cryptographic tamper-responsive memory.
+December — Sony announced the first lab-produced spin-torque-transfer MRAM, which utilizes a spin-polarized current through the tunneling magnetoresistance layer to write data. This method consumes less power and is more scalable than conventional MRAM. With further advances in materials, this process should allow for densities higher than those possible in DRAM.
+December — Freescale Semiconductor Inc. demonstrates an MRAM that uses magnesium oxide, rather than an aluminum oxide, allowing for a thinner insulating tunnel barrier and improved bit resistance during the write cycle, thereby reducing the required write current.
+Spintec laboratory gives Crocus Technology exclusive license on its patents.
+2006
+February — Toshiba and NEC announced a 16 Mbit MRAM chip with a new "power-forking" design.  It achieves a transfer rate of 200 Mbit/s, with a 34 ns cycle time, the best performance of any MRAM chip.  It also boasts the smallest physical size in its class — 78.5 square millimeters — and the low voltage requirement of 1.8 volts.
+July — On July 10, Austin Texas — Freescale Semiconductor begins marketing a 4-Mbit MRAM chip, which sells for approximately $25.00 per chip.
+2007
+R&D moving to spin transfer torque RAM (SPRAM)
+February — Tohoku University and Hitachi developed a prototype 2-Mbit non-volatile RAM chip employing spin-transfer torque switching.
+August — "IBM, TDK Partner In Magnetic Memory Research on Spin Transfer Torque Switching" IBM and TDK to lower the cost and boost performance of MRAM to hopefully release a product to market.
+November — Toshiba applied and proved the spin transfer torque switching with perpendicular magnetic anisotropy MTJ device.
+November — NEC develops world's fastest SRAM-compatible MRAM with operation speed of 250 MHz.
+2008
+Japanese satellite, SpriteSat, to use Freescale MRAM to replace SRAM and FLASH components
+June — Samsung and Hynix become partner on STT-MRAM
+June — Freescale spins off MRAM operations as new company Everspin
+August — Scientists in Germany have developed next-generation MRAM that is said to operate as fast as fundamental performance limits allow, with write cycles under 1 nanosecond.
+November — Everspin announces BGA packages, product family from 256Kb to 4Mb
+2009
+June — Hitachi and Tohoku University demonstrated a 32-Mbit spin-transfer torque RAM (SPRAM).
+June — Crocus Technology and Tower Semiconductor announce deal to port Crocus' MRAM process technology to Tower's manufacturing environment
+November — Everspin releases SPI MRAM product family and ships first embedded MRAM samples
+2010
+April — Everspin releases 16Mb density
+June — Hitachi and Tohoku Univ announced Multi-level SPRAM
+2011
+March — PTB, Germany, announces below 500 ps (2Gbit/s) write cycle
+2012
+November — Chandler, Arizona, USA, Everspin debuts 64Mb ST-MRAM on a 90nm process
+December — A team from University of California, Los Angeles presents voltage-controlled MRAM at IEEE International Electron Devices Meeting
+2013
+November — Buffalo Technology and Everspin announce a new industrial SATA III SSD that incorporates Everspin's Spin-Torque MRAM (ST-MRAM) as cache memory.
+2014
+January — Researchers announced the ability to control the magnetic properties of core/shell antiferromagnetic nanoparticles using only temperature and magnetic field changes.
+2016
+April — Samsung's semiconductor chief Kim Ki-nam says Samsung is developing an MRAM technology that "will be ready soon".
+July — IBM and Samsung report an MRAM device capable of scaling down to 11 nm with a switching current of 7.5 microamps at 10 ns.
+August — Everspin announces it was shipping samples of the industry's first 256Mb ST-MRAM to customers
+December — Inston and Toshiba independently present results on voltage-controlled MRAM at International Electron Devices Meeting
+
+
+Proposed uses for MRAM include devices such as aerospace and military systems, digital cameras, notebooks, smart cards, Mobile telephones, Cellular base stations, personal computers, battery-backed SRAM replacement, datalogging specialty memories (black box solutions), media players, and book readers.
+

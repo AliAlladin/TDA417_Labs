@@ -1,0 +1,71 @@
+S (named ess , plural esses) is the 19th letter in the Modern English alphabet and the ISO basic Latin alphabet.
+
+
+
+
+
+Northwest Semitic šîn  represented a voiceless postalveolar fricative /ʃ/ (as in 'ship'). It originated most likely as a pictogram of a tooth (שנא) and represented the phoneme /ʃ/ via the acrophonic principle.Greek did not have a  /ʃ/ phoneme, so the derived Greek letter sigma (Σ) came to represent the voiceless alveolar sibilant /s/. 
+While the letter shape Σ continues Phoenician šîn, its name sigma is taken from the letter samekh, while the shape and position of samekh but name of šîn is continued in the xi.
+Within Greek, the name of sigma was influenced by its association with the Greek word σίζω (earlier *sigj-) "to hiss". The original name of the letter "sigma" may have been san, but due to the complicated early history of the Greek epichoric alphabets, "san" came to be identified as a separate letter, Ϻ. Herodotus reports that "San" was the name given by the  Dorians to the same letter called "Sigma" by the Ionians.The Western Greek alphabet used in Cumae was adopted by the Etruscans and Latins in the 7th century BC, over the following centuries developing into a range of Old Italic alphabets including the Etruscan alphabet and the early Latin alphabet.
+In Etruscan, the value /s/ of Greek sigma (𐌔) was maintained, while san (𐌑)
+represented a separate phoneme, most likely /ʃ/ (transliterated as ś). 
+The early Latin alphabet adopted sigma, but not san, as Old Latin did not have a  /ʃ/ phoneme.
+The shape of Latin S arises from Greek Σ by dropping one out of the four strokes of that letter.
+The (angular) S-shape composed of three strokes existed as a variant of the four-stroke letter Σ already in the epigraphy in Western Greek alphabets, and the three and four strokes variants existed alongside one another in the classical Etruscan alphabet. In other Italic alphabets (Venetic, Lepontic), the letter could be represented as a zig-zagging line of any number between three and six strokes.
+The Italic letter was also adopted into Elder Futhark, as Sowilō (ᛊ), and appears with four to eight strokes in the earliest runic inscriptions, but is occasionally reduced to three strokes (ᛋ) from the later 5th century, and appears regularly with three strokes in Younger Futhark.
+
+
+
+The minuscule form  ſ, called the long s, developed in the early medieval period, within the Visigothic and Carolingian hands, with predecessors in the half-uncial and cursive scripts of Late Antiquity. It remained standard in western writing throughout the medieval period and was adopted in early printing with movable types. 
+It existed alongside minuscule "round" or "short" s, which was at the time only used at the end of words.
+In most western orthographies, the ſ gradually fell out of use during the second half of the 18th century, although it remained in occasional use into the 19th century.
+In Spain, the change was mainly accomplished between the years 1760 and 1766. In France, the change occurred between 1782 and 1793. Printers in the United States stopped using the long s between 1795 and 1810. In English orthography, the London printer John Bell (1745–1831) pioneered the change. His edition of Shakespeare, in 1785, was advertised with the claim that he "ventured to depart from the common mode by rejecting the long 'ſ' in favor of the round one, as being less liable to error....."   The Times of London made the switch from the long to the short s with its issue of 10 September 1803. 
+Encyclopædia Britannica's 5th edition, completed in 1817, was the last edition to use the long s.
+In German orthography, long s was retained in Fraktur (Schwabacher) type as well as in standard cursive (Sütterlin) well into the 20th century, and was officially abolished in 1941.
+The ligature of ſs (or ſz) was retained, however, giving rise to the Eszett, ß in contemporary German orthography.
+
+
+The letter ⟨s⟩ is the seventh most common letter in English and the third-most common consonant after ⟨t⟩ and ⟨n⟩. It is the most common letter in starting and ending position.In English and several other languages, primarily Western Romance ones like Spanish and French, final ⟨s⟩ is the usual mark of plural nouns. It is the regular ending of English third person present tense verbs.
+⟨s⟩ represents the voiceless alveolar or voiceless dental sibilant /s/ in most languages as well as in the International Phonetic Alphabet. It also commonly represents the voiced alveolar or voiced dental sibilant /z/, as in Portuguese mesa (table) or English 'rose' and 'bands', or it may represent the voiceless palato-alveolar fricative [ʃ], as in most Portuguese dialects when syllable-finally, in Hungarian, in German (before ⟨p⟩, ⟨t⟩) and some English words as 'sugar', since yod-coalescence became a dominant feature, and [ʒ], as in English 'measure' (also because of yod-coalescence), European Portuguese Islão (Islam) or, in many sociolects of Brazilian Portuguese, esdrúxulo (proparoxytone) in some Andalusian dialects, it merged with Peninsular Spanish ⟨c⟩ and ⟨z⟩ and is now pronounced [θ].  In some English words of French origin, the letter ⟨s⟩ is silent, as in 'isle' or 'debris'.
+The ⟨sh⟩ digraph for English  /ʃ/ arises in Middle English (alongside ⟨sch⟩), replacing the Old English ⟨sc⟩ digraph. Similarly, Old High German ⟨sc⟩ was replaced by ⟨sch⟩ in Early Modern High German orthography.
+
+
+
+
+ſ : Latin letter long S, an obsolete variant of S
+ẜ ẝ : Various forms of long S were used for medieval scribal abbreviations
+ẞ ß : German Eszett or "sharp S", derived from a ligature of long s followed by either s or z
+S with diacritics: Ś ś Ṡ ṡ ẛ Ṩ ṩ Ṥ ṥ Ṣ ṣ S̩ s̩ Ꞩ ꞩ Ŝ ŝ Ṧ ṧ Š š Ş ş Ș ș S̈ s̈ ᶊ Ȿ ȿ ᵴ ᶳ
+ₛ : Subscript small s was used in the Uralic Phonetic Alphabet prior to its formal standardization in 1902
+ˢ : Modifier letter small s is used for phonetic transcription
+ꜱ : Small capital S was used in the Icelandic First Grammatical Treatise to mark gemination
+Ʂ ʂ : S with hook, used for writing Mandarin Chinese using the early draft version of pinyin romanization during the mid-1950s
+Ƨ ƨ : Latin letter reversed S (used in Zhuang transliteration)
+IPA-specific symbols related to S: ʃ ɧ ʂ
+Ꞅ ꞅ : Insular S
+
+
+$ : Dollar sign
+₷ : Spesmilo
+§ : Section sign
+℠ : Service mark symbol
+∫ : Integral symbol, short for summation
+
+
+𐤔 : Semitic letter Shin, from which the following symbols originally derive
+archaic Greek Sigma could be written with different numbers of angles and strokes. Besides the classical form with four strokes (), a three-stroke form resembling an angular Latin S () was commonly found, and was particularly characteristic of some mainland Greek varieties including Attic and several "red" alphabets.
+Σ: classical Greek letter Sigma
+Ϲ ϲ: Greek lunate sigma
+Ⲥ ⲥ : Coptic letter sima
+С с : Cyrillic letter Es, derived from a form of sigma
+𐌔 : Old Italic letter S, includes the variants also found in the archaic Greek letter
+S: Latin letter S
+ᛊ, ᛋ, ᛌ : Runic letter sowilo, which is derived from Old Italic S
+𐍃: Gothic letter sigil
+Ս : Armenian letter Se
+
+
+1 Also for encodings based on ASCII, including the DOS, Windows, ISO-8859 and Macintosh families of encodings.
+
+
+

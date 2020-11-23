@@ -1,0 +1,32 @@
+ArnetMiner (also AMiner) is a free online service used to index, search, and mine big scientific data.
+
+
+ArnetMiner (AMiner) is designed to search and perform data mining operations against academic publications on the Internet, using social network analysis to identify connections between researchers, conferences, and publications. This allows it to provide services such as expert finding, geographic search, trend analysis, reviewer recommendation, association search, course search, academic performance evaluation, and topic modeling.
+ArnetMiner was created as a research project in social influence analysis, social network ranking, and social network extraction. A number of peer-reviewed papers have been published arising from the development of the system. It has been in operation for more than three years, and has indexed 130,000,000 researchers and more than 200 million publications. The research was funded by the Chinese National High-tech R&D Program and the National Science Foundation of China.
+ArnetMiner is commonly used in academia to identify relationships between and draw statistical correlations about research and researchers. It has attracted more than 10 million independent IP accesses from 220 countries and regions. The product has been used in Elsevier's SciVerse platform, and academic conferences such as SIGKDD, ICDM, PKDD, WSDM.
+
+
+ArnetMiner automatically extracts the researcher profile from the web. It collects and identifies the relevant pages, then uses a unified approach to extract data from the identified documents. It also extracts publications from online digital libraries using heuristic rules.
+It integrates the extracted researchers’ profiles and the extracted publications. It employs the researcher name as the identifier. A probabilistic framework has been proposed to deal with the name ambiguity problem in the integration. The integrated data is stored into a researcher network knowledge base (RNKB).
+The principal other product in the area are Google Scholar, Elsevier's Scirus, and the open source project CiteSeer.
+
+
+It was initiated and created by professor Jie Tang from Tsinghua University, China. It was first launched in March 2006. The following provide a list of updates in the past years:
+
+March 2006, Version 0.1, Functions include researcher profiling, expert search, conference search, and publication search. The system was developed in Perl;
+August 2006, Version 1.0, The system was re-implemented in Java;
+July 2007, Version 2.0, New functions include researcher interest mining, association search, survey paper finding (unavailable now);
+April 2008, Version 3.0, New functions include query understanding, new GUI, and search log analysis;
+November 2008, Version 4.0, New functions include graph search, topic modeling, NSF/NSFC funding information extraction;
+April 2009, Version 5.0, New functions include Profile edition, open API service, Bole search, course search (unavailable now);
+December 2009, Version 6.0, New functions include academic performance evaluation, user feedback, conference analysis;
+May 2010, Version 7.0, New functions include name disambiguation, paper-reviewer recommendation, ArnetPage creation;
+March 2012, Version II, renamed as AMiner, rewrote all the codes and redesign the GUI. New functions include: geographic search, ArnetAPP platform.
+June 2014, Version II, renamed as AMiner, rewrote all the codes and redesign the GUI. New functions include: geographic search, ArnetAPP platform.
+December 2015, a completely new version got online.
+May 2017, professional version got online.
+April 2018, New functions include Trend Analysis , a deep learning based Name Disambiguation
+
+
+ArnetMiner published several datasets for academic research purpose, including Open Academic Graph, DBLP+citation (a data set augmenting citations into the DBLP data from Digital Bibliography & Library Project), Name Disambiguation, Social Tie Analysis. For more available datasets and source codes for research, please refer to.
+

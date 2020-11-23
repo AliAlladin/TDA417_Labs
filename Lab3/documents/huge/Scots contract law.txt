@@ -1,0 +1,11 @@
+Scots contract law governs the rules of contract in Scotland.
+Contract is created by bilateral agreement and should be distinguished from a unilateral promise, the latter being recognised as a distinct and enforceable species of obligation in Scots Law. The English requirement for consideration does not apply in Scotland, so it is possible to have a gratuitous contract, i.e. a contract where only one of the parties comes under any duties to the other (e.g. a contract to perform services for no consideration). If, however, consideration is given, as for example in a sales contract, the contract is said to be onerous.
+A contract is an agreement between two or more parties which creates or intends to create legally binding obligations between the parties to it.
+Note however that not all declarations made by a person to another person will amount to a promise that is enforceable under Scots law. In particular, a declaration of intention, a testamentary provision, and an offer will not be a promise.
+At common law, a promise had to be proved by writ or oath. However, after the introduction of the Requirements of Writing (Scotland) Act 1995, a promise need only be evidenced in writing for:
+
+the creation, transfer, variation or extinction of a real right in land (s 1(2) (a)(i) of Requirements of Writing (Scotland) Act 1995); and
+a gratuitous unilateral obligation except an obligation undertaken in the course of business (s 1(2)(a)(ii) of Requirements of Writing (Scotland) Act 1995.) [Note that this section has caused great debate amongst academics as to the meanings of ‘unilateral’ and ‘gratuitous’. Some believe that the inclusion of the two terms in this section points to a desire of the drafters that they be given different meanings. This would allow some promises to be unilateral but not gratuitous. This argument was particularly discussed by both Martin Hogg (University of Edinburgh) and Joe Thomson (University of Glasgow) in articles for the Scots Law Times (News) in 1998 and 1997 respectively.A Contract is formed by the acceptance of an offer; an offer can be constituted by responding to an invitation to treat.
+Variation of the original offer counts as counter-offer. 
+A leading piece of legislation in Scots contract law is the Contract (Scotland) Act 1997. This act includes damages for breach of contract of sale.
+

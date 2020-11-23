@@ -1,0 +1,11 @@
+ISO 2146 is an ISO standard defining an information model for "registry services for libraries and related organisations". Operating at a higher level than item-level standards such as MARC, it takes as principal elements parties (people or organisations), collections (of books, data, etc.), services and activities (grants, projects, etc.)
+The first edition of ISO 2146 was published in 1972, as "Directories of libraries, information and documentation centres"; the second edition was published in 1988. The third edition was initially driven by the need to support interlibrary loan services online, but it has been broadened in scope to encompass the rules for registries operating in a network environment to provide the information about collections, parties, activities and services needed by libraries and related organizations to manage their collections and deliver information and documentation services across a range of applications and domains.
+The third edition reached publication stage in March 2010.
+
+
+The Research Data Australia service (formerly the ANDS Collections Registry) run by the Australian National Data Service uses RIF-CS, a profile of ISO 2146, as a data interchange format.
+
+
+ISO 2146:2010: Information and documentation - Registry services for libraries and related organizations
+Research Data Australia
+

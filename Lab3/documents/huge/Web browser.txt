@@ -1,0 +1,43 @@
+A web browser (commonly referred to as a browser) is a software application for accessing information on the World Wide Web. When a user requests a particular website, the web browser retrieves the necessary content from a web server and then displays the resulting web page on the user's device.
+A web browser is not the same thing as a search engine, though the two are often confused. For a user, a search engine is just a website, such as Google Search, Bing, or DuckDuckGo, that stores searchable data about other websites. However, to connect to a website's server and display its web pages, a user must have a web browser installed.As of March 2019, more than 4.3 billion people use a browser, which is about 55% of the world's population. The three most popular browsers are Chrome, Firefox, and Safari.
+
+
+
+The first web browser, called WorldWideWeb, was created in 1990 by Sir Tim Berners-Lee. He then recruited Nicola Pellow to write the Line Mode Browser, which displayed web pages on dumb terminals; it was released in 1991.
+
+1993 was a landmark year with the release of Mosaic, credited as "the world's first popular browser". Its innovative graphical interface made the World Wide Web system easy to use and thus more accessible to the average person. This, in turn, sparked the Internet boom of the 1990s when the Web grew at a very rapid rate. Marc Andreessen, the leader of the Mosaic team, soon started his own company, Netscape, which released the Mosaic-influenced Netscape Navigator in 1994. Navigator quickly became the most popular browser.Microsoft debuted Internet Explorer in 1995, leading to a browser war with Netscape. Microsoft was able to gain a dominant position for two reasons: it bundled Internet Explorer with its popular Microsoft Windows operating system and did so as freeware with no restrictions on usage. Eventually the market share of Internet Explorer peaked at over 95% in 2002.
+
+In 1998, desperate to remain competitive, Netscape launched what would become the Mozilla Foundation to create a new browser using the open source software model. This work evolved into Firefox, first released by Mozilla in 2004. Firefox reached a 28% market share in 2011.Apple released its Safari browser in 2003. It remains the dominant browser on Apple platforms, though it never became a factor elsewhere.The last major entrant to the browser market was Google. Its Chrome browser, which debuted in 2008, has been a huge success. It steadily took market share from Internet Explorer and became the most popular browser in 2012. Chrome has remained dominant ever since.
+In terms of technology, browsers have greatly expanded their HTML, CSS, JavaScript, and multimedia capabilities since the 1990s. One reason has been to enable more sophisticated websites, such as web applications. Another factor is the significant increase of broadband connectivity, which enables people to access data-intensive web content, such as YouTube streaming, that was not possible during the era of dial-up modems.
+
+
+The purpose of a web browser is to fetch information resources from the Web and display them on a user's device.
+This process begins when the user inputs a Uniform Resource Locator (URL), such as https://en.wikipedia.org/, into the browser. Virtually all URLs on the Web start with either http: or https: which means the browser will retrieve them with the Hypertext Transfer Protocol. In the case of https:, the communication between the browser and the web server is encrypted for the purposes of security and privacy. Another URL prefix is file: which is used to display local files already stored on the user's device.
+Once a web page has been retrieved, the browser's rendering engine displays it on the user's device. This includes image and video formats supported by the browser.
+Web pages usually contain hyperlinks to other pages and resources. Each link contains a URL, and when it is clicked, the browser navigates to the new resource. Thus the process of bringing content to the user begins again.
+
+
+Web browsers can typically be configured with a built-in menu. Depending on the browser, the menu may be named Settings, Options, or Preferences.
+The menu has different types of settings. For example, users can change their home page and default search engine. They also can change default web page colors and fonts. Various network connectivity and privacy settings are also usually available.
+
+
+During the course of browsing, cookies received from various websites are stored by the browser. Some of them contain login credentials or site preferences. However, others are used for tracking user behavior over long periods of time, so browsers typically provide settings for removing cookies when exiting the browser. Finer-grained management of cookies usually requires a browser extension.
+
+
+The most popular browsers have a number of features in common. They allow users to set bookmarks and browse in a private mode. They also can be customized with extensions, and some of them provide a sync service.
+Most browsers have these user interface features:
+
+Allow the user to open multiple pages at the same time, either in different browser windows or in different tabs of the same window.
+Back and forward buttons to go back to the previous page visited or forward to the next one.
+A refresh or reload button to reload the current page.
+A stop button to cancel loading the page. (In some browsers, the stop button is merged with the reload button.)
+A home button to return to the user's home page.
+An address bar to input the URL of a page and display it.
+A search bar to input terms into a search engine. (In some browsers, the search bar is merged with the address bar.)There are also niche browsers with distinct features. One example is text-only browsers that can benefit people with slow Internet connections or those with visual impairments.
+
+
+
+Web browsers are popular targets for hackers, who exploit security holes to steal information, destroy files, and other malicious activities. Browser vendors regularly patch these security holes, so users are strongly encouraged to keep their browser software updated. Other protection measures are antivirus software and avoiding known-malicious websites.
+
+
+

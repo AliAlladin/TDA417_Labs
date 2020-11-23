@@ -1,0 +1,134 @@
+In copyright law, related rights (or neighbouring rights) are the rights of a creative work not connected with the work's actual author. It is used in opposition to the term "authors' rights". Neighbouring rights is a more literal translation of the original French droits voisins.[1] Both authors' rights and related rights are copyrights in the sense of English or U.S. law.
+Related rights vary much more widely in scope between different countries than authors' rights. The rights of performers, phonogram producers and broadcasting organisations are certainly covered, and are internationally protected by the Rome Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organisations[2] signed in 1961.
+Within the European Union, the rights of film producers (as opposed to directors) and database creators are also protected by related rights, and the term is sometimes extended to include the sui generis rights in semiconductor topologies and other industrial design rights. A practical definition is that related rights are copyright-type rights that are not covered by the Berne Convention.[3]
+
+
+Apart from the Rome convention, a number of other treaties address the protection of related rights:
+
+Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms[4] (Geneva Phonograms Convention, 1971)
+Convention Relating to the Distribution of Programme–Carrying Signals Transmitted by Satellite[5] (Brussels Convention, 1974)
+Treaty on Intellectual Property in Respect of Integrated Circuits[6] (IPIC Treaty, 1989)
+Agreement on Trade-Related Aspects of Intellectual Property Rights[7] (TRIPS, 1994)
+WIPO Performances and Phonograms Treaty[8] (WPPT, 1996)Apart from the TRIPS Agreement, these treaties cannot truly be described as global: the Rome Convention had 83 signatories as of 2006, compared with 162 for the Berne Convention.[9]
+
+
+Related rights are independent of any authors' rights, as is made clear in the various treaties (Art. 1 Rome; Art. 7.1 Geneva; Art. 1.2 WPPT). Hence a CD recording of a song is concurrently protected by four copyright-type rights:
+
+Authors' rights of the composer of the music
+Authors' rights of the lyricist
+Performers' rights of the singer and musicians
+Producers' rights of the person or corporation that made the recording
+
+
+The protection of performers is perhaps the strongest and most unified of the related rights. A performer (musician, actor, etc.) has an intellectual input in their performance over and above that of the author of the work. As such, many countries grant moral rights to performers as well as the economic rights covered by the Rome Convention (Arts. 7–9), and the rights of paternity and integrity are required by the WPPT (Art. 5).
+Performers' rights should not be confused with performing rights, which are the royalties due to the composer for a piece of music under copyright in return for the licence (permission) to perform the piece in public. In other words, performers must pay performing rights to composers. Under the Rome Convention (Art. 7), performers have the right to prevent:
+
+the broadcast or communication to the public of their performance, unless this is made from a legally published recording of the performance;
+the fixation (recording) of their performance;
+the reproduction of a recording of their performance.The WPPT extends these rights to include the right to license:
+
+the distribution of recordings of their performance, for sale or other transfer of ownership (Art. 8);
+the rental of recordings of their performances, unless there is a compulsory licence scheme in operation (Art. 9);
+the "making available to the public" of their performances (Art. 10), in effect their publication on the internet.Article 14 of the Rome Convention set a minimum term for the protection of performers' rights of twenty years from the end of the year in which the performance was made: the TRIPS Agreement (Art. 14.5) has extended this to fifty years. In the European Union, performers' rights last for fifty years from the end of the year of the performance, unless a recording of the performance was published in which case they last for fifty years from the end of the year of publication (Art. 3(100
+}
+In the United States, there is no federal statutory right in unfixed works such as performances, and no federal exclusive right to record a performance; some states, notably California, have performer rights laws, but as of 1988 these remain untested.[10]
+
+
+The US Copyright Statute does not explicitly recognize a copyright that is vested in the performer for their work. Therefore as a matter of statutory law, a performer, being either an actor, dancer, sportsperson or musician cannot claim a separate copyright.
+The 9th Circuit Court of Appeals in Garcia v. Google however found that the absence of a statutory provision conferring an independent copyright on the performance did not imply that performances were not entitled to a protection. The Court observed that if the originality threshold, as was enunciated by the SCOTUS in Feist was met, then such original performances be in musical, dramatic or other performances were entitled to copyright, if they were themselves not unauthorized or otherwise infringing. It is important to note that Court did not consider the fact that the performance of a work was itself a covered right under copyright to be repugnant with the conclusion that performers could enjoy copyright protection.Despite the recognition of copyrights in performances, the US, for various stated reasons, is still not Party to the Rome Convention.  Unlike many other Trade Agreements, the Rome Convention allows for reciprocity and the failure of the US to ratify the Rome Convention has disentitled various American performers to copyright protection in other jurisdictions. The US does not explicitly recognize the related rights as a distinct category of copyright protection. As a consequence a host of remedies that would be available under the Copyright Statutes in different jurisdictions are sought through other common law remedies. 
+
+
+Remedies for unauthorized fixation of performances are sought under the common law right of publicity. The SCOTUS in Zacchini v. Scripps-Howard Broadcasting Co ruled that the Ohio State Legislation gave an individual the right to possess autonomy over the dissemination of their performance. Accordingly the Court held that the unauthorized recording and live telecasting of an individual's "human cannonball" performance was in violation of the right of publicity. It is important to note that this did not imply an unambiguous Performer's Right as the Court found that the unauthorized performance of the Plaintiff's entire work, in the absence of fair remuneration, was the only situation in which the Performer's "right to publicity" was violated. It therefore remains to be seen whether the fixation of a portion of the performance would violate such a right.
+While the source of the right was founded in the law of unfair trade practices, Courts in the United States have found that the doctrine of Fair Use nevertheless applied to the fixation of live performances. Accordingly in Italian Book Company v. ABC it was observed that small portions of live performances that were captured to communicate the mood and feel of an event were protected as it was fair use of the live performances. 
+
+
+It must firstly be noted that in the United States, the work for hire doctrine disentitles performers who act under a contract of employment from possessing an entitlement to work in which their performance is fixed. Consequently, such performers may not assert a copyright over their performance that is distinct from the copyright in the work that their performance was fixed in. The decision of the Court of Appeal for the 2nd Circuit in Baltimore Orioles, Inc held that the performance of baseball players were not protected as being a distinct copyright and rather, that they were works for hire.
+Nevertheless, certain State Governments have enacted statutes that explicitly recognize the right against sales and reproductions of fixed performances that were unauthorized. For example the New York Civil Code was relied upon in Giesking to preserve the rights of a musician against unauthorized reproduction.
+Finally, as regard sound recordings, owing to Section 114 owners of copyrights in sound recordings do not have a right to prohibit the performance of their works (except in so far as demanding nominal remuneration for the same). Therefore the performances that are contained in the recording are not protected either. This position has however received staunch criticism.
+
+
+Another issue that merits mention in this context is the unauthorized featuring of popular persons, actors or the characters they have portrayed and voices of popular singers. While no remedy has been found within the statutory copyright regime, remedies have been granted under a common law right. For instance, in Milder v Ford the 9th Circuit observed that she had a "common law property right to her own voice".
+
+
+Of further note is the anti-bootlegging provision that was incorporated into the US Copyright Statute  by way of amendment in order to ensure consistency with the TRIPS Agreement. This provision, while not recognizing the existence of a copyright, nevertheless proscribes the unauthorized recording or transmission of performances of live musical works in sound recordings or videos, or transmitting such copies.
+US regime provides for various kinds of protection of the rights of performers, it however is a complicated regime that is highly dependent on State laws and is far from being harmonized and consolidated like other regimes in Continental Europe.
+
+
+Performer's right has been defined in India as "where a performer appears or engages in any performance, he shall have a right known as the 'performer’s right' in relation to such performance". The term performance has been used to refer to “any visual or acoustic presentation made live by one or more performers”. In relation to the performance, a 'performer' has been sought to include "an actor, singer, musician, dancer, acrobat, juggler, conjurer, snake charmer, a person delivering a lecture or any other person who makes a performance". 
+Provisions regarding the violation of the Performer's rights as per the 2012 amendment are prescriptive in nature. It lays down the exclusive rights of the performer in relation to the performance. However, once the performer consents to the incorporation of his performance in a cinematograph film he will have no right regarding the incorporated performance. Section 2(q) of the Act which defines a performance states that, in relation to performer's right, a performance must be made 'live'. However, a live performance has not been separately defined.
+
+
+
+
+IPRS v EIMPA dealt with whether the work incorporated in the sound track of a cinematograph film vests in the composer of that musical work or whether it became the property of the cinematograph film producers with no copyright subsisting in them, if the composers were engaged under a contract of service. It was held that with respect to the musical work incorporated in the sound track of the film, the copyright in a cinematograph film or a record does not affect the separate copyright in any work in respect of which or a substantial part of which, the film, or as the case may be, the record is made.However, the film producer acquires, on completion of the cinematograph film, a copyright which gives him the exclusive right inter alia of performing the work in public i.e. to cause the film in so far as it consists of visual images to be seen in public and in so far as it consists of the acoustic portion including a lyric or a musical work to be heard in public without securing any further permission of the author (composer) of the lyric or a musical work for the performance of the work in public. In other words, a distinct copyright in the aforesaid circumstances comes to vest in the cinematograph film as a whole.
+Furthermore, it was observed by Justice Krishna Iyer that while a composer has a copyright in the musical work, the singer has none.
+
+
+In Fortune Films v Dev Anand the Court had to decide whether an artiste's work in the film would be entitled to protection as falling within the definition of a "work" protected by copyright. It was observed by the Court that the artiste's performance does not constitute either an artistic work or a dramatic work as conceptualized under the Act. The Act does not recognize the performance of an actor as constituting a 'work' which is subject to protection under the Copyright Act.However, the position has changed with the recognition of performer's rights via an amendment in 1994.
+
+
+This case addressed the question of what would constitute a ‘live performance’ . The Court observed that “Every performance has to be live in the first instance whether it is before an audience or in a studio. If this performance is recorded and thereafter exploited without the permission of the performer, then the performer’s right is infringed.”
+
+
+In this case the issue was whether by performing/singing a song which has already been written down and performed, gives the new singer any exclusive rights over the underlying song. It was held that in such a scenario, the performer himself does not have any rights over the underlying song and hence cannot restrain others from performing that song.
+
+
+The performer has been granted the exclusive rights of making a sound recording or a visual recording of the performance. This right of the performer extends to reproducing the performance in any material form including storing of it in any medium, issuing the copies of the performance to the public, communicating it to the public, selling or giving on commercial rental or offer for sale of any copy of the recording; communicating or broadcasting the performance to the public except where it has already been broadcast.
+
+
+A performer’s right is not infringed by any adaptation or modification which does not constitute copyright violation under section 52.  Moreover, any recording, whether in the sound or visual form, done solely for personal use or for teaching or research purposes does not violates performers right. Also, any use of the performance, whether in the form of broadcast, reporting, bona fide review, teaching or research etc, which is consistent with the fair dealing does not constitute the violation of performers right.
+
+
+In addition to the exclusive right of exploitation of the performance, the performer has also enjoys certain moral rights. The performer has "the right to be identified as the performer of his performance"; and "to restrain or claim damage in respect of any distortion, mutilation or other modification of his performance that would be prejudicial to his reputation".
+
+
+The term phonogram is used to refer to any sound recording: under the Rome Convention, it must be composed exclusively of a sound recording, although some national laws protect film soundtracks with the same measures to the extent that they are not also protected by other rights. The producers of phonograms, that is the person who makes the recording rather than the person who performs, has the right to prevent the direct or indirect reproduction of the recording (Art. 10 Rome Convention, Art. 2 Geneva Phonograms Convention). The WPPT adds the rights to license:
+
+the distribution of their phonograms, for sale or other transfer of ownership (Art. 12);
+the rental of their phonograms, unless there is a compulsory licence scheme in operation (Art. 13);
+the "making available to the public" of their phonograms (Art. 14), in effect their publication on the internet.Once a phonogram has been published, the producer cannot prevent its broadcast: an equitable fee for the licence may be either agreed between phonogram producers and broadcasters or imposed by law.
+The Rome and Geneva Phonograms Conventions specify a maximum level of formality required for protection of the phonogram (Art. 11 Rome; Art. 5 Geneva): countries are free to set a lower level, or not to require formalities at all. The maximum conditions are that each copy of the phonogram should be clearly marked with:
+
+the symbol (P), that is a capital P within a circle; followed by
+the year of first publication;
+the name of the owner or exclusive licensee of the producers' rights;
+for Rome Convention countries only, the name of the person who owns (the licence in) the performers' rights in the country where the recording was made.Countries signing the WPPT shall not require any formality for the protection of producers' rights.
+The Conventions (Art. 14 Rome; Art. 4 Geneva) set a minimum term of protection of producers' rights of twenty years from the end of the year in which the phonogram was first published (or from its creation for unpublished recordings): the TRIPS Agreement (Art. 14.5) extended this minimum to fifty years from the end of the year in which the recording was made. The term of protection in the European Union is fifty years from the end of the year in which the phonogram was first published, or from the end of the year of its creation for unpublished recordings (Art. 3(2), Directive 93/98/EEC).
+For phonograms recorded in the United States the situation is more complicated:
+
+recordings made before 1972-02-15: these are covered by state, not federal, copyright law, although all rights will end on 2067-02-15 at the latest [17 U.S.C. §301(c)];
+recordings made between 1972-02-15 and 1977-12-31 and published: ninety-five years from the date of publication [17 U.S.C. §303(a)];
+recordings made and published on or after 1978-01-01: ninety-five years after the date of recording if the recording was made "for hire", seventy years after the death of the producer otherwise [17 U.S.C. §302(a), (c)];
+recordings made on or after 1972-02-15 and unpublished: 120 years after the date of recording if the recording was made "for hire", seventy years after the death of the producer otherwise [17 U.S.C. §302(a), (c)].[11]
+
+
+Article 13 of the Rome Convention specifies that broadcasting organisations shall have the right to prohibit (or license):
+
+the rebroadcasting of their broadcasts;
+the fixation (recording) of their broadcasts;
+the reproduction of fixations of their broadcasts;
+the communication of their broadcasts to the public in places where an entrance fee is charged.Article 14 of the Rome Convention sets a minimum term for the protection of broadcasters' rights of twenty years from the end of the year in which the broadcast was first made, confirmed by the TRIPS Agreement (Art. 14.5). However, the Rome Convention is limited to broadcasts intended for the public [Art. 3(f)]: the Brussels Convention closes this loophole by providing for protection of satellite broadcasts not intended for direct public reception. In the European Union, broadcasters' rights last for fifty years from the end of the year the broadcast was first made (Art. 3(4), Directive 93/98/EEC).
+
+
+Directive 2006/115/EC[12] and Directive 2001/29/EC[13] provide rights to producers of the first fixation ("master copy") of a film or other audiovisual work under European Union law. These rights, similar to the rights of phonogram producers, are especially important in Europe, where the producer is not usually the initial owner of the copyright in the film itself. Film producers have the right to prevent:
+
+the direct or indirect reproduction of the film (either the master copy or copies thereof) (Art. 2, Directive 2001/29/EC);
+the distribution of the film (or copies thereof) to the public for sale (Art. 9, Directive 92/100/EEC);
+the "making available to the public" of the film (Art 3, Directive 2001/29/EC).These rights last for fifty years from the end of the year the film was first published or otherwise made available to the public, or for fifty years from the end of the year the master copy was made if the film is not released (Art. 3(3), Directive 93/98/EEC).
+
+
+
+Directive 96/9/EC[14] creates a sui generis protection in the European Union for databases that do not meet the criterion of originality for copyright protection. This is particularly important for databases that aim to be complete, as these lack the element of selection that might qualify them for protection as "compilations" under Article 2.5 of the Berne Convention (although their arrangement can still be considered creative). It is specifically intended to protect "the investment of considerable human, technical and financial resources" in creating databases (para. 7 of the preamble), whereas the copyright laws of many Member States specifically exclude effort and labour from the criteria for copyright protection. To qualify, the database must show "qualitatively and/or quantitatively a substantial investment in either the obtaining, verification or presentation of the contents" [Art. 7(1)]. Their creators have the right "to prevent extraction and/or re-utilization of the whole or of a substantial part, evaluated qualitatively and/or quantitatively, of the contents of that database." This is taken to include the repeated extraction of insubstantial parts of the contents if this conflicts with the normal exploitation of the database or unreasonably prejudices the legitimate interests of the creator of the database [Art. 7(5)].
+Database rights last for fifteen years from completion of the database (the point when the criterion of substantial investment is fulfilled), or from *the date when the database is publicly available, whichever is later. The protection period runs until 31 December of the year when it expires. If there is a "substantial change" in the database that qualifies as a "substantial new investment", a new protection period is granted (Art. 10).
+
+
+Each new technology for creative work has led to debate over what protection should be accorded to such works, as has been the case most recently for software copyright and database rights. Similar debates occurred over the copyright protection of photographs. The Berne Convention allows a shorter period of protection than for other works (twenty-five years from creation rather than fifty years post mortem auctoris, Art. 7.4), and many countries apply a different period of copyright protection to photographs than to other works. An alternative approach, adopted notably by Germany and Italy, has been to offer full copyright protection to photographs that are clearly "artistic works" and protect all photographs, whatever their creative value, by a shorter sui generis related right. This focuses the debate on those photographs that still have value at the end of the sui generis protection (no-one would bother to try to protect photographs without value), which are the photographs most likely original. However it also means that photographs are subject to a higher test of originality than other works of art, with copyright being reserved only for those the courts felt to be particularly meritorious, in contravention of the spirit (if not the letter) of the Berne Convention. The sui generis protections are found at § 72, UrhG[15] for Germany (50 years) and Arts. 87–92, Legge 22 aprile 1941 n. 633[16] for Italy (20 years). The different treatment of photographs and other artistic works was eliminated by European Union Directive 93/98/EEC (Art. 6), which states that the only applicable criterion for copyright protection is that the photograph be "original in the sense that they are the author's own intellectual creation", a lower criterion than used until then, but equivalent to the criterion used for other copyright works. The sui generis protection may be retained for photographs that do not meet this criterion (e.g., photographs taken automatically such as for a passport).
+
+
+
+Design rights fall between copyright and patent law: they are sometimes considered to be industrial property and sometimes a related right to copyright. The Berne Convention requires the protection of "applied art", but allows a shorter protection period of twenty-five years after creation. Although it requires protection to the same minimum standards as for copyright, the Convention does not require that the protection be called "copyright",[17] a fact used by many countries to protect applied art and certain artistic designs by a related design right. In countries where applied art can be protected by normal copyright term (e.g., Germany), an extremely high level of originality and creativity is demanded.Insofar as designs are considered to be industrial property, their international protection falls under the Paris Convention for the Protection of Industrial Property.[18]
+
+
+
+A common sui generis design right protects the design or topography of semiconductor materials, particularly integrated circuits. These are protected internationally by the IPIC Treaty of 1989, (see Integrated circuit layout design protection), and in the European Union by Directive 87/54/EEC.[19] The reproduction of a protected topography is prohibited, as is the import of infringing materials (Art. 5). Protected topographies may be identified by a capital T in a variety of forms, including T* (Art. 9). The exclusive rights of the designer last for ten years from the first commercial exploitation, or for fifteen years from the first creation for topographies that are not exploited (Art. 7).
+

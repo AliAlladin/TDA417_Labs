@@ -1,0 +1,36 @@
+Grassmann's law, named after its discoverer Hermann Grassmann, is a dissimilatory phonological process in Ancient Greek and Sanskrit which states that if an aspirated consonant is followed by another aspirated consonant in the next syllable, the first one loses the aspiration. The descriptive version was given for Sanskrit by Pāṇini.
+Here are some examples in Greek of the effects of Grassmann's law:
+
+/tʰú-ɔː/ θύω 'I sacrifice (an animal)'
+/e-tú-tʰɛː/ ἐτύθη 'it was sacrificed'
+/tʰrík-s/ θρίξ 'hair'
+/tríkʰ-es/ τρίχες 'hairs'
+/tʰápt-ein/ θάπτειν 'to bury (present)'
+/tápʰ-os/ τάφος 'a grave'In reduplication, which forms the perfect tense in both Greek and Sanskrit, if the initial consonant is aspirated, the prepended consonant is unaspirated by Grassmann's law. For instance /pʰu-ɔː/ φύω 'I grow' : /pe-pʰuː-ka/ πέφυκα 'I have grown'.
+The fact that deaspiration in Greek took place after the change of Proto-Indo-European *bʰ, *dʰ, *gʰ to /pʰ, tʰ, kʰ/ and the fact that all other Indo-European languages do not apply Grassmann's law both suggest that it was developed separately in Greek and Sanskrit (although quite possibly by areal influence spread across a then-contiguous Graeco-Aryan–speaking area) and so it was not inherited from Proto-Indo-European.Also, Grassmann's law in Greek also affects the aspirate /h-/ < *s- developed specifically in Greek but not in Sanskrit or most other Indo-European. (For example, *ségʰō > *hekʰō > ἔχω /ékʰɔː/ "I have", with dissimilation of *h...kʰ, but the future tense *ségʰ-sō > ἕξω /hék-sɔː/ "I will have" was unaffected, as aspiration was lost before /s/.) The evidence from other languages is not strictly negative: many branches, including Sanskrit's closest relative, Iranian, merge the Proto-Indo-European voiced aspirated and unaspirated stops and so it is not possible to tell if Grassmann's law ever operated in them.
+
+
+In Koine Greek, in cases other than reduplication, alternations involving labials and velars have been completely levelled, and Grassmann's law remains in effect only for the alternation between /t/ and /tʰ/, as in the last two examples above. (It makes no difference whether the /tʰ/ in question continues Proto-Indo-European *dʰ or *ɡʷʰ.)
+Thus, alongside the pair ταχύς /takʰús/ 'fast' : θάσσων /tʰássɔːn/ 'faster', displaying Grassmann's law, Greek has the pair παχύς /pakʰús/ 'thick' : πάσσων /pássɔːn/ 'thicker' from the Proto-Indo-European etymon *bʰn̻ɡʰ- (established by cognate forms like Sanskrit बहु /bahú-/ 'abundant' since *bʰ is the only point of intersection between Greek /p/ and Sanskrit /b/) in which the /p/ in the comparative is a result of levelling. Similarly, πεύθομαι /peútʰomai/ ~ πυνθάνομαι /puntʰánomai/ 'come to know' from PIE *bʰeudʰ- has the future πεύσομαι /peúsomai/. However, only /tʰ/ dissimilates before aspirated affixes like the aorist passive in /-tʰɛː/ and the imperative in /-tʰi/; /pʰ/ and /kʰ/ do not, as in φάθι /pʰátʰi/ 'speak!'.
+
+
+Cases like /tʰrík-s/ ~ /tríkʰ-es/ and /tʰáp-sai/ ~ /tapʰ-eîn/ illustrate the phenomenon of diaspirate roots for which two different analyses have been given.
+In one account, the underlying diaspirate theory, the underlying roots are taken to be /tʰrikʰ/ and /tʰapʰ/.  When an /s/, a word edge, or various other sounds immediately follows, the second aspiration is lost, and the first aspirate therefore survives (/tʰrík-s/, /tʰáp-sai/). If a vowel follows the second aspirate, the second aspirate survives unaltered, and the first aspiration is thus lost by Grassmann's law (/tríkʰ-es/, /tápʰ-os/).
+A different analytical approach was taken by the Indian grammarians. They took the roots to be underlying /trikʰ/ and /tapʰ/. The roots persist unaltered in /tríkʰ-es/ and /tapʰ-eîn/. If an /s/ follows, it triggers an aspiration throwback and the aspiration migrates leftward, docking onto the initial consonant (/tʰrík-s/, /tʰáp-sai/).
+In his initial formulation of the law, Grassmann briefly referred to aspiration throwback to explain the seemingly aberrant forms. However, the consensus among contemporary historical linguists is that the former explanation (underlying representation) is the correct one, as aspiration throwback would require multiple root shapes for the same basic root in different languages whenever an aspirate follows in the next syllable (*d for Sanskrit, *t for Greek, *dʰ for Proto-Germanic and Proto-Italic which have no dissimilation), but the underlying diaspirate allows for a single root shape, with *dʰ for all languages.
+In the later course of Sanskrit, under the influence of the grammarians, aspiration throwback was applied to original mono-aspirate roots by analogy. Thus, from the verb root गाह /ɡaːh-/ ('to plunge'), the desiderative stem जिघाख /dʑi-ɡʱaːkʰa-/ is formed by analogy with the forms बुभुत्सा /bu-bʱutsaː-/ (a desiderative form) and भुत /bʱut-/ (a nominal form, both from the root बुध /budʱ-/ 'to be awake', originally Proto-Indo-European *bʰudʰ-).
+The linguist Ivan Sag has pointed out an advantage of the ancient Indian theory: it explains why there are no patterns like hypothetical */trík-s/ ~ */tríkʰ-es/, which are not ruled out by the underlying diaspirate theory. However, aspiration fails to account for reduplication patterns in roots with initial aspirates, such as Greek /tí-tʰɛːmi/ 'I put', with an unaspirated reduplicated consonant. Aspiration throwback thus needs to be enhanced with a stipulation that aspirates reduplicate as their unaspirated counterparts. From a diachronic standpoint, the absence of these patterns in Greek is explained by the Proto-Indo-European constraint against roots of the form *T...Dʰ-.
+
+
+Grassmann's law is also known to occur in Ofo, an extinct and underdocumented Siouan language. The law is found in compounds such as the following:
+
+óskha ('the crane') + afháⁿ ('white') → oskạfha ('the white egret')A similar phenomenon occurs in Meitei (a Tibeto-Burman language) in which an aspirated consonant is deaspirated if preceded by an aspirated consonant (including /h/, /s/) in the previous syllable. The deaspirated consonants are then voiced between sonorants.
+
+/tʰin-/ ('pierce') + /-kʰət/ ('upward') → /tʰinɡət/ ('pierce upwards')
+/səŋ/ ('cow') + /kʰom/ ('udder') → /səŋɡom/ ('milk')
+/hi-/ ('trim') + /-tʰok/ ('outward') → /hidok/ ('trim outwards')Hadza, spoken in Northern Tanzania, exhibits Grassmann's law in its lexicon, but most obviously in reduplication:
+
+/tʃe-tʃʰeʔe-mae/ 'look at each other', from /tʃʰeʔe/ 'look'In Hadza, /h/ has no effect on aspiration.
+A similar effect takes place in Koti and other Makhuwa languages, where it was dubbed Katupha's law in Schadeberg (1999).  If two aspirated consonants are brought together in one stem, the first loses its aspiration. The effect is particularly clear in reduplicated words: kopikophi 'eyelash'; piriphiri 'pepper' (cf. Swahili 'piripiri'); okukuttha 'to wipe'.  This is slightly different than in Greek and Sanskrit, in that the two syllables need not be adjacent.
+The four Salishan languages Salish-Spokane-Kalispel, Okanagan, Shuswap and Tillamook exhibit a similar process affecting ejective rather aspirated consonants, which has been called "Grassmann's law for Salish", for example Shuswap underlying /x-tʼək-tʼəkʔ-éχn/ 'crutches' → surface /xtəktʼəkʔéχn/.
+

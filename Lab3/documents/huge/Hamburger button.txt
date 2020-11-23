@@ -1,0 +1,21 @@
+The hamburger button, so named for its unintentional resemblance to a hamburger, is a button typically placed in a top corner of a graphical user interface.  Its function is to toggle a menu (sometimes referred to as hamburger menu) or navigation bar between being collapsed behind the button or displayed on the screen.  The icon which is associated with this widget, consisting of three horizontal bars, is also known as the collapsed menu icon.
+
+
+
+
+The icon was originally designed by Norm Cox as part of the user interface for the Xerox Star, introduced in 1981; it saw a resurgence starting in 2009 stemming from the limited screen area available to mobile apps. Cox described the icon's creation, saying “Its graphic design was meant to be very “road sign” simple, functionally memorable, and mimic the look of the resulting displayed menu list. With so few pixels to work with, it had to be very distinct, yet simple. I think we only had 16×16 pixels to render the image. (or possibly 13×13… can’t remember exactly).”
+
+
+In possibly its first use after the Xerox Star, the release of Windows 1.0 in 1985 contained a hamburger icon in each window's control menu. It was short-lived, however, as the hamburger icon disappeared in Windows 2.0 in favor of a single horizontal line denoting the control menu. Windows 95 replaced the single line with the program's icon, and the hamburger would not return to Windows until a placement on the Start menu of the one-year update of Windows 10.
+
+
+The "menu" button takes the form of an icon that consists of three parallel horizontal lines (displayed as ≡), suggestive of a list. The name refers to its resemblance to the menu that is typically exposed or opened when interacting with it. The wider button may be reduced to three vertically stacked dots (displayed as a tri-colon or vertical ellipsis ⋮ ). In the Microsoft Office 365 platform, a similar application menu consisting of three rows of three squares is displayed. Tapping, clicking or otherwise activating this button results in a menu being revealed, which distinguishes it from a menu or tab bar that is always on display.
+
+
+
+
+It has been argued that while the collapsed menu button is now commonplace, its functionality is not necessarily immediately obvious when first encountered; in particular, older users less familiar with modern iconography may find it confusing.
+
+
+The menu button may increase interaction cost compared to a bottom bar menu, requiring extra clicks to retrieve the same information, albeit with the benefit of less space usage of the screen, in the context of mobile apps. It has also been argued that designers tend to overload these icons with too much hidden information.
+

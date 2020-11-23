@@ -1,0 +1,195 @@
+Universal Serial Bus (USB) is an industry standard that establishes specifications for cables and connectors and protocols for connection, communication and power supply between computers, peripheral devices and other computers.  Released in 1996, the USB standard is currently maintained by the USB Implementers Forum (USB-IF).  There have been four generations of USB specifications: USB 1.x, USB 2.0, USB 3.x and USB4.
+
+
+USB was designed to standardize the connection of peripherals to personal computers, both to communicate with and to supply electric power. It has largely replaced interfaces such as serial ports and parallel ports, and has become commonplace on a wide range of devices.
+USB connectors have been increasingly replacing other types for battery chargers of portable devices.
+Examples of peripherals that are connected via USB include keyboards, pointing devices, digital still and video cameras, printers, portable media players, disk drives and network adapters.
+
+
+
+This section is intended to allow fast identification of USB receptacles (sockets) on equipment. Further diagrams and discussion of plugs and receptacles can be found in the main article above.
+
+
+The Universal Serial Bus was developed to simplify and improve the interface between personal computers and peripheral devices, when compared with previously existing standard or ad-hoc proprietary interfaces.From the computer user's perspective, the USB interface improved ease of use in several ways. The USB interface is self-configuring, so the user need not adjust settings on the device and interface for speed or data format, or configure interrupts, input/output addresses, or direct memory access channels. USB connectors are standardized at the host, so any peripheral can use any available receptacle. USB takes full advantage of the additional processing power that can be economically put into peripheral devices so that they can manage themselves; USB devices often do not have user-adjustable interface settings.  The USB interface is "hot pluggable", meaning devices can be exchanged without rebooting the host computer. Small devices can be powered directly from the USB interface, displacing extra power supply cables. Because use of the USB logos is only permitted after compliance testing, the user can have confidence that a USB device will work as expected without extensive interaction with settings and configuration; the USB interface defines protocols for recovery from common errors, improving reliability over previous interfaces. Installation of a device relying on the USB standard requires minimal operator action. When a device is plugged into a port on a running personal computer system, it is either entirely automatically configured using existing device drivers, or the system prompts the user to locate a driver which is then installed and configured automatically.
+For hardware manufacturers and software developers, the USB standard eliminates the requirement to develop proprietary interfaces to new peripherals. The wide range of transfer speeds available from a USB interface suits devices ranging from keyboards and mice up to streaming video interfaces. A USB interface can be designed to provide the best available latency for time-critical functions, or can be set up to do background transfers of bulk data with little impact on system resources. The USB interface is generalized with no signal lines dedicated to only one function of one device.
+
+
+USB cables are limited in length, as the standard was meant to connect to peripherals on the same table-top, not between rooms or between buildings. However, a USB port can be connected to a gateway that accesses distant devices. USB has a strict "tree" topology and "master-slave" protocol for addressing peripheral devices; peripheral devices cannot interact with one another except via the host, and two hosts cannot communicate over their USB ports directly. Some extension to this limitation is possible through USB On-The-Go. A host cannot "broadcast" signals to all peripherals at once -- each must be addressed individually. Some very high speed peripheral devices require sustained speeds not available in the USB standard. While converters exist between certain "legacy" interfaces and USB, they may not provide full implementation of the legacy hardware; for example, a USB to parallel port converter may work well with a printer, but not with a scanner that requires bi-directional use of the data pins.
+For a product developer, use of USB requires implementation of a complex protocol and implies an "intelligent" controller in the peripheral device. Developers of USB devices intended for public sale generally must obtain a USB ID which requires a fee paid to the Implementers' Forum. Developers of products that use the USB specification must sign an agreement with Implementer's Forum. Use of the USB logos on the product require annual fees and membership in the organization.
+
+
+
+A group of seven companies began the development of USB in 1994: Compaq, DEC, IBM, Intel, Microsoft, NEC, and Nortel. The goal was to make it fundamentally easier to connect external devices to PCs by replacing the multitude of connectors at the back of PCs, addressing the usability issues of existing interfaces, and simplifying software configuration of all devices connected to USB, as well as permitting greater data rates for external devices.  Ajay Bhatt and his team worked on the standard at Intel; the first integrated circuits supporting USB were produced by Intel in 1995.The original USB 1.0 specification, which was introduced in January 1996, defined data transfer rates of 1.5 Mbit/s Low Speed and 12 Mbit/s Full Speed.  Draft designs had called for a single-speed 5 Mbit/s bus, but the low speed was added to support low-cost peripherals with unshielded cables, resulting in a split design with a 12 Mbit/s data rate was intended for higher-speed devices such as printers and floppy disk drives, and the lower 1.5 Mbit/s rate for low data rate devices such as keyboards, mice and joysticks.    Microsoft Windows 95, OSR 2.1 provided OEM support for the devices in August 1997. The first widely used version of USB was 1.1, which was released in September 1998.  Apple Inc.'s iMac was the first mainstream product with USB and the iMac's success popularized USB itself. Following Apple's design decision to remove all legacy ports from the iMac, many PC manufacturers began building legacy-free PCs, which led to the broader PC market using USB as a standard.The USB 2.0 specification was released in April 2000 and was ratified by the USB Implementers Forum (USB-IF) at the end of 2001. Hewlett-Packard, Intel, Lucent Technologies (now Nokia), NEC, and Philips jointly led the initiative to develop a higher data transfer rate, with the resulting specification achieving 480 Mbit/s, 40 times as fast as the original USB 1.1 specification.
+The USB 3.0 specification was published on 12 November 2008. Its main goals were to increase the data transfer rate (up to 5 Gbit/s), decrease power consumption, increase power output, and be backward compatible with USB 2.0. USB 3.0 includes a new, higher speed bus called SuperSpeed in parallel with the USB 2.0 bus. For this reason, the new version is also called SuperSpeed. The first USB 3.0 equipped devices were presented in January 2010.As of 2008, approximately 6 billion USB ports and interfaces were in the global marketplace, and about 2 billion were being sold each year.The USB 3.1 specification was published in July 2013.
+In December 2014, USB-IF submitted USB 3.1, USB Power Delivery 2.0 and USB-C specifications to the IEC (TC 100 – Audio, video and multimedia systems and equipment) for inclusion in the international standard IEC 62680 (Universal Serial Bus interfaces for data and power), which is currently based on USB 2.0.The USB 3.2 specification was published in September 2017.
+
+
+Released in January 1996, USB 1.0 specified data rates of 1.5 Mbit/s (Low Bandwidth or Low Speed) and 12 Mbit/s (Full Speed). It did not allow for extension cables or pass-through monitors, due to timing and power limitations. Few USB devices made it to the market until USB 1.1 was released in August 1998. USB 1.1 was the earliest revision that was widely adopted and led to what Microsoft designated the "Legacy-free PC".Neither USB 1.0 nor 1.1 specified a design for any connector smaller than the standard type A or type B. Though many designs for a miniaturised type B connector appeared on many peripherals, conformity to the USB 3.x standard was hampered by treating peripherals that had miniature connectors as though they had a tethered connection (that is: no plug or receptacle at the peripheral end). There was no known miniature type A connector until USB 2.0 (revision 1.01) introduced one.
+
+
+
+USB 2.0 was released in April 2000, adding a higher maximum signaling rate of 480 Mbit/s (60 MB/s) named High Speed or High Bandwidth, in addition to the USB 1.x Full Speed signaling rate of 12 Mbit/s.
+Modifications to the USB specification have been made via Engineering Change Notices (ECN). The most important of these ECNs are included into the USB 2.0 specification package available from USB.org:
+Mini-A and Mini-B Connector;
+Micro-USB Cables and Connectors Specification 1.01;
+InterChip USB Supplement;
+On-The-Go Supplement 1.3 USB On-The-Go makes it possible for two USB devices to communicate with each other without requiring a separate USB host;
+Battery Charging Specification 1.1 Added support for dedicated chargers, host chargers behavior for devices with dead batteries;
+Battery Charging Specification 1.2: with increased current of 1.5 A on charging ports for unconfigured devices, allowing High Speed communication while having a current up to 1.5 A and allowing a maximum current of 5 A;
+Link Power Management Addendum ECN which adds a sleep power state.
+
+
+
+The USB 3.0 specification was released on 12 November 2008, with its management transferring from USB 3.0 Promoter Group to the USB Implementers Forum (USB-IF), and announced on 17 November 2008 at the SuperSpeed USB Developers Conference.USB 3.0 adds a SuperSpeed transfer mode, with associated backward compatible plugs, receptacles, and cables. SuperSpeed plugs and receptacles are identified with a distinct logo and blue inserts in standard format receptacles.
+The SuperSpeed bus provides for a transfer mode at a nominal rate of 5.0 Gbit/s, in addition to the three existing transfer modes. Its efficiency is dependent on a number of factors including physical symbol encoding and link level overhead. At a 5 Gbit/s signaling rate with 8b/10b encoding, each byte needs 10 bits to be transmitted, so the raw throughput is 500 MB/s. When flow control, packet framing and protocol overhead are considered, it is realistic for 400 MB/s (3.2 Gbit/s) or more to be delivered to an application. Communication is full-duplex in SuperSpeed transfer mode; earlier modes are half-duplex, arbitrated by the host.Low-power and high-power devices remain operational with this standard, but devices using SuperSpeed can take advantage of increased available current of between 150 mA and 900 mA, respectively.USB 3.1, released in July 2013 has two variants. The first one preserves USB 3.0's SuperSpeed transfer mode and is labeled USB 3.1 Gen 1, and the second version introduces a new SuperSpeed+ transfer mode under the label of USB 3.1 Gen 2. SuperSpeed+ doubles the maximum data signaling rate to 10 Gbit/s, while reducing line encoding overhead to just 3% by changing the encoding scheme to 128b/132b.
+The amount of connectors used for USB 3.1 has also been reduced to two: USB-A and USB-C.
+USB 3.2, released in September 2017, preserves existing USB 3.1 SuperSpeed and SuperSpeed+ data modes but introduces two new SuperSpeed+ transfer modes over the USB-C connector with data rates of 10 and 20 Gbit/s (1.25 and 2.5 GB/s). The increase in bandwidth is a result of multi-lane operation over existing wires that were intended for flip-flop capabilities of the USB-C connector. USB 3.2 is also the first version to use the USB-C connector as the sole connector.
+
+
+Starting with the USB 3.2 standard, USB-IF introduced a new naming scheme. Contrary to popular belief, there has been no renaming of older USB versions (3.1 simply superseded 3.0 and 3.2 superseded 3.1). To help companies with branding of the different transfer modes, USB-IF recommended branding the 5, 10, and 20 Gbit/s transfer modes as SuperSpeed USB, SuperSpeed USB 10 Gbit/s, and SuperSpeed USB 20 Gbit/s, respectively:
+
+
+The USB4 specification was released on 29 August 2019 by USB Promoter Group.USB4 is based on the Thunderbolt 3 protocol specification. It supports 40 Gbit/s throughput, is compatible with Thunderbolt 3, and backwards compatible with USB 3.2 and USB 2.0. The architecture defines a method to share a single high-speed link with multiple end device types dynamically that best serves the transfer of data by type and application.
+
+
+
+
+
+
+
+
+A USB system consists of a host with one or more downstream ports, and multiple peripherals, forming a tiered-star topology. Additional USB hubs may be included, allowing up to five tiers. A USB host may have multiple controllers, each with one or more ports. Up to 127 devices may be connected to a single host controller. USB devices are linked in series through hubs. The hub built into the host controller is called the root hub.
+A USB device may consist of several logical sub-devices that are referred to as device functions. A composite device may provide several functions, for example, a webcam (video device function) with a built-in microphone (audio device function). An alternative to this is a compound device, in which the host assigns each logical device a distinct address and all logical devices connect to a built-in hub that connects to the physical USB cable.
+
+USB device communication is based on pipes (logical channels). A pipe is a connection from the host controller to a logical entity within a device, called an endpoint. Because pipes correspond to endpoints, the terms are sometimes used interchangeably. Each USB device can have up to 32 endpoints (16 in and 16 out), though it is rare to have so many. Endpoints are defined and numbered by the device during initialization (the period after physical connection called "enumeration") and so are relatively permanent, whereas pipes may be opened and closed.
+There are two types of pipe: stream and message.
+
+A message pipe is bi-directional and is used for control transfers. Message pipes are typically used for short, simple commands to the device, and for status responses from the device, used, for example, by the bus control pipe number 0.
+A stream pipe is a uni-directional pipe connected to a uni-directional endpoint that transfers data using an isochronous, interrupt, or bulk transfer:
+Isochronous transfers
+At some guaranteed data rate (for fixed-bandwidth streaming data) but with possible data loss (e.g., realtime audio or video)
+Interrupt transfers
+Devices that need guaranteed quick responses (bounded latency) such as pointing devices, mice, and keyboards
+Bulk transfers
+Large sporadic transfers using all remaining available bandwidth, but with no guarantees on bandwidth or latency (e.g., file transfers)When a host starts a data transfer, it sends a TOKEN packet containing an endpoint specified with a tuple of (device_address, endpoint_number). If the transfer is from the host to the endpoint, the host sends an OUT packet (a specialization of a TOKEN packet) with the desired device address and endpoint number. If the data transfer is from the device to the host, the host sends an IN packet instead. If the destination endpoint is a uni-directional endpoint whose manufacturer's designated direction does not match the TOKEN packet (e.g. the manufacturer's designated direction is IN while the TOKEN packet is an OUT packet), the TOKEN packet is ignored. Otherwise, it is accepted and the data transaction can start. A bi-directional endpoint, on the other hand, accepts both IN and OUT packets.
+
+Endpoints are grouped into interfaces and each interface is associated with a single device function. An exception to this is endpoint zero, which is used for device configuration and is not associated with any interface. A single device function composed of independently controlled interfaces is called a composite device. A composite device only has a single device address because the host only assigns a device address to a function.
+When a USB device is first connected to a USB host, the USB device enumeration process is started. The enumeration starts by sending a reset signal to the USB device. The data rate of the USB device is determined during the reset signaling. After reset, the USB device's information is read by the host and the device is assigned a unique 7-bit address. If the device is supported by the host, the device drivers needed for communicating with the device are loaded and the device is set to a configured state. If the USB host is restarted, the enumeration process is repeated for all connected devices.
+The host controller directs traffic flow to devices, so no USB device can transfer any data on the bus without an explicit request from the host controller. In USB 2.0, the host controller polls the bus for traffic, usually in a round-robin fashion. The throughput of each USB port is determined by the slower speed of either the USB port or the USB device connected to the port.
+High-speed USB 2.0 hubs contain devices called transaction translators that convert between high-speed USB 2.0 buses and full and low speed buses. There may be one translator per hub or per port.
+Because there are two separate controllers in each USB 3.0 host, USB 3.0 devices transmit and receive at USB 3.0 data rates regardless of USB 2.0 or earlier devices connected to that host. Operating data rates for earlier devices are set in the legacy manner.
+
+
+The functionality of a USB device is defined by a class code sent to a USB host. This allows the host to load software modules for the device and to support new devices from different manufacturers.
+Device classes include:
+
+
+
+USB mass storage device class (MSC or UMS) standardizes connections to storage devices. At first intended for magnetic and optical drives, it has been extended to support flash drives. It has also been extended to support a wide variety of novel devices as many systems can be controlled with the familiar metaphor of file manipulation within directories. The process of making a novel device look like a familiar device is also known as extension. The ability to boot a write-locked SD card with a USB adapter is particularly advantageous for maintaining the integrity and non-corruptible, pristine state of the booting medium.
+Though most personal computers since early 2005 can boot from USB mass storage devices, USB is not intended as a primary bus for a computer's internal storage. However, USB has the advantage of allowing hot-swapping, making it useful for mobile peripherals, including drives of various kinds.
+Several manufacturers offer external portable USB hard disk drives, or empty enclosures for disk drives. These offer performance comparable to internal drives, limited by the current number and types of attached USB devices, and by the upper limit of the USB interface. Other competing standards for external drive connectivity include eSATA, ExpressCard, FireWire (IEEE 1394), and most recently Thunderbolt.
+Another use for USB mass storage devices is the portable execution of software applications (such as web browsers and VoIP clients) with no need to install them on the host computer.
+
+
+
+Media Transfer Protocol (MTP) was designed by Microsoft to give higher-level access to a device's filesystem than USB mass storage, at the level of files rather than disk blocks. It also has optional DRM features. MTP was designed for use with portable media players, but it has since been adopted as the primary storage access protocol of the Android operating system from the version 4.1 Jelly Bean as well as Windows Phone 8 (Windows Phone 7 devices had used the Zune protocol—an evolution of MTP). The primary reason for this is that MTP does not require exclusive access to the storage device the way UMS does, alleviating potential problems should an Android program request the storage while it is attached to a computer. The main drawback is that MTP is not as well supported outside of Windows operating systems.
+
+
+
+Joysticks, keypads, tablets and other human-interface devices (HIDs) are also progressively migrating from MIDI, and PC game port connectors to USB.USB mice and keyboards can usually be used with older computers that have PS/2 connectors with the aid of a small USB-to-PS/2 adapter. For mice and keyboards with dual-protocol support, an adaptor that contains no logic circuitry may be used: the USB hardware in the keyboard or mouse is designed to detect whether it is connected to a USB or PS/2 port, and communicate using the appropriate protocol. Converters also exist that connect PS/2 keyboards and mice (usually one of each) to a USB port. These devices present two HID endpoints to the system and use a microcontroller to perform bidirectional data translation between the two standards.
+
+
+Device Firmware Upgrade (DFU) is a vendor- and device-independent mechanism for upgrading the firmware of USB devices with improved versions provided by their manufacturers, offering (for example) a way to deploy firmware bug fixes. During the firmware upgrade operation, USB devices change their operating mode effectively becoming a PROM programmer. Any class of USB device can implement this capability by following the official DFU specifications.DFU can also give the user the freedom to flash USB Devices with alternative firmware. One consequence of this is that USB devices after being re-flashed may act as various unexpected device types (for example an USB Device intended by the seller to be just a Flash drive can "spoof" an input device like a keyboard), see BadUSB.
+
+
+The USB Device Working Group has laid out specifications for audio streaming, and specific standards have been developed and implemented for audio class uses, such as microphones, speakers, headsets, telephones, musical instruments, etc. The DWG has published three versions of audio device specifications: Audio 1.0, 2.0, and 3.0, referred to as "UAC" or "ADC".UAC 2.0 introduced support for High Speed USB (in addition to Full Speed), allowing greater bandwidth for multi-channel interfaces, higher sample rates, lower inherent latency, and 8× improvement in timing resolution in synchronous and adaptive modes.  UAC2 also introduces the concept of clock domains, which provides information to the host about which input and output terminals derive their clocks from the same source, as well as improved support for audio encodings like DSD, audio effects, channel clustering, user controls, and device descriptions.UAC 3.0 primarily introduces improvements for portable devices, such as reduced power usage by bursting the data and staying in low power mode more often, and power domains for different components of the device, allowing them to be shut down when not in use.UAC 1.0 devices are still common, however, due to their cross-platform driverless compatibility, and also partly due to Microsoft's failure to implement UAC 2.0 for over a decade after its publication, having finally added support to Windows 10 through the Creators Update on 20 March 2017. UAC 2.0 is also supported by MacOS, iOS, and Linux, however Android also only implements a subset of UAC 1.0.USB provides three isochronous (fixed-bandwidth) synchronization types, all of which are used by audio devices:
+Asynchronous — The ADC or DAC are not synced to the host computer's clock at all, operating off a free-running clock local to the device.
+Synchronous — The device's clock is synced to the USB start-of-frame (SOF) or Bus Interval signals.  For instance, this can require syncing an 11.2896 MHz clock to a 1 kHz SOF signal, a large frequency multiplication.
+Adaptive — The device's clock is synced to the amount of data sent per frame by the hostWhile the USB spec originally described asynchronous mode being used in "low cost speakers" and adaptive mode in "high-end digital speakers", the opposite perception exists in the hi-fi world, where asynchronous mode is advertised as a feature, and adaptive/synchronous modes have a bad reputation. In reality, all the types can be high-quality or low-quality, depending on the quality of their engineering and the application.  Asynchronous has the benefit of being untied from the computer's clock, but the disadvantage of requiring sample rate conversion when combining multiple sources.
+
+
+ 
+The connectors the USB committee specifies support a number of USB's underlying goals, and reflect lessons learned from the many connectors the computer industry has used. The female connector mounted on the host or device is called the receptacle, and the male connector attached to the cable is called the plug. The official USB specification documents also periodically define the term male to represent the plug, and female to represent the receptacle.
+
+By design, it is difficult to insert a USB plug into its receptacle incorrectly. The USB specification requires that the cable plug and receptacle be marked so the user can recognize the proper orientation. The USB-C plug is reversible. USB cables and small USB devices are held in place by the gripping force from the receptacle, with no screws, clips, or thumb-turns as some connectors use.
+The different A and B plugs prevent accidentally connecting two power sources. However, some of this directed topology is lost with the advent of multi-purpose USB connections (such as USB On-The-Go in smartphones, and USB-powered Wi-Fi routers), which require A-to-A, B-to-B, and sometimes Y/splitter cables.
+USB connector types multiplied as the specification progressed. The original USB specification detailed standard-A and standard-B plugs and receptacles. The connectors were different so that users could not connect one computer receptacle to another. The data pins in the standard plugs are recessed compared to the power pins, so that the device can power up before establishing a data connection. Some devices operate in different modes depending on whether the data connection is made.  Charging docks supply power and do not include a host device or data pins, allowing any capable USB device to charge or operate from a standard USB cable. Charging cables provide power connections, but not data. In a charge-only cable, the data wires are shorted at the device end, otherwise the device may reject the charger as unsuitable.
+
+
+
+  
+The USB 1.1 standard specifies that a standard cable can have a maximum length of 5 meters (16 ft 5 in) with devices operating at full speed (12 Mbit/s), and a maximum length of 3 meters (9 ft 10 in) with devices operating at low speed (1.5 Mbit/s).USB 2.0 provides for a maximum cable length of 5 meters (16 ft 5 in) for devices running at high speed (480 Mbit/s).The USB 3.0 standard does not directly specify a maximum cable length, requiring only that all cables meet an electrical specification: for copper cabling with AWG 26 wires the maximum practical length is 3 meters (9 ft 10 in).
+
+
+
+USB supplies power at 5 V ± 5% to power USB downstream devices.
+
+
+Low-power devices may draw at most 1 unit load (1 unit load is 100 mA for USB devices up to USB 2.0, while USB 3.0 defines a unit load as 150 mA), and all devices must act as Low-power devices when starting out as unconfigured.
+High-power devices (such as a typical 2.5-inch USB Hard Drive) draw at least 1 unit load and at most 5 unit loads (500 mA) for devices up to USB 2.0 or 6 unit loads (900 mA) for SuperSpeed devices.
+
+To recognize Battery Charging, a dedicated charging port places a resistance not exceeding 200 Ω across the D+ and D− terminals.In addition to standard USB, there is a proprietary high-powered system known as PoweredUSB, developed in the 1990s, and mainly used in point-of-sale terminals such as cash registers.
+
+
+
+
+USB signals are transmitted using differential signaling on a twisted-pair data cable with 90 Ω ± 15% characteristic impedance.
+Low-speed (LS) and Full-speed (FS) modes use a single data pair, labelled D+ and D−, in half-duplex. Transmitted signal levels are 0.0–0.3 V for logical low, and 2.8–3.6 V for logical high level. The signal lines are not terminated.
+High-speed (HS) mode uses the same wire pair, but with different electrical conventions. Lower signal voltages of −10 to 10 mV for low and 360 to 440 mV for logical high level, and termination of 45 Ω to ground or 90 Ω differential to match the data cable impedance.
+SuperSpeed (SS) adds two additional pairs of shielded twisted wire (and new, mostly compatible expanded connectors). These are dedicated to full-duplex SuperSpeed operation. The SuperSpeed link operates independently from USB 2.0 channel, and takes a precedence on connection. Link configuration is performed using LFPS (Low Frequency Periodic Signalling, approximately at 20 MHz frequency), and electrical features include voltage de-emphasis at transmitter side, and adaptive linear equalization on receiver side in order to combat electrical losses in transmission lines, and thus the link introduces the concept of "link training".
+SuperSpeed+ (SS+) uses increased data rate (Gen 2×1 mode) and/or the additional lane in the USB-C connector (Gen 1×2 and Gen 2×2 mode).A USB connection is always between a host or hub at the A connector end, and a device or hub's "upstream" port at the other end.
+
+
+
+During USB communication, data is transmitted as packets. Initially, all packets are sent from the host via the root hub, and possibly more hubs, to devices. Some of those packets direct a device to send some packets in reply.
+
+
+
+The basic transactions of USB are:
+
+OUT transaction
+IN transaction
+SETUP transaction
+Control transfer exchange
+
+
+
+The USB Implementers Forum is working on a wireless networking standard based on the USB protocol. Wireless USB is a cable-replacement technology, and uses ultra-wideband wireless technology for data rates of up to 480 Mbit/s.
+InterChip USB is a chip-to-chip variant that eliminates the conventional transceivers found in normal USB. The HSIC physical layer uses about 50% less power and 75% less board area compared to USB 2.0.
+
+
+
+
+At first, USB was considered a complement to IEEE 1394 (FireWire) technology, which was designed as a high-bandwidth serial bus that efficiently interconnects peripherals such as disk drives, audio interfaces, and video equipment. In the initial design, USB operated at a far lower data rate and used less sophisticated hardware. It was suitable for small peripherals such as keyboards and pointing devices.
+The most significant technical differences between FireWire and USB include:
+
+USB networks use a tiered-star topology, while IEEE 1394 networks use a tree topology.
+USB 1.0, 1.1, and 2.0 use a "speak-when-spoken-to" protocol, meaning that each peripheral communicates with the host when the host specifically requests it to communicate. USB 3.0 allows for device-initiated communications towards the host. A FireWire device can communicate with any other node at any time, subject to network conditions.
+A USB network relies on a single host at the top of the tree to control the network. All communications are between the host and one peripheral. In a FireWire network, any capable node can control the network.
+USB runs with a 5 V power line, while FireWire in current implementations supplies 12 V and theoretically can supply up to 30 V.
+Standard USB hub ports can provide from the typical 500 mA/2.5 W of current, only 100 mA from non-hub ports. USB 3.0 and USB On-The-Go supply 1.8 A/9.0 W (for dedicated battery charging, 1.5 A/7.5 W full bandwidth or 900 mA/4.5 W high bandwidth), while FireWire can in theory supply up to 60 watts of power, although 10 to 20 watts is more typical.These and other differences reflect the differing design goals of the two buses: USB was designed for simplicity and low cost, while FireWire was designed for high performance, particularly in time-sensitive applications such as audio and video. Although similar in theoretical maximum transfer rate, FireWire 400 is faster than USB 2.0 high-bandwidth in real-use, especially in high-bandwidth use such as external hard drives. The newer FireWire 800 standard is twice as fast as FireWire 400 and faster than USB 2.0 high-bandwidth both theoretically and practically. However, FireWire's speed advantages rely on low-level techniques such as direct memory access (DMA), which in turn have created opportunities for security exploits such as the DMA attack.
+The chipset and drivers used to implement USB and FireWire have a crucial impact on how much of the bandwidth prescribed by the specification is achieved in the real world, along with compatibility with peripherals.
+
+
+The IEEE 802.3af, at, and bt Power over Ethernet (PoE) standards specify more elaborate power negotiation schemes than powered USB. They operate at 48 V DC and can supply more power (up to 12.95 W for af, 25.5 W for at aka PoE+, 71 W for bt aka 4PPoE) over a cable up to 100 meters compared to USB 2.0, which provides 2.5 W with a maximum cable length of 5 meters. This has made PoE popular for VoIP telephones, security cameras, wireless access points, and other networked devices within buildings. However, USB is cheaper than PoE provided that the distance is short and power demand is low.
+Ethernet standards require electrical isolation between the networked device (computer, phone, etc.) and the network cable up to 1500 V AC or 2250 V DC for 60 seconds. USB has no such requirement as it was designed for peripherals closely associated with a host computer, and in fact it connects the peripheral and host grounds. This gives Ethernet a significant safety advantage over USB with peripherals such as cable and DSL modems connected to external wiring that can assume hazardous voltages under certain fault conditions.
+
+
+The USB Device Class Definition for MIDI Devices allows Music Instrument Digital Interface (MIDI) music data to be sent over USB. The MIDI capability is extended to allow up to sixteen simultaneous virtual MIDI cables, each of which can carry the usual MIDI sixteen channels and clocks.
+USB is competitive for low-cost and physically adjacent devices. However, Power over Ethernet and the MIDI plug standard have an advantage in high-end devices that may have long cables. USB can cause ground loop problems between equipment, because it connects ground references on both transceivers. By contrast, the MIDI plug standard and Ethernet have built-in isolation to 500V or more.
+
+
+The eSATA connector is a more robust SATA connector, intended for connection to external hard drives and SSDs. eSATA's transfer rate (up to 6 Gbit/s) is similar to that of USB 3.0 (up to 5 Gbit/s on current devices; 10 Gbit/s speeds via USB 3.1, announced on 31 July 2013). A device connected by eSATA appears as an ordinary SATA device, giving both full performance and full compatibility associated with internal drives.
+eSATA does not supply power to external devices. This is an increasing disadvantage compared to USB. Even though USB 3.0's 4.5 W is sometimes insufficient to power external hard drives, technology is advancing and external drives gradually need less power, diminishing the eSATA advantage. eSATAp (power over eSATA; aka ESATA/USB) is a connector introduced in 2009 that supplies power to attached devices using a new, backward compatible, connector. On a notebook eSATAp usually supplies only 5 V to power a 2.5-inch HDD/SSD; on a desktop workstation it can additionally supply 12 V to power larger devices including 3.5-inch HDD/SSD and 5.25-inch optical drives.
+eSATAp support can be added to a desktop machine in the form of a bracket connecting the motherboard SATA, power, and USB resources.
+eSATA, like USB, supports hot plugging, although this might be limited by OS drivers and device firmware.
+
+
+Thunderbolt combines PCI Express and Mini DisplayPort into a new serial data interface. Original Thunderbolt implementations have two channels, each with a transfer speed of 10 Gbit/s, resulting in an aggregate unidirectional bandwidth of 20 Gbit/s.Thunderbolt 2 uses link aggregation to combine the two 10 Gbit/s channels into one bidirectional 20 Gbit/s channel.
+Thunderbolt 3 uses the USB-C connector. Thunderbolt 3 has two physical 20 Gbit/s bi-directional channels, aggregated to appear as a single logical 40 Gbit/s bi-directional channel. Thunderbolt 3 controllers an incorporate USB 3.1 Gen 2 controller to provide compatibility with USB devices. They are also capable of providing DisplayPort alternate mode over the USB-C connector, making a Thunderbolt 3 port a superset of a USB 3.1 Gen 2 port with DisplayPort alternate mode.
+The Thunderbolt 3 protocol has been adopted into the USB4 standard after being released by Intel Corporation. If implemented correctly, USB4 ports should function identically to Thunderbolt 3 ports in most circumstances. However, USB4 will provide backwards compatibility with USB 3.2 Gen 2×2 devices. No Thunderbolt 3 controller has been built to provide USB 3.2 Gen 2×2 support, as of the Titan Ridge (2019) Thunderbolt controllers. No information pertaining to VirtualLink alternate mode compatibility with USB4 (and so Thunderbolt 3 alternate mode) has been published, as of April 2019.
+
+
+
+Various protocol converters are available that convert USB data signals to and from other communications standards.
+

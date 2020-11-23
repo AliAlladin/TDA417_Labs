@@ -1,0 +1,19 @@
+Psalter Pahlavi is a cursive abjad which was used for writing Middle Persian on paper, it is thus described as one of the Pahlavi scripts. It was written right to left, usually with spaces between words.It takes its name from the Pahlavi Psalter, part of the Psalms translated from Syriac to Middle Persian and found in what is now western China.
+
+
+
+
+Four different large section-ending punctuation marks were used:
+
+
+Psalter Pahlavi had its own numerals:
+
+Some numerals have joining behavior (with both numerals and letters). Numbers are written right-to-left.  Numbers without corresponding numerals are additive.  For example, 96 is written as 𐮮𐮮𐮮𐮮𐮭𐮫𐮫‎ (20 + 20 + 20 + 20 + 10 + 3 + 3).
+
+
+
+Psalter Pahlavi script was added to the Unicode Standard in June, 2014 with the release of version 7.0.
+The Unicode block is U+10B80–U+10BAF:
+
+
+

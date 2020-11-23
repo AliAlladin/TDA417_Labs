@@ -1,0 +1,90 @@
+Breach of contract is a legal cause of action and a type of civil wrong, in which a binding agreement or bargained-for exchange is not honored by one or more of the parties to the contract by non-performance or interference with the other party's performance. Breach occurs when a party to a contract fails to fulfill its obligation(s) as described in the contract, or communicates an intent to fail the obligation or otherwise appears not to be able to perform its obligation under the contract. Where there is breach of contract, the resulting damages will have to be paid by the party breaching the contract to the aggrieved party.
+If a contract is rescinded, parties are legally allowed to undo the work unless doing so would directly charge the other party at that exact time.
+It is important to bear in mind that contract law is not the same from country to country. Each country has its own independent, free standing law of contract. Therefore, it makes sense to examine the laws of the country to which the contract is governed before deciding how the law of contract (of that country) applies to any particular contractual relationship.
+
+
+A breach of contract may take place when a party to the contract:
+
+fails to perform their obligations under the contract in whole or in part
+behaves in a manner which shows an intention not to perform their obligations under contract in the future or
+the contract becomes impossible to perform as a result of the defaulting party’s own act.These classifications only describe how a contract can be breached, not how serious the breach is.
+The first type above is an actual breach of contract. 
+The second two types are breaches as to the future performance of the contract, and technically known as renunciatory breaches. The defaulting party renunciates the contract in advance of the time they are required to performs their obligations. Renunciatory breach is more commonly known as “anticipatory breach”.
+
+
+The general law has three categories of breaches of contract. These are measures of the seriousness of the breach. 
+In the absence of a contractual or statutory provision any breach of contract is categorised as a:
+
+breach of warranty;
+breach of condition; or
+breach of an innominate term, otherwise known as an intermediate term.There is no “internal rating system” within each of these categories (such as “a serious breach of warranty”. It’s a breach of a warranty. It’s not a minor breach of a condition. It’s a breach of a condition). Any breach of contract is one or the other of a breach of warranty, condition or innominate term. 
+In terms of priority of classification of these terms, a term of a contract is an innominate term unless it is clear that it is intended to be a condition or a warranty.
+
+
+Any breach of contract – warranty, condition or innominate term – gives rise to a right in the hands of the innocent party to recover their damage suffered which caused by the breach of contract by the defaulting party. 
+Damages is in the UK the only remedy available for breach of a warranty.
+
+
+A right to terminate a contract arises for:
+
+breach of a condition of the contract, no matter how trivial the breach of the condition may be;
+repudiatory breach, that is an actual breach of an innominate term, where the consequence of the breach is sufficiently serious to give rise to a right to terminate; or
+renunciatory breach (aka anticipatory breach), where the other party makes clear to the innocent party that it:
+is not going to perform the contract at all, or
+is going to commit a breach of a condition, or
+is going to commit a breach of an innominate term,and the consequences will be such as to entitle the innocent party to treat the contract as at an end.An innocent party is therefore entitled to elect to terminate a contract only for breach of a condition of the contract, repudiatory breach or renunciatory breach. Nothing less.
+To terminate a contract for repudiatory breach, the innocent party must tell the defaulting party. Many commercial contracts include clauses which set out a process whereby notice must be given and in what form. Consequently, where there is a written contract, care should be taken to check the contract terms and to ensure compliance notwithstanding that the other party may, on the face of it, have committed a clear and repudiatory breach. It is only when the defaulting party is told that a repudiatory breach has been "accepted" that the contract is terminated. If the defaulting party is not told the repudiatory breach has been accepted, the contract continues in force. An innocent party is not compelled to exercise their right to terminate, and accept a repudiatory breach. When they don't the contract continues in force.
+
+
+Conduct is repudiatory if it deprives the innocent party of substantially the whole of the benefit intended received as consideration for performance of its future obligations under the contract. 
+Different forms of words are used by courts to express this central concept. The most prominent is whether the breach goes to the root of the contract. These forms of words are simply different ways of expressing the "substantially the whole benefit" test.
+
+
+Conduct is renunciatory if shows an intention to commit a repudiatory breach. The conduct would lead a reasonable person to conclude that the party does not intend to perform its future obligations when they fell due.
+Showing an intention to perform a contract in a manner which is inconsistent with the terms of the contract also shows an intention not to perform the contract. Whether such conduct is so severe so as to amount to a renunciatory breached depends upon whether the threatened difference in performance is repudiatory. An intention to perform connotes a willingness to perform, but willingness in this context does not mean a desire to perform despite an inability to do so. To say: "I would like to but I cannot" negatives intent just as much as "I will not.". Contracting parties must perform contracts in strict accordance 
+with its terms: that is what was agreed in the first instance, when the contract was formed. To do otherwise is therefore a breach of contract.
+In the event of a renunciatory breach, the innocent party may:
+
+choose to accept the breach at once and to terminate the contract, without waiting for the due date of performance, or
+wait for the time for performance of the contract.If the defaulting party does not perform when the time for performance arrives, the contract may be terminated. However if the defaulting party does perform, the right to terminate is lost forever.
+Conduct comprising a breach for performance of contractual obligations which have fallen due may be insufficient to be a repudiation. However:
+
+It may nevertheless be conduct which is a renunciation because it would lead the reasonable observer to conclude that there was an intention not to perform in the future, and
+the past and threatened future breaches taken together would be repudiatory.The reason why a defaulting party commits an actual breach is generally irrelevant to whether it constitutes a breach, or whether the breach is a repudiation (this is an incident of strict liability for the performance of contractual obligations).  But the reason may be highly relevant to what such breach would lead the reasonable observer to conclude about the defaulting party's intentions in relation to future performance, and therefore to the issue of renunciation. Often the question whether conduct is a renunciation falls to be judged by reference to the defaulting party's intention which is objectively evinced both by past breaches and by other words and conduct.
+
+
+A breach of a warranty of a contract creates a right to damages for the loss suffered, which was caused by the breach.  These "minor" breaches do not entitle the innocent party to terminate the contract. The innocent party cannot sue the party in default for specific performance: only damages. Injunctions (specific performance is a type of injunction) to restrain further breach of a warranty are likely to be refused on the basis that (1) injunctions are a discretionary remedy, and (2) damages are an adequate remedy in the circumstances of the case.
+Suppose a homeowner hires a contractor to install new plumbing and insists that the pipes, which will ultimately be hidden behind the walls, must be red. The contractor instead uses blue pipes that function just as well. Although the contractor breached the literal terms of the contract, the homeowner cannot ask a court to order the contractor to replace the blue pipes with red pipes. The homeowner can only recover the amount of his or her actual damages. In this instance, this is the difference in value between red pipe and blue pipe. Since the color of a pipe does not affect its function, the difference in value is zero. Therefore, no damages have been incurred and the homeowner would receive nothing (see Jacob & Youngs v. Kent.)
+However, had the pipe color been specified in the agreement as a condition, a breach of that condition may well constitute a "major" - ie repudiatory - breach. Simply because a term in a contract is stated by the parties to be a condition does not necessarily make it so. Such statements though are one of the factors taken into account to decide whether it is a condition or warranty of the contract. Other than where the colour of the pipes went to the root of the contract (suppose the pipes were to be used in a room dedicated to artwork related to plumbing, or dedicated to high fashion), it would more than likely be a warranty, not a condition.
+The general rule is that stipulations as to time in a contract are not conditions of the contract (there are exceptions, such as in shipping contracts; it depends in part upon the commercial importance of timely delivery in all the circumstances of the case). As such, missing a date for performance stipulated in a contract is usually a breach of warranty. However, when a contract specifies time is of the essence or otherwise contains an express or implied term that times for performance are critical, stipulations as to time will be conditions of the contract.  Accordingly, if a party fails to meet a meet the time stipulations, it will be a breach of a condition of the contract, entitling the innocent party to terminate.   
+
+
+Breach of a condition of a contract is known as a repudiatory breach. Again, a repudiatory breach entitles the innocent party at common law to (1) terminate the contract, and (2) claim damages. No other type of breach except a repudiatory breach is sufficiently serious to permit the innocent party to terminate the contract for breach.
+
+
+Contracts often use wording other than repudiatory breach to describe a type of breach of contract. These contractual terms include material breach, fundamental breach, substantial breach, serious breach. These alternative wordings have no fixed meaning in law - they are interpreted within the context of the contract that they are used. For this reason, the meaning of the different terms may (and do) vary from case to case.  Possible interpretations of their meaning include "repudiatory breach", and "serious breach, but not as serious as a repudiatory breach".
+
+
+A material breach has been held to mean "a breach of contract which is more than trivial, but need not be repudiatory ... which is substantial. The breach must be a serious matter, rather than a matter of little consequence"..
+A breach of contract will likely constitute a material breach if the term of the contract that has been breached is a condition of the contract. A variety of tests may be applied to terms of contracts to decide whether a term is a warranty or a condition of the contract.
+In respect to the EPC Agreements Material breach is defined as "shall mean a breach by either Party of any of its obligations under this Agreement which has or is likely to have a Material Adverse Effect on the Project and which such Party shall have failed to cure." 
+
+
+While fundamental breach of contract was once the test for a serious breach of contract to justify termination, it is no longer. The test is that set out for repudiatory breach, above. The concept of Fundamental Breach as a free standing legal concept no longer has any legal force. it is now simply another term of a contract (when it is used) which needs to be construed like any other term of a contract.
+A fundamental breach is usually read as a reference to a repudiatory breach. A term may be a condition in Australian law if it satisfies one test known as the test of essentiality. The test of essentiality requires that the promise (term) was of such importance to the promisee that he or she would not have entered into the contract unless he had been assured of strict or substantial performance of the promise and this ought to have been apparent to the promisor. This is an objective test of the parties' intention at the time of formation of the contract. 
+If the contractor in the above example had been instructed to use copper pipes, and instead used iron pipes that would not last as long as the copper pipes would have lasted, the homeowner can recover the cost of actually correcting the breach – taking out the iron pipes and replacing them with copper pipes.
+There are exceptions to this. Legal scholars and courts have been known to find that the owner of a house whose pipes are not the specified grade or quality (a typical hypothetical example) cannot recover the cost of replacing the pipes for the following reasons:
+
+Economic waste. The law does not favor tearing down or destroying something that is valuable (almost anything with value is "valuable"). In this case, significant destruction of the house would be required to completely replace the pipes, and so the law is hesitant to enforce damages of that nature. See Peevyhouse v. Garland Coal & Mining Co..
+Pricing in. In most cases of breach, a party to the contract simply fails to perform one or more terms. In those cases, the breaching party should have already considered the cost to perform those terms and thus "keeps" that cost when they do not perform. That party should not be entitled to keep those savings. However, in the pipe example the contractor never considered the cost of tearing down a house to fix the pipes, and so it is not reasonable to expect them to pay damages of that nature.Most homeowners would be unable to collect damages that compensate them for replacing the pipes, but rather would be awarded damages that compensate them for the loss of value in the house. For example, say the house is worth $125,000 with copper and $120,000 with iron pipes. The homeowner would be able to collect the $5,000 difference, and nothing more.
+In the United States, the Restatement (Second) of Contracts lists the following criteria to determine whether a specific failure constitutes a material breach:
+In determining whether a failure to render or to offer performance is material, the following circumstances are significant:
+(a) the extent to which the injured party will be deprived of the benefit which he reasonably expected;
+(b) the extent to which the injured party can be adequately compensated for the part of that benefit of which he will be deprived;
+(c) the extent to which the party failing to perform or to offer to perform will suffer forfeiture;
+(d) the likelihood that the party failing to perform or to offer to perform will cure his failure, taking account of all the circumstances including any reasonable assurances;
+(e) the extent to which the behavior of the party failing to perform or to offer to perform comports with standards of good faith and fair dealing.
+
+
+Renunciatory breach (usually referred to as anticipatory breach or breach by anticipatory repudiation) is an unequivocal indication that the party will not perform when performance falls due, or a situation in which future non-performance is inevitable. An anticipatory breach gives the innocent party the option to immediately terminate the contract and sue for damages, or wait for the time of performance: if the party required to perform does not perform when required by the contract, the innocent party can terminate then.For example, A contracts with B on January 1 to sell 500 quintals of wheat and to deliver it on May 1. Subsequently, on April 15, A writes to B and says that he will not deliver the wheat. B may immediately consider the breach to have occurred and file a suit for damages for the scheduled performance, even though A has until May 1 to perform. However, a unique feature of anticipatory breach is that if an aggrieved party chooses not to accept a repudiation occurring before the time set for performance, not only will the contract continue on foot, but also there will be no right to damages unless and until an actual breach occurs.
+

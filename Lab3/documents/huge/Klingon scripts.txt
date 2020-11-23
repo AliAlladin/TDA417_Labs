@@ -1,0 +1,46 @@
+The Klingon scripts are fictional alphabetic scripts used in the Star Trek movies and television shows to write the Klingon language.
+In Marc Okrand's The Klingon Dictionary, the Klingon script is called pIqaD, but no information is given about it. When Klingon letters are used in Star Trek productions, they are merely decorative graphic elements, designed to simulate real writing and to create an appropriate atmosphere.
+The Astra Image Corporation designed the letters currently used to "write" Klingon for Star Trek: The Motion Picture, although they are often incorrectly attributed to Michael Okuda. They based the letters on the Klingon battlecruiser hull markings (three letters) first created by Matt Jeffries, and on Tibetan writing because the script had sharp letter forms—used as an allusion to the Klingons' love for bladed weapons.
+
+
+
+The KLI version of the pIqaD script was created by an anonymous source at Paramount, who based the characters on letters seen in the show. This source sent the script in to the Klingon Language Institute, and the KLI uploaded it onto its website. The vast majority of Klingonists, however, prefer Latin-based romanization.The script itself is quite simple: It contains twenty-six letters with a one-to-one grapheme-phoneme correspondence: that is, one letter represents one sound and one sound is written with one letter. The set of characters also includes ten digits. It is written from left to right, top to bottom like English. There is no actual punctuation; however, those that use punctuation with the script use Skybox punctuation symbols (see below).
+The KLI pIqaD script is registered in the ConScript registry in the Private Use Area of Unicode.Bing translate translates between many languages and Klingon, including the KLI pIqaD script. Bing currently uses a private use script code of "Qaak" for pIqaD instead of the official ISO 15924 script code "Piqd".
+
+
+In September 1997, Michael Everson made a proposal for encoding KLI pIqaD in Unicode, based on the Linux kernel source code (specifically "Documentation/unicode.txt" by H. Peter Anvin). The Unicode Technical Committee rejected the Klingon proposal in May 2001 on the grounds that research showed almost no use of the script for communication, and the vast majority of the people who did use Klingon employed the Latin alphabet by preference. A modified version of the Linux kernel allocation for pIqaD in the Private Use Area of Unicode was added to the ConScript Unicode Registry (U+F8D0 to U+F8FF) by Michael Everson. Since then several fonts using that encoding have appeared, and software for typing in pIqaD has become available. Existing text in the Latin alphabet can easily be converted to pIqaD also. Bing translator can transliterate between pIqaD and Latin forms, but does not convert letters correctly if there are English words.
+If a ConScript-compliant font is installed, the following PUA text should display:
+
+  
+HeghluʼmeH QaQ jajvam.
+"Today is a good day to die."The following is a pangram: 
+
+    
+qajunpaQHeylIjmoʼ batlh DuSuvqang charghwIʼ ʼIt.
+"Because of your apparent audacity the depressed conqueror is willing to fight you."
+
+
+Until the Klingon Language Institute promoted a standardized form of pIqaD for Klingon, there were variations used primarily for decorative effect. Because the letters did not map the Okrandian phonology of the Klingon language, these variants were never adopted by the Klingon speaking community and aren't used in modern Klingon.
+
+
+
+The KLI-adapted version of pIqaD utilizes the character set originally assembled by author Thomas E. Scheuer in his publication "Mortas-te-Kaase - the Death's Hand Battle Fleet" fan organization group operations manual (compiled, written, illustrated and published by author Thomas E. Scheuer from 1989–1994) which the author and founder of the KLI later became a member of, and learned of the MTK character assemblage and membership booklet designations, isn't the only mapping of Klingon letters. The Astra Image letters as released in the "Mortas-te-Kaase" were taken and used in the Paramount-endorsed Bitstream font pack. They were used to make a font with ten letters of the English alphabet: "e" to "n" being represented by the ten different klingon letters. This font itself has been used by the Star Trek production team when creating Klingon graphics; however it is still used only as random gibberish on the shows. Dr. Schoen would often refer inquiries to Thomas Scheuer as he was still a student of the Klingon language at the time.  The Mortas-te-Kaase organisation was also in very close contact with linguist Marc Okrand, who was also an active member of MTK and would often release exclusive additional words and phrases through the regular publications of the organisation via their newsletter "veS QonoS".  Scheuer was never credited however, in any of Dr. Schoen's works or publications, and thus following commercial usage was not credited properly either. A copy of the original release as photocopied from MTK member manual is displayed at the right. (See also the MTK 1990 Klin-Kon flier utilizing the MTK pIqaD)
+The trading card company Skybox used this font when they created the Klingon language cards in their Star Trek: The Next Generation trading card collection. The Klingon cards themselves detail aspects of Klingon culture and feature pIqaD text and a transliteration and translation provided by Marc Okrand. Some of these cards, notably S7, S8, and S9, feature pIqaD, which corresponds to the Latin transcription.
+Other known cards include S19 and S20 (which contain belittling references to Blockbuster, probably an allusion to Blockbuster Video) the season seven card selection s37, s38 and s39 (which featured no actual tlhIngan Hol, but only English and on card S39 Latin, written in the Skybox alphabet), and finally, the Checklist cards for each season's set of cards had the word cards written in Klingon on them when listing the above-mentioned cards.
+The script is written in horizontal lines running from left to right, top to bottom, just like English. Klingon can be written with spaces between words (a word being defined as any noun, verb or leftover, plus any prefixes and suffixes attached to it) and punctuation. When this is the case, two punctuation marks are used:
+
+An "up-turned triangle" with a function similar to a comma, semi-colon or colon.
+A "down-turned" triangle with a function similar to a full stop, question mark or exclamation mark.The triangular punctuation marks have been accepted into the common usage of the KLI pIqaD (see above).
+Klingon can also be written with no spaces or punctuation at all; this form is more common on the TV shows. As in English, Klingon text can be left-justified, center-justified, or right-justified, and written in vertical columns on banners.
+Due to its nature, the "Skybox" Alphabet is ill-suited to writing Klingon, in that ambiguity in the alphabet is apparent, so different words are spelled the same way; these are homographs. The heartiest commendations and the gravest insults could be written identically; however, context would go a long way to disambiguating homographs.
+
+
+
+A third script, known as the Klinzhai or Mandel script, was included in The U.S.S. Enterprise Officer's Manual (1980). It holds more closely to the D7 battlecruiser hull markings and is also loosely based upon the conceptual art of Matt Jeffries, TOS set designer.
+Its letters map to various letters and digraphs of English, but they have no relation to Marc Okrand's Klingon language. Like the other two alphabets, it is probably written in the same direction as English.
+Some fans have suggested this alphabet could be used to write Klingonaase in its native form.In 1989, a fan by the name of David Christensen of Seattle, Wa., developed the first computer text font based on the Mandel script, prior to there being font software, meaning the font was built entirely in ResEdit.
+
+
+
+A pIqaD r () using the Code2000 font was used in the upper right corner of the Wikipedia globe logo from 2003 until 2010. It was replaced with the Ethiopic syllable wə (ው) in the May 2010 redesign of the logo.
+
