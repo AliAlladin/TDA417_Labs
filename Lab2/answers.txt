@@ -15,7 +15,10 @@ Group member C:    Elias Johansson
 **    finds the first index of a key that equals the search key.
 ******************************************************************************/
 
-[...]
+Implemented as a regular binary search, but if an element identical to key is
+found (else statement on line 24) then we check if it's the matching one with
+lowest index. Else the new high is set to current mid point, and the binary
+search continues.
 
 
 /******************************************************************************
@@ -24,19 +27,34 @@ Group member C:    Elias Johansson
 **    as a function of the number of terms n and the number of matching terms m?
 ******************************************************************************/
 
-sortDictionary():  [...]
-
-[..short explanation..]
-
-
-allMatches():  [...]
-
-[..short explanation..]
+For the sake of brevity we will not include factors that take constant amount
+of time, such as "Term term = new Term(prefix, 0);" in our discussion of
+complexity.
 
 
-numberOfMatches():  [...]
+sortDictionary():  O(N log N)
 
-[..short explanation..]
+Assumed the java standard library sort function got the quickest possible
+outcome for worst case
+
+
+allMatches():  O(log N + M log M)
+
+Both firstIndex & lastIndex have a worst case complexity of O(1 + log N),
+copyOfRange is a java standard library array copy function which takes a
+linear amount of time in relation to the length of the array (O(log M)).
+Arrays.sort is the same used in sortDictionary and has a worst case complexity
+of O(M log M).
+
+Calculations of complexity:
+2*O(1 + log N) = 2*O(log N) = O(log N)
+O(log N) + O(M) = O(log N + M)
+O(log N + M) + O(M log M) = O(log N + M + M log M) = O(log N + M log M)
+
+
+numberOfMatches():  O(log N)
+
+firstIndex & lastIndex used the same way as in allMatches.
 
 
 
@@ -46,16 +64,16 @@ numberOfMatches():  [...]
 ** A. Approximately how many hours did you spend on the assignment?
 ******************************************************************************/
 
-[..group member..]:  [..hours..]
-[..group member..]:  [..hours..]
-[..group member..]:  [..hours..]
+Ali Alladin:      6
+William Hugo:     6
+Elias Johansson:  6
 
 
 /******************************************************************************
 ** B. Are there any known bugs / limitations?
 ******************************************************************************/
 
-[...]
+Not that we're aware of.
 
 
 /******************************************************************************
@@ -65,14 +83,16 @@ numberOfMatches():  [...]
 **    may have used in creating your design.
 ******************************************************************************/
 
-[...]
+No.
 
 
 /******************************************************************************
 ** D. Describe any serious problems you encountered.                    
 ******************************************************************************/
 
-[...]
+fistIndexOf & lastIndexOf took some time to implement, lastIndexOf was easily
+fixed by rounding mid up instead of down, took quite a while to figure out
+that was the problem though.
 
 
 /******************************************************************************
@@ -81,5 +101,5 @@ numberOfMatches():  [...]
 **    from doing the assignment, and whether you enjoyed it.                                             
 ******************************************************************************/
 
-[...]
+Fun lab, learnt a lot without it taking up too much time.
 

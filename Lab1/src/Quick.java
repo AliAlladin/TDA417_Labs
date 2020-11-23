@@ -29,7 +29,7 @@ public class Quick {
     // quicksort the subarray from a[lo] to a[hi]
     public static void sort(int[] a, int lo, int hi) {
         // TODO: try switching to insertion sort if a[lo..hi] is small.
-        if (true){
+        if (hi - lo > 80){
             if (hi <= lo) return;
 
             int j = partition(a, lo, hi);

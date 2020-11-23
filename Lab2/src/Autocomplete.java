@@ -26,9 +26,9 @@ public class Autocomplete {
         Term term = new Term(prefix, 0);
         int firstIndex = RangeBinarySearch.firstIndexOf(dictionary, term, Term.byPrefixOrder(prefix.length()));
         int lastIndex = RangeBinarySearch.lastIndexOf(dictionary, term, Term.byPrefixOrder(prefix.length()));
-        Term[] term2 = Arrays.copyOfRange(dictionary, firstIndex, lastIndex + 1); // O(m)
-        Arrays.sort(term2, Term.byReverseWeightOrder()); // O(mlog m)
-        return term2;
+        Term[] matchingTerms = Arrays.copyOfRange(dictionary, firstIndex, lastIndex + 1); // O(m)
+        Arrays.sort(matchingTerms, Term.byReverseWeightOrder()); // O(mlog m)
+        return matchingTerms;
     }
 
     // Returns the number of terms that start with the given prefix.
