@@ -26,6 +26,9 @@ public class Autocomplete {
         Term term = new Term(prefix, 0);
         int firstIndex = RangeBinarySearch.firstIndexOf(dictionary, term, Term.byPrefixOrder(prefix.length()));
         int lastIndex = RangeBinarySearch.lastIndexOf(dictionary, term, Term.byPrefixOrder(prefix.length()));
+        if (lastIndex==-1||firstIndex==-1){
+            return new Term[0];
+        }
         Term[] matchingTerms = Arrays.copyOfRange(dictionary, firstIndex, lastIndex + 1); // O(m)
         Arrays.sort(matchingTerms, Term.byReverseWeightOrder()); // O(mlog m)
         return matchingTerms;
@@ -37,6 +40,9 @@ public class Autocomplete {
         Term term = new Term(prefix, 0);
         int firstIndex = RangeBinarySearch.firstIndexOf(dictionary, term, Term.byPrefixOrder(prefix.length()));
         int lastIndex = RangeBinarySearch.lastIndexOf(dictionary, term, Term.byPrefixOrder(prefix.length()));
+        if (lastIndex==-1||firstIndex==-1){
+            return 0;
+        }
         return lastIndex - firstIndex + 1;
     }
 
