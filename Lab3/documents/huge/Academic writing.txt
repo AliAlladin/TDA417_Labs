@@ -1,0 +1,135 @@
+Academic writing, or scholarly writing is a prose register that is conventionally characterized by "evidence...that the writer(s) have been persistent, open-minded, and disciplined in study"; that prioritizes "reason over emotion or sensual perception"; and that imagines a reader who is "coolly rational, reading for information, and intending to formulate a reasoned response." The particular stylistic means of achieving these conventions can differ considerably by academic discipline, however; these differences help explain the distinctive sounds of, for example, writing in history versus engineering or physics versus philosophy. One attempt to account for these differences in writing is known as the theory of "discourse communities," as explained in more detail below. 
+
+
+
+A discourse community is essentially a group of people that shares mutual interests and beliefs. "It establishes limits and regularities...who may speak, what may be spoken, and how it is to be said; in addition [rules] prescribe what is true and false, what is reasonable and what foolish, and what is meant and what not."The concept of a discourse community is vital to academic writers across nearly all disciplines, for the academic writer's purpose is to influence their community to think differently. For this reason the academic writer must follow the constraints set by the community so his or her ideas earn approval and respect.
+
+
+Constraints are the discourse community's written and unwritten conventions about what a writer can say and how he or she can say it. They define what is an acceptable argument. Each discourse community expects to see a writer construct his or her argument using their conventional style of language and vocabulary, and they expect a writer to use the established intertext within the discourse community as the building blocks for his or her argument.
+
+
+In order for a writer to become familiar with some of the constraints of the discourse community they are writing for. Across most discourses communities, writers will:
+
+Identify the novelty of their position
+Make a claim, or thesis
+Acknowledge prior work and situate their claim in a disciplinary context
+Offer warrants for one's view based on community-specific arguments and proceduresEach of theses above are constructed differently depending on the discourse community the writer is in. For example, the way a claim is made in a high school paper would look very different from the way a claim is made in a college composition class. It is important for the academic writer to familiarize himself or herself with the conventions of the discourse community by reading and analyzing other works, so that the writer is best able to communicate his or her ideas.
+
+
+Within discourse communities, academic writers build on top of the ideas established by previous writers. 
+Good academic writers know the importance of researching previous work from within the discourse community and using this work to build their own claims. By taking these ideas and expanding upon them or applying them in a new way, a writer is able to make their novel argument.
+
+
+Intertextuality is the combining of past writings into original, new pieces of text. Usually attributed to Julia Kristeva, the concept of intertextuality is helpful for understanding that all texts are necessarily related to prior texts through a network of explicit or implicit links, allusions, repetitions, acknowledged or unacknowledged inspiration, and direct quotations. Writers (often unwittingly) make use of what has previously been written and thus some degree of borrowing is inevitable. One of the most salient features of academic writing irrespective of discipline is its unusually explicit conventions for marking intertextuality through citation and bibliography. Conventions for these markings (e.g., MLA, APA, IEEE, Chicago, etc.) vary by discourse community.
+
+
+Factoring in intertextuality, the goal of academic writing is not simply creating new ideas, but to offer a new perspective and link between already established ideas. This is why gathering background information and having past knowledge is so important in academic writing. A common metaphor used to describe academic writing is "entering the conversation", a conversation that began long before you got there and will continue long after you leave. A quote from Kenneth Burke encapsulates this metaphor:
+
+Imagine that you enter a parlor. You come late. When you arrive, others have long preceded you, and they are engaged in a heated discussion, a discussion too heated for them to pause and tell you exactly what it is about. In fact the discussion had already begun long before any of them got there, so that no one present is qualified to retrace for you all the steps that had gone before. You listen for a while, until you decide that you have caught the tenor of the argument; then you put in your oar. Someone answers; you answer him; another comes to your defense; another aligns himself against you, to either the embarrassment or gratification of your opponent, depending on the quality of your ally's assistance. However, the discussion is interminable. The hour grows late, you must depart, with the discussion still vigorously in progress.
+
+Intertextuality plays into this because without it there would be no conversations, just hundreds of thousands of writings not connected or able to build on each other.  The listening until you can join the conversation can be seen as doing research. All of the research you read, is built on research instead of self-knowledge.
+
+
+A number of areas of importance in all academic and scholarly writing are:
+
+Formal style or register
+Writing should not be casual, but be in a appropriate formal register.
+Appropriate references
+Generally speaking, the range and organization of references illustrate the author's awareness of the current state of knowledge in the field (including major current disagreements or controversies); typically the expectation is that these references will be formatted in the relevant disciplinary citation system.
+Bibliography
+Typically this lists those articles read as background, and will include the sources of individual citations.
+Plagiarism
+Plagiarism, the "wrongful appropriation of another author's language, thoughts, ideas, or expressions", and the representation of them as one's own original work is considered academic dishonesty, and can lead to severe consequences.
+
+
+Book, in many types and varieties
+Chapter in an edited volume
+Book report
+Conference paper
+Dissertation; usually between 6,000 and 20,000 words in length
+Essay; usually short, between 1,500 and 6,000 words in length
+Explication; usually a short factual note explaining some obscure part of a particular work; e.g. its terminology, dialect, allusions or coded references
+Research Article
+Research Paper; longer essay involving library research, 3000 to 6000 words in length
+Technical report
+Thesis; completed over a number of years, often in excess of 20,000 words in length
+Translation
+
+
+Exam questions and Essay titles; the formulation of these
+Instructional pamphlet, or hand-out, or reading list; usually meant for students
+Presentations; usually short, often illustrated
+
+
+Annotated bibliography
+Annotated catalogue, often of an individual or group's papers and/or library
+Creating a simplified graphical representation of knowledge; e.g. a map, or refining a display generated from a database. There will often be a 'key' or written work incorporated with the final work
+Creating a timeline or chronological plan. There will often be a 'key' or written work incorporated with the final work
+Devising a classification scheme; e.g. for animals, or newly arisen sub-cultures, or a radically new style of design
+Encyclopedia entry
+Journal article (e.g. History Today); usually presenting a digest of recent research
+Literature review; a summary and careful comparison of previous academic work published on a specific topic
+Site description and plan (e.g. in archeology)
+
+
+Anthology; collection, collation, ordering and editing of the work of others
+Catalogue raisonné; the definitive collection of the work of a single  artist, in book form
+Collected works; often referred to as the 'critical edition'. The definitive collection of the work of a single writer or poet, in book form, carefully purged of publishers errors and later forgeries, etc.
+Monograph or exhibition catalog; usually containing exemplary works, and a scholarly essay.  Sometime contains new work by a creative writer, responding to the work
+Transcribing, selecting and ordering oral testimony (e.g. oral history recordings)
+
+
+Experimental plan
+Laboratory report
+Raw data collection plan
+Research plan (sometimes called desk-based research).
+Structured notes
+
+
+Call for papers
+Documentary film script or TV script or radio script
+Obituary
+Opinion; an academic may sometimes be asked to give an expert written opinion, for use in a legal case before a court of law
+Newspaper opinion article
+Public speech or lecture
+Review of a book, film, exhibition, event, etc.
+Think-tank pamphlet, position paper, or briefing paper
+
+
+Brief; short summary, often instructions for a commissioned work
+Peer review report
+Proposal for research or for a book
+White paper; detailed technical specifications and/or performance report
+
+
+These are acceptable to some academic disciplines, e.g. Cultural studies, Fine art, Feminist studies, Queer theory, Literary studies.
+
+Artist's book or Chapbook
+Autobiography
+Belles-lettres; stylish or aesthetic writing on serious subjects, often with reference to one's personal experience
+Commonplace book
+Diary or Weblog
+Memoire; usually a short work, giving one's own memories of a famous person or event
+Notebooks
+
+
+Collaborative writing, especially using the internet
+Hypertext, often incorporating new media and multimedia forms within the text
+Performative writing (see also: belles-lettres)
+
+
+The most common disposition standard in the academic world is the IMRAD method, stating that an academic document should consist of sections in the following order:
+
+Introduction (Problem motivation, aim, objective, problem statement, own contributions, background materials, overview)
+Method (Assumptions, questionary, system model, simulation model, performance measures)
+Result (Empirical results, charts, plots)and
+
+Discussion (Analysis, Conclusions)Other common sections in academic documents are:
+
+Abstract
+Acknowledgments
+Indices
+Bibliography
+List of references
+Appendix/Addendum, any addition to a document
+

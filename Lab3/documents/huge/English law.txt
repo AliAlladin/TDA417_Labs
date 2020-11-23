@@ -1,0 +1,79 @@
+English law is the common law legal system of England and Wales, comprising mainly criminal law and civil law, each branch having its own courts and procedures.
+
+
+England's most authoritative law is statutory legislation, which comprises Acts of Parliament, regulations and by-laws. In the absence of any statutory law, the common law with its principle of stare decisis forms the residual source of law, based on judicial decisions, custom, and usage.Common law is made by sitting judges who apply both statutory law and established principles which are derived from the reasoning from earlier decisions. Equity is the other historic source of judge-made law. Common law can be amended or repealed by Parliament.Not being a civil law system, English law has no comprehensive codification. However, most of its criminal law has been codified from its common law origins, in the interests both of certainty and of ease of prosecution. For the time being, murder remains a common law crime rather than a statutory offence.Although Scotland and Northern Ireland form part of the United Kingdom and share Westminster as a primary legislature, they have separate legal systems outside of English Law.
+International treaties such as the European Union's Treaty of Rome or the Hague-Visby Rules have effect in English law only when adopted and ratified by Act of Parliament. Adopted treaties may be subsequently denounced by executive action, unless the denouncement or withdraw would affect rights enacted by Parliament. In this case executive action cannot be used due to the doctrine of parliamentary sovereignty. This principle was established in the case of R (Miller) v Secretary of State for Exiting the European Union in 2017.
+
+
+
+
+
+Criminal law is the law of crime and punishment whereby the Crown prosecutes the accused. Civil law is concerned with tort, contract, families, companies and so on. Civil law courts operate to provide a party who has an enforceable claim with a remedy such as damages or a declaration.
+
+
+In this context, civil law is the system of codified law that is prevalent in Europe. Civil law is founded on the ideas of Roman Law.By contrast, English law is the archetypal common law jurisdiction, built upon case law.
+
+
+In this context, common law means the judge-made law of the King's Bench; whereas equity is the judge-made law of the (now-defunct) Court of Chancery. Equity is concerned mainly with trusts and equitable remedies. Equity generally operates in accordance with the principles known as the "maxims of equity".The reforming Judicature Acts of the 1880s amalgamated the courts into one Supreme Court of Judicature which was directed to administer both law and equity. The neo-gothic Royal Courts of Justice in The Strand, London, were built shortly afterwards to celebrate these reforms.
+
+
+Public law is the law governing relationships between individuals and the state. Private law encompasses relationships between private individuals and other private entities (but may also cover "private" relationships between the government and private entities).
+
+
+A remedy is "the means given by law for the recovery of a right, or of compensation for its infringement".  Most remedies are available only from the court, but some are "self-help" remedies; for instance, a party who lawfully wishes to cancel a contract may do so without leave; and a person may take his own steps to "abate a private nuisance".  Formerly, most civil actions claiming damages in the High Court were commenced by obtaining a writ issued in the Queen's name. After 1979, writs have merely required the parties to appear, and writs are no longer issued in the name of the Crown. Now, after the Woolf Reforms of 1999, almost all civil actions other than those connected with insolvency, are commenced by the completion of a Claim Form  as opposed to a writ, originating application, or summons.
+
+
+
+In England, there is a hierarchy of sources, as follows:
+Legislation (primary and secondary)
+The case law rules of common law and equity, derived from precedent decisions
+Parliamentary conventions
+General customs
+Books of authority
+
+
+
+Primary legislation in the UK may take the following forms:
+
+Acts of Parliament
+Acts of the Scottish Parliament
+Acts and measures of the National Assembly for Wales
+Statutory rules of the Northern Ireland AssemblyOrders in Council are a sui generis category of legislation.
+Secondary (or "delegated") legislation in England includes:
+
+Statutory instruments and ministerial orders
+Bye-laws of metropolitan boroughs, county councils, and town councilsStatutes are cited in this fashion: "Short Title Year", e.g. Theft Act 1968. This became the usual way to refer to Acts from 1840 onwards; previously Acts were cited by their long title with the regnal year of the parliamentary session when they received Royal Assent, and the chapter number. For example, the Pleading in English Act 1362 (which required pleadings to be in English and not Law French) was referred to as 36 Edw. III c. 15, meaning "36th year of the reign of Edward III, chapter 15". (By contrast, American convention inserts "of", as in "Civil Rights Act of 1964").
+
+
+
+Common law is a term with historical origins in the legal system of England. It denotes, in the first place, the judge-made law that developed from the early Middle Ages as described in a work published at the end of the 19th century, The History of English Law before the Time of Edward I, in which Pollock and Maitland  expanded the work of Coke (17th century) and Blackstone (18th century). Specifically, the law developed in England's Court of Common Pleas and other common law courts, which became also the law of the colonies settled initially under the crown of England or, later, of the United Kingdom, in North America and elsewhere; and this law as further developed after those courts in England were reorganised by the Supreme Court of Judicature Acts passed in the 1870s, and developed independently, in the legal systems of the United States and other jurisdictions, after their independence from the United Kingdom, before and after the 1870s. The term is used, in the second place, to denote the law developed by those courts, in the same periods (pre-colonial, colonial and post-colonial), as distinct from within the jurisdiction, or former jurisdiction, of other courts in England: the Court of Chancery, the ecclesiastical courts, and the Admiralty court.
+In the Oxford English Dictionary (1933) "common law" is described as "The unwritten law of England, administered by the King's courts, which purports to be derived from ancient usage, and is embodied in the older commentaries and the reports of abridged cases", as opposed, in that sense, to statute law, and as distinguished from the equity administered by the Chancery and similar courts, and from other systems such as ecclesiastical law, and admiralty law.  For usage in the United States the description is "the body of legal doctrine  which is the foundation of the law administered in all states settled from England, and those formed by later settlement or division from them".Professor John Makdisi's article "The Islamic Origins of the Common Law" in the North Carolina Law Review theorized that English common law was influenced by medieval Islamic law. Makdisi drew comparisons between the "royal English contract protected by the action of debt" and the "Islamic Aqd", the "English assize of novel disseisin" (a petty assize adopted in the 1166 at the Assizes of Clarendon) and the "Islamic Istihqaq", and the "English jury" and the "Islamic Lafif" in the classical Maliki school of Islamic jurisprudence, and argued that these institutions were transmitted to England by the Normans, "through the close connection between the Norman kingdoms of Roger II in Sicily — ruling over a conquered Islamic administration — and Henry II in England." Makdisi also argued that the "law schools known as Inns of Court" in England (which he asserts are parallel to Madrasahs) may have also originated from Islamic law. He states that the methodology of legal precedent and reasoning by analogy (Qiyas) are also similar in both the Islamic and common law systems. Other legal scholars such as Monica Gaudiosi, Gamal Moursi Badr and A. Hudson have argued that the English trust and agency institutions, which were introduced by Crusaders, may have been adapted from the Islamic Waqf and Hawala institutions they came across in the Middle East. Paul Brand also notes parallels between the Waqf and the trusts used to establish Merton College by Walter de Merton, who had connections with the Knights Templar.
+
+
+In 1276, the concept of "time immemorial" often applied in common law was defined as being any time before 6 July 1189 (i.e. before Richard I's accession to the English throne).
+Since 1189, English law has been a common law, not a civil law system; in other words, no comprehensive codification of the law has taken place and judicial precedents are binding as opposed to persuasive. This may be a legacy of the Norman conquest of England, when a number of legal concepts and institutions from Norman law were introduced to England. In the early centuries of English common law, the justices and judges were responsible for adapting the system of writs to meet everyday needs, applying a mixture of precedent and common sense to build up a body of internally consistent law. An example is the Law Merchant derived from the "Pie-Powder" Courts, named from a corruption of the French pieds-poudrés ("dusty feet") implying ad hoc marketplace courts.
+Following Montesquieu's theory of the "separation of powers", only Parliament has the power to legislate; but in the event of a statute being ambiguous, the courts have exclusive power to decide its true meaning, using the principles of statutory interpretation. Since the courts have no authority to legislate, the "legal fiction" is that they "declare" (rather than "create") the common law. The House of Lords took this "declaratory power" a stage further in DPP v Shaw, where, in creating the new crime of "conspiracy to corrupt public morals", Viscount Simonds claimed the court had a "residual power to protect the moral welfare of the state". As Parliament became ever more established and influential, Parliamentary legislation gradually overtook judicial law-making such that today's judges are able to innovate only in certain very narrowly defined areas.
+
+
+
+
+England exported its common law and statute law to most parts of the British Empire, and many aspects of that system have survived after Independence from British rule, and the influences are often reciprocal. "English law" prior to the American Revolutionary Wars (American War of Independence) is still an influence on United States law, and provides the basis for many American legal traditions and principles.  
+After independence, English common law still exerted influence over American common law – for example, Byrne v Boadle (1863), which first applied the res ipsa loquitur doctrine. Jurisdictions that have kept to the common law may incorporate modern legal developments from England, and English decisions are usually persuasive in such jurisdictions.
+In the United States, each state has its own supreme court with final appellate jurisdiction, while the US Supreme Court has the final say over federal matters, resulting in the development of state common law.  By contrast, in Australia, one common law exists.
+
+
+After Britain's colonial period, jurisdictions that had inherited and adopted England's common law developed their courts of final appeal in differing ways: jurisdictions still under the British crown are subject to the Judicial Committee of the Privy Council in London. For a long period, the British Dominions used London's Privy Council as their final appeal court, although one by one they eventually established their local supreme court. New Zealand was the last Dominion to abandon the Privy Council, setting up its own Supreme Court in 2004. Even after independence, many former British colonies in the Commonwealth continued to use the Privy Council, as it offered a readily available high-grade service. In particular, several Caribbean island nations found the Privy Council advantageous.
+
+
+Britain is a dualist in its relationship with international law, so international treaties must be formally ratified by Parliament and incorporated into statute before such supranational laws become binding in the UK.Britain has long been a major trading nation, exerting a strong influence on the law of shipping and maritime trade.  The English law of salvage, collisions, ship arrest, and carriage of goods by sea are subject to international conventions which Britain played a leading role in drafting. Many of  these conventions incorporate principles derived from English common law and documentary procedures.
+
+
+
+The United Kingdom of Great Britain and Northern Ireland comprises three legal jurisdictions: England & Wales, Scotland, and Northern Ireland. Although Scotland and Northern Ireland form part of the United Kingdom and share the Parliament at Westminster as the primary legislature, they have separate legal systems. Scotland became part of the UK over 300 years ago, but Scots law has remained remarkably distinct from English law. The UK's highest civil appeal court is the Supreme Court of the United Kingdom, whose decisions, and those of its predecessor the House of Lords, are binding on all three UK jurisdictions, as in Donoghue v Stevenson, a Scots case that forms the basis of the UK's law of negligence.
+
+
+Unlike Scotland and Northern Ireland, Wales is not a separate jurisdiction within the United Kingdom. The customary laws of Wales within the Kingdom of England were abolished by King Henry VIII's Laws in Wales Acts which brought Wales into legal conformity with England.   While Wales now has a devolved Assembly, any legislation which that Assembly passes is enacted in particular circumscribed policy areas defined by the Government of Wales Act 2006, other legislation of the British Parliament, or by Orders in Council given under the authority of the 2006 Act.
+Between 1746 and 1967, any reference to England in legislation was deemed to include Wales. This ceased with the enactment of the Welsh Language Act 1967 and the jurisdiction is now commonly referred to as "England and Wales".  Although devolution has accorded some degree of political autonomy to Wales in the National Assembly for Wales, it did not have the ability to pass primary legislation until the Government of Wales Act 2006 came into force after the 2007 Welsh general election. That said, the Welsh legal system remains English common law, in that the legal system administered through both civil and criminal courts remains unified throughout England and Wales. This is different from the situation of Northern Ireland, for example, which did not cease to be a distinct jurisdiction when its legislature was suspended (see Northern Ireland (Temporary Provisions) Act 1972).   A major difference is also the use of the Welsh language, as laws concerning it apply in Wales and not in the rest of the United Kingdom. The Welsh Language Act 1993 is an Act of the Parliament of the United Kingdom, which put the Welsh language on an equal footing with the English language in Wales with regard to the public sector. Welsh may also be spoken in Welsh courts.
+
+
+

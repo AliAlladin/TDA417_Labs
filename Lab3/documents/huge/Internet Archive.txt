@@ -1,0 +1,171 @@
+The Internet Archive is an American digital library with the stated mission of "universal access to all knowledge." It provides free public access to collections of digitized materials, including websites, software applications/games, music, movies/videos, moving images, and millions of public-domain books. In addition to its archiving function, the Archive is an activist organization, advocating for a free and open Internet.
+The Internet Archive allows the public to upload and download digital material to its data cluster, but the bulk of its data is collected automatically by its web crawlers, which work to preserve as much of the public web as possible. Its web archive, the Wayback Machine, contains hundreds of billions of web captures. The Archive also oversees one of the world's largest book digitization projects.
+
+
+
+The Archive is a 501(c)(3) nonprofit operating in the United States. It has an annual budget of $10 million, derived from a variety of sources: revenue from its Web crawling services, various partnerships, grants, donations, and the Kahle-Austin Foundation.Its headquarters are in San Francisco, California. From 1996 to 2009, headquarters were in the Presidio of San Francisco, a former U.S. military base. Since 2009, headquarters have been at 300 Funston Avenue in San Francisco, a former Christian Science Church.
+At some points in time, most of its staff worked in its book-scanning centers; as of 2019, scanning is performed by 100 paid operators worldwide. The Archive has data centers in three Californian cities: San Francisco, Redwood City, and Richmond. To prevent losing the data in case of e.g. a natural disaster, the Archive attempts to create copies of (parts of) the collection at more distant locations, currently including the Bibliotheca Alexandrina in Egypt and a facility in Amsterdam. The Archive is a member of the International Internet Preservation Consortium and was officially designated as a library by the state of California in 2007.
+
+
+
+Brewster Kahle founded the archive in May 1996 at around the same time that he began the for-profit web crawling company Alexa Internet. In October 1996, the Internet Archive had begun to archive and preserve the World Wide Web in large quantities, though it saved the earliest pages in May 1996. The archived content wasn't available to the general public until 2001, when it developed the Wayback Machine.
+In late 1999, the Archive expanded its collections beyond the Web archive, beginning with the Prelinger Archives. Now the Internet Archive includes texts, audio, moving images, and software. It hosts a number of other projects: the NASA Images Archive, the contract crawling service Archive-It, and the wiki-editable library catalog and book information site Open Library. Soon after that, the archive began working to provide specialized services relating to the information access needs of the print-disabled; publicly accessible books were made available in a protected Digital Accessible Information System (DAISY) format.According to its website:
+Most societies place importance on preserving artifacts of their culture and heritage. Without such artifacts, civilization has no memory and no mechanism to learn from its successes and failures. Our culture now produces more and more artifacts in digital form. The Archive's mission is to help preserve those artifacts and create an Internet library for researchers, historians, and scholars.
+
+In August 2012, the archive announced that it has added BitTorrent to its file download options for more than 1.3 million existing files, and all newly uploaded files. This method is the fastest means of downloading media from the Archive, as files are served from two Archive data centers, in addition to other torrent clients which have downloaded and continue to serve the files. On November 6, 2013, the Internet Archive's headquarters in San Francisco's Richmond District caught fire, destroying equipment and damaging some nearby apartments. According to the Archive, it lost a side-building housing one of 30 of its scanning centers; cameras, lights, and scanning equipment worth hundreds of thousands of dollars; and "maybe 20 boxes of books and film, some irreplaceable, most already digitized, and some replaceable". The nonprofit Archive sought donations to cover the estimated $600,000 in damage.In November 2016, Kahle announced that the Internet Archive was building the Internet Archive of Canada, a copy of the archive to be based somewhere in Canada. The announcement received widespread coverage due to the implication that the decision to build a backup archive in a foreign country was because of the upcoming presidency of Donald Trump. Kahle was quoted as saying:
+
+On November 9th in America, we woke up to a new administration promising radical change. It was a firm reminder that institutions like ours, built for the long-term, need to design for change. For us, it means keeping our cultural materials safe, private and perpetually accessible. It means preparing for a Web that may face greater restrictions. It means serving patrons in a world in which government surveillance is not going away; indeed it looks like it will increase. Throughout history, libraries have fought against terrible violations of privacy—where people have been rounded up simply for what they read. At the Internet Archive, we are fighting to protect our readers' privacy in the digital world.
+Since 2018, the Internet Archive visual arts residency, which is organized by Amir Saber Esfahani and Andrew McClintock, helps connect artists with the archive's over 48 petabytes of digitized materials. Over the course of the yearlong residency, visual artists create a body of work which culminates in an exhibition. The hope is to connect digital history with the arts and create something for future generations to appreciate online or off. Previous artists in residence include Taravat Talepasand, Whitney Lynn, and Jenny Odell.In 2019, the main scanning operations were moved to Cebu in the Philippines and were planned to reach a pace of half a million books scanned per year, until an initial target of 4 million books. The Internet Archive acquires most materials from donations, such as a donation of 250 thousand books from Trent University and hundreds thousand 78rpms from Boston Public Library. All material is then digitized and retained in digital storage, while a digital copy is returned to the original holder and the Internet Archive's copy, if not in the public domain, is borrowed to patrons worldwide one at a time under the controlled digital lending (CDL) theory of the first-sale doctrine. Meanwhile in the same year its headquarters in San Francisco received a bomb threat which forced a temporary evacuation of the building.
+
+
+
+
+
+The Internet Archive capitalized on the popular use of the term "WABAC Machine" from a segment of The Adventures of Rocky and Bullwinkle cartoon (specifically Peabody's Improbable History), and uses the name "Wayback Machine" for its service that allows archives of the World Wide Web to be searched and accessed. This service allows users to view some of the archived web pages. The Wayback Machine was created as a joint effort between Alexa Internet and the Internet Archive when a three-dimensional index was built to allow for the browsing of archived web content. Millions of web sites and their associated data (images, source code, documents, etc.) are saved in a database. The service can be used to see what previous versions of web sites used to look like, to grab original source code from web sites that may no longer be directly available, or to visit web sites that no longer even exist. Not all web sites are available because many web site owners choose to exclude their sites. As with all sites based on data from web crawlers, the Internet Archive misses large areas of the web for a variety of other reasons. A 2004 paper found international biases in the coverage, but deemed them "not intentional".
+
+The use of the term "Wayback Machine" in the context of the Internet Archive has become common in popular culture; e.g., in the television show Law and Order: Criminal Intent ("Legacy", first run August 3, 2008), a computer tech uses the "Wayback Machine" to find an archive of a student's Facebook-style web site.Snapshots used to take at least 6–18 months to be added, but sites eventually were able to be added in real time by request. A "Save Page Now" archiving feature was made available in October 2013, accessible on the lower right of the Wayback Machine's main page. Once a target URL is entered and saved, the web page will become part of the Wayback Machine.
+Through the Internet address web.archive.org, users can upload to the Wayback Machine a large variety of contents, including .pdf and data compression file formats. The Wayback Machine creates a permanent local URL of the upload content, that is accessible in the web, even if not listed while searching in the http://archive.org official website.
+May 12, 1996, is the date of the oldest archived pages on the archive.org WayBack Machine, such as infoseek.com.In October 2016, it was announced that the way web pages are counted would be changed, resulting in the decrease of the archived pages counts shown.
+
+
+
+Created in early 2006, Archive-It is a web archiving subscription service that allows institutions and individuals to build and preserve collections of digital content and create digital archives. Archive-It allows the user to customize their capture or exclusion of web content they want to preserve for cultural heritage reasons. Through a web application, Archive-It partners can harvest, catalog, manage, browse, search, and view their archived collections.In terms of accessibility, the archived web sites are full text searchable within seven days of capture. Content collected through Archive-It is captured and stored as a WARC file. A primary and back-up copy is stored at the Internet Archive data centers. A copy of the WARC file can be given to subscribing partner institutions for geo-redundant preservation and storage purposes to their best practice standards. Periodically, the data captured through Archive-It is indexed into the Internet Archive's general archive.
+As of March 2014, Archive-It had more than 275 partner institutions in 46 U.S. states and 16 countries that have captured more than 7.4 billion URLs for more than 2,444 public collections. Archive-It partners are universities and college libraries, state archives, federal institutions, museums, law libraries, and cultural organizations, including the Electronic Literature Organization, North Carolina State Archives and Library, Stanford University, Columbia University, American University in Cairo, Georgetown Law Library, and many others.
+
+
+
+
+
+The Internet Archive Text Archive collection includes digitized books and special collections from various libraries and cultural heritage institutions from around the world. The Internet Archive operates 33 scanning centers in five countries, digitizing about 1,000 books a day for a total of more than 2 million books, financially supported by libraries and foundations. As of July 2013, the collection included 4.4 million books with more than 15 million downloads per month. As of November 2008, when there were approximately 1 million texts, the entire collection was greater than 0.5 petabytes, which includes raw camera images, cropped and skewed images, PDFs, and raw OCR data. Between about 2006 and 2008, Microsoft had a special relationship with Internet Archive texts through its Live Search Books project, scanning more than 300,000 books that were contributed to the collection, as well as financial support and scanning equipment. On May 23, 2008, Microsoft announced it would be ending the Live Book Search project and no longer scanning books. Microsoft made its scanned books available without contractual restriction and donated its scanning equipment to its former partners.
+
+Around October 2007, Archive users began uploading public domain books from Google Book Search. As of November 2013, there were more than 900,000 Google-digitized books in the Archive's collection; the books are identical to the copies found on Google, except without the Google watermarks, and are available for unrestricted use and download. Brewster Kahle revealed in 2013 that this archival effort was coordinated by Aaron Swartz, who with a "bunch of friends" downloaded the public domain books from Google slow enough and from enough computers to stay within Google's restrictions. They did this to ensure public access to the public domain. The Archive ensured the items were attributed and linked back to Google, which never complained, while libraries "grumbled". According to Kahle, this is an example of Swartz's "genius" to work on what could give the most to the public good for millions of people. Besides books, the Archive offers free and anonymous public access to more than four million court opinions, legal briefs, or exhibits uploaded from the United States Federal Courts' PACER electronic document system via the RECAP web browser plugin. These documents had been kept behind a federal court paywall. On the Archive, they had been accessed by more than six million people by 2013.The Archive's BookReader web app, built into its website, has features such as single-page, two-page, and thumbnail modes; fullscreen mode; page zooming of high-resolution images; and flip page animation.
+
+
+
+
+
+
+
+The Open Library is another project of the Internet Archive. The wiki seeks to include a web page for every book ever published: it holds 25 million catalog records of editions. It also seeks to be a web-accessible public library: it contains the full texts of approximately 1,600,000 public domain books (out of the more than five million from the main texts collection), as well as in-print and in-copyright books, which are fully readable, downloadable and full-text searchable; it offers a two-week loan of e-books in its Books to Borrow lending program for over 647,784 books not in the public domain, in partnership with over 1,000 library partners from 6 countries after a free registration on the web site. Open Library is a free and open-source software project, with its source code freely available on GitHub.
+
+
+As of December 2018, over 50 sponsors helped the Internet Archive provide over 5 million scanned books (text items). Of these, over 2 million were scanned by Internet Archive itself, funded either by itself or by MSN, the University of Toronto or the Internet Archive's founder's Kahle/Austin Foundation.The collections for scanning centers often include also digitisations sponsored by their partners, for instance the University of Toronto performed scans supported by other Canadian libraries.
+
+
+
+In addition to web archives, the Internet Archive maintains extensive collections of digital media that are attested by the uploader to be in the public domain in the United States or licensed under a license that allows redistribution, such as Creative Commons licenses. Media are organized into collections by media type (moving images, audio, text, etc.), and into sub-collections by various criteria. Each of the main collections includes a "Community" sub-collection (formerly named "Open Source") where general contributions by the public are stored.
+
+
+
+The Audio Archive includes music, audiobooks, news broadcasts, old time radio shows, and a wide variety of other audio files. There are more than 200,000 free digital recordings in the collection. The subcollections include audio books and poetry, podcasts, non-English audio, and many others. The sound collections are curated by B. George, director of the ARChive of Contemporary Music.The Live Music Archive sub-collection includes more than 170,000 concert recordings from independent musicians, as well as more established artists and musical ensembles with permissive rules about recording their concerts, such as the Grateful Dead, and more recently, The Smashing Pumpkins. Also, Jordan Zevon has allowed the Internet Archive to host a definitive collection of his father Warren Zevon's concert recordings. The Zevon collection ranges from 1976–2001 and contains 126 concerts including 1,137 songs.The Great 78 Project aims to digitize 250,000 78 rpm singles (500,000 songs) from the period between 1880 and 1960, donated by various collectors and institutions. It has been developed in collaboration with the Archive of Contemporary Music and George Blood Audio, responsible for the audio digitization.
+
+
+This collection contains approximately 3,000 items from Brooklyn Museum.
+
+
+This collection contains more than 880,000 items. Cover Art Archive, Metropolitan Museum of Art - Gallery Images, NASA Images, Occupy Wall Street Flickr Archive, and USGS Maps and are some sub-collections of Image collection.
+
+
+The Cover Art Archive is a joint project between the Internet Archive and MusicBrainz, whose goal is to make cover art images on the Internet. This collection contains more than 330,000 items.
+
+
+The images of this collection are from the Metropolitan Museum of Art. This collection contains more than 140,000 items.
+
+
+The NASA Images archive was created through a Space Act Agreement between the Internet Archive and NASA to bring public access to NASA's image, video, and audio collections in a single, searchable resource. The IA NASA Images team worked closely with all of the NASA centers to keep adding to the ever-growing collection. The nasaimages.org site launched in July 2008 and had more than 100,000 items online at the end of its hosting in 2012.
+
+
+This collection contains creative commons licensed photographs from Flickr related to the Occupy Wall Street movement. This collection contains more than 15,000 items.
+
+
+This collection contains more than 59,000 items from Libre Map Project.
+
+
+One of the sub-collections of the Internet Archive's Video Archive is the Machinima Archive. This small section hosts many Machinima videos. Machinima is a digital artform in which computer games, game engines, or software engines are used in a sandbox-like mode to create motion pictures, recreate plays, or even publish presentations or keynotes. The archive collects a range of Machinima films from internet publishers such as Rooster Teeth and Machinima.com as well as independent producers. The sub-collection is a collaborative effort among the Internet Archive, the How They Got Game research project at Stanford University, the Academy of Machinima Arts and Sciences, and Machinima.com.
+
+
+This collection contains mathematical images created by mathematical artist Hamid Naderi Yeganeh.
+
+
+This collection contains approximately 160,000 items from a variety of libraries including the University of Chicago Libraries, the University of Illinois at Urbana-Champaign, the University of Alberta, Allen County Public Library, and the National Technical Information Service.
+
+
+
+The Internet Archive holds a collection of approximately 3,863 feature films. Additionally, the Internet Archive's Moving Image collection includes: newsreels, classic cartoons, pro- and anti-war propaganda, The Video Cellar Collection, Skip Elsheimer's "A.V. Geeks" collection, early television, and ephemeral material from Prelinger Archives, such as advertising, educational, and industrial films, as well as amateur and home movie collections.
+Subcategories of this collection include:
+
+IA's Brick Films collection, which contains stop-motion animation filmed with Lego bricks, some of which are "remakes" of feature films.
+IA's Election 2004 collection, a non-partisan public resource for sharing video materials related to the 2004 United States presidential election.
+IA's FedFlix collection, Joint Venture NTIS-1832 between the National Technical Information Service and Public.Resource.Org that features "the best movies of the United States Government, from training films to history, from our national parks to the U.S. Fire Academy and the Postal Inspectors"
+IA's Independent News collection, which includes sub-collections such as the Internet Archive's World At War competition from 2001, in which contestants created short films demonstrating "why access to history matters". Among their most-downloaded video files are eyewitness recordings of the devastating 2004 Indian Ocean earthquake.
+IA's September 11 Television Archive, which contains archival footage from the world's major television networks of the terrorist attacks of September 11, 2001, as they unfolded on live television.
+
+
+
+The Archive has a collection of freely distributable music that is streamed and available for download via its Netlabels service. The music in this collection generally has Creative Commons-license catalogs of virtual record labels.
+
+
+Open Educational Resources is a digital collection at archive.org. This collection contains hundreds of free courses, video lectures, and supplemental materials from universities in the United States and China. The contributors of this collection are ArsDigita University, Hewlett Foundation, MIT, Monterey Institute, and Naropa University.
+
+
+
+In September 2012, the Internet Archive launched the TV News Search & Borrow service for searching U.S. national news programs. The service is built on closed captioning transcripts and allows users to search and stream 30-second video clips. Upon launch, the service contained "350,000 news programs collected over 3 years from national U.S. networks and stations in San Francisco and Washington D.C." According to Kahle, the service was inspired by the Vanderbilt Television News Archive, a similar library of televised network news programs. In contrast to Vanderbilt, which limits access to streaming video to individuals associated with subscribing colleges and universities, the TV News Search & Borrow allows open access to its streaming video clips. In 2013, the Archive received an additional donation of "approximately 40,000 well-organized tapes" from the estate of a Philadelphia woman, Marion Stokes. Stokes "had recorded more than 35 years of TV news in Philadelphia and Boston with her VHS and Betamax machines."
+
+
+
+
+
+Voicing a strong reaction to the idea of books simply being thrown away, and inspired by the Svalbard Global Seed Vault, Kahle now envisions collecting one copy of every book ever published. "We're not going to get there, but that's our goal", he said. Alongside the books, Kahle plans to store the Internet Archive's old servers, which were replaced in 2010.
+
+
+The Internet Archive has "the largest collection of historical software online in the world", spanning 50 years of computer history in terabytes of computer magazines and journals, books, shareware discs, FTP web sites, video games, etc. The Internet Archive has created an archive of what it describes as "vintage software", as a way to preserve them. The project advocated for an exemption from the United States Digital Millennium Copyright Act to permit them to bypass copy protection, which was approved in 2003 for a period of three years. The Archive does not offer the software for download, as the exemption is solely "for the purpose of preservation or archival reproduction of published digital works by a library or archive." The exemption was renewed in 2006, and in 2009 was indefinitely extended pending further rulemakings. The Library reiterated the exemption as a "Final Rule" with no expiration date in 2010. In 2013, the Internet Archive began to provide abandonware video games browser-playable via MESS, for instance the Atari 2600 game E.T. the Extra-Terrestrial. Since December 23, 2014, the Internet Archive presents, via a browser-based DOSBox emulation, thousands of DOS/PC games for "scholarship and research purposes only".
+
+
+A combined hardware software system has been developed that performs a safe method of digitizing content.
+
+
+From 2012 to November 2015, the Internet Archive operated the Internet Archive Federal Credit Union, a federal credit union based in New Brunswick, New Jersey, with the goal of providing access to low- and middle-income people. Throughout its short existence, the IAFCU experienced significant conflicts with the National Credit Union Administration, which severely limited the IAFCU's loan portfolio and concerns over serving Bitcoin firms. At the time of its dissolution, it consisted of 395 members and was worth $2.5 million.
+
+
+
+
+In November 2005, free downloads of Grateful Dead concerts were removed from the site. John Perry Barlow identified Bob Weir, Mickey Hart, and Bill Kreutzmann as the instigators of the change, according to an article in The New York Times. Phil Lesh commented on the change in a November 30, 2005, posting to his personal web site:
+
+It was brought to my attention that all of the Grateful Dead shows were taken down from Archive.org right before Thanksgiving. I was not part of this decision making process and was not notified that the shows were to be pulled. I do feel that the music is the Grateful Dead's legacy and I hope that one way or another all of it is available for those who want it.
+A November 30 forum post from Brewster Kahle summarized what appeared to be the compromise reached among the band members. Audience recordings could be downloaded or streamed, but soundboard recordings were to be available for streaming only. Concerts have since been re-added.
+
+
+
+On May 8, 2008, it was revealed that the Internet Archive had successfully challenged an FBI national security letter asking for logs on an undisclosed user.On November 28, 2016, it was revealed that a second FBI national security letter had been successfully challenged that had been asking for logs on another undisclosed user.
+
+
+On August 17, 2011, the Israeli-American Middle East Media Research Institute published "Al-Qaeda, Jihadis Infest the San Francisco, California-Based 'Internet Archive' Library", which detailed how members can post anonymously and enjoy free uncensored hosting.
+
+
+In a story at his Web site, entitled "What the heck is going on at Internet Archive?", author Steven Saylor noted: "Sometime in 2012, the entire run of Omni magazine was uploaded (and made available for download) at Internet Archive ... Since those old issues must contain hundreds of works still under copyright by numerous contributors, how is this legal?" At least one contributor to the magazine, author Steve Perry, has publicly complained that he never gave permission for his work to be uploaded ("they didn't say a word in my direction"), and it has been noted that all issues containing the work of Harlan Ellison apparently have been taken down. Glenn Fleishman, investigating the question "Who Owns Omni?", writes that "Almost all of the authors, photographers, and artists whose work appeared in the magazine had signed contracts that granted only short-term rights. ... [No one] could simply reprint or post the content from older issues."
+
+
+The Internet Archive blacked out its web site for 12 hours on January 18, 2012, in protest of the Stop Online Piracy Act and the PROTECT IP Act bills, two pieces of legislation in the United States Congress that they claimed would "negatively affect the ecosystem of web publishing that led to the emergence of the Internet Archive". This occurred in conjunction with the English Wikipedia blackout, as well as numerous other protests across the Internet.
+
+
+The Internet Archive is a member of the Open Book Alliance, which has been among the most outspoken critics of the Google Book Settlement. The Archive advocates an alternative digital library project.
+
+
+In February 2016, Internet Archive users had begun archiving digital copies of Nintendo Power, Nintendo's official magazine for their games and products, which ran from 1988 to 2012. The first 140 issues had been collected, before Nintendo had the archive removed on August 8, 2016. In response to the take-down, Nintendo told gaming website Polygon, "[Nintendo] must protect our own characters, trademarks and other content. The unapproved use of Nintendo's intellectual property can weaken our ability to protect and preserve it, or to possibly use it for new projects".
+
+
+In August 2017, the Government of India blocked the Internet Archive along with other file-sharing websites, citing piracy concerns after copies of two Bollywood films were allegedly shared via the service. The block was lifted subsequently.
+
+
+
+On October 9, 2016, the Internet Archive was temporarily blocked in Turkey after it was used (amongst other file hoster) by hackers to host 17 GB of leaked government emails.
+
+
+
+The Great Room of the Internet Archive features a collection of more than 100 ceramic figures representing employees of the Internet Archive. This collection, inspired by the statues of the Xian warriors in China, was commissioned by Brewster Kahle, sculpted by Nuala Creed, and is ongoing.
+
+
+The Internet Archive visual arts residency, organized by Amir Saber Esfahani, is designed to connect emerging and mid-career artists with the Archive’s millions of collections and to show what is possible when open access to information intersects with the arts. During this one-year residency, selected artists develop a body of work that responds to and utilizes the Archive’s collections in their own practice.2019 Residency Artists: Caleb Duarte, Whitney Lynn, and Jeffrey Alan Scudder.
+2018 Residency Artists: Mieke Marple, Chris Sollars, and Taravat Talepasand.
+2017 Residency Artists: Laura Kim, Jeremiah Jenkins, and Jenny Odell
+

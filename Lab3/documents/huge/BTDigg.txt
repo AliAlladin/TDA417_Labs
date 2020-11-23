@@ -1,0 +1,11 @@
+BTDigg is the first BitTorrent DHT search engine. It participated in the BitTorrent DHT network, supporting the network and making correspondence between magnet links and a few torrent attributes (name, size, list of files) which are indexed and inserted into a database. For end users, BTDigg provides a full-text database search via Web interface. The web part of its search system retrieved proper information by a user's text query. The Web search supported queries in European and Asian languages. The project name was an acronym of BitTorrent Digger (in this context digger means a treasure-hunter). It went offline in June 2016, reportedly due to index spam. The site returned later in 2016 at a dot-com domain, went offline again and is now online.. The .com domain, btdig.com has its torrent crawler's source source listed on Github, dhtcrawler2.
+
+
+BTDigg was created as a DHT search engine for free content for the BitTorrent network. The web part of the BTDigg search system provides magnet links and partial torrent information (name, list of files, size) from the database. The returned results are based on a user's text query. BTDigg's DHT search engine links two subjects that are partial information from a torrent and a magnet link, similar to the process of linking the content of a web page with a page URL. BTDigg also provides API for third-party applications.BTDigg Web interface supports English, Russian, Portuguese languages. Users can customize search results by choosing proper sort order in the web interface. Additional features are search API, API popularity, plugins for μTorrent and qBittorrent clients, Web browser OpenSearch plugin (for Internet Explorer, Google Chrome). API popularity gives a picture of changing popularity for a torrent in the BitTorrent DHT network.
+
+
+BTDigg was founded by Nina Evseenko in January 2011. The site is also available via the I2P network and Tor.
+
+
+BTDigg provides decentralization of database creation and ability to show distributed ratings being provided by users via μTorrent. There is also no guarantee about content because BTDigg does not analyze and does not store content. BTDigg is not a tracker because it does not share content, does not participate in or coordinate BitTorrent swarm. It is not a BitTorrent Index because it does not store and does not maintain a static list of torrents.
+

@@ -1,0 +1,9 @@
+Yahoo! Babel Fish was a free Web-based multilingual translation application. In May 2012 it was replaced by Bing Translator, to which queries were redirected. Although Yahoo! has transitioned its Babel Fish translation services to Bing Translator, it did not sell its translation application to Microsoft outright. As the oldest free online language translator, the service translated text or Web pages in 36 pairs between 13 languages, including English, Simplified Chinese, Traditional Chinese, Dutch, French, German, Greek, Italian, Japanese, Korean, Portuguese, Russian, and Spanish.
+The internet service derived its name from the Babel fish, a fictional species in Douglas Adams's book and radio series The Hitchhiker's Guide to the Galaxy that could instantly translate languages. In turn, the name of the fictional creature refers to the biblical account of the confusion of languages that arose in the city of Babel.
+
+
+On December 9, 1997, Digital Equipment Corporation (DEC) and SYSTRAN S.A. launched AltaVista Translation Service at babelfish.altavista.com, which was developed by a team of researchers at DEC. In February 2003, AltaVista was bought by Overture Services, Inc.
+In July 2003, Overture, in turn, was taken over by Yahoo!.The web address for Babel Fish remained at babelfish.altavista.com until May 9, 2008, when the address changed to babelfish.yahoo.com.As of May 30, 2012, the Web address changed yet again, this time redirecting babelfish.yahoo.com to www.microsofttranslator.com when Microsoft's Bing Translator replaced Yahoo Babel Fish.Yahoo! Babel Fish should not be confused with The Babel Fish Corporation founded by Oscar Jofre, which was operated at the URL www.babelfish.com (created in 1995).As of June 2013, babelfish.yahoo.com no longer redirected to the Microsoft Bing Translator. Instead, it refers directly back to the main Yahoo.com page.
+
+
+

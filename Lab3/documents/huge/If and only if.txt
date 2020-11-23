@@ -1,0 +1,78 @@
+In logic and related fields such as mathematics and philosophy, if and only if (shortened as iff) is a biconditional logical connective between statements, where either both statements are true or both are false.
+The connective is biconditional (a statement of material equivalence), and can be likened to the standard material conditional ("only if", equal to "if ... then") combined with its reverse ("if"); hence the name. The result is that the truth of either one of the connected statements requires the truth of the other (i.e. either both statements are true, or both are false), though it is controversial whether the connective thus defined is properly rendered by the English "if and only if" — with its pre-existing meaning.
+In writing, phrases commonly used as alternatives to P "if and only if" Q include: Q is necessary and sufficient for P, P is equivalent (or materially equivalent) to Q (compare material implication), P precisely if Q, P precisely (or exactly) when Q, P exactly in case Q, and P just in case Q. Some authors regard "iff" as unsuitable in formal writing; others consider it a "borderline case" and tolerate its use.In logical formulae, logical symbols are used instead of these phrases; see the discussion of notation.
+
+
+The truth table of P 
+  
+    
+      
+        ⇔
+      
+    
+    {\displaystyle \Leftrightarrow }
+   Q is as follows:
+
+It is equivalent to that produced by the XNOR gate, and opposite to that produced by the XOR gate.
+
+
+
+
+The corresponding logical symbols are "↔", "
+  
+    
+      
+        ⇔
+      
+    
+    {\displaystyle \Leftrightarrow }
+  ", and "≡", and sometimes "iff". These are usually treated as equivalent. However, some texts of mathematical logic (particularly those on first-order logic, rather than propositional logic) make a distinction between these, in which the first, ↔, is used as a symbol in logic formulas, while ⇔ is used in reasoning about those logic formulas (e.g., in metalogic). In Łukasiewicz's Polish notation, it is the prefix symbol 'E'.Another term for this logical connective is exclusive nor.
+In TeX "if and only if" is shown as a long double arrow: 
+  
+    
+      
+        
+        ⟺
+        
+      
+    
+    {\displaystyle \iff }
+   via command \iff.
+
+
+In most logical systems, one proves a statement of the form "P iff Q" by proving either "if P, then Q" and "if Q, then P", or "if P, then Q" and "if not-P, then not-Q". Proving these pair of statements sometimes leads to a more natural proof, since there are not obvious conditions in which one would infer a biconditional directly. An alternative is to prove the disjunction "(P and Q) or (not-P and not-Q)", which itself can be inferred directly from either of its disjuncts—that is, because "iff" is truth-functional, "P iff Q" follows if P and Q have been shown to be both true, or both false.
+
+
+Usage of the abbreviation "iff" first appeared in print in John L. Kelley's 1955 book General Topology.
+Its invention is often credited to Paul Halmos, who wrote "I invented 'iff,' for  'if and only if'—but I could never believe I was really its first inventor."It is somewhat unclear how "iff" was meant to be pronounced. In current practice, the single 'word' "iff" is almost always read as the four words "if and only if". However, in the preface of General Topology, Kelley suggests that it should be read differently: "In some cases where mathematical content requires 'if and only if' and euphony demands something less I use Halmos' 'iff'". The authors of one discrete mathematics textbook suggest: "Should you need to pronounce iff, really hang on to the 'ff' so that people hear the difference from 'if'", implying that "iff" could be pronounced as [ɪfː].
+
+
+Technically, definitions are always "if and only if" statements; some texts — such as Kelley's General Topology — follow the strict demands of logic, and use "if and only if" or iff in definitions of new terms. However, this logically correct usage of "if and only if" is relatively uncommon, as the majority of textbooks, research papers and articles (including English Wikipedia articles) follow the special convention to interpret "if" as "if and only if" whenever a mathematical definition is involved (as in "a topological space is compact if every open cover has a finite subcover").
+
+
+"Madison will eat the fruit if it is an apple." (equivalent to "Only if Madison will eat the fruit, can it be an apple" or "Madison will eat the fruit ← the fruit is an apple")
+This states that Madison will eat fruits that are apples. It does not, however, exclude the possibility that Madison might also eat bananas or other types of fruit. All that is known for certain is that she will eat any and all apples that she happens upon. That the fruit is an apple is a sufficient condition for Madison to eat the fruit.
+"Madison will eat the fruit only if it is an apple." (equivalent to "If Madison will eat the fruit, then it is an apple" or "Madison will eat the fruit → the fruit is an apple")
+This states that the only fruit Madison will eat is an apple. It does not, however, exclude the possibility that Madison will refuse an apple if it is made available, in contrast with (1), which requires Madison to eat any available apple. In this case, that a given fruit is an apple is a necessary condition for Madison to be eating it. It is not a sufficient condition since Madison might not eat all the apples she is given.
+"Madison will eat the fruit if and only if it is an apple." (equivalent to "Madison will eat the fruit ↔ the fruit is an apple")
+This statement makes it clear that Madison will eat all and only those fruits that are apples. She will not leave any apple uneaten, and she will not eat any other type of fruit. That a given fruit is an apple is both a necessary and a sufficient condition for Madison to eat the fruit.Sufficiency is the converse of necessity. That is to say, given P→Q (i.e. if P then Q), P would be a sufficient condition for Q, and Q would be a necessary condition for P. Also, given P→Q, it is true that ¬Q→¬P (where ¬ is the negation operator, i.e. "not"). This means that the relationship between P and Q, established by P→Q, can be expressed in the following, all equivalent, ways:
+
+P is sufficient for Q
+Q is necessary for P
+¬Q is sufficient for ¬P
+¬P is necessary for ¬QAs an example, take (1), above, which states P→Q, where P is "the fruit in question is an apple" and Q is "Madison will eat the fruit in question". The following are four equivalent ways of expressing this very relationship:
+
+If the fruit in question is an apple, then Madison will eat it.
+Only if Madison will eat the fruit in question, is it an apple.
+If Madison will not eat the fruit in question, then it is not an apple.
+Only if the fruit in question is not an apple, will Madison not eat it.We see that (2), above, can be restated in the form of if...then as "If Madison will eat the fruit in question, then it is an apple"; taking this in conjunction with (1), we find that (3) can be stated as "If the fruit in question is an apple, then Madison will eat it; and if Madison will eat the fruit, then it is an apple".
+
+
+
+		
+Euler diagrams show logical relationships among events, properties, and so forth. "P only if Q", "if P then Q", and  "P→Q" all mean that P is a subset, either proper or improper, of Q. "P if Q", "if Q then P", and Q→P all mean that Q is a proper or improper subset of P. "P if and only if Q" and "Q if and only if P" both mean that the sets P and Q are identical to each other.
+
+
+Iff is used outside the field of logic as well. Wherever logic is applied, especially in mathematical discussions, it has the same meaning as above: it is an abbreviation for if and only if, indicating that one statement is both necessary and sufficient for the other. This is an example of mathematical jargon (although, as noted above, if is more often used than iff in statements of definition).
+The elements of X are all and only the elements of Y is used to mean: "for any z in the domain of discourse, z is in X if and only if z is in Y."
+

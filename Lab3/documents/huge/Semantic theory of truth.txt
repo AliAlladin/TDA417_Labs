@@ -1,0 +1,31 @@
+A semantic theory of truth is a theory of truth in the philosophy of language which holds that truth is a property of sentences.
+
+
+The semantic conception of truth, which is related in different ways to both the correspondence and deflationary conceptions, is due to work published by Polish logician Alfred Tarski in the 1930s.  Tarski, in "On the Concept of Truth in Formal Languages", attempted to formulate a new theory of truth in order to resolve the liar paradox.  In the course of this he made several metamathematical discoveries, most notably Tarski's undefinability theorem using the same formal technique as Kurt Gödel used in his incompleteness theorems. Roughly, this states that a truth-predicate satisfying Convention T for the sentences of a given language cannot be defined within that language.
+
+
+To formulate linguistic theories without semantic paradoxes such as the liar paradox, it is generally necessary to distinguish the language that one is talking about (the object language) from the language that one is using to do the talking (the metalanguage).  In the following, quoted text is use of the object language, while unquoted text is use of the metalanguage; a quoted sentence (such as "P") is always the metalanguage's name for a sentence, such that this name is simply the sentence P rendered in the object language. In this way, the metalanguage can be used to talk about the object language; Tarski's theory of truth (Alfred Tarski 1935) demanded that the object language be contained in the metalanguage.
+
+Tarski's material adequacy condition, also known as Convention T, holds that any viable theory of truth must entail, for every sentence "P", a sentence of the following form (known as "form (T)"):
+(1) "P" is true if, and only if, P.
+For example,
+(2) 'snow is white' is true if and only if snow is white.
+These sentences (1 and 2, etc.) have come to be called the "T-sentences".  The reason they look trivial is that the object language and the metalanguage are both English; here is an example where the object language is German and the metalanguage is English:
+(3) 'Schnee ist weiß' is true if and only if snow is white.
+It is important to note that as Tarski originally formulated it, this theory applies only to formal languages.  He gave a number of reasons for not extending his theory to natural languages, including the problem that there is no systematic way of deciding whether a given sentence of a natural language is well-formed, and that a natural language is closed (that is, it can describe the semantic characteristics of its own elements).  But Tarski's approach was extended by Davidson into an approach to theories of meaning for natural languages, which involves treating "truth" as a primitive, rather than a defined, concept.  (See truth-conditional semantics.)
+Tarski developed the theory to give an inductive definition of truth as follows.
+For a language L containing ¬ ("not"), ∧ ("and"), ∨ ("or"), ∀ ("for all"), and ∃ ("there exists"), Tarski's inductive definition of truth looks like this:
+
+(1) A primitive statement "A" is true if, and only if, A.
+(2) "¬A" is true if, and only if, "A" is not true.
+(3) "A∧B" is true if, and only if, "A" is true and "B" is true.
+(4) "A∨B" is true if, and only if, "A" is true or "B" is true or ("A" is true and "B" is true).
+(5) "∀x(Fx)" is true if, and only if, for all objects in x; "Fx" is true.
+(6) "∃x(Fx)" is true if, and only if, there is an object x for which "Fx" is true.These explain how the truth conditions of complex sentences (built up from connectives and quantifiers) can be reduced to the truth conditions of their constituents. The simplest constituents are atomic sentences. A contemporary semantic definition of truth would define truth for the atomic sentences as follows:
+
+An atomic sentence F(x1,...,xn) is true (relative to an assignment of values to the variables x1, ..., xn)) if the corresponding values of variables bear the relation expressed by the predicate F.Tarski himself defined truth for atomic sentences in a variant way that does not use any technical terms from semantics, such as the "expressed by" above. This is because he wanted to define these semantic terms in the context of truth. Therefore it would be circular to use one of them in the definition of truth itself.  Tarski's semantic conception of truth plays an important role in modern logic and also in contemporary philosophy of language. It is a rather controversial point whether Tarski's semantic theory should be counted either as a correspondence theory or as a deflationary theory.
+
+
+
+Kripke's theory of truth (Saul Kripke 1975) is based on partial logic (a logic of partially defined truth predicates instead of Tarski's logic of totally defined truth predicates) with the strong Kleene evaluation scheme.
+

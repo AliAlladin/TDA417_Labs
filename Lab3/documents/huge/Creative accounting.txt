@@ -1,0 +1,66 @@
+Creative accounting is a euphemism referring to accounting practices that may follow the letter of the rules of standard accounting practices, but deviate from the spirit of those rules with questionable accounting ethics—specifically distorting results in favor of the "preparers", or the firm that hired the accountant. They are characterized by excessive complication and the use of novel ways of characterizing income, assets, or liabilities and the intent to influence readers towards the interpretations desired by the authors. The terms "innovative" or "aggressive" are also sometimes used. Other synonyms include "cooking the books" and "Enronomics", named after the Enron fraud. Creative accounting is oftentimes used in tandem with outright financial fraud (including securities fraud), and lines between the two are blurred. Creative accounting practices are known since ancient times and appear world-wide in various forms. The term as generally understood refers to systematic misrepresentation of the true income and assets of corporations or other organizations. "Creative accounting" has been at the root of a number of accounting scandals, and many proposals for accounting reform—usually centering on an updated analysis of capital and factors of production that would correctly reflect how value is added.
+Newspaper and television journalists have hypothesized that the stock market downturn of 2002 was precipitated by reports of "accounting irregularities" at Enron, Worldcom, and other firms in the United States.
+One commonly accepted incentive for the systemic over-reporting of corporate income which came to light in 2002 was the granting of stock options as part of executive compensation packages. Since stock prices reflect earning reports, stock options could be most profitably exercised when income is exaggerated, and the stock can be sold at an inflated profit.
+Abraham Briloff, professor emeritus of CUNY Baruch, for years wrote a column for Barron's that constantly analyzed breaches of ethics and audit professionalism among CPA firms, and he wrote a book called Unaccountable Accounting. The profession, in turn, was not kind to Briloff, but much of what he advocated has been forced on the industry in the wake of the Enron scandal (See Sarbanes-Oxley).
+According to critic David Ehrenstein, the term "creative accounting" was first used in 1968 in the film The Producers by Mel Brooks, where it is also known as Hollywood accounting.
+
+
+Market and stockholder expectations of profits
+Personal incentives
+Bonus-related pay
+Benefits from shares and share options
+Job security
+Personal satisfaction
+Cover-up fraud
+Tax management
+Management buyouts
+Debt covenant
+Manager's self-interest
+Mergers and acquisitions
+
+
+
+
+
+Creative accounting can be used to manage earnings. Earnings management occurs when managers use judgment in financial reporting and in structuring transactions to alter financial reports to either mislead some stakeholders about the underlying economic performance of a company or influence contractual outcomes that depend on reported accounting numbers.
+
+
+
+Practiced by some Hollywood film studios, creative accounting can be used to conceal earnings of a film to distort the profit participation promised to certain participants of the film's earnings. Essentially, participants in the gross revenue of the film stay unaffected but profit participants are presented with a deflated or negative number on profitability, leading to less or no payments to them following a film's success. Famous examples of deceiving good faith profit participants involve Darth Vader actor David Prowse (with $729M adjusted gross earnings on Return of the Jedi) and Forrest Gump novel writer Winston Groom (with $661M gross theatrical revenue)—both of which have been paid $0 on their profit participation due to the films "being in the red".
+
+
+
+This form of creative accounting—now considered a criminal offense in Japan, where it originated—involves the sale, swap or other form of temporary trade of a liability of one company with another company within the holding's portfolio, often solely created to conceal losses of the first firm. These schemes were popular in the 1980s in Japan before the government instituted harsher civil laws and eventually criminalized the practice. The Enron scandal revealed that Enron had extensively made use of sub-corporations to offload debts and hide its true losses in a Tobashi fashion. 
+
+
+
+Lehman Brothers utilized repurchase agreements to bolster profitability reports with their Repo 105 scheme under the watch of the accounting firm Ernst & Young. The scheme consisted of mis-reporting a Repo (a promise to re-buy a liability or asset after selling it) as a sale, and timing it exactly in a way that half of the transaction was completed before a profitability reporting deadline, half after—hence bolstering profitability numbers on paper. Public prosecutors in New York filed suit against EY for allowing the "accounting fraud involving the surreptitious removal of tens of billions of dollars of fixed income securities from Lehman's balance sheet in order to deceive the public about Lehman's true liquidity condition".Enron had done exactly the same about 10 years earlier; in their case, Merrill Lynch aided Enron in bolstering profitability close to earnings periods by willfully entering repurchase agreements to buy Nigerian barges from Enron, only for Enron to buy them back a few months later. The SEC filed charges and convicted multiple Merrill Lynch executives of aiding the fraud.
+
+
+
+In 2001–2002, Goldman Sachs aided the government of Greece after its admission to the Eurozone to better its deficit numbers by conducting large currency swaps. These transactions, totaling more than 2.3 billion Euros, were technically loans but concealed as currency swaps in order to circumvent Maastricht Treaty rules on member nations deficit limits and allowed Greece to "hide" an effective 1 billion euro loan. After Goldman Sachs had engineered the financial instrument and sold it to the Greeks—simply shifting the liabilities in the future and defrauding investors and the European Union, the investment bank's president Gary Cohn pitched Athens another deal. After Greece refused the second deal, the firm sold its Greek swaps to the Greek national bank and made sure its Short and Long positions towards Greece were in balance—so that a potential Greek default would not affect Goldman Sachs.
+
+
+
+Italian dairy giant Parmalat employed a number of creative accounting and wire fraud schemes before 2003 that lead to the largest bankruptcy European history. It sold itself Credit-linked notes with the help of Merrill Lynch through a Cayman Islands special-purpose entity and over-accounted for their value on the balance sheet. It also forged a $3.9Bn check from Bank of America. The publicly listed company stated to investors that it had about $2Bn in liabilities (this figure was accepted by its auditors Deloitte and Grant Thornton International), but once audited more vigorously during the bankruptcy proceedings, it was discovered that the company's debt turned out to actually be $14.5Bn. This massive debt was largely caused by failed operations in Latin America and increasingly complex financial instruments used to mask debt—such as Parmalat "billing itself" through a subsidiary called Epicurum. It was also discovered that its CEO Calisto Tanzi had ordered the creation of shell accounts and diverted 900M Euros worth into his private travel company.
+
+
+
+In order to avoid taxes on profits, multinational corporations often make use of offshore subsidiaries in order to employ a creative accounting technique known as "Minimum-Profit Accounting". The subsidiary is created in a tax haven—often just as a shell company—then charges large fees to the primary corporation, effectively minimizing or wholly wiping out the profit of the main corporation. Within most parts of the European Union and the United States, this practice is perfectly legal and often executed in plain sight or with explicit approval of tax regulators.Nike, Inc. famously employed offshoring by selling its Swoosh logo to a Bermuda-based special-purpose entity subsidiary for a nominal amount, and then went on to "charge itself" licensing fees that Nike Inc. had to pay to the subsidiary in order to use its own brand in Europe. The Dutch tax authorities were aware of and approved of this siphoning structure, but did not publish the private agreement they had with Nike. The licensing fees totaled $3.86Bn over the course of 3 years and were discovered due to an unrelated U.S.-based lawsuit as well as the Paradise Papers. In 2014, the Bermuda deal with Dutch authorities expired, and Nike shifted the profits to another offshore subsidiary, a Netherlands-based Limited Liability Partnership (CV, short for Commanditaire Vennootschaap, gemerally known as a Kommanditgesellschaft). Through a Dutch tax loophole, CV's owned by individuals that are residing in the Netherlands are tax-free. Exploiting this structure saved Nike more than $1Bn in taxes annually and reduced its global tax rate to 13.1%; the company is currently being pursued for billions of dollars worth of back taxes in litigation by multiple governments for this multinational tax avoidance.
+
+
+A number of business documentaries ( 69 ) center around financial scandals and securities fraud that involved creative accounting practices:
+
+Enron: The Smartest Guys in the Room
+Inside Job (2010 film)
+PBS documentary film based on The Ascent of Money
+Documentary based on The Commanding Heights
+Betting on Zero
+The China Hustle
+Dirty Money
+£830,000,000 – Nick Leeson and the Fall of the House of Barings, about Nick Leeson and Barings Bank
+The Inventor: Out for Blood in Silicon Valley
+Chasing Madoff, about the Madoff investment scandal
+The Price We Pay
+Fyre and Fyre Fraud, two competing documentaries about the Fyre Festival
+

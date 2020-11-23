@@ -1,0 +1,47 @@
+A flowchart is a type of diagram that represents a workflow or process. A flowchart can also be defined as a diagrammatic representation of an algorithm, a step-by-step approach to solving a task.
+The flowchart shows the steps as boxes of various kinds, and their order by connecting the boxes with arrows. This diagrammatic representation illustrates a solution model to a given problem. Flowcharts are used in analyzing, designing, documenting or managing a process or program in various fields.
+
+
+
+Flowcharts are used in designing and documenting simple processes or programs. Like other types of diagrams, they help visualize what is going on and thereby help understand a process, and perhaps also find less-obvious features within the process, like flaws and bottlenecks. There are different types of flowcharts: each type has its own set of boxes and notations. The two most common types of boxes in a flowchart are:
+
+a processing step, usually called activity, and denoted as a rectangular box.
+a decision, usually denoted as a diamond.A flowchart is described as "cross-functional" when the chart is divided into different vertical or horizontal parts, to describe the control of different organizational units. A symbol appearing in a particular part is within the control of that organizational unit.  A cross-functional flowchart allows the author to correctly locate the responsibility for performing an action or making a decision, and to show the responsibility of each organizational unit for different parts of a single process.
+Flowcharts depict certain aspects of processes and are usually complemented by other types of diagram. For instance, Kaoru Ishikawa, defined the flowchart as one of the seven basic tools of quality control, next to the histogram, Pareto chart, check sheet, control chart, cause-and-effect diagram, and the scatter diagram. Similarly, in UML, a standard concept-modeling notation used in software development, the activity diagram, which is a type of flowchart, is just one of many different diagram types.
+Nassi-Shneiderman diagrams and Drakon-charts are an alternative notation for process flow.
+Common alternative names include: flow chart, process flowchart, functional flowchart, process map, process chart, functional process chart, business process model, process model, process flow diagram, work flow diagram, business flow diagram. The terms "flowchart" and "flow chart" are used interchangeably.
+The underlying graph structure of a flowchart is a flow graph, which abstracts away node types, their contents and other ancillary information.
+
+
+The first structured method for documenting process flow, the "flow process chart", was introduced by Frank and Lillian Gilbreth in the presentation "Process Charts: First Steps in Finding the One Best Way to do Work", to members of the American Society of Mechanical Engineers (ASME) in 1921. The Gilbreths' tools quickly found their way into industrial engineering curricula. In the early 1930s, an industrial engineer, Allan H. Mogensen began to train business people in the use of some of the tools of industrial engineering at his Work Simplification Conferences in Lake Placid, New York.
+Art Spinanger, a 1944 graduate of Mogensen's class, took the tools back to Procter and Gamble where he developed their Deliberate Methods Change Program.  Ben S. Graham, another 1944 graduate, Director of Formcraft Engineering at Standard Register Industrial, applied the flow process chart to information processing with his development of the multi-flow process chart, to present multiple documents and their relationships. In 1947, ASME adopted a symbol set derived from Gilbreth's original work as the "ASME Standard: Operation and Flow Process Charts."Douglas Hartree in 1949 explained that Herman Goldstine and John von Neumann had developed a flowchart (originally, diagram) to plan computer programs. His contemporary account was endorsed by IBM engineers and by Goldstine's personal recollections. The original programming flowcharts of Goldstine and von Neumann can be found in their unpublished report, "Planning and coding of problems for an electronic computing instrument, Part II, Volume 1" (1947), which is reproduced in von Neumann's collected works.The flowchart became a popular tool for describing computer algorithms, but its popularity decreased in the 1970s, when interactive computer terminals and third-generation programming languages became common tools for computer programming, since algorithms can be expressed more concisely as source code in such languages. Often pseudo-code is used, which uses the common idioms of such languages without strictly adhering to the details of a particular one.
+Nowadays flowcharts are still used for describing computer algorithms. Modern techniques such as UML activity diagrams and Drakon-charts can be considered to be extensions of the flowchart.
+
+
+Sterneckert (2003) suggested that flowcharts can be modeled from the perspective of different user groups (such as managers, system analysts and clerks), and that there are four general types:
+Document flowcharts, showing controls over a document-flow through a system
+Data flowcharts, showing controls over a data-flow in a system
+System flowcharts, showing controls at a physical or resource level
+Program flowchart, showing the controls in a program within a systemNotice that every type of flowchart focuses on some kind of control, rather than on the particular flow itself.However, there are some different classifications. For example, Andrew Veronis (1978) named three basic types of flowcharts: the system flowchart, the general flowchart, and the detailed flowchart. That same year Marilyn Bohl (1978) stated "in practice, two kinds of flowcharts are used in solution planning: system flowcharts and program flowcharts...". More recently, Mark A. Fryman (2001) identified more differences: "Decision flowcharts, logic flowcharts, systems flowcharts, product flowcharts, and process flowcharts are just a few of the different types of flowcharts that are used in business and government".In addition, many diagram techniques are similar to flowcharts but carry a different name, such as UML activity diagrams.
+
+
+
+
+The American National Standards Institute (ANSI) set standards for flowcharts and their symbols in the 1960s. The International Organization for Standardization (ISO) adopted the ANSI symbols in 1970. The current standard, ISO 5807, was revised in 1985. Generally, flowcharts flow from top to bottom and left to right.
+
+
+The ANSI/ISO standards include symbols beyond the basic shapes. Some are:
+
+
+Parallel Mode represented by two horizontal lines at the beginning or ending of simultaneous operationsFor parallel and concurrent processing the Parallel Mode horizontal lines or a horizontal bar indicate the start or end of a section of processes that can be done independently:
+
+At a fork, the process creates one or more additional processes, indicated by a bar with one incoming path and two or more outgoing paths.
+At a join, two or more processes continue as a single process, indicated by a bar with several incoming paths and one outgoing path. All processes must complete before the single process continues.
+
+
+
+
+
+Any drawing program can be used to create flowchart diagrams, but these will have no underlying data model to share data with databases or other programs such as project management systems or spreadsheet. Some tools such as yEd, Inkscape and Microsoft Visio offer special support for flowchart drawing. Many software packages exist that can create flowcharts automatically, either directly from a programming language source code, or from a flowchart description language.
+There are several applications and visual programming languages that use flowcharts to represent and execute programs. Generally these are used as teaching tools for beginner students. Examples include Flowgorithm, Raptor. LARP, Visual Logic, and VisiRule.
+

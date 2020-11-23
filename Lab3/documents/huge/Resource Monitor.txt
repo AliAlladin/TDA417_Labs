@@ -1,0 +1,16 @@
+Resource Monitor, a utility in Windows Vista and later, displays information about the use of hardware (CPU, memory, disk, and network) and software (file handles and modules) resources in real time. Users can launch Resource Monitor by executing resmon.exe (perfmon.exe in Windows Vista).
+The Vista and later Resource Monitor heavily leverages the Event Tracing for Windows (ETW) facilities introduced in Windows 7;
+the counter setup (event tracing session) used by the Resource Monitor can provide logging as well.
+
+
+The Resource Monitor window includes five tabs:
+Overview
+CPUdisplays column lists of Processes, Services, Associated Handles and Associated Modules; charts of CPU Usage (separate for every core)Memorydisplays overall Physical Memory consumption and separate consumption of every Process; charts of Used Physical Memory, Commit Charge and Hard Faults/secDiskdisplays Processes with Disk Activity and Storage; charts of Disk Usage (KB/sec) and Disk Queue LengthNetworkdisplays Processes with Network Activity, TCP Connections and Listening Ports; charts of Network Usage (separate for every adapter) and  TCP Connections
+
+
+Choose Start→Type to search "Resource Monitor".
+Start Windows Task Manager→select Performance tab→Click the "Open Resource Monitor" link at the lower left corner.
+Choose Start→All Programs→Accessories→System Tools→Resource Monitor.
+%windir%\system32\perfmon.exe /res
+%windir%\system32\resmon.exe
+

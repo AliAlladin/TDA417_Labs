@@ -1,0 +1,4 @@
+In typography, the mean line is the imaginary line at the top of the x-height.
+
+Round glyphs will break (overshoot) the mean line slightly in many typefaces, since this is aesthetically more pleasing; a rounded shape will appear visually smaller than flat-topped (or bottomed) shapes of equal height, due to an optical illusion.
+

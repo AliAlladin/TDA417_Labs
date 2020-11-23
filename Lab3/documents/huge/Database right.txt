@@ -1,0 +1,35 @@
+A database right is a sui generis property right, comparable to but distinct from copyright, that exists to recognise the investment that is made in compiling a database, even when this does not involve the "creative" aspect that is reflected by copyright. Such rights are often referred to in the plural: database rights.
+The TRIPS Agreement requires that copyright protection extends to databases and other compilations if they constitute intellectual creation by virtue of the selection or arrangement of their contents, even if some or all of the contents do not themselves constitute materials protected by copyright. Many countries act in accordance with this requirement, as databases are protected by copyright if this condition is met, and there is no separate intellectual property right protecting databases (or any aspects of them) that do not meet the condition for copyright protection. The database right extends protection over databases which does not depend on the condition required for copyright protection, and is recognised only in a small number of jurisdictions, most notably the European Union.
+
+
+
+
+
+In European Union law, database rights are specifically coded (i.e. sui generis) laws on the copying and dissemination of information in computer databases. These rights were first introduced in 1996. On 11 March 1996 the Council of the European Union passed Directive 96/9/EC of 11 March 1996 on the legal protection of databases, giving specific and separate legal rights (and limitations) to certain computer records. The law calls these database rights. Rights afforded to manual records under EU database rights laws are similar in format, but not identical, to those afforded artistic works.
+Database rights last for 15 years. Each time a database is substantially modified, however, a new set of rights are created for that database. An owner has the right to object to the copying of substantial parts of their database, even if data is extracted and reconstructed piecemeal. Database rights under the EU are created automatically, vested in the employers of creators (when the action of creation was part of employment), and do not have to be registered to have effect.
+Database rights are independent of copyright: The arrangement, selection, and presentation of the data may be protected by copyright, while the database as a whole can be protected by database right.
+
+
+On 1 January 1998, The Copyright and Rights in Databases Regulations 1997 came into force. These regulations made a number of amendments to the Copyright, Designs and Patents Act 1988 with respect to databases, a database being defined as 
+
+"a collection of independent works, data or other materials which ---
+(a) are arranged in a systematic or methodical way, and
+(b) are individually accessible by electronic or other means"The regulations extend existing copyright law to databases, to the extent that they constitute "the author's own intellectual creation".
+In addition, regulations 13 and 14 create a database right. Database rights automatically subsist if there has been a "substantial investment in obtaining, verifying or presenting the contents" of the database.
+Such rights remain in force under regulation 17(2) until the end of the 15th calendar year from the date on which the database was first made available to the public. During that period, database right will be infringed by any person who, without consent, "extracts or re-uses all or a substantial part of the contents of the database", whether all at once or by repeated extractions of "insubstantial" parts. 
+On the other hand, any lawful user of the database has a right under regulation 19(1) "to extract or re-use insubstantial parts of the data for any purpose", and that right cannot be restricted by the database owner (regulation 19(2)). The term "substantial" is defined to mean "substantial in terms of quantity or quality or a combination of both".
+
+
+In article 1260 of the Civil Code of Russia, a database is a collection of independent materials presented in an objective form (articles, accounts, legal texts, judicial decisions, and other similar materials), which are systematically arranged in a way that these materials can be found and processed by a computer. A database need not be registered to enjoy legal protection, but the Civil Code of Russia provides for the registration of rights, which is useful if the claims are disputed in court.
+
+
+
+
+No specific law exists in Australia protecting databases. Databases may only be protected if they fall under general copyright law. Australian copyright law regarding compilations is currently examined in case law, where an initial case, Telstra v Desktop Marketing Systems was successfully litigated by Telstra, establishing a database right; however this was overturned in a later ruling, IceTV v Nine Network, where sufficient creativity was established as the defining characteristic of copyright.
+
+
+Although Federal Law No. 9610 of 1998 (the Law of the authorial rights) confers database owners exclusive rights specifically for copying, distribution and translation of databases, it also states that this right is contingent upon the database being the result of an intellectual creation, therefore offering no database rights.
+
+
+Uncreative collections of facts are outside of Congressional authority under the Copyright Clause (Article I, § 8, cl. 8) of the United States Constitution, therefore no database right exists in the United States.  Originality is the sine qua non of copyright in the United States (see Feist Publications v. Rural Telephone Service). This has not stopped database owners lobbying for the introduction of such a right, but so far bills to introduce it in the US have been prevented by the successful lobbying of research libraries, consumer groups and firms who benefit from the free use of factual information.
+

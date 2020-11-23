@@ -1,0 +1,24 @@
+Print permanence refers to the longevity of printed material, especially photographs, and preservation issues. Over time, the optical density, color balance, lustre, and other qualities of a print will degrade. The rate at which deterioration occurs depends primarily on two main factors: the print itself, that is, the colorants used to form the image and the medium on which image resides, and the type of environment the print is exposed to.
+
+
+For inkjet prints, pigment-based inks last generally longest when used with specific paper types, whereas dye-based inks can be optimal on more types of paper.  Ink-jet paper types include swellable paper, porous paper, and cotton rag paper.
+
+
+The longevity of images on chromogenic color photographic papers depends on the temperature and relative humidity of the storage environment, and on the total light exposure they receive. Older chromogenic papers undergo more rapid fading compared to modern materials. For example, Fujifilm's Crystal Archive papers have a quoted longevity of sixty years dark storage. The stability of coupler-incorporated chromogenic prints has steadily increased since their introduction by Kodak in 1942. Very significant advances in stability were made in case of Kodak prints in 1954, 1958, and in the early 1980s. These changes can often be used for the dating of color prints, and can be correlated with manufacturing changes documented in the technical literature.
+
+
+In general, black-and-white prints using either silver or carbon-based media may last longer than some colour prints. Some black-and-white prints are produced using ink-jet printers, or colour photographic paper using the RA 4 process.
+
+
+To achieve a long lifespan, gelatin silver prints must be thoroughly fixed and washed. Besides rendering the image insensitive to further light exposure, fixer converts undeveloped silver salts in the emulsion into products that can easily be washed away. Effective fixing and washing removes all unexposed silver salts and leaves only a small amount of residual fixer. Any significant quantity of fixer (thiosulphate) left in the print after washing will cause the image to deteriorate over time. Many other factors play a critical role in the long-term stability of gelatin silver prints. The temperature and relative humidity of the storage environment, and the air pollutants to which a silver image is exposed are three of the most important factors.Toning can increase the longevity of silver-based prints by replacing or coating the metallic silver with more inert metals such as gold, silver sulphide or selenium.
+
+
+Images composed of more inert metals, like platinum, palladium and gold are less prone to decay than those in silver. Amateur Photographer's Dictionary of Photography said "Owing to the chemically inert nature of platinum, a print so made is far more permanent than any print having a silver image can be".
+Indeed, the Victoria and Albert Museum's Conservation Journal states that "...the majority of the deterioration seen in such prints is usually associated with the supports, which are often yellowed and brittle, rather than the actual image."
+
+
+Environmental factors that hasten the deterioration of a print include exposure to heat, ozone and other pollutants, water or humidity, and high levels of light. Though light-induced fade often gets the most publicity, greater than 90 per cent of consumer prints are stored in the dark where the effects of heat, humidity, and/or pollutants can dominate.
+
+
+Much research into image permanence has been carried out by Wilhelm Imaging Research, Inc.Some film companies and printer manufacturers are researching ways to increase the lifetime of their prints. The International Organization for Standardization has developed standards for keeping photographs, defined in ISO 18920. Those standards have yet to be extended to digital print output, though the organization has signaled its intent to provide such standards.
+

@@ -1,0 +1,33 @@
+In linguistics, a calque  or loan translation is a word or phrase borrowed from another language by literal, word-for-word or root-for-root translation. Used as a verb, "to calque" means to borrow a word or phrase from another language while translating its components, so as to create a new lexeme in the target language.
+"Calque" itself is a loanword from the French noun calque ("tracing; imitation; close copy"); the verb calquer means "to trace; to copy, to imitate closely"; papier calque is "tracing paper". The word "loanword" is itself a calque of the German word Lehnwort, just as "loan translation" is a calque of Lehnübersetzung.Proving that a word is a calque sometimes requires more documentation than does an untranslated loanword because, in some cases, a similar phrase might have arisen in both languages independently. This is less likely to be the case when the grammar of the proposed calque is quite different from that of the borrowing language, or when the calque contains less obvious imagery.
+Calquing is distinct from phono-semantic matching. While calquing includes semantic translation, it does not consist of phonetic matching (i.e. retaining the approximate sound of the borrowed word through matching it with a similar-sounding pre-existing word or morpheme in the target language).
+
+
+One system classifies calques into five groups:
+the phraseological calque, with idiomatic phrases being translated word-for-word. For example, "it goes without saying" calques the French ça va sans dire.
+the syntactic calque, with syntactic functions or constructions of the source language being imitated in the target language, in violation of their meaning. For example, in Spanish the legal term for “to find guilty” is properly declarar culpable (“to declare guilty”). Informal usage, however, is shifting to encontrar culpable: a syntactic mapping of "to find" without a semantic correspondence in Spanish of “find” to mean “determine as true”.
+the loan-translation, with words being translated morpheme-by-morpheme or component-by-component into another language. The two morphemes of the Swedish word tonåring calque each part of the English "teenager": femton "fifteen" and åring "year-old" (as in the phrase tolv-åring "twelve-year-old").
+the semantic calque, with additional meanings of the source word being transferred to the word with the same primary meaning in the target language. This is also called a "semantic loan". As described below, the "computer mouse" was named in English for its resemblance to the animal; many other languages have extended their own native word for "mouse" to include the computer mouse.
+the morphological calque, with the inflection of a word being transferred.This terminology is not universal. Some authors call a morphological calque a "morpheme-by-morpheme translation".Other linguists refer to the phonological calque, where the pronunciation of a word is imitated in the other language. For example, the English word "radar" becomes the similar-sounding Chinese word 雷达 (pinyin "léi dá").
+
+
+Loan blends or partial calques translate some parts of a compound, but not others. For example, the name of the Irish digital television service Saorview is a partial calque of that of the UK service Freeview, translating the first half of the word from English to Irish but leaving the second half unchanged. Other examples are: "liverwurst" (< German Leberwurst), "apple strudel" (< German Apfelstrudel).
+
+
+
+
+The common English phrase "flea market" is a loan translation of the French marché aux puces ("market with fleas"). Other national variations include:
+
+
+An example of a common morpheme-by-morpheme loan-translation in a multitude of languages is that of the English word skyscraper:
+
+
+The Latin word translātiō "a transferring" derives from transferō "to transfer", from trans "across" + ferō "bear". The Germanic languages and some Slavic languages calqued their words for "translation" from the Latin word translātiō, substituting their respective Germanic or Slavic root words for the Latin roots.
+The remaining Slavic languages instead calqued their words for "translation" from an alternative Latin word trāductiō, itself derived from trādūcō ("to lead across" or "to bring across", from trans "across" + dūcō, "to lead" or "to bring").The West Slavic languages adopted the translātiō pattern.  The East Slavic languages (except for Belarusian and Ukrainian) and the South Slavic languages adopted the trāductiō pattern.
+The Romance languages, deriving directly from Latin, did not need to calque their equivalent words for "translation".  Instead, they simply adapted the second of the two alternative Latin words, trāductiō. Thus,  Aragonese: traducción; Catalan: traducció; French: traduction; Italian: traduzione; Portuguese: tradução; Romanian: traducere; and Spanish: traducción. 
+The English verb "to translate" was borrowed from the Latin translātiō, rather than being calqued. Were the English verb "translate" calqued, it would be "overset", akin to the calques in other Germanic languages.
+Following are the Germanic- and Slavic-language calques for "translation":
+
+
+The computer mouse was named in English for its resemblance to the animal. Many other languages have extended their own native word for "mouse" to include the computer mouse. 
+

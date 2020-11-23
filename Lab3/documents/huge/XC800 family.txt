@@ -1,0 +1,44 @@
+The Infineon XC800 family is an 8-bit microcontroller family, first introduced in 2005, with a dual cycle optimized 8051 "E-Warp" core. The XC800 family is divided into two categories, the A-Family for Automotive and the I-Family for Industrial and multi-market applications.
+
+
+
+
+The Industrial-Family also called I-Family product series ranges from 2KB to 64KB flash memory and from 16- to 64-pin package options. It can be found in applications like motor control of eBikes, pumps and fans e.g. in air conditioners, as display or touch button controls or in digital controlled power supplies e.g. for motor drives or lighting.
+
+
+Automotive devices from the XC800 family can be found in safety and powertrain applications like motorcycle BCM, lighting, window lift, low end airbags, steering angle sensors, pumps, cooling fans and valve/throttle controls. All devices are compliant with the AEC Q100 standards for automotive electronics.
+
+
+
+
+The instruction set consists of 45% one-byte, 41% two-byte and 14% three-byte instructions. Each instruction takes 1, 2 or 4 machine cycles to execute. In case of access to slower memory, the access time may be extended by wait cycles (one wait cycle lasts one machine cycle, which is equivalent to two wait states). The XC800 core supports a range of debugging features including basic stop/start, single-step execution, breakpoint support and read/write access to the data memory, program memory and special function registers. A 16-bit co-processor provides additional computing performance and is optimized for the processing of multiply / divide operations and for the execution of the CORDIC algorithm for trigonometric operations.
+
+
+The 8-bit MCUs have an embedded user-programmable non-volatile flash memory that allows for fast and reliable storage of user code and data. It is operated with a single 2.5 V supply from the embedded voltage regulator (EVR) and does not require additional programming or erasing voltage. The sectorization of the flash memory allows each sector to be erased independently. A flash error correction (ECC) can detect double-bit errors and correct single-bit errors as well as protect against invalid code execution. Up to 3KB of RAM is featured, part of this memory being XRAM.
+
+
+The Analog Digital Converter module (ADC) uses the successive approximation method to convert analog input values (voltages) to discrete digital values with 10-bit resolution. One ADC kernel (ADC0) operates on a user-selectable number of input channels. The input channels can be selected and arbitrated flexibly.
+
+
+The CCU6 is a capture and compare unit which generates PWM signals over different duty cycles and multiple output channels. It operates with 16-bit timers clocked at 48 MHz and can trigger the ADC operation to harmonize control loops. The CCU6 provides application specific modes, like for AC drive control or brushless DC-motors using Hall sensors or back-EMF detection. Furthermore, block commutation and control mechanisms for multi-phase machines are supported.
+
+
+LEDTSCU is a functional unit for the control of capacitive touch pads and a matrix of LEDs through the same pins. For example, 7 segment displays which are commonly used can be controlled by such a matrix. The principle of time multiplexed operation of two or more functions, in this case touch control and LED-control, reduces the amount of pins used. The capacitive touch control is adjustable in sensitivity to fit for various cover materials and a ROM library assists the application development.
+
+
+XC800 features a set of interfaces for serial communication including UART, SPI and I2C as well as CAN connectivity. CAN (Controller Area Network) is a robust serial bus designed for board to board communication in noisy environments such as automobile and industrial control systems. MultiCAN developed by Infineon improves upon previous CAN implementations by adding features such as additional CAN nodes, more message objects linked list management of message objects and support for TTCAN level 2.
+
+
+
+
+Easy Kits and Starter Kits are microcontroller evaluation boards available for all XC800 devices. Application Kits are more application specific kits e.g. for motor control designs. They contain example codes for various control schemes, power boards or motor types and the according hardware.
+
+
+DAVE ("Digital Application virtual Engineer") is a free tool to configure low-level drivers and automatically generate source code.
+DAVE Bench is a free development tool chain from Infineon for the development of application codes based on XC800 microcontrollers. It is an Eclipse  based IDE environment for C-code programming. It includes source code management and editing, the Small Device C Compiler (SDCC)(distributed under the GNU General Public License), debugger and flash loading software.
+DAVE Drive  is a free tool for automated motor control generation which generates motor specific control codes like FOC, sinusoidal or block commutation or V/Hz speed control.
+
+
+Keil compiler, debugger, simulator
+Hitex Debugger 
+

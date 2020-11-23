@@ -1,0 +1,37 @@
+The Common Development and Distribution License (CDDL) is a free and open-source software license, produced by Sun Microsystems, based on the Mozilla Public License (MPL). Files licensed under the CDDL can be combined with files licensed under other licenses, whether open source or proprietary. In 2005 the Open Source Initiative approved the license. The Free Software Foundation (FSF) considers it a free software license, but one which is incompatible with the GNU General Public License (GPL).
+
+
+Derived from the Mozilla Public License 1.1, the CDDL tries to address some of the problems of the MPL. Like the MPL, the CDDL is a weak copyleft license in-between GPL license and BSD/MIT permissive licenses, requiring only source code files under CDDL to remain under CDDL. Unlike strong copyleft licenses like the GPL, mixing of CDDL licensed source code files with source code files under other licenses is permitted without relicensing. The resulting compiled software product ("binary") can be licensed and sold under a different license, as long as the source code is still available under CDDL, which should enable more commercial business cases, according to Sun. Like the MPL the CDDL includes a patent grant to the licensee from all contributors ("patent peace").
+
+
+The previous software license used by Sun for its open source projects was the Sun Public License (SPL), also derived from the Mozilla Public License. The CDDL license is considered by Sun (now Oracle) to be SPL version 2.The CDDL was developed by a Sun Microsystems team (among them Solaris kernel engineer Andrew Tucker and Claire Giordano), based on the MPL version 1.1. On December 1, 2004 the CDDL was submitted for approval to the Open Source Initiative and was approved as an open source license in mid January 2005.
+The second CDDL proposal, submitted in early January 2005, includes some corrections that prevent the CDDL from being in conflict with European Copyright law and to allow single developers to use the CDDL for their work.
+In 2006, in the first draft of the OSI's license proliferation committee report, the CDDL is one of nine preferred licenses listed as popular, widely used, or with strong communities.While the Free Software Foundation (FSF) also considered the CDDL a free software license, they saw some incompatibilities with their GNU General Public License (GPL).
+
+
+The question of whether and when both licenses are incompatible sparked debates in the free software domain in 2004 to 2006.  For instance the FSF considered the CDDL incompatible to their GPL license, without going into detail until 2016.  Some describe the incompatibility as inherited from the MPL 1.1 (fixed with the MPL 2.0 according to the FSF) and as a complex interaction of several clauses.  Some of the CDDL proponents describe the GPL/CDDL compatibility situation from another point of view, they see the problem more on the GPL side than the CDDL side.  Some people argue that Sun (or the Sun engineer) as creator of the license made the CDDL intentionally GPL incompatible. According to Danese Cooper one of the reasons for basing the CDDL on the Mozilla license was that the Mozilla license is GPL-incompatible. Cooper stated, at the 6th annual Debian conference, that the engineers who had written the Solaris kernel requested that the license of OpenSolaris be GPL-incompatible.
+Mozilla was selected partially because it is GPL incompatible. That was part of the design when they released OpenSolaris. ... the engineers who wrote Solaris ... had some biases about how it should be released, and you have to respect that.
+
+Simon Phipps (Sun's Chief Open Source Officer at the time), who had introduced Cooper as "the one who actually wrote the CDDL", did not immediately comment, but later in the same video, he says, referring back to the license issue, "I actually disagree with Danese to some degree", while describing the strong preference among the engineers who wrote the code for a BSD-like license, which was in conflict with Sun's preference for something copyleft, and that waiting for legal clearance to release some parts of the code under the then unreleased GNU GPL v3 would have taken several years, and would probably also have involved mass resignations from engineers (unhappy with either the delay, the GPL, or both—this is not clear from the video). Later, in September 2006, Phipps rejected Cooper's assertion in even stronger terms. Similarly, Bryan Cantrill, who was on Sun at that time and involved in the release of CDDL licensed software stated in 2015 that he and his colleagues expected in 2006 the fast emerge of CDDL licensed software into the Linux ecosystem and the CDDL being not an obstacle.
+
+
+The GPL compatibility question was also the source of a controversy behind a partial relicensing of cdrtools to the CDDL which had been previously all GPL. In 2006 the Debian project declared the cdrtools legally undistributable because the build system was licensed under the CDDL. The author Jörg Schilling claims smake to be an independent project and therefore not violating the GPLv3. And that even though the GPL requires all scripts required to build the work to be licensed freely but not necessarily under the GPL, thus not causing an incompatibility that violates the license. He argues, in "combined works" (in contrast to "derived works") GPL and CDDL licensed code is compatible.
+
+
+In 2015, the CDDL to GPL compatibility question reemerged when the Linux distribution Ubuntu announced inclusion of OpenZFS by default. In 2016 Ubuntu announced that a legal review resulted in the conclusion that it is legally acceptable to use ZFS as binary kernel module in Linux. Others followed Ubuntu's conclusion, for instance James E. J. Bottomley argued there can't be "a convincing theory of harm" developed, making it impossible to bring the case to court. Eben Moglen, co-author of the GPLv3 and founder of the SFLC, argued that while the letters of the GPL might be violated, the spirit of both licenses is unharmed, which would be the relevant aspect in court. The SFLC mentioned also that a precedent exists with the Andrew File System's kernel module, which isn't considered a derivative work of the GPL'd kernel by the kernel developers. On the other hand, Bradley M. Kuhn and lawyer Karen M. Sandler from the Software Freedom Conservancy argued that Ubuntu would violate both licenses as a binary ZFS module would be a derivative work of the Linux kernel and announced their intent to achieve clarity in this question, even by court. In April 2016, the Ubuntu 16.04 LTS release included the CDDL-licensed ZFS on Linux, as announced before.
+
+
+Example projects released under CDDL:
+
+OpenSolaris (including DTrace, initially released alone, and ZFS)
+illumos (as OpenSolaris OS/Net,continuation project) and  illumos distributions
+OpenZFS multi platform open source volume manager and file system
+NetBeans IDE and RCP
+GlassFish
+Payara Server
+JWSDP
+Project DReaM
+Bourne shell
+cdrtools
+OpenDJ
+

@@ -1,0 +1,120 @@
+In the BitTorrent file distribution system, a torrent file or METAINFO is a computer file that contains metadata about files and folders to be distributed, and usually also a list of the network locations of trackers, which are computers that help participants in the system find each other and form efficient distribution groups called swarms. A torrent file does not contain the content to be distributed; it only contains information about those files, such as their names, sizes, folder structure, and cryptographic hash values for verifying file integrity. The term torrent  may refer either to the metadata file or to the files downloaded, depending on the context.
+In a nutshell, a torrent file is like an index, which facilitates the efficient lookup of information (but doesn't contain the information itself) and the address of available worldwide computers which upload the content. Torrent files themselves and the method of using torrent files have been created to ease the load on servers. With help of torrents, one can download files from other computers which have the file or even a fraction of the file. These "peers" allow downloading of the file in addition to, or in place of, the primary server.
+Torrent files are normally named with the extension .torrent.
+
+
+Typically, Internet access is asymmetrical, supporting greater download speeds than upload speeds, limiting the bandwidth of each download, and sometimes enforcing bandwidth caps and periods where systems are not accessible. This creates inefficiency when many people want to obtain the same set of files from a single source; the source must always be online and must have massive outbound bandwidth. The BitTorrent protocol addresses this by decentralizing the distribution, leveraging the ability of people to network "peer-to-peer", among themselves.
+Each file to be distributed is divided into small information chunks called pieces. Downloading peers achieve high download speeds by requesting multiple pieces from different computers simultaneously in the swarm. Once obtained, these pieces are usually immediately made available for download by others in the swarm. In this way, the burden on the network is spread among the downloaders, rather than concentrating at a central distribution hub or cluster. As long as all the pieces are available, peers (downloaders and uploaders) can come and go; no one peer needs to have all the chunks, or to even stay connected to the swarm in order for distribution to continue among the other peers.
+A small torrent file is created to represent a file or folder to be shared. The torrent file acts as the key to initiating downloading of the actual content. Someone interested in receiving the shared file or folder first obtains the corresponding torrent file, either by directly downloading it, or by using a magnet link. The user then opens that file in a BitTorrent client, which automates the rest of the process. In order to learn the Internet locations of peers which may be sharing pieces, the client connects to the trackers named in the torrent file, and/or achieves a similar result through the use of distributed hash tables. Then the client connects directly to the peers in order to request pieces and otherwise participate in a swarm. The client may also report progress to trackers, to help the tracker with its peer recommendations.
+When the client has all the pieces, they assemble them into a usable form. They may also continue sharing the pieces, elevating its status to that of seeder rather than ordinary peer.
+
+
+A torrent file contains a list of files and integrity metadata about all the pieces, and optionally contains a list of trackers.
+A torrent file is a bencoded dictionary with the following keys (the keys in any bencoded dictionary are lexicographically ordered):
+
+announce—the URL of the tracker
+info—this maps to a dictionary whose keys are dependent on whether one or more files are being shared:
+files—a list of dictionaries each corresponding to a file (only when multiple files are being shared). Each dictionary has the following keys:
+length—size of the file in bytes.
+path—a list of strings corresponding to subdirectory names, the last of which is the actual file name
+length—size of the file in bytes (only when one file is being shared)
+name—suggested filename where the file is to be saved (if one file)/suggested directory name where the files are to be saved (if multiple files)
+piece length—number of bytes per piece. This is commonly 28 KiB = 256 KiB = 262,144 B.
+pieces—a hash list, i.e., a concatenation of each piece's SHA-1 hash. As SHA-1 returns a 160-bit hash, pieces will be a string whose length is a multiple of 20 bytes. If the torrent contains multiple files, the pieces are formed by concatenating the files in the order they appear in the files dictionary (i.e. all pieces in the torrent are the full piece length except for the last piece, which may be shorter).All strings must be UTF-8 encoded, except for pieces, which contains binary data.
+
+
+A torrent file can also contain additional metadata defined in extensions to the BitTorrent specification. These are known as "BitTorrent Enhancement Proposals." Examples of such proposals include metadata for stating who created the torrent, and when.
+
+
+These extensions are under consideration for standardization.
+
+
+BEP-0005 extends BitTorrent to support distributed hash tables.
+A trackerless torrent dictionary does not have an announce key. Instead, a trackerless torrent has a nodes key:
+
+For example,
+
+The specification recommends that nodes "should be set to the K closest nodes in the torrent generating client's routing table. Alternatively, the key could be set to a known good node such as one operated by the person generating the torrent."
+
+
+BEP-0012 extends BitTorrent to support multiple trackers.
+A new key, announce-list, is placed in the top-most dictionary (i.e. with announce and info)
+
+
+BEP-0017 extends BitTorrent to support HTTP seeds.
+A new key, httpseeds, is placed in the top-most list (i.e. with announce and info). This key's value is a list of web addresses where torrent data can be retrieved:
+
+
+BEP-0027 extends BitTorrent to support private torrents.
+A new key, private, is placed in the info dictionary. This key's value is 1 if the torrent is private:
+
+
+BEP-0030 extends BitTorrent to support Merkle trees. The purpose is to reduce the file size of torrent files, which reduces the burden on those that serve torrent files.
+A torrent file using Merkle trees does not have a pieces key in the info list. Instead, such a torrent file has a root_hash key in the info list. This key's value is the root hash of the Merkle hash:
+
+
+
+
+Here is what a de-bencoded torrent file (with piece length 256 KiB = 262,144 bytes) for a file debian-503-amd64-CD-1.iso (whose size is 678 301 696 bytes) might look like:
+
+Note: pieces here would be a 51 KiB value (
+  
+    
+      
+        
+          
+            
+              ⌈
+              
+                
+                  
+                    
+                      
+                        l
+                        e
+                        n
+                        g
+                        t
+                        h
+                      
+                      
+                        p
+                        i
+                        e
+                        c
+                        e
+                         
+                        l
+                        e
+                        n
+                        g
+                        t
+                        h
+                      
+                    
+                  
+                
+              
+              ⌉
+            
+          
+        
+        ×
+        160
+        =
+        414080
+         
+        
+          b
+          i
+          t
+          s
+        
+      
+    
+    {\displaystyle {\color {Blue}\left\lceil {\color {Black}{\frac {\mathtt {length}}{\mathtt {piece\ length}}}}\right\rceil }\times 160=414080\ \mathrm {bits} }
+  ).
+
+
+Here is what a de-bencoded torrent file (with 'piece length' 256 KiB = 262144 B) for two files, 111.txt and 222.txt, might look like:
+

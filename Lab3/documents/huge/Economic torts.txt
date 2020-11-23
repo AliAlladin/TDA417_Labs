@@ -1,0 +1,27 @@
+Economic torts, which are also called business torts, are torts that provide the common law rules on liability which arise out of business transactions such as interference with economic or business relationships and are likely to involve pure economic loss.
+
+
+Economic torts are tortious interference actions designed to protect trade or business. The area includes the doctrine of restraint of trade and, particularly in the United Kingdom, has largely been submerged in the twentieth century by statutory interventions on collective labour law and modern competition law, and certain laws governing intellectual property, particularly unfair competition law. The "absence of any unifying principle drawing together the different heads of economic tort liability has often been remarked upon."The principal torts are:
+
+passing off,
+injurious falsehood and trade libel (see also Food libel laws),
+conspiracy,
+inducement of breach of contract,
+tortious interference (such as interference with economic relations or unlawful interference with trade),
+negligent misrepresentation, and
+watching and besetting.These torts represent the common law's historical attempt to balance the need to protect claimants against those who inflict economic harm and the wider need to allow effective, even aggressive, competition (including competition between employers and their workers).
+Two cases demonstrate economic torts' affinity to competition and labour law. In Mogul Steamship Co Ltd the plaintiffs argued they had been driven from the Chinese tea market by a 'shipping conference', that had acted together to underprice them. But this cartel was ruled lawful and "nothing more [than] a war of competition waged in the interest of their own trade." Nowadays, this would be considered a criminal cartel.
+In English labour law the most notable case is Taff Vale Railway v. Amalgamated Society of Railway Servants. The House of Lords thought that unions should be liable in tort for helping workers to go on strike for better pay and conditions. But it riled workers so much that it led to the creation of the British Labour Party and the Trade Disputes Act 1906. Further torts used against unions include conspiracy, interference with a commercial contract or intimidation.
+
+
+Several of the economic torts in English law, in particular inducing breach of contract and "tortious interference" (otherwise known as causing loss by unlawful means), have been reviewed and clarified by the House of Lords:
+
+In OBG Ltd v Allan the majority adopted a restrictive view of the unlawful means tort, where the plaintiff has a claim only where the wrong to the third party would have been actionable at the instance of that third party, and he must have an economic interest at stake in the interference by the defendant with that third party.
+In Total Network SL v Revenue and Customs, the House of Lords distinguished the conspiracy tort from the unlawful means tort and held that a more flexible definition of “unlawful means” was needed in the conspiracy context.In 2014, the Supreme Court of Canada, favouring the ruling in OBG, standardized Canadian jurisprudence with respect to the "tort of unlawful interference with economic relations" (which it preferred to call "causing loss by unlawful means", or the "unlawful means tort"). In its ruling in A.I. Enterprises Ltd. v. Bram Enterprises Ltd., it declared:
+
+Liability to the plaintiff is based on (or parasitic upon) the defendant’s unlawful act against the third party.  The two core components of the unlawful means tort are that the defendant must use unlawful means and that the defendant must intend to harm the plaintiff through the use of the unlawful means.
+In order for conduct to constitute “unlawful means” for this tort, the conduct must give rise to a civil cause of action by the third party or would do so if the third party had suffered loss as a result of that conduct.  The unlawful means tort should be kept within narrow bounds, and it is not subject to principled exceptions.
+The defendant must have the intention to cause economic harm to the plaintiff as an end in itself or the intention to cause economic harm to the plaintiff because it is a necessary means of achieving an end that serves some ulterior motive.
+The focus of this tort is unlawful conduct that intentionally harms the plaintiff’s economic interests.  There need be no contract or even other formal dealings between the plaintiff and the third party so long as the defendant’s conduct is unlawful and it intentionally harms the plaintiff’s economic interests.
+The tort of unlawful means is available even if there is another cause of action available to the plaintiff against the defendant in relation to the alleged misconduct.
+

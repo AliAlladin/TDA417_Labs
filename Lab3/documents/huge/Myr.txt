@@ -1,0 +1,14 @@
+The abbreviation myr, "million years", is a unit of a quantity of 1,000,000 (i.e. 1×106) years, or 31.536 teraseconds.
+
+
+Myr is in common use where the term is often written, such as in Earth science and cosmology. Myr is seen with mya, "million years ago". Together they make a reference system, one to a quantity, the other to a particular place in a year numbering system that is time before the present.
+Myr is deprecated in geology, but in astronomy myr is standard.
+Where "myr" is seen in geology it is usually "Myr" (a unit of mega-years). In astronomy it is usually "Myr" (million years).
+
+
+In geology the debate of the millennia concerns the use of myr remains open concerning "the use of Myr plus Mya" versus "using Mya only". In either case the term Ma is used in geology literature conforming to ISO 31-1 (now ISO 80000-3) and NIST 811 recommended practices. Traditional style geology literature is written The Cretaceous started 145 Ma and ended 66 Ma, lasting for 79 Myr.
+
+The "ago" is implied, so that any such year number "X Ma" between 66 and 145 is "Cretaceous", for good reason. But the counter argument is that having myr for a duration and Mya for an age mixes unit systems, and tempts capitalization errors: "million" need not be capitalized, but "mega" must be; "ma" would technically imply a milliyear (a thousandth of a year, or 8 hours). On this side of the debate, one avoids myr and simply adds ago explicitly (or adds BP), as in The Cretaceous started 145 Ma ago and ended 66 Ma ago, lasting for 79 Ma.
+
+In this case, "79 Ma" means only a quantity of 79 million years, without the meaning of "79 million years ago".
+

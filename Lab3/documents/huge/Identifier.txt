@@ -1,0 +1,34 @@
+An identifier is a name that identifies (that is, labels the identity of) either a unique object or a unique class of objects, where the "object" or class may be an idea, physical [countable] object (or class thereof), or physical [noncountable] substance (or class thereof). The abbreviation ID often refers to identity, identification (the process of identifying), or an identifier (that is, an instance of identification). An identifier may be a word, number, letter, symbol, or any combination of those.
+The words, numbers, letters, or symbols may follow an encoding system (wherein letters, digits, words, or symbols stand for (represent) ideas or longer names) or they may simply be arbitrary. When an identifier follows an encoding system, it is often referred to as a code or ID code.  For instance the ISO/IEC 11179 metadata registry standard defines a code as system of valid symbols that substitute for longer values in contrast to identifiers without symbolic meaning. Identifiers that do not follow any encoding scheme are often said to be arbitrary IDs; they are arbitrarily assigned and have no greater meaning. (Sometimes identifiers are called "codes" even when they are actually arbitrary, whether because the speaker believes that they have deeper meaning or simply because they are speaking casually and imprecisely.)
+The unique identifier (UID) is an identifier that refers to only one instance—only one particular object in the universe. A part number is an identifier, but it is not a unique identifier—for that, a serial number is needed, to identify each instance of the part design. Thus the identifier "Model T" identifies the class (model) of automobiles that Ford's Model T comprises; whereas the unique identifier "Model T Serial Number 159,862" identifies one specific member of that class—that is, one particular Model T car, owned by one specific person.
+The concepts of name and identifier are denotatively equal, and the terms are thus denotatively synonymous; but they are not always connotatively synonymous, because code names and ID numbers are often connotatively distinguished from names in the sense of traditional natural language naming. For example, both "Jamie Zawinski" and "Netscape employee number 20" are identifiers for the same specific human being; but normal English-language connotation may consider "Jamie Zawinski" a "name" and not an "identifier", whereas it considers "Netscape employee number 20" an "identifier" but not a "name". This is an emic indistinction rather than an etic one.
+
+
+In metadata, an identifier is a language-independent label, sign or token that uniquely identifies an object within an identification scheme. The suffix "identifier" is also used as a representation term when naming a data element.
+ID codes may inherently carry metadata along with them. For example, when you know that the food package in front of you has the identifier "2011-09-25T15:42Z-MFR5-P02-243-45", you not only have that data, you also have the metadata that tells you that it was packaged on September 25, 2011, at 3:42pm UTC, manufactured by Licensed Vendor Number 5, at the Peoria, IL, USA plant, in Building 2, and was the 243rd package off the line in that shift, and was inspected by Inspector Number 45.
+Arbitrary identifiers might lack metadata. For example, if a food package just says 100054678214, its ID may not tell anything except identity—no date, manufacturer name, production sequence rank, or inspector number. In some cases, arbitrary identifiers such as sequential serial numbers leak information (i.e. the German tank problem). Opaque identifiers—identifiers designed to avoid leaking even that small amount of information—include "really opaque pointers" and Version 4 UUIDs.
+
+
+In computer science, identifiers (IDs) are lexical tokens that name entities. Identifiers are used extensively in virtually all information processing systems. Identifying entities makes it possible to refer to them, which is essential for any kind of symbolic processing.
+
+
+
+In computer languages, identifiers are tokens (also called symbols) which name language entities. Some of the kinds of entities an identifier might denote include variables, types, labels, subroutines,  and packages.
+
+
+
+
+
+Many resources may carry multiple identifiers. Typical examples are:
+
+One person with multiple names, nicknames, and forms of address (titles, salutations)
+For example: One specific person may be identified by all of the following identifiers: Jane Smith; Jane Elizabeth Meredith Smith; Jane E. M. Smith; Jane E. Smith; Janie Smith; Janie; Little Janie (as opposed to her mother or sister or cousin, Big Janie); Aunt Jane; Auntie Janie; Mom; Grandmom; Nana; Kelly's mother; Billy's grandmother; Ms. Smith; Dr. Smith; Jane E. Smith, PhD; and Fuzzy (her jocular nickname at work).
+One document with multiple versions
+One substance with multiple names (for example, CAS index names versus IUPAC names; INN generic drug names versus USAN generic drug names versus brand names)The inverse is also possible, where multiple resources are represented with the same identifier (discussed below).
+
+
+
+Many codes and nomenclatural systems originate within a small namespace. Over the years, some of them bleed into larger namespaces (as people interact in ways they formerly hadn't, e.g., cross-border trade, scientific collaboration, military alliance, and general cultural interconnection or assimilation). When such dissemination happens, the limitations of the original naming convention, which had formerly been latent and moot, become painfully apparent, often necessitating retronymy, synonymity, translation/transcoding, and so on. Such limitations generally accompany the shift away from the original context to the broader one. Typically the system shows implicit context (context was formerly assumed, and narrow), lack of capacity (e.g., low number  of possible IDs, reflecting the outmoded narrow context), lack of extensibility (no features defined and reserved against future needs), and lack of specificity and disambiguating capability (related to the context shift, where longstanding uniqueness encounters novel nonuniqueness). Within computer science, this problem is called naming collision. The story of the origination and expansion of the CODEN system provides a good case example in a recent-decades, technical-nomenclature context. The capitalization variations seen with specific designators reveals an instance of this problem occurring in natural languages, where the proper noun/common noun distinction (and its complications) must be dealt with. A universe in which every object had a UID would not need any namespaces, which is to say that it would constitute one gigantic namespace; but human minds could never keep track of, or semantically interrelate, so many UIDs.
+
+
+

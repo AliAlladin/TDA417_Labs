@@ -1,0 +1,36 @@
+In common law, a right of audience is generally a right of a lawyer to appear and conduct proceedings in court on behalf of their client. In English law, there is a fundamental distinction between barristers, who have rights of audience in the superior courts, and solicitors, who have rights of audience in the lower courts, unless a certificate of advocacy is obtained, which allows a solicitor to represent clients in the superior courts also. There is no such distinction in American law.
+In superior courts, generally only barristers or advocates have a right of audience.  Depending on jurisdiction, solicitors may have a right of audience in Magistrates and County or District courts.  Further, a person appearing in court without legal representation has a right of audience but a person who is not a lawyer that assists a party to a legal matter in court does not have a right of audience. See D v S (Rights of Audience) [1997] 2 FCR 217
+
+
+In English law, a right of audience is a right to appear and conduct proceedings in court.Traditionally, only barristers had rights of audience in every court in England and Wales, and, as of 2018, they still enjoy rights of audience in every court in England and Wales. However, solicitors have always had rights of audience in the magistrates' court and the county court. Solicitors' clerks have also traditionally been allowed to be heard in proceedings in chambers in the High Court, such as summonses for directions (now known as case management hearings), and subsequent changes have preserved these rights, as explained by District Judge Robert Hill in an article in the Law Society's Gazette.
+Also, in 1972 Lord Hailsham of St Marylebone, the Lord Chancellor, exercising his powers under the Courts Act 1971, granted solicitors who appear for a defendant in the magistrates' court, the right to appear also in the Crown Court on any appeal or committal for sentence in the case. Lord Hailsham's announcement is here Rights of audience were granted to a wider class of persons under the Courts and Legal Services Act 1990, s.27, as amended by the Access to Justice Act 1999, ss.36-39. The 1999 Act removed earlier restrictions on employed lawyers, such as counsel for corporations, exercising rights of audience (ss.37-38)
+
+
+The following have rights of audience:
+
+Rights granted by authorised bodies:
+Bar Council, grants rights to all barristers in all courts (ss.27(9)(a), 31);
+Law Society of England and Wales, grants rights to solicitors but require specific additional qualifications to appear in the higher courts (ss.27(9)(b), 31);
+The Association of Law Costs Draftsmen grants rights to a Costs Lawyer i.e. Fellow of the Association having completed an advocacy course. (Association of Law Costs Draftsmen Order 2006 SI 2006/3333)
+Chartered Institute of Patent Attorneys (s.27(9)(c));
+Chartered Institute of Legal Executives (s.27(9)(c));
+Persons granted rights by statute (s.27(2)(b)), for example, Health and Safety inspectors
+Persons granted rights by the discretion the court (s.27(2)(c));
+Litigants in person (s.27(2)(d));
+Employees of qualified litigators, such as solicitors' clerks, appearing in hearings held in private (s.27(2)(e)).
+At a civil case allocated to the small claims track, any person accompanying the litigant may exercise rights of audience under the Lay Representatives (Rights of Audience) Order. However, a lay representative does not have right of audience in the absence of the litigant.Except as set out above, other persons have no right of audience. A litigant in person may, however, have the assistance of a McKenzie friend who does not address the court but can offer advice and support to the litigant.
+
+
+These rights have been preserved and extended by the Legal Services Act 2007. The relevant provision (section 12) defining "reserved legal activity" to include advocacy services, came into force on 1 January 2010 under the Legal Services Act 2007 (Commencement No. 6, Transitory, Transitional and Saving Provisions) Order 2009. The 2007 Act gave powers to grant rights of audience to:
+
+Bar Council;
+Law Society;
+Chartered Institute of Legal Executives;
+Chartered Institute of Patent Attorneys;
+Institute of Trade Mark Attorneys; and
+Association of Law Costs Draftsmen.
+
+
+Post-independence the Republic of Ireland continued to restrict the right of audience in circuit court level and above to barristers. This was changed by the Courts Act 1971, s. 17 of which extended full rights of audience to solicitors in any court. Despite this many solicitors often encountered hostility from judges when exercising their right of audience for many years after the change in the law, particularly due to the fact that solicitors did not wear wigs or gowns and thus, in the judges' view (all of whom were, at that time, ex-barristers) were not 'dressed for court'. 
+Following the removal of the requirement of barristers (and subsequently judges) to wear wigs this distinction has further dissipated. s.215 of the Legal Services Regulatory Act 2015 finally removed the requirement of legal practitioners (including barristers) to wear wigs or robes.
+

@@ -1,0 +1,55 @@
+The International Press Telecommunications Council (IPTC), based in London, United Kingdom, is a consortium of the world's major news agencies, other news providers and news industry vendors and acts as the global standards body of the news media.
+Currently more than 50 companies and organizations from the news industry are members of the IPTC, including global players like Associated Press (AP), Agence France-Presse (AFP), Deutsche Presse-Agentur (dpa), BBC, Getty Images, Press Association (PA), Reuters and The New York Times.
+IPTC aims at simplifying the distribution of information. To achieve this technical standards are developed to improve the management and exchange of information between content providers, intermediaries and consumers.
+IPTC is committed to open standards and makes all standards freely available to its members and the wider community.
+The IPTC was established in 1965 by a group of news organisations including the Alliance Européenne des Agences de Presse (EANA), American Newspaper Publishers Association (then ANPA, now NAA), Fédération Internationale des Editeurs de Journaux (now WAN-IFRA) and the North American News Agencies (a joint committee of Associated Press, Canadian Press and United Press International) to safeguard the telecommunications interests of the world's press.
+
+
+
+
+The IPTC defined a set of metadata properties that can be applied to images, part of a broader standard developed in the early 1990s and known as the IPTC Information Interchange Model (IIM). Embedded IIM image information is often referred to as an "IPTC header". This basic set of metadata fields is branded as IPTC Core, in 2008 a second set branded as IPTC Extension was developed.
+The Extensible Metadata Platform (XMP) has largely superseded IIM's image file header structure, but the properties of the IPTC Core are synchronized between the technical structures of XMP and IIM by a vast majority of imaging software.
+Because of its nearly universal acceptance among photographers — even amateurs — this is by far IPTC's most widely used standard.
+
+
+Using XML and the W3C’s model for the Semantic Web, in 2008 IPTC launched a new series of standards that feature modular construction and many opportunities for embedding metadata. This allows developers to build applications that use only the parts of the IPTC NewsML-G2-Standards that are required by the customer, and that reduce programming costs by re-using XML and metadata modules. Further the NewsML-G2-Standards extend the scope of exchange formats beyond news content, they include event data and well organised information about persons, organisations, points of interest, geopolitical areas or abstract concepts.
+These members of the family of standards are available now: NewsML-G2, EventsML-G2 and SportsML-G2. Although they have different roles within the news industry they share much of the date model and the same XML coding.
+
+
+NewsML-G2 acts as an envelope and organizer so that news providers can create single news items — text, photos, video or anything else — and bundle them into concise cohesive packages than can be automatically processed by web CMSs or newsroom systems. The content and relationships of the individual news items can be described using a rich set of metadata.NewsML-G2 is not a text or image mark-up format. For example, it does not contain paragraph or headline tagging. Rather, it is an envelope and organizer that does not, by itself, act as a content format. For text article formatting, IPTC mentions News Industry Text Format (NITF) or XHTML as common examples.NewsML-G2 is used by several large international news agencies, including Agence France-Presse, Associated Press, Austria Presse Agentur, Deutsche Presse-Agentur, Thomson Reuters, and others.
+
+
+EventsML-G2 optimises the sharing of event information such as meetings, sports events, elections, and even rocket launches — virtually any announced activity that can be broadly classified as an "event." Using XML and metadata, EventsML-G2 allows news providers to create rich descriptions of events plus information about planned coverage, and then share that information with web sites, databases, newsrooms or other customers.
+EventsML-G2 is not a calendaring standard, but rather a way for news agencies to share event information to populate their own calendars. The events need not have fixed starting or ending dates, nor do they even need to have a fixed length.
+
+
+SportsML-G2 is a convenient way to share sports statistics in a concise, unambiguous way. All major sports are supported, and certain sports that are known for rich or especially complex statistics (such as baseball) can use special add-on modules. SportsML-G2 has found wide usage outside the news industry; among the user communities are sports teams, fantasy sports leagues, sports betting firms and sports historians. SportsML-G2 is the newer sibling of SportsML.
+Version 2.0 of SportsML-G2 was released in October 2008.
+
+
+NewsCodes is the branding of Controlled Vocabularies created and maintained by IPTC. A set of them can be used to classify news content - regardless of the media type - and another set is used to support the functionality of IPTC's news exchange format standards.
+
+
+NewsML 1 is an XML standard developed by the IPTC to provide a media-independent, structural enveloping framework for multi-media news.
+It has also been adopted as Japanese Industrial Standards (JIS) X7201:2005. 
+Although superseded in 2008 by NewsML-G2, NewsML 1 (as the original NewsML is now known) remains popular outside North America (especially in Asia) and IPTC plans to support this standard as NewsML 1.x indefinitely.
+
+
+ninjs standardizes the representation of news in JSON - a lightweight, easy-to-parse, data interchange format. The format covers the data interchange by APIs and documents in content management systems like search engines.
+
+
+News Industry Text Format (NITF) is an XML specification published by the IPTC that is designed to standardize the content and structure of text-based news articles.
+
+
+RightsML is IPTC's Rights Expression Language for news media and is based on ODRL.
+
+
+rNews is a standard for using semantic markup to annotate online news. It defines a data model for embedding machine-readable publishing metadata in web documents and a set of suggested implementations. Some properties of this standard have been adopted by Schema.org for its metadata schema.
+
+
+SportsML is an XML news exchange standard for sharing sports statistics in a concise, unambiguous way. All major sports are supported, and certain sports that are known for rich or especially complex statistics (such as baseball) can use special add-on modules. SportsML has found wide usage outside the news industry; among the user communities are sports teams, fantasy sports leagues, sports betting firms and sports historians.
+In June 2008, the IPTC approved SportsML-G2 as a parallel standard to SportsML. Although SportsML-G2 is built from standardized XML modules that are used by other IPTC G2 standards, both standards effectively accomplish the same task.
+
+
+IPTC 7901 is still a widely used format for plain text news, despite being 30 years old. It is a close relative of the Newspaper Association of America North American standard ANPA-1312, and uses similar control and other special characters to create a file that can be used to drive computerized news editing systems, photo typesetters or even teleprinter machines.
+

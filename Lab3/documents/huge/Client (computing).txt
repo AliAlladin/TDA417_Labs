@@ -1,0 +1,21 @@
+A client is a piece of computer hardware or software that accesses a service made available by a server. The server is often (but not always) on another computer system, in which case the client accesses the service by way of a network.
+
+
+A client is a computer or a program that, as part of its operation, relies on sending a request to another program or a computer hardware or software that accesses a service made available by a server (which may or may not be located on another computer). For example, web browsers are clients that connect to web servers and retrieve web pages for display. Email clients retrieve email from mail servers. Online chat uses a variety of clients, which vary depending on the chat protocol being used. Multiplayer video games or online video games may run as a client on each computer. The term "client" may also be applied to computers or devices that run the client software or users that use the client software.
+A client is part of a client–server model, which is still used today. Clients and servers may be computer programs run on the same machine and connect via inter-process communication techniques. Combined with Internet sockets, programs may connect to a service operating on a possibly remote system through the Internet protocol suite. Servers wait for potential clients to initiate connections that they may accept.
+The term was first applied to devices that were not capable of running their own stand-alone programs, but could interact with remote computers via a network. These computer terminals were clients of the time-sharing mainframe computer.
+
+
+In one classification, client computers and devices are either thick clients, thin clients, or hybrid clients.
+
+
+
+A Thick client, also known as a rich client or fat client, is a client that performs the bulk of any data processing operations itself, and does not necessarily rely on the server. The personal computer is a common example of a fat client, because of its relatively large set of features and capabilities and its light reliance upon a server. For example, a computer running an Art program (such as Krita or Sketchup) that ultimately shares the result of its work on a network is a thick client. A computer that runs almost entirely as a standalone machine save to send or receive files via a network is by standard called a workstation.
+
+
+
+A thin client is a minimal sort of client.  Thin clients use the resources of the host computer. A thin client generally only presents processed data provided by an application server, which performs the bulk of any required data processing. A device using web application (such as Office Web Apps) is a thin client.
+
+
+A hybrid client is a mixture of the above two client models. Similar to a fat client, it processes locally, but relies on the server for storing persistent data. This approach offers features from both the fat client (multimedia support, high performance) and the thin client (high manageability, flexibility). A device running an online version of the video game Diablo III is an example of hybrid client.
+

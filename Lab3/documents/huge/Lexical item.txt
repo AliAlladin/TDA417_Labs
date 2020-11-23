@@ -1,0 +1,25 @@
+In lexicography, a lexical item (or lexical unit / LU, lexical entry) is a single word, a part of a word,  or a chain of words (catena) that forms the basic elements of a language's lexicon (≈ vocabulary). Examples are cat, traffic light, take care of, by the way, and it's raining cats and dogs. Lexical items can be generally understood to convey a single meaning, much as a lexeme, but are not limited to single words. Lexical items are like semes in that they are "natural units" translating between languages, or in learning a new language. In this last sense, it is sometimes said that language consists of grammaticalized lexis, and not lexicalized grammar. The entire store of lexical items in a language is called its lexis.
+Lexical items composed of more than one word are also sometimes called  lexical chunks, gambits, lexical phrases, lexical units, lexicalized stems, or speech formulae. The term polyword listemes is also sometimes used.
+
+
+Common types of lexical items/chunks include:
+Words, e.g. cat, tree
+Parts of words, e.g. -s in trees, -er in worker, non- in nondescript, -est in loudest
+Phrasal verbs, e.g. put off or get out
+Multiword expressions, e.g. by the way, inside out
+Collocations, e.g. motor vehicle, absolutely convinced.
+Institutionalized utterances, e.g. I'll get it, We'll see, That'll do, If I were you, Would you like a cup of coffee?
+Idioms, e.g. break a leg, was one whale of a, a bitter pill to swallow
+Sayings, e.g. The early bird gets the worm, The devil is in the details
+Sentence frames and heads, e.g. That is not as...as you think, The problem was
+Text frames, e.g., In this paper we explore...; Firstly...; Secondly...; Finally ....An associated concept is that of noun-modifier semantic relations, wherein certain word pairings have a standard interpretation. For example, the phrase cold virus is generally understood to refer to the virus that causes a cold, rather than to a virus that is cold.
+
+
+Many lexical items are either a whole word or part of a word, whereas many other lexical items consist of parts of one or more words or of multiple words in their entirety. A basic question in this area concerns the form-meaning correspondence. Many multi-word lexical items cannot be construed as constituents in syntax in any sense. But if they are not constituents, then how does one classify them? A relatively recent development in the field of syntax envisages lexical items stored in the lexicon as  catenae, whereby a given catena may or may not be a constituent. In syntax, a catena is any element or combination of elements (words or parts of words) that are continuous in the vertical dimension, that is, in the hierarchy of words. The elements form a catena insofar as they are linked together by dependencies. Some dependency grammar trees containing multiple-word lexical items that are catenae but not constituents are now produced. The following trees illustrate phrasal verbs:
+
+The verb and particle (in red) in each case constitute a particle verb construction, which is a single lexical item. The two words remain a catena even as shifting changes their order of appearance. The following trees illustrate polywords:
+
+The component words of the polywords (in red) are continuous in the vertical dimension and are therefore catenae. They cannot, however, be construed as constituents since they do not form complete subtrees. The following trees illustrate idioms:
+
+The fixed words constituting the idiom (in red) build a catena each time. Note that your is not part of the idiom in the first tree (tree a) because the possessor is variable, e.g. He is pulling my/her/his/someone's/etc. leg. An important caveat concerning idiom catenae is that they can be broken up in the syntax, e.g. Your leg is being pulled. The claim, however, is that these lexical items are stored as catenae in the lexicon; they do not always appear as catenae in the actual syntax.
+

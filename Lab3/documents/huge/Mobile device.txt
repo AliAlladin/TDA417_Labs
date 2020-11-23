@@ -1,0 +1,46 @@
+A mobile device (or handheld computer) is a computing device small enough to hold and operate in the hand. Typically, any handheld computer device will have an LCD or OLED flatscreen interface, providing a touchscreen interface with digital buttons and keyboard or physical buttons along with a physical keyboard. Many such devices can connect to the Internet and interconnect with other devices such as car entertainment systems or headsets via Wi-Fi, Bluetooth, cellular networks or near field communication (NFC). Integrated cameras, , the ability to place and receive telephone calls, video games, and Global Positioning System (GPS) capabilities are common. Power is typically provided by a lithium battery. Mobile devices may run mobile operating systems that allow third-party apps specialized for said capabilities to be installed and run.
+Early smartphones were joined in the late 2000s by larger, but otherwise essentially the same, tablets. Input and output is now usually via a touch-screen interface. Phones/tablets and personal digital assistants may provide much of the functionality of a laptop/desktop computer but more conveniently, in addition to exclusive features. Enterprise digital assistants can provide additional business functionality such as integrated data capture via barcode, RFID and smart card readers.
+By 2010, mobile devices often contained sensors such as accelerometers, magnetometers and gyroscopes, allowing detection of orientation and motion. Mobile devices may provide biometric user authentication such as face recognition or fingerprint recognition.
+Major global manufacturers of mobile devices are Apple, Samsung, Sony, Google, HTC, LG, Motorola Mobility and Nokia.
+
+
+Device mobility can be viewed in the context of several dimensions:
+Physical dimensions and weight
+Whether or not the device is mobile or some kind of host to which it is attached to is mobile
+What kind of host devices can be bound to
+How devices are attached to a host
+When the mobility occursStrictly speaking, many so-called mobile devices are not mobile. It is the host that is mobile, i.e., a mobile human host carries a non-mobile smartphone device. An example of a true mobile computing device, where the device itself is mobile, is a robot. Another example is an autonomous vehicle. There are three basic ways mobile devices can be physically bound to mobile hosts: accompanied, surface-mounted or embedded into the fabric of a host, e.g., an embedded controller embedded in a host device. Accompanied refers to an object being loosely bound and accompanying a mobile host, e.g., a smartphone can be carried in a bag or pocket but can easily be misplaced. Hence, mobile hosts with embedded devices such as an autonomous vehicle can appear larger than pocket-sized.
+As stated earlier, the most common size of mobile computing device is pocket-sized that can be hand-held, but other sizes for mobile devices exist, too. Mark Weiser, known as the father of ubiquitous computing, computing everywhere, referred to device sizes that are tab-sized, pad and board sized, where tabs are defined as accompanied or wearable centimetre-sized devices, e.g. smartphones, and pads are defined as hand-held decimetre-sized devices, e.g., laptops. If one changes the form of the mobile devices in terms of being non-planar, one can also have skin devices and tiny dust-sized devices. Dust refers to miniaturised devices without direct HCI interfaces, e.g., micro electro-mechanical systems (MEMS), ranging from nanometres through micrometers to millimetres. See also Smart dust. Skin: fabrics based upon light emitting and conductive polymers and organic computer devices. These can be formed into more flexible non-planar display surfaces and products such as clothes and curtains, see OLED  display. Also see smart device.
+Although mobility is often regarded as synonymous with having wireless connectivity, these terms are different. Not all network access by mobile users, applications and devices need be via wireless networks and vice versa. Wireless access devices can be static and mobile users can move in between wired and wireless hotspots such as in Internet cafés. Some mobile devices can be used as mobile Internet devices to access the Internet while moving but they do not need to do this and many phone functions or applications are still operational even while disconnected to the Internet. What makes the mobile device unique compared to other technologies is the inherent flexibility in the hardware and also the software. Flexible applications include video chat, Web browsing, payment systems, NFC, audio recording etc. As mobile devices become ubiquitous there, will be a proliferation of services which include the use of the cloud. Although a common form of mobile device, a smartphone, has a display, another perhaps even more common form of smart computing device, the smart card, e.g., used as a bank card or travel card, does not have a display. This mobile device often has a CPU and memory but needs to connect, or be inserted into a reader in order to display its internal data or state.
+
+
+
+There are many kinds of mobile devices, designed for different applications. This includes:
+
+Mobile computers
+Mobile Internet devices
+Tablets/Smartphones
+Laptops
+Wearable computers
+Calculator watches
+Smartwatches
+Head-mounted displays
+Personal digital assistants
+Enterprise digital assistants
+Graphing calculators
+Handheld game consoles
+Portable media players
+Calculators
+Ultra-mobile PCs
+Digital media player
+Digital still cameras (DSC)
+Digital video cameras (DVC) or digital camcorders
+Feature phones
+Pagers
+Personal navigation devices (PND)
+Smart cards
+
+
+Handheld devices have become ruggedized for use in mobile field management. Uses include digitizing notes, sending and receiving invoices, asset management, recording signatures, managing parts, and scanning barcodes. In 2009, developments in mobile collaboration systems enabled the use of handheld devices that combine video, audio and on-screen drawing capabilities to enable multi-party conferencing in real-time, independent of location. Handheld computers are available in a variety of form factors, including smartphones on the low end, handheld PDAs, Ultra-Mobile PCs and Tablet PCs (Palm OS, WebOS). Users can watch television through Internet by IPTV on some mobile devices. Mobile television receivers have existed since the 1960s, and in the 21st century mobile phone providers began making television available on cellular phones.
+In the 2010s, mobile devices can sync and share many data despite the distance or specifications of said devices. In the medical field, mobile devices are quickly becoming essential tools for accessing clinical information such as drugs, treatment, even medical calculation. Due to the popularity of mobile gaming, the gambling industry started offering casino games on mobile devices, which in turn lead to inclusion of these devices in anti hazard legislature as devices that could potentially be used in illegal gambling. Other potentially illegal activities might include the use of mobile devices in distributing child pornography and the legal sex industry use of mobile apps and hardware to promote its activities, as well as the possibility of using mobile devices to perform trans-border services, which are all issues that need to be regulated. In the military, mobile devices have created new opportunities for the armed forces to deliver training and educational materials to soldiers, regardless of where they are stationed.
+

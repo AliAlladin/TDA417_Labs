@@ -1,0 +1,72 @@
+Public-domain software is software that has been placed in the public domain: in other words, there is absolutely no ownership such as copyright, trademark, or patent. Software in the public domain can be modified, distributed, or sold even without any attribution by anyone; this is unlike the common case of software under exclusive copyright, where software licenses grant limited usage rights.
+Under the Berne Convention, which most countries have signed, an author automatically obtains the exclusive copyright to anything they have written, and local law may similarly grant copyright, patent, or trademark rights by default. The Berne Convention also covers programs. Therefore, a program is automatically subject to a copyright, and if it is to be placed in the public domain, the author must explicitly disclaim the copyright and other rights on it in some way, e.g. by a waiver statement. In some Jurisdictions, some rights (in particular moral rights) cannot be disclaimed: for instance, civil law tradition-based German law's "Urheberrecht" differs here from the Anglo-Saxon common law tradition's "copyright" concept.
+
+
+
+
+In the 1950s to the 1990s software culture, as original academic phenomena, "public-domain" (usually abbreviated to "PD")  software was popular.  This kind of freely distributed and shared "free software" combined the nowadays differentiated software classes of freeware, shareware and free and open-source software and was created in academia, and by hobbyists and hackers. As software was often written in an interpreted language such as BASIC, the source code was needed and therefore distributed to run the software. PD software was also shared and distributed as printed source code (type-in program) in computer magazines (like Creative Computing, SoftSide, Compute!, Byte etc.) and books, like the bestseller BASIC Computer Games. Early on, closed-source software was uncommon until the mid-1970s to the 1980s.Before 1974, when the US Commission on New Technological Uses of Copyrighted Works (CONTU) decided that "computer programs, to the extent that they embody an author's original creation, are proper subject matter of copyright", software was not copyrightable and therefore always in public domain. This legislation, plus court decisions such as Apple v. Franklin in 1983 for object code, clarified that the Copyright Act gave computer programs the copyright status of literary works.
+In the 1980s, a common way to share public-domain software was by receiving them through a local user group or a company like PC-SIG, of Sunnyvale, California, who maintained a mail-order catalog of more than 300 disks with an average price of US$6. Public-domain software with source code was also shared on BBS networks. 
+Public-domain software was commercialized sometimes by a donationware model, asking the users for a money donation to be sent by mail.The public-domain "free sharing" and "donationware" commercialization models evolved in following years to the (non-voluntary) shareware model, and software free of charge, called freeware. Additionally, due to other changes in the computer industry, the sharing of source code became less usual.With the Berne Convention Implementation Act of 1988 (and the earlier Copyright Act of 1976), the legal base for public-domain software changed drastically. Before the act, releasing a software without copyright notice was enough for dedicating to public domain. With the new copyright act, software was by default copyright-protected and needed an explicit waiver statement or license of the author.Reference implementations of algorithms, often cryptographic algorithms, meant or applied for standardization are still often given into the public domain, examples are CERN httpd in 1993 and Serpent cipher in 1999. The Openwall Project maintains a list of several algorithms and their source code in the public domain.
+
+
+As response in the end 1980s of the academic software ecosystem to the change in the copyright system, permissive license texts were developed, like the BSD license and derivatives. Permissive-licensed software, which is a kind of free and open-source software, shares most characteristics of the earlier public-domain software, but stands on the legal base of copyright law.
+In 1980s Richard Stallman, who worked long in an academic environment of "public-domain"-like software sharing, noticed the emerge of proprietary software and the decline of the public-domain software ecosystem. As approach to preserve this ecosystem he created a software license, the GPL, which encodes the "public-domain" rights and enforces them irrevocable on software. Paradoxically, his copyleft approach relies on the enforceability of the copyright to be effective. Copyleft free software shares therefore many properties with public-domain software, but doesn't allow relicensing or sublicensing. Unlike real public-domain software or permissive-licensed software, Stallman's copyleft license tries to enforce the free shareability of software also for the future by not allowing license changes.
+To refer to free software (which is under a free software license) or to software distributed and usable free of charge (freeware) as "public-domain" is therefore incorrect. While public domain gives up the author's exclusive rights (e.g. copyright), in free software the author's copyright is still retained and used, for instance to enforce copyleft or to hand out permissive-licensed software. Licensed software is in general not in the public domain. Another distinct difference is that an executable program may be in the public domain even if its source code is not made available (making the program not feasibly modifiable), while free software has the source code always available.
+
+
+With the 2000s and the emerge of peer-to-peer sharing networks and sharing in web development, a new copyright-critical developer generation made the "license-free" public-domain software model visible again, also criticizing the FOSS license ecosystem ("Post Open Source") as stabilizing part of the copyright system. New non-FOSS licenses and waiver texts were developed, notable the Creative Commons "CC0" (2009) and the "Unlicense" (2010), and a growing popularity of permissive software licenses was noticed. Also, the growing problem of orphaned software and digital obsolescence of software raised the awareness of the relevance of passing software into public domain again for a better digital preservation of the digital heritage, unrestricted by copyright and DRM.Around 2004 there was a debate whether public-domain software can be considered part of the FOSS ecosystem, as lawyer Lawrence Rosen argued in the essay "Why the public domain isn't a license" that software could not truly be given into public domain, a position that faced opposition by Daniel J. Bernstein and others. In 2012, the status was finally resolved when Rosen changed his mind and accepted the CC0 as open-source license, while admitting that contrary to previous claims copyright can be waived away, backed by a Ninth circuit's decision.
+
+
+
+
+Before the Berne Convention Implementation Act of 1988 (and the earlier Copyright Act of 1976, which went into effect in 1978) works could be easily given into the public domain by just releasing it without an explicit copyright notice and no Copyright registration. After the 1988 implementation act, all works were by default copyright-protected and needed to be actively given into public domain by a waiver statement.
+
+
+Copyrighted works, like software, are meant to pass into public domain after the copyright term, losing their copyright privilege. Due to the decades-long copyright protection granted by the Berne Convention, no software has ever passed into public domain by leaving copyright terms. The question how fast works should pass into public domain has been a matter of scientific and public debates, also for software like video games.
+
+
+
+While real public domain makes software licenses unnecessary, as no owner/author is required to grant permission ("Permission culture"), there are licenses that grant public-domain-like rights. There is no universally agreed-upon license, but multiple licenses that aim to release source code into the public domain.
+In 2000 the WTFPL was released as public-domain-like license/waiver/anti-copyright notice.
+In 2009 the Creative commons released the CC0, which was created for compatibility with also law domains (e.g. Civil law of continental Europe) where dedicating into public domain is problematic. This is achieved by a public-domain waiver statement and a fall-back all-permissive license, for the case the waiver is not possible.
+The Unlicense, published around 2010, has a focus on an anti-copyright message. The unlicense offers a public-domain waiver text with a fall-back public-domain-like license inspired by permissive licenses but without attribution clause. In 2015 GitHub reported that of their approx. 5.1 million licensed projects hosted almost 2% use the unlicense, approx. 102,000 projects.In result, such licensed Public-domain software has all four freedoms but is not hampered by the complexities of attribution (restriction of permissive licensed software) or license compatibility (issue with copyleft licensed software).
+
+
+See also Category:Public-domain software with source code, Category:Public-domain software
+
+
+Public domain software in the early computer age was for instance shared as type-in program in computer magazines and books like BASIC Computer Games. Explicit PD waiver statements or license files were at that time unusual. Publicly available software without a copyright notice was assumed to be, and shared as, public-domain software.
+Notable general PD software from that time include:
+
+ELIZA (1966)
+SPICE (1973)
+BLAS (1979)
+FFTPACK (1985)Video games are among the earliest examples of shared PD software, which are still notable today:
+
+Spacewar! (1962)
+Hamurabi (1969)
+Star Trek (text game) (1971)
+Hunt the Wumpus (1972)
+Maze War (1974)
+Colossal Cave Adventure (1976)
+Android Nim (1978)
+Rogue (video game) (1980)
+Ballerburg (1987)Many PD software authors kept the practices of public-domain release without having a waiver text, not knowing or caring for the changed copyright law and creating therefore a legal problem. On the other hand, magazines started in the mid-1980s to claim copyright even for type-in programs that were seen as PD before. Only slowly PD software authors started to include explicit relinquishment or license statement texts.
+
+
+These examples of modern PD software (after the Berne Convention Implementation Act of 1988) is either under proper public domain (e.g. created by a US governmental organization), under a proper public-domain-like license (for instance CC0) or accompanied by a clear waiver statement from the author. While not as widespread as in the pre-2000s, PD software still exists nowadays. For example, SourceForge listed 334 hosted PD projects in 2016, GitHub 102,000 PD projects under the unlicense alone in 2015. In 2016 an analysis of the Fedora Project's packages revealed "public domain" as seventh most popular "license".The award-winning video game developer Jason Rohrer releases his works into the PD, as do several cryptographers, such as Daniel J. Bernstein, Bruce Schneier and Douglas Crockford, with reference implementations of cryptographic algorithms.
+
+BLAST (1990)
+CERN's httpd (1993)
+ImageJ (1997)
+Serpent (cipher) (1999)
+SQLite (2000)
+reStructuredText (2002)
+I2P (2003)
+youtube-dl (2006)
+7-Zip's LZMA SDK (2008)
+Diamond Trust of London (2012)
+Glitch (2013)
+The Castle Doctrine (2014)
+SHA-3 (2015)
+

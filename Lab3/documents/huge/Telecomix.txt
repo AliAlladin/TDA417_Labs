@@ -1,0 +1,49 @@
+Telecomix is a decentralized cluster of net activists, committed to the freedom of expression and is a name used by both WeRebuild and Telecomix. WeRebuild is a collaborative project used to propose and discuss laws as well as to collect information about politics and politicians. The Telecomix is the operative body that executes schemes and proposals presented by the WeRebuild. On September 15, 2011, Telecomix diverted all connections to the Syrian web, and redirected internauts to a page with instructions to bypass censorship.Moreover, "Telecomix circulated the ways of using landlines to circumvent state blockages of broadband networks" during the Egyptian Revolution of 2011. Their most recent intervention was a large release of Blue Coat surveillance log files, allegedly revealing vast interception in Syria, which was analyzed and made public from the "telecommunist cluster" of Telecomix. The leak had previously been criticized for possibly revealing too much sensitive information about Syrian users by security researcher and hacker Jacob Appelbaum.
+
+
+
+The organization was created at April 18, 2009, as a suggestion following a seminar about surveillance, the legislative changes regulating the National Defence Radio Establishment (FRA), and other laws processed in the European Parliament at the time. The audience was asked to help stop the surveillance laws that were about to be passed in the European Parliament. The evening after the seminar a spontaneous bifurcation started and someone threw a cipher.  It was then Telecomix was born.During the first months of Telecomix' existence, focus was mostly on the Telecoms Package, the Data Retention Directive and the laws regulating the FRA. Work consisted of gathering information about the laws and the political processes involved, public conversations with legislators and art projects.As the organization grew larger, the definition and boundaries of the cluster became more undefined. According to one interview, an activist described it as "an ever growing bunch of friends that do things together" consisting of "[...] roughly 20 extremely active members, 50 active and some 300 total including lurkers".
+
+
+Telecomix has their roots in a heterogenous activist and hacker scene. Many of the founding members had followed and participated in and around Piratbyrån and The Pirate Bay. There is membership overlap with The Julia Group and La Quadrature du Net, as well as with the hackerspaces Forskningsavdelningen in Malmö, Gothenburg Hackerspace and Sparvnästet in Stockholm. As Telecomix has a very vague concept of being a "member" of the group (the only formal ritual is to enter their IRC chat), it is however difficult to assess with certainty what their origins are.According to Marcin de Kaminski, who gave one of the earliest interviews on Telecomix's first project (which used to be under the domain telekompaketet.se, now with a new unrelated site owner), he points to a heritage line from Piratbyrån via a sudden side-project called Tapirbyrån ("The Bureau of Tapirs", which is an anagram of the word Pirate in Swedish), which then led to the formation of Telecomix. Apart from this statement by de Kaminski, there are no known written records of this story, and no member of Tapirbyrån has yet confirmed nor denied it.As Telecomix was founded, the initial work consisted of engaging parliamentary politics, to serve as an interface between concerned communities and politicians. As the work gradually moved over to direct interventions and rescue operations, the cluster moved over to a gradually more militaristic rhetoric, with heavy influences from 1990s-style crypto-anarchism.However, during 2011 some Telecomix activists have given interviews and talks at various technology-related conferences under their real names. This is in stark contrast to the earlier practice of eschewing real and individual names in favour of using Telecomix as a collective pseudonym.
+Rasmus Fleischer argues that the formation of Telecomix signified the end of a long era of pirate rhetoric, and instead shifted attention to a hacktivist approach to politics. Moreover, Christopher Kullenberg describes how "Telecomix News Agency" was shaped as a consequence of close online and offline friendships in connection with the trial against The Pirate Bay in his manifesto Det Nätpolitiska Manifestet.In the book Svenska Hackare ("Swedish Hackers"), the two technology journalists, Daniel Goldberg and Linus Larsson, describe how WeRebuild (a project name used by Telecomix) appeared on a seminar on net neutrality held by the Swedish Government in 2009, to influence the implementation of the Telecoms Package.
+
+
+
+
+A project created and hosted by Telecomix is the Streisand project, named after the Streisand effect. The aim is to mirror certain types of content that gets blocked or censored.
+
+
+WeRebuild is a decentralized wiki page containing Telecomix information and projects.
+
+
+During the internet blackout in early 2011, Telecomix released a video stating that they would launch series of attempts at restoring internet connectivity by means of old modems, faxes and rerouting of traffic.
+
+
+Similar in approach to the Egypt operations, the organization is currently intervening in Syrian networks. The most notable event was when Telecomix released log files from Blue Coat Systems surveillance equipment. Blue Coat Systems were eventually forced to admit that their devices were used in Syria, although they had not been directly sold to the country.
+
+
+Telecomix hosted a search service based on Seeks, an open-source P2P distributed search engine with an emphasis on user privacy. Seeks implements a decentralized peer-to-peer architecture: install Seeks on your machine, server or laptop, and automatically start sharing results. While users share queries over the Peer-to-Peer network, Seeks protects your privacy by sending encrypted query fragments to peers. This scheme makes it difficult for other peers to devise your initial query.
+
+
+Telecomix members often experiment with unorthodox encryption technologies. One such project is the "Blackthrow" concept computer (sharing some etymology with the word Black fax), described as:
+
+"A blackthrow is a small computer that can be hidden inside government agencies or corporations. It connects to the Tor or I2P networks and publishes its SSH server as a hidden service in any of these networks. The TCMB field agent can then connect to the blackthrow anonymously and remote control it to deliver any type of packets to any location at the internets, that the host organization can connect to." 
+Due to the questionable legality of Blackthrow computers, Telecomix maintains no records of such devices being live and running.
+
+
+The logo contains a variety of symbols. The origins remain unclear, but one common interpretation is that the pyramid in the middle is a symbol of kopimi philosophy, a project originally started by Piratbyrån. Moreover, the lightning arrows seem to originate from the logo of Televerket (Sweden), the old telecoms monopoly of Sweden. The star (also present on Televerket symbol) is a symbol of telecommunism, and the Omega sign is a symbol of resistance, as in Ohm's law. This interpretation of the symbols is sometimes referred to as the Gothenburg interpretation, as many of the founding members are from this town. Others have, however, associated the symbols in the logotype with secret societies, due to several of them being associated with the Illuminati and freemasonry.
+In an article in French Magazine Lesinrocks, Fabrice Epelboin argues that the pyramid in the Telecomix logo symbolizes power, and that  "it is bordered by a bunch of elements - the Omega, the lightning, the star - the challenge ahead". In the same article Fabrice d'Almeida, historian of the propaganda images describes the logo as "giving the impression of a large machine capable of unleashing great energy".
+
+
+Telecomix often refer to oceanic concepts when describing their overall structure. They state that "a siphonophoric organism transmitting its genome through memes and imitation rather than through rules and regulations".Jellyfish are an important part of the symbolism of Telecomix, circulating both as a meme and as an organizational concept guiding participants in evolving the organization. In June 2009 a blog post on "jellyfish memetics" was posted at a Telecomix-affiliated blog, arguably sparking a great interest within Telecomix for the philosophical implications of decentralized self-organization.
+
+
+The notion of "datalove" appeared for the first time in one of several manifestos written by Telecomix, as to "inspire the body-politic to incarnate creatively via totemized teleportation-flows of datalove". The concept of datalove has been the leitmotif for several spawned projects . Site with interactive Datalove-experience.
+
+
+The organization contributes to the general theme of Crypto-anarchism. Their project Cryptoanarchy.org aims at promoting cryptographic research and security technologies.
+
+
+The organization maintains a MegaHAL speech bot named Cameron. According to one member it is "a computer generated representation of all of us". Cameron has become a core symbol for Telecomix, and her function in governing the actions of the activists remains obscure.
+

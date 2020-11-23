@@ -1,0 +1,60 @@
+BitTorrent, Inc., (renamed to Rainberry, Inc. in 2017) headquartered in San Francisco, California, is a privately held American company that is responsible for the ongoing development of the BitTorrent peer-to-peer protocol, as well as the ongoing development of μTorrent and BitTorrent Mainline, two clients for that protocol. Files transferred using the BitTorrent protocol constitute a significant slice of all Internet traffic. At its peak, 170 million people used the protocol every month, according to the company's website. The company was founded on September 22, 2004 by Bram Cohen and Ashwin Navin. In 2018, the company was acquired by cryptocurrency startup TRON, and Bram Cohen left the company.
+
+
+
+BitTorrent is a peer-to-peer computer program developed by Bram Cohen and BitTorrent, Inc. that is used for uploading and downloading files via the BitTorrent protocol. BitTorrent was the first client written for the protocol. It is often nicknamed Mainline by developers, denoting its official origins. Since version 6.0, the BitTorrent client has been a rebranded version of μTorrent. As a result, it is no longer open source and is currently available for Microsoft Windows and Mac OS X.
+
+
+
+μTorrent (or uTorrent; commonly abbreviated as "μT" or "uT") is a freeware, closed source BitTorrent client owned by BitTorrent, Inc. It is the most widely used BitTorrent client outside China.
+It is available for Microsoft Windows, Android and Mac OS X. A μTorrent Server is available for Linux. All versions are written in C++.On December 7, 2006, μTorrent was purchased by BitTorrent, Inc., as it was announced on their official forum.
+
+
+Pro is the name received by advanced versions, formerly branded Plus, of BitTorrent and μTorrent are premium versions of the Windows software with additional features that are downloaded and installed when the user upgrades for US$19.95. Pre-sales for Plus were announced November 29, 2011 and the upgrade became available December 8, 2011.When a user upgrades to the Pro version of BitTorrent or μTorrent they enable the following features:
+Anti-virus protection for acquired .torrent files
+Integrated HD media player
+Transcoding capability with media codecs
+Streaming playback while torrent is downloading
+
+
+
+BitTorrent Sync is a peer-to-peer file synchronization tool running on Windows, Mac, and Linux. It can sync files between computers on a local network, or between remote users over the Internet.
+The BitTorrent Sync pre-Alpha program, announced in January 2013, was opened to general users on April 23, 2013. On November 23, 2013, BitTorrent announced the release of version 1.2 of the client along with a beta version of the BitTorrent Sync API.On June 1, 2016, product and team were spun out of BitTorrent Inc. as an independent company, Resilio Inc. which will continue development of the product under the name Resilio Sync.
+
+
+The company has released "Bundles" with artists such as Linkin Park, Pixies, Public Enemy, and Madonna. The Madonna Bundle, entitled secretprojectrevolution, was released on September 24, 2013 and consisted of the 17-minute film of the same name, stills from the film, and an option for those users who submit their email addresses and make a donation that also includes HD and 2K versions of the film, a VICE interview, and a message from Madonna.On September 17, 2013, the company launched "BitTorrent Bundles for Publishers", an alpha program for content creators to distribute bundles of any size and file type using the BitTorrent client. The first released bundle was the fantasy feature film "Overturn: Awakening of the Warrior"  starring Ukrainian Vietnamese actor Ivan DoanOn September 26, 2014, Thom Yorke released his album Tomorrow's Modern Boxes as the first paid Bundle, priced at US$6.00. On October 3, 2014, it was announced that the project had been downloaded over 1 million times, which included the free single and video plus the paid downloads; sales numbers have not been released.On October 28, 2014, Alice in Chains released their music video for "Phantom Limb" via BitTorrent Bundle for free streaming and download. The bundle also included the video treatment and the shot list in PDF, as well as access to the band's merch.
+
+
+
+
+BitTorrent, Inc. also offers BitTorrent DNA (Delivery Network Accelerator), a free content delivery service based on the BitTorrent protocol that allows content providers to distribute their content using the bandwidth of their users.
+
+
+On January 5, 2012, SoShare was released in alpha as "Share" within the μTorrent client, as a standalone desktop client and as a plug-in based web client. On February 15, 2013, the SoShare beta was launched and repositioned as a user-friendly web application that uses the BitTorrent protocol, designed for creative industry professionals to share high-res photos, files and videos using the app's email system or public links. From the official website, the service messages that registered users can send file bundles containing up to one terabyte of data per send, free.
+
+
+BitTorrent Live was first announced in September 2011, and was first publicly tested on October 14, 2011. BitTorrent premiered Live in public beta in March 2013. The platform was used to showcase live streaming events of musical acts and DJs.
+
+It was shut down in 2017. In March 2019 it was announced that BitTorrent Live is going to return in the form of Snapchat-like social media app for Android and iOS.
+
+
+A live streaming news network based on BitTorrent Live that launched at the  2016 Republican National Convention.
+
+
+BitTorrent Bleep was a multi-platform, peer-to-peer, serverless chat client available free on Windows, Mac, Android and iOS. Bleep was never officially discontinued, but as of August 2017 the website no longer exists, the Windows application is no longer available to download from their website, or on the Google Play store, the Bleep Blog hasn't been updated since August 2015, and the Bleep forums no longer have any active moderators participating.
+
+
+On December 10, 2014, BitTorrent announced Project Maelstrom, a Chromium-based browser project that enables censorship-resistant distributed Web publishing by utilizing the BitTorrent and DHT protocols. Initially, the project was run as a closed alpha, but was then opened as a public beta available for Windows only. Although no official discontinue notice has been announced as of February 2017, the BitTorrent Inc. website no longer provides the browser for download, the last build has not been updated past Chromium version 44, and the last post by the project lead staff was on September 14, 2015.
+
+
+Additionally, BitTorrent Inc. licenses its technology and brands to corporate customers only. The BitTorrent Software Development Kit (SDK) for Devices enables partners to integrate BitTorrent technology into their hardware products.
+
+
+In April 2006, BitTorrent was selected as 2006 Red Herring  100 North America Finalist.In June 2007, the company received CNET’s 2007 Webware 100 Award.In June 2007, BitTorrent was the recipient of 2007 DCIA Innovator’s Award.In November 2007, BitTorrent received Streaming Media Readers’ Choice Award.In May 2010, BitTorrent was recognized as one of the "2010 Hottest San Francisco Companies" by Lead411.In February 2013, BitTorrent was listed among the top 50 "Most Innovative Companies 2013" by Fast Company, for "using its power to help artists who get it."
+
+
+BitTorrent Inc. also promotes development of the BitTorrent protocol through R&D and open specifications. Protocol development discussions are hosted on http://www.bittorrent.org. BitTorrent Inc. also contributes through more broadly focused standards bodies like the Internet Engineering Task Force (IETF) at the LEDBAT working group.
+
+
+According to the company's website, BitTorrent Inc. has announced partnerships with many companies, including, for venture capital, Accel Partners and DCM, technology partners ESA Flash Components, NTL:Telewest, Opera Software, and device partners Buffalo Technology, D-Link, I-O Data, Marvell Semiconductors, Netgear,  Planex Communications Inc., and QNAP Systems, Inc.
+

@@ -1,0 +1,35 @@
+The Open Web Foundation (OWF) is a non-profit organization dedicated to the development and protection of specifications for emerging web technologies. The foundation follows an open source model similar to the Apache Software Foundation (ASF). Individuals participating include Geir Magnusson, vice president and board member at Apache, and Tim O'Reilly, CEO of O'Reilly Media.
+
+
+The Open Web Foundation was announced July 24, 2008 at the O'Reilly Open Source Convention (OSCON). Facebook has announced their support for the OWF, as well as Google, MySpace, Six Apart, Plaxo and others. Through OWF, Google and Facebook now have an appropriate venue where they can resolve their differences between Facebook Connect and OpenSocial platforms, as well as work on a standard way to have their users interact with each other. The OWF also provides the technical details, as well as policy details, on how these protocols and emerging technologies interact.
+
+
+In 2008, Microsoft's Dare Obasanjo made accusations that employees of the Open Web Foundation were bypassing the IETF or other regulatory standards.
+
+
+According to its web site, the Open Web Foundation is supported by the following companies and organizations:
+
+BBC
+Facebook
+Google
+Microsoft
+MySpace
+O'Reilly
+Plaxo
+Six Apart
+Sourceforge
+Vidoop
+Yahoo
+
+
+The Open Web Foundation is a membership-based organization. Members of the Foundation elect a nine-person Board.
+Members of the current Board, elected as of August 17, 2009:
+Brady Brim-DeForest
+Tantek Celik
+DeWitt Clinton
+Chris Messina
+David Recordon
+Lawrence Rosen
+David Rudin
+Gabe Wachob
+

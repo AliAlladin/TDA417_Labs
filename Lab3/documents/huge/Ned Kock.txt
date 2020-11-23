@@ -1,0 +1,20 @@
+Nereu Florencio "Ned" Kock is a Brazilian-American philosopher. He is a Texas A&M Regents Professor and Killam Distinguished Professor of Information Systems at Texas A&M International University.
+
+
+Kock holds a B.E.E. in Electrical Engineering from the Federal Technological University of Parana at Curitiba, Brazil, a M.Sc. in computer science from the Institute of Aeronautical Technology, Brazil, and a Ph.D. in management with a concentration in information systems from the School of Management Studies, University of Waikato, New Zealand.
+
+
+Kock is best known for employing biological evolution ideas to the understanding of human behavior toward technologies, particularly information technologies. He developed media naturalness theory, an evolutionary communication media theory. Kock is the writer of a popular blog on the intersection of evolution, statistics, and health.He developed WarpPLS, a nonlinear variance-based structural equation modeling software tool. The underlying mathematics employed in WarpPLS builds on the method of path analysis, developed by the evolutionary biologist Sewall Wright. WarpPLS has been used to study a variety of topics, including nursing education, password security risks, software testing, customer satisfaction, accounting education, and web-based homework.He has conducted research and written on the topic of academic plagiarism. His research and writings in this area have been discussed in The Chronicle of Higher Education, and contributed to considerable debate on the topic within the Association for Computing Machinery, and to the establishment of an ethics committee within the Association for Information Systems. He was Founding Editor-in-Chief of the International Journal of e-Collaboration from 2004 to 2017.
+Kock has also been a proponent of the use of action research in the study of human behavior toward technologies, arguing that it can be used in investigations aimed at testing hypotheses in a postpositivist fashion. As a result of his action research investigations, he developed a method for systems analysis and business process redesign that places emphasis on the optimization of communication interactions in business processes.
+
+
+Kock, N., Avison, D., & Malaurent, J. (2017). Positivist information systems action research: Methodological issues. Journal of Management Information Systems, 34(3), 754-767.
+Kock, N., Jung, Y., & Syn, T. (2016). Wikipedia and e-collaboration research: Opportunities and challenges. International Journal of e-Collaboration, 12(2), 1-8.
+Kock, N. (2009). Information systems theorizing based on evolutionary psychology: an interdisciplinary review and theory integration framework. MIS Quarterly, 33(2), 395-418.
+Kock, N. (Ed.). (2007). Information systems action research: An applied view of emerging concepts and methods. New York, NY: Springer-Verlag.
+Kock, N. (2006). Systems analysis & design fundamentals: A business process redesign approach. Thousand Oaks, CA: Sage Publications.
+Kock, N. (2005). Media richness or media naturalness? The evolution of our biological communication apparatus and its influence on our behavior toward e-communication tools. IEEE Transactions on Professional Communication, 48(2), 117–130.
+Kock, N. (2004). The psychobiological model: Towards a new theory of computer-mediated communication based on Darwinian evolution. Organization Science, 15(3), 327–348.
+Kock, N., & Davison, R. (2003). Dealing with plagiarism in the IS research community: A look at factors that drive plagiarism and ways to address them. MIS Quarterly, 27(4), 511–532.
+Kock, N. (1999). A case of academic plagiarism. Communications of the ACM, 42(7), 96–104.
+

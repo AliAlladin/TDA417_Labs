@@ -1,0 +1,8 @@
+Statutory damages for copyright infringement are available under some countries' copyright laws.  
+The charges allow copyright holders, who succeed with claims of infringement, to receive an amount of compensation per work (as opposed to compensation for losses, an account of profits or damages per infringing copy).  Statutory damages can in some cases be significantly more than the actual damages suffered by the rightsholder or the profits of the infringer.
+At least in the United States, the original rationale for statutory damages was that it would often be difficult to establish the number of copies that had been made by an underground pirate business and awards of statutory damages would save rightsholders from having to do so.
+
+
+In the United States, statutory damages are set out in 17 U.S.C. § 504 of the U.S. Code.  The basic level of damages is between $750 and $30,000 per work, at the discretion of the court.
+Plaintiffs who can show willful infringement may be entitled to damages up to $150,000 per work.  Defendants who can show that they were "not aware and had no reason to believe" they were infringing copyright may have the damages reduced to "not less than" $200 per work.Under 17 U.S.C. § 412, statutory damages are only available in the United States for works that were registered with the Copyright Office prior to infringement, or within three months of publication.
+

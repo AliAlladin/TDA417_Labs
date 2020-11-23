@@ -1,0 +1,21 @@
+In computational complexity theory and circuit complexity, a Boolean circuit is a mathematical model for digital logic circuits. A formal language can be decided by a family of Boolean circuits, one circuit for each possible input length. Boolean circuits are also used as a formal model for combinational logic in digital electronics.
+Boolean circuits are defined in terms of the logic gates they contain. For example, a circuit might contain binary AND and OR gates and unary NOT gates, or be entirely described by binary NAND gates. Each gate corresponds to some Boolean function that takes a fixed number of bits as input and outputs a single bit.
+Boolean circuits provide a model for many digital components used in computer engineering, including multiplexers, adders, and arithmetic logic units.
+
+
+In giving a formal definition of Boolean circuits, Vollmer starts by defining a basis as set B of Boolean functions, corresponding to the gates allowable in the circuit model. A Boolean circuit over a basis B, with n inputs and m outputs, is then defined as a finite directed acyclic graph. Each vertex corresponds to either a basis function or one of the inputs, and there is a set of exactly m nodes which are labeled as the outputs. The edges must also have some ordering, to distinguish between different arguments to the same Boolean function.As a special case, a propositional formula or Boolean expression is a Boolean circuit with a single output node in which every other node has fan-out of 1.  Thus, a Boolean circuit can be regarded as a generalization that allows shared subformulas and multiple outputs.
+A common basis for Boolean circuits is the set {AND, OR, NOT}, which is functionally complete, i. e. from which all other Boolean functions can be constructed.
+
+
+
+
+The Circuit Value Problem, the problem of computing the output of a given Boolean circuit on a given input string, is a P-complete decision problem. Therefore, this problem is considered to be "inherently sequential" in the sense that there is likely no efficient, highly parallel algorithm that solves the problem.
+
+
+
+Several important complexity measures can be defined on Boolean circuits, including circuit depth, circuit size, and number of alternations between AND gates and OR gates. For example, the size complexity of a Boolean circuit is the number of gates.
+
+
+
+Several important complexity classes are defined in terms of Boolean circuits, including NC. NC is defined to be the set of Boolean functions that can be decided by uniform Boolean circuits of polynomial size and polylogarithmic depth. Here, the word uniform means that there must be some condition on the circuit family so that a description of a circuit can be computed from only the number of inputs to the circuit.
+

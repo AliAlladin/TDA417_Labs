@@ -1,0 +1,1524 @@
+Predicate transformer semantics were introduced by Edsger Dijkstra in his seminal paper "Guarded commands, nondeterminacy and formal derivation of programs". They define the semantics of an imperative programming paradigm by assigning to each statement in this language a corresponding predicate transformer: a total function between two predicates on the state space of the statement. In this sense, predicate transformer semantics are a kind of denotational semantics. Actually, in guarded commands, Dijkstra uses only one kind of predicate transformer: the well-known weakest preconditions (see below).
+Moreover, predicate transformer semantics are a reformulation of Floyd–Hoare logic. Whereas Hoare logic is presented as a deductive system, predicate transformer semantics (either by weakest-preconditions or by strongest-postconditions see below) are complete strategies to build valid deductions of Hoare logic. In other words, they provide an effective algorithm to reduce the problem of verifying a Hoare triple to the problem of proving a first-order formula. Technically, predicate transformer semantics perform a kind of symbolic execution of statements into predicates: execution runs backward in the case of weakest-preconditions, or runs forward in the case of strongest-postconditions.
+
+
+
+
+Given a  statement S, the weakest-precondition of S is a
+function mapping any postcondition R to a precondition P. Actually,  the result of this function, denoted 
+  
+    
+      
+        w
+        p
+        (
+        S
+        ,
+        R
+        )
+      
+    
+    {\displaystyle wp(S,R)}
+  , is the "weakest" precondition on the initial state ensuring that execution of S terminates in a final state satisfying R.
+More formally, let us use variable x to denote abusively the tuple of variables involved in statement S. Then, a given Hoare triple 
+  
+    
+      
+        {
+        P
+        }
+        S
+        {
+        R
+        }
+      
+    
+    {\displaystyle \{P\}S\{R\}}
+   is provable in Hoare logic for total correctness if and only if the first-order predicate below holds:
+
+  
+    
+      
+        ∀
+        x
+        ,
+        P
+        ⇒
+        w
+        p
+        (
+        S
+        ,
+        R
+        )
+      
+    
+    {\displaystyle \forall x,P\Rightarrow wp(S,R)}
+  Formally, weakest-preconditions are defined recursively over the abstract syntax of statements. Actually, weakest-precondition semantics is a continuation-passing style semantics of state transformers where the predicate in parameter is a continuation.
+
+
+
+
+
+
+We give below two equivalent weakest-preconditions for the assignment statement. In these formulas, 
+  
+    
+      
+        R
+        [
+        x
+        ←
+        E
+        ]
+      
+    
+    {\displaystyle R[x\leftarrow E]}
+   is a copy of R where free occurrences of x are replaced by E. Hence, here, expression E is implicitly coerced into a valid term of the underlying logic: it is thus a pure expression, totally defined, terminating and without side effect. 
+
+version 1:version 2:The first version avoids a potential duplication of E in R, whereas the second version is simpler when there is at most a single occurrence of x in R. The first version also reveals a deep duality between weakest-precondition and strongest-postcondition (see below).
+An example of a valid calculation of wp (using version 2) for assignments with integer valued variable x is:
+
+  
+    
+      
+        
+          
+            
+              
+                w
+                p
+                (
+                x
+                :=
+                x
+                −
+                5
+                ,
+                x
+                >
+                10
+                )
+              
+              
+                =
+              
+              
+                x
+                −
+                5
+                >
+                10
+              
+            
+            
+              
+              
+                ⇔
+              
+              
+                x
+                >
+                15
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{rcl}wp(x:=x-5,x>10)&=&x-5>10\\&\Leftrightarrow &x>15\end{array}}}
+  This means that in order for the postcondition x > 10 to be true after the assignment, the precondition x > 15 must be true before the assignment.  This is also the "weakest precondition", in that it is the "weakest" restriction on the value of x which makes x > 10 true after the assignment.
+
+
+For example,
+
+  
+    
+      
+        
+          
+            
+              
+                w
+                p
+                (
+                x
+                :=
+                x
+                −
+                5
+                ;
+                x
+                :=
+                x
+                ∗
+                2
+                 
+                ,
+                 
+                x
+                >
+                20
+                )
+              
+              
+                =
+              
+              
+                w
+                p
+                (
+                x
+                :=
+                x
+                −
+                5
+                ,
+                w
+                p
+                (
+                x
+                :=
+                x
+                ∗
+                2
+                ,
+                x
+                >
+                20
+                )
+                )
+              
+            
+            
+              
+              
+                =
+              
+              
+                w
+                p
+                (
+                x
+                :=
+                x
+                −
+                5
+                ,
+                x
+                ∗
+                2
+                >
+                20
+                )
+              
+            
+            
+              
+              
+                =
+              
+              
+                (
+                x
+                −
+                5
+                )
+                ∗
+                2
+                >
+                20
+              
+            
+            
+              
+              
+                =
+              
+              
+                x
+                >
+                15
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{rcl}wp(x:=x-5;x:=x*2\ ,\ x>20)&=&wp(x:=x-5,wp(x:=x*2,x>20))\\&=&wp(x:=x-5,x*2>20)\\&=&(x-5)*2>20\\&=&x>15\end{array}}}
+  
+
+
+As example:
+
+  
+    
+      
+        
+          
+            
+              
+                w
+                p
+                (
+                
+                  
+                    if
+                  
+                
+                 
+                x
+                <
+                y
+                 
+                
+                  
+                    then
+                  
+                
+                 
+                x
+                :=
+                y
+                 
+                
+                  
+                    else
+                  
+                
+                
+                
+                
+                  
+                    skip
+                  
+                
+                
+                
+                
+                  
+                    end
+                  
+                
+                ,
+                 
+                x
+                ≥
+                y
+                )
+              
+              
+                =
+              
+              
+                (
+                x
+                <
+                y
+                ⇒
+                w
+                p
+                (
+                x
+                :=
+                y
+                ,
+                x
+                ≥
+                y
+                )
+                )
+                 
+                ∧
+                 
+                (
+                ¬
+                (
+                x
+                <
+                y
+                )
+                ⇒
+                w
+                p
+                (
+                
+                  
+                    skip
+                  
+                
+                ,
+                x
+                ≥
+                y
+                )
+                )
+              
+            
+            
+              
+              
+                =
+              
+              
+                (
+                x
+                <
+                y
+                ⇒
+                y
+                ≥
+                y
+                )
+                 
+                ∧
+                 
+                (
+                ¬
+                (
+                x
+                <
+                y
+                )
+                ⇒
+                x
+                ≥
+                y
+                )
+              
+            
+            
+              
+              
+                ⇔
+              
+              
+                
+                  
+                    true
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{rcl}wp({\textbf {if}}\ x<y\ {\textbf {then}}\ x:=y\ {\textbf {else}}\;\;{\textbf {skip}}\;\;{\textbf {end}},\ x\geq y)&=&(x<y\Rightarrow wp(x:=y,x\geq y))\ \wedge \ (\neg (x<y)\Rightarrow wp({\textbf {skip}},x\geq y))\\&=&(x<y\Rightarrow y\geq y)\ \wedge \ (\neg (x<y)\Rightarrow x\geq y)\\&\Leftrightarrow &{\textbf {true}}\end{array}}}
+  
+
+
+
+
+Ignoring termination for a moment, we can define the rule for the weakest liberal precondition, denoted wlp, using a predicate I, called the loop invariant, typically supplied by the programmer:
+
+This simply states that (1) the invariant must hold at the start of the loop; (2) additionally,  for any initial state y, the invariant and guard taken together be strong enough to establish the weakest precondition necessary for the loop body to be able to re-establish the invariant; (3) finally, if and when the loop terminates in a given state y, the fact that the loop guard is false along with the invariant should be able to establish the required postcondition.
+
+
+To show total correctness, we also have to show that the loop terminates. For this we define a well-founded relation on the state space denoted "<" and called loop variant. Hence, we have:
+
+Informally, in the above conjunction of three formulas: 
+
+the first one means that invariant I must initially hold;
+the second one means that the body of the loop (e.g. statement S) must preserve the invariant and decrease the variant: here, variable y represents the initial state of the body execution;
+the last one means that R must be established at the end of the loop: here, variable y represents the final state of the loop.In predicate transformers semantics, invariant and variant are built by mimicking the Kleene fixed-point theorem. Below, this construction is sketched in set theory. We assume that U is a set denoting the state space. First, we define a family of subsets of U denoted 
+  
+    
+      
+        (
+        
+          A
+          
+            k
+          
+        
+        
+          )
+          
+            k
+            ∈
+            
+              N
+            
+          
+        
+      
+    
+    {\displaystyle (A_{k})_{k\in \mathbb {N} }}
+   by induction over natural number k. Informally 
+  
+    
+      
+        
+          A
+          
+            k
+          
+        
+      
+    
+    {\displaystyle A_{k}}
+   represents the set of initial states that makes R satisfied after less than k iterations of the loop: 
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  A
+                  
+                    0
+                  
+                
+              
+              
+                =
+              
+              
+                ∅
+              
+            
+            
+              
+                
+                  A
+                  
+                    k
+                    +
+                    1
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  {
+                  
+                     
+                    y
+                    ∈
+                    U
+                     
+                    
+                      |
+                    
+                     
+                    (
+                    (
+                    E
+                    ⇒
+                    w
+                    p
+                    (
+                    S
+                    ,
+                    x
+                    ∈
+                    
+                      A
+                      
+                        k
+                      
+                    
+                    )
+                    )
+                    ∧
+                    (
+                    ¬
+                    E
+                    ⇒
+                    R
+                    )
+                    )
+                    [
+                    x
+                    ←
+                    y
+                    ]
+                     
+                  
+                  }
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{rcl}A_{0}&=&\emptyset \\A_{k+1}&=&\left\{\ y\in U\ |\ ((E\Rightarrow wp(S,x\in A_{k}))\wedge (\neg E\Rightarrow R))[x\leftarrow y]\ \right\}\\\end{array}}}
+  Then, we define: 
+
+invariant I as the predicate 
+  
+    
+      
+        ∃
+        k
+        ,
+        x
+        ∈
+        
+          A
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \exists k,x\in A_{k}}
+  .
+variant 
+  
+    
+      
+        y
+        <
+        z
+      
+    
+    {\displaystyle y<z}
+   as the proposition 
+  
+    
+      
+        ∃
+        i
+        ,
+        y
+        ∈
+        
+          A
+          
+            i
+          
+        
+        ∧
+        (
+        ∀
+        j
+        ,
+        z
+        ∈
+        
+          A
+          
+            j
+          
+        
+        ⇒
+        i
+        <
+        j
+        )
+      
+    
+    {\displaystyle \exists i,y\in A_{i}\wedge (\forall j,z\in A_{j}\Rightarrow i<j)}
+  With these definitions, 
+  
+    
+      
+        w
+        p
+        (
+        
+          
+            while
+          
+        
+         
+        E
+         
+        
+          
+            do
+          
+        
+         
+        S
+         
+        
+          
+            done
+          
+        
+        ,
+        R
+        )
+      
+    
+    {\displaystyle wp({\textbf {while}}\ E\ {\textbf {do}}\ S\ {\textbf {done}},R)}
+   reduces to formula 
+  
+    
+      
+        ∃
+        k
+        ,
+        x
+        ∈
+        
+          A
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \exists k,x\in A_{k}}
+  .
+However, in practice, such an abstract construction cannot be handled efficiently by theorem provers. Hence, loop invariants and variants are provided by human users, or are inferred by some abstract interpretation procedure.
+
+
+Actually, Dijkstra's Guarded Command Language (GCL) is an extension of the simple imperative language given until here with non-deterministic statements. Indeed, GCL aims to be a formal notation to define algorithms. Non-deterministic statements represent choices left to the actual implementation (in an effective programming language): properties proved on non-deterministic statements are ensured for all possible choices of implementation. In other words, weakest-preconditions of non-deterministic statements ensure
+
+that there exists a terminating execution (e.g. there exists an implementation),
+and, that the final state of all terminating execution satisfies the postcondition.Notice that the definitions of weakest-precondition given above (in particular for while-loop) preserve this property.
+
+
+Selection is a generalization of if statement:
+
+Here, when two guards 
+  
+    
+      
+        
+          E
+          
+            i
+          
+        
+      
+    
+    {\displaystyle E_{i}}
+   and 
+  
+    
+      
+        
+          E
+          
+            j
+          
+        
+      
+    
+    {\displaystyle E_{j}}
+   are simultaneously true, then execution of this statement can run any of the associated statement 
+  
+    
+      
+        
+          S
+          
+            i
+          
+        
+      
+    
+    {\displaystyle S_{i}}
+   or 
+  
+    
+      
+        
+          S
+          
+            j
+          
+        
+      
+    
+    {\displaystyle S_{j}}
+  .
+
+
+Repetition is a generalization of while statement in a similar way.
+
+
+Refinement calculus extends non-deterministic statements with the notion of specification statement. Informally, this statement represents a procedure call in black box, where the body of the procedure is not known. Typically, using a syntax close to B-Method, a specification statement is written 
+
+  
+    
+      
+        P
+         
+        
+          |
+        
+      
+    
+    {\displaystyle P\ |}
+   @
+  
+    
+      
+        y
+        .
+         
+        Q
+        →
+        x
+        :=
+        y
+      
+    
+    {\displaystyle y.\ Q\rightarrow x:=y}
+  where
+
+x is the global variable modified by the statement,
+P is a predicate representing the precondition,
+y is a fresh logical variable, bound in Q, that represents the new value of x non-deterministically chosen by the statement,
+Q is a predicate representing a postcondition, or more exactly a guard: in Q, variable x represents the initial state and y denotes the final state.The weakest-precondition of specification statement is given by:
+
+Moreover, a statement S implements such a specification statement if and only if the following predicate is a tautology:
+
+Indeed, in such a case, the following property is ensured for all postcondition R (this is a direct consequence of wp monotonicity, see below):
+
+  
+    
+      
+        w
+        p
+        (
+        P
+         
+        
+          |
+        
+      
+    
+    {\displaystyle wp(P\ |}
+   @
+  
+    
+      
+        y
+        .
+         
+        Q
+        →
+        x
+        :=
+        y
+         
+        ,
+         
+        R
+        )
+        ⇒
+        w
+        p
+        (
+        S
+        ,
+        R
+        )
+      
+    
+    {\displaystyle y.\ Q\rightarrow x:=y\ ,\ R)\Rightarrow wp(S,R)}
+  Informally, this last property ensures that any proof about some statement involving a specification remains valid 
+when replacing this specification by any of its implementations.
+
+
+
+
+An important variant of the weakest precondition is the weakest liberal precondition 
+
+  
+    
+      
+        w
+        l
+        p
+        (
+        S
+        ,
+        R
+        )
+      
+    
+    {\displaystyle wlp(S,R)}
+  , which yields the weakest condition under which S either does not terminate or establishes R. It therefore differs from wp in not guaranteeing termination. Hence it corresponds to Hoare logic in partial correctness: for the statement language given above, wlp differs with wp only on while-loop, in not requiring a variant (see above).
+
+
+Given S a statement and R a precondition (a predicate on the initial state), then
+
+  
+    
+      
+        s
+        p
+        (
+        S
+        ,
+        R
+        )
+      
+    
+    {\displaystyle sp(S,R)}
+   is their strongest-postcondition: it implies any postcondition satisfied by the final state of any execution of S, 
+for any initial state satisfying R. In other words, a Hoare triple 
+  
+    
+      
+        {
+        P
+        }
+        S
+        {
+        Q
+        }
+      
+    
+    {\displaystyle \{P\}S\{Q\}}
+   is provable in Hoare logic if and only if the predicate below hold:
+
+  
+    
+      
+        ∀
+        x
+        ,
+        s
+        p
+        (
+        S
+        ,
+        P
+        )
+        ⇒
+        Q
+      
+    
+    {\displaystyle \forall x,sp(S,P)\Rightarrow Q}
+  Usually, strongest-postconditions are used in partial correctness.
+Hence, we have the following relation between weakest-liberal-preconditions and strongest-postconditions: 
+
+  
+    
+      
+        (
+        ∀
+        x
+        ,
+        P
+        ⇒
+        w
+        l
+        p
+        (
+        S
+        ,
+        Q
+        )
+        )
+         
+        ⇔
+         
+        (
+        ∀
+        x
+        ,
+        s
+        p
+        (
+        S
+        ,
+        P
+        )
+        ⇒
+        Q
+        )
+      
+    
+    {\displaystyle (\forall x,P\Rightarrow wlp(S,Q))\ \Leftrightarrow \ (\forall x,sp(S,P)\Rightarrow Q)}
+  For example, on assignment we have:
+
+Above, the logical variable y represents the initial value of variable x.
+Hence,
+
+  
+    
+      
+        s
+        p
+        (
+        x
+        :=
+        x
+        −
+        5
+        ,
+        x
+        >
+        15
+        )
+         
+        =
+         
+        ∃
+        y
+        ,
+        x
+        =
+        y
+        −
+        5
+        ∧
+        y
+        >
+        15
+         
+        ⇔
+         
+        x
+        >
+        10
+      
+    
+    {\displaystyle sp(x:=x-5,x>15)\ =\ \exists y,x=y-5\wedge y>15\ \Leftrightarrow \ x>10}
+  On sequence, it appears that sp runs forward (whereas wp runs backward):
+
+
+Leslie Lamport has suggested win and sin as predicate transformers  for concurrent programming.
+
+
+This section presents some characteristic properties of predicate transformers. Below, T denotes a predicate transformer (a function between two predicates on the state space) and P a predicate. For instance, T(P) may denote wp(S,P) or sp(S,P). We keep x as the variable of the state space.
+
+
+Predicate transformers of interest (wp, wlp, and sp) are monotonic. A predicate transformer T is monotonic if and only if:
+
+  
+    
+      
+        (
+        ∀
+        x
+        ,
+        P
+        ⇒
+        Q
+        )
+        ⇒
+        (
+        ∀
+        x
+        ,
+        T
+        (
+        P
+        )
+        ⇒
+        T
+        (
+        Q
+        )
+        )
+      
+    
+    {\displaystyle (\forall x,P\Rightarrow Q)\Rightarrow (\forall x,T(P)\Rightarrow T(Q))}
+  This property is related to the consequence rule of Hoare logic.
+
+
+A predicate transformer T is strict iff:
+
+  
+    
+      
+        T
+        (
+        
+          f
+          a
+          l
+          s
+          e
+        
+        )
+         
+        ⇔
+         
+        
+          f
+          a
+          l
+          s
+          e
+        
+      
+    
+    {\displaystyle T(\mathbf {false} )\ \Leftrightarrow \ \mathbf {false} }
+  For instance, wp is strict, whereas wlp is generally not. In particular, if statement S may not terminate then
+
+  
+    
+      
+        w
+        l
+        p
+        (
+        S
+        ,
+        
+          f
+          a
+          l
+          s
+          e
+        
+        )
+      
+    
+    {\displaystyle wlp(S,\mathbf {false} )}
+   is satisfiable. We have
+
+  
+    
+      
+        w
+        l
+        p
+        (
+        
+          w
+          h
+          i
+          l
+          e
+        
+         
+        
+          t
+          r
+          u
+          e
+        
+         
+        
+          d
+          o
+        
+         
+        
+          s
+          k
+          i
+          p
+        
+         
+        
+          d
+          o
+          n
+          e
+        
+        ,
+        
+          f
+          a
+          l
+          s
+          e
+        
+        )
+         
+        ⇔
+        
+          t
+          r
+          u
+          e
+        
+      
+    
+    {\displaystyle wlp(\mathbf {while} \ \mathbf {true} \ \mathbf {do} \ \mathbf {skip} \ \mathbf {done} ,\mathbf {false} )\ \Leftrightarrow \mathbf {true} }
+  Indeed, true is a valid invariant of that loop.
+
+
+A predicate transformer T is terminating iff:
+
+  
+    
+      
+        T
+        (
+        
+          t
+          r
+          u
+          e
+        
+        )
+         
+        ⇔
+         
+        
+          t
+          r
+          u
+          e
+        
+      
+    
+    {\displaystyle T(\mathbf {true} )\ \Leftrightarrow \ \mathbf {true} }
+  Actually, this terminology makes sense only for strict predicate transformers: indeed, 
+  
+    
+      
+        w
+        p
+        (
+        S
+        ,
+        
+          t
+          r
+          u
+          e
+        
+        )
+      
+    
+    {\displaystyle wp(S,\mathbf {true} )}
+   is the weakest-precondition ensuring termination of S.
+It seems that naming this property non-aborting would be more appropriate: in total correctness, non-termination is abortion, whereas in partial correctness, it is not.
+
+
+A predicate transformer T is conjunctive iff:
+
+  
+    
+      
+        T
+        (
+        P
+        ∧
+        Q
+        )
+         
+        ⇔
+         
+        (
+        T
+        (
+        P
+        )
+        ∧
+        T
+        (
+        Q
+        )
+        )
+      
+    
+    {\displaystyle T(P\wedge Q)\ \Leftrightarrow \ (T(P)\wedge T(Q))}
+  This is the case for 
+  
+    
+      
+        w
+        p
+        (
+        S
+        ,
+        .
+        )
+      
+    
+    {\displaystyle wp(S,.)}
+  , even if statement S is non-deterministic as a selection statement or a specification statement.
+
+
+A predicate transformer T is disjunctive iff:
+
+  
+    
+      
+        T
+        (
+        P
+        ∨
+        Q
+        )
+         
+        ⇔
+         
+        (
+        T
+        (
+        P
+        )
+        ∨
+        T
+        (
+        Q
+        )
+        )
+      
+    
+    {\displaystyle T(P\vee Q)\ \Leftrightarrow \ (T(P)\vee T(Q))}
+  This is generally not the case of 
+  
+    
+      
+        w
+        p
+        (
+        S
+        ,
+        .
+        )
+      
+    
+    {\displaystyle wp(S,.)}
+   when S is non-deterministic. Indeed, consider a non-deterministic statement S choosing an arbitrary boolean. This statement is given here as the following selection statement:
+
+  
+    
+      
+        S
+         
+        =
+         
+        
+          i
+          f
+        
+         
+        
+          t
+          r
+          u
+          e
+        
+        →
+        x
+        :=
+        0
+         
+        [
+        
+        ]
+         
+        
+          t
+          r
+          u
+          e
+        
+        →
+        x
+        :=
+        1
+         
+        
+          f
+          i
+        
+      
+    
+    {\displaystyle S\ =\ \mathbf {if} \ \mathbf {true} \rightarrow x:=0\ [\!]\ \mathbf {true} \rightarrow x:=1\ \mathbf {fi} }
+  Then, 
+  
+    
+      
+        w
+        p
+        (
+        S
+        ,
+        R
+        )
+      
+    
+    {\displaystyle wp(S,R)}
+   reduces to the formula 
+  
+    
+      
+        R
+        [
+        x
+        ←
+        0
+        ]
+        ∧
+        R
+        [
+        x
+        ←
+        1
+        ]
+      
+    
+    {\displaystyle R[x\leftarrow 0]\wedge R[x\leftarrow 1]}
+  .
+Hence, 
+  
+    
+      
+        w
+        p
+        (
+        S
+        ,
+         
+        x
+        =
+        0
+        ∨
+        x
+        =
+        1
+        )
+      
+    
+    {\displaystyle wp(S,\ x=0\vee x=1)}
+   reduces to the tautology 
+  
+    
+      
+        (
+        0
+        =
+        0
+        ∨
+        0
+        =
+        1
+        )
+        ∧
+        (
+        1
+        =
+        0
+        ∨
+        1
+        =
+        1
+        )
+      
+    
+    {\displaystyle (0=0\vee 0=1)\wedge (1=0\vee 1=1)}
+  
+Whereas, the formula 
+  
+    
+      
+        w
+        p
+        (
+        S
+        ,
+        x
+        =
+        0
+        )
+        ∨
+        w
+        p
+        (
+        S
+        ,
+        x
+        =
+        1
+        )
+      
+    
+    {\displaystyle wp(S,x=0)\vee wp(S,x=1)}
+  
+reduces to the wrong proposition 
+  
+    
+      
+        (
+        0
+        =
+        0
+        ∧
+        1
+        =
+        0
+        )
+        ∨
+        (
+        1
+        =
+        0
+        ∧
+        1
+        =
+        1
+        )
+      
+    
+    {\displaystyle (0=0\wedge 1=0)\vee (1=0\wedge 1=1)}
+  .
+The same counter-example can be reproduced using a specification statement (see above) instead:
+
+  
+    
+      
+        S
+         
+        =
+         
+        
+          t
+          r
+          u
+          e
+        
+         
+        
+          |
+        
+      
+    
+    {\displaystyle S\ =\ \mathbf {true} \ |}
+   @
+  
+    
+      
+        y
+        .
+         
+        y
+        ∈
+        {
+        0
+        ,
+        1
+        }
+        →
+        x
+        :=
+        y
+      
+    
+    {\displaystyle y.\ y\in \{0,1\}\rightarrow x:=y}
+  
+
+
+Computations of weakest-preconditions are largely used to statically check assertions in programs using a theorem-prover (like SMT-solvers or proof assistants): see Frama-C or ESC/Java2.
+Unlike many other semantic formalisms, predicate transformer semantics was not designed as an investigation into foundations of computation.  Rather, it was intended to provide programmers with a methodology to develop their programs as "correct by construction" in a "calculation style".  This "top-down" style was advocated by Dijkstra and N. Wirth. It has been formalized further by R.-J. Back and others in the refinement calculus. Some tools like B-Method now provide  automated reasoning in order to promote this methodology.
+In the meta-theory of Hoare logic, weakest-preconditions appear as a key notion in the proof of relative completeness.
+
+
+
+
+In predicate transformers semantics, expressions are restricted to terms of the logic (see above). However, this restriction seems too strong for most existing programming languages, where expressions may have side effects (call to a function having a side effect), may not terminate or abort (like division by zero). There are many proposals to extend weakest-preconditions or strongest-postconditions for imperative expression languages and in particular for monads.
+Among them, Hoare Type Theory combines Hoare logic for a Haskell-like language, separation logic and type theory.
+This system is currently implemented as a Coq library called Ynot. In this language, evaluation of expressions corresponds to computations of strongest-postconditions.
+
+
+Probabilistic Predicate Transformers are an extension of predicate transformers for probabilistic programs.
+Indeed, such programs have many applications in cryptography (hiding of information using some randomized noise), 
+distributed systems (symmetry breaking).
+

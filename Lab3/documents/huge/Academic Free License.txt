@@ -1,0 +1,10 @@
+The Academic Free License (AFL) is a permissive free software license written in 2002 by Lawrence E. Rosen, a former general counsel of the Open Source Initiative (OSI).
+The license grants similar rights to the BSD, MIT, UoI/NCSA and Apache licenses –  licenses allowing the software to be made proprietary –  but was written to correct perceived problems with those licenses:
+
+The AFL makes clear what software is being licensed by including a statement following the software's copyright notice;
+The AFL includes a complete copyright grant to the software;
+The AFL contains a complete patent grant to the software;
+The AFL makes clear that no trademark rights are granted to the licensor's trademarks;
+The AFL warrants that the licensor either owns the copyright or is distributing the software under a license;
+The AFL is itself copyrighted, with the right granted to copy and distribute without modification.The Free Software Foundation consider all AFL versions through 3.0 as incompatible with the GNU GPL. though Eric S. Raymond (a co-founder of the OSI) contends that AFL 3.0 is GPL compatible. In late 2002, an OSI working draft considered it a "best practice" license. In mid-2006, however, the OSI's License Proliferation Committee found it "redundant with more popular licenses", specifically version 2 of the Apache Software License.
+

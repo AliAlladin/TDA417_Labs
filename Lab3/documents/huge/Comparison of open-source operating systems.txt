@@ -1,0 +1,20 @@
+These tables compare free software / open-source operating systems. Where not all of the versions support a feature, the first version which supports it is listed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

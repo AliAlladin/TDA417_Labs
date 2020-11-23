@@ -1,0 +1,26 @@
+Recontextualisation is a process that extracts text, signs or meaning from its original context (decontextualisation) and reuses it in another context. Since the meaning of texts, signs and content is dependent on its context, recontextualisation implies a change of meaning and redefinition. The linguist Per Linell defines recontextualisation as:
+
+the dynamic transfer-and-transformation of something from one discourse/text-in-context ... to another.
+
+Scholars have theorized a number of theoretical conceptions of recontextualisation, each highlighting different aspects of the reusing of texts, signs, and meaning from its original context. More importantly, recontextualisation has been studied within the field of linguistics and inter-disciplinary
+
+
+
+
+Bauman and Briggs argue that recontextualisation (and contextualisation) are informed by "the political economy of texts". Recontextualisation and recentering is culturally and socially situated, therefore it is bound in socially produced norms and structures including, but not limited to, power differentials. Bauman and Briggs claim that recontextualisation of texts includes a varying amount of control that depends on access, legitimacy, competency, and value.
+Access refers to the location of the sourced text, sign, or meaning, which can all be shaped by institutional structures.Legitimacy refers to the perceived legitimacy in the source of text, sign, or meaning.Competency refers to the "knowledge and ability to carry out the decontextualisation and recontextualisation of performed discourse successfully and appropriately". Was the act done well and what factors are at play for it to be considered well done? This can include cultural competency, an understanding of the meaning and/or value of a text to a specific cultural context.Value refers to the social importance of the text.Access, legitimacy, competency and value are all culturally situated social constructions that vary among contexts. Therefore, the manner in which each of these elements is embodied through the act of recontextualisation can, and will, vary.
+
+
+Intratextual: recontextualisation within the same text, discourse or conversation. Intratextual recontextualisation plays an important part in most discourse in so far as it refers to what has been said before, or anticipates what is to be said. In conversation, for instance, the one part usually infuses what the other part just – or earlier – has said in a new context thus adding new meaning to it. Such turns of decontextualisation and recontextualisation combined with metadiscursive regulation are crucial for the continual unfolding of texts, discourses and conversations.
+Intertextual: recontextualisation that relates elements from different texts, signs, and meaning. For example, the author or speaker can explicitly or implicitly utilize elements from other texts. The importance of this becomes clear when the meaning of a word is clearly based on its meaning in other contexts.
+Interdiscursive: recontextualisation across different types of discourse, such as genres in which it is more abstract and less specific. In Fairclough, chains of genres are closely connected to interdiscursive recontextualisation. Chains of genres denote how genres are interdependent of discursive material, such as the relation between interviews, transcription of interviews, and the analysis of interviews. However, interdiscursive recontextualisation is also abundant between large interdiscursive entities or formation and is part of society's discursive workshare. An example of this could be the usage of results from a statistical theory into social science, with the purpose of testing quantitative analyses.
+
+
+Though recontextualisation is often used within linguistics, it also has interdisciplinary applications. Basil Bernstein uses recontextualisation to study the state and pedagogical discourse, the construction of educational knowledge. His concept of the pedagogic device consists of three fields: the fields of production, recontextualisation and reproduction.
+The Field of Production: where "new" knowledge is constructed (i.e. academic institutions). To be recontextulised, there must be an original context and thus decontextualised from that.
+The Field of Recontextualisation: mediates between the field of production and repoduction. This field "is composed of two sub-fields; namely, the official recontextualising field (ORF) and the pedagogic recontextualising field (PRF). The ORF consists of 'specialized departments and sub-agencies of the State and local educational authorities'. The PRF consists of university departments of education, their research as well as specialised educational media.
+The Field of Reproduction: where pedagogic practice takes place
+
+
+Rhetorical scholar John Oddo argues that recontextualisation has a future-oriented counterpoint, which he dubs "precontextualization". According to Oddo, precontextualization is a form of anticipatory intertextuality wherein "a text introduces and predicts elements of a symbolic event that is yet to unfold."
+

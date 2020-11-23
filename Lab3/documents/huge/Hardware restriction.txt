@@ -1,0 +1,41 @@
+A hardware restriction (sometimes called hardware DRM) is content protection enforced by electronic components. The hardware restriction scheme may complement a digital rights management system implemented in software. Some examples of hardware restriction information appliances are video game consoles, smartphones, tablet computers, Macintosh computers and personal computers that implement secure boot.
+
+
+
+
+Some Intel processors are sold with some features "locked", that can later be unlocked after payment.Note that this is not unique to Intel. Some models of IBM's System/370 mainframe computer had additional hardware included, that if the customer paid the additional charge, IBM would send out a service engineer to enable it, typically by cutting a resistor in the machine.
+
+
+
+Vendor exploits its priveleged position as a maker of devices and embeds into the device unextractable private key coupled to the public key in an own database and a hash of own public key. Vendor also adds a privileged mode to the device which can protect the data processed in it (including program code) from OS and hardware via encryption of memory. Vendor adds an additional privileged mode allowing software run in that mode to control access of other software to that mode and secrets stored in it and restricts this mode only to software signed by own public key. Vendor implements software controlling access to that mode only to parties signed business agreement to the vendor and controlling access to the data by creating a proof that the software is untampered using the fact that the key embedded into the hardware cannot be accessed with reasonable cost for anyone except the vendor. Then a vendor sells access to usage of this mode in devices of consumers to parties interested in deprivation of device owners of ownership. These parties implement own software as 2 (or more) modules and ship it to users' machines. Generic module loads a trusted module and calls for trusted privileged vendor software to activate the protection and create the cryptographic proof that developer's software is in the state it intend to be, not replaced by some another software. The generic module sends this proof over the network to its developer, the developer checks the proof. Sometimes this can be done using vendor's internet service. Then the developer either sends the data he wants to prevent computer owners to have access to. Hardware vendor itself can have access to the data by issuing a modified version of privileged software controlling access, enabling it to create fake proofs, or if the verifications of the proof are done using internet service, modifying the service to falsely claim that a proof is valid. Data in TEEs can also be accessed exploiting various side channels or by reverse engineering a specific chip and extracting the key from it, if it is possible, but costs a lot. So the data processed this way should have low enough value, such as malware and proprietary content. Since some vendors disable TEEs if system firmware is tampered (sometimes permanently damaging a chip by blowing a e-fuse), using TEE proofs can be used by software and service vendors to prevent reverse engineering their software and/or accessing their services from a tampered device even if the software itself doesn't use TEE for storing any secrets.
+
+
+
+Intel Insider, a technology that provides a "protected path" for digital content, can be considered a form of DRM.
+
+
+
+Some devices implement a feature called "verified boot", "trusted boot" or "secure boot", which will only allow signed software to run on the device, usually from the device manufacturer. This is considered a restriction unless users either have the ability to disable it or have the ability to sign the software.
+
+
+Many modern Android devices, such as Huawei's and Nokia's come with the bootloader locked.
+
+
+
+Apple's iOS devices (iPhone, iPad, iPod Touch, and Apple TV) require signatures for firmware installation, intended to verify that only the latest official firmware can be installed on those devices. Official firmware allows third-party software to be installed only from the App Store.
+Macs equipped with a T2 security chip also are equipped with secure boot, ensuring that only trusted versions of Apple's macOS and Microsoft's Windows operating systems that support secure boot can start.
+
+
+
+If a device only runs software approved by the hardware vendor, and only a certain version of a free software program is allowed to run on the device, the user cannot exercise the rights he theoretically has, because he or she cannot install modified versions.
+
+
+Another case of trusted boot is the One Laptop per Child XO laptop which will only boot from software signed by a private cryptographic key known only to the OLPC non-profit organisation and the respective deployment authorities such as Education Ministries. Laptops distributed directly by the OLPC organisation provide a way to disable the restrictions, by requesting a "developer key" unique to that laptop, over the Internet, waiting 24 hours to receive it, installing it, and running the firmware command "disable-security". However some deployments such as Uruguay deny requests for such keys. The stated goal is to deter mass theft of laptops from children or via distribution channels, by making the laptops refuse to boot, making it hard to reprogram them so they will boot and delaying the issuance of developer keys to allow time to check whether a key-requesting laptop had been stolen.
+
+
+
+Certified Windows 8 hardware requires secure boot. Soon after the feature was announced in September 2011, it caused widespread fear it would lock-out alternative operating systems. In January 2012, Microsoft confirmed it would require hardware manufacturers to enable secure boot on Windows 8 devices, and that x86/64 devices must provide the option to turn it off while ARM-based devices must not provide the option to turn it off. According to Glyn Moody, at ComputerWorld, this "approach seems to be making it hard if not impossible to install Linux on hardware systems certified for Windows 8".
+
+
+Oracle Solaris 11.2 has a Verified Boot feature, which checks the signatures of the boot block and kernel modules. By default it is disabled.  If enabled, it can be set to "warning" mode where only a warning message is logged on signature failures or to "enforce" mode where the module is not loaded. The Solaris elfsign(1) command inserts a signature into kernel modules. All kernel modules distributed by Oracle have a signature.  Third-party kernel modules are allowed, providing the public key certificate is installed in firmware (to establish a root of trust).
+

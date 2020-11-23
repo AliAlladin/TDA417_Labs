@@ -1,0 +1,11 @@
+MetaGer is a metasearch engine focused on protecting users' privacy. Based in Germany,
+and hosted as a cooperation between the German NGO 'SUMA-EV - Association for Free Access to Knowledge' and the University of Hannover,
+the system is built on 24 small-scale web crawlers under MetaGer's own control.
+In September 2013, MetaGer launched MetaGer.net, an English language version of their search engine.
+
+
+Search queries are relayed to as many as 50 search engines.   The results are filtered, compiled and sorted before being presented to the user.
+Users can select the search engines to query according to their individual choices among other options (such as "check for availability and sort by date"). Privacy protection is implemented by several features:
+MetaGer provides access to their services only through encrypted connections. As of December 2013, there is also a TOR Hidden Service (b7cxf4dkdsko6ah2.onion/tor/) that allows users to access the MetaGer search functionality from within the TOR network. Since February 2014 MetaGer additionally offers the option to open the result webpages anonymously ("open anonymously").
+Since the 29th of August 2013 an English version of MetaGer is available. MetaGer's source code was released on Gitlab at the 16th of August 2016.
+

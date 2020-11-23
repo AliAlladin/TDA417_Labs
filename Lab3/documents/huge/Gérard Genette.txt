@@ -1,0 +1,72 @@
+Gérard Genette (7 June 1930 – 11 May 2018) was a French literary theorist, associated in particular with the structuralist movement and such figures as Roland Barthes and Claude Lévi-Strauss, from whom he adapted the concept of bricolage.
+
+
+Genette was born in Paris, where he studied at the Lycée Lakanal and the École Normale Supérieure, University of Paris.After leaving the French Communist Party, Genette was a member of Socialisme ou Barbarie during 1957–8.He received his professorship in French literature at the Sorbonne in 1967.
+In 1970 with Hélène Cixous and Tzvetan Todorov he founded the journal Poétique and he edited a series of the same name for Éditions du Seuil.
+Among other positions, Genette was research director at the École des hautes études en sciences sociales and a visiting professor at Yale University.
+
+
+Genette is largely responsible for the reintroduction of a rhetorical vocabulary into literary criticism, for example such terms as trope and metonymy. Additionally his work on narrative, best known in English through the selection Narrative Discourse: An Essay in Method, has been of importance. His major work is the multi-part Figures series, of which Narrative Discourse is a section. His trilogy on textual transcendence, which has also been quite influential, is composed of Introduction à l'architexte (1979), Palimpsests: Literature in the Second Degree (1982), and Paratexts. Thresholds of Interpretation (1997).His international influence is not as great as that of some others identified with structuralism, such as Roland Barthes and Claude Lévi-Strauss; his work is more often included in selections or discussed in secondary works than studied in its own right. Terms and techniques originating in his vocabulary and systems have, however, become widespread, such as the term paratext for prefaces, introductions, illustrations or other material accompanying the text, or hypotext for the sources of the text.
+
+
+This outline of Genette's narratology is derived from Narrative Discourse: An Essay in Method. This book forms part of his multi-volume work Figures I-III.  The examples used in it are mainly drawn from Proust's epic In Search of Lost Time.  One criticism  which had been used against previous forms of narratology was that they could deal only with simple stories, such as Vladimir Propp's work in Morphology of the Folk Tale. If narratology could cope with Proust, this could no longer be said.
+Below are the five main concepts used by Genette in Narrative Discourse: An Essay in Method.  They are primarily used to look at the syntax of narratives, rather than to perform an interpretation of them.
+
+
+Say a story is narrated as follows: the clues of a murder are discovered by a detective (event A); the circumstances of the murder are finally revealed (event B); and lastly the murderer is caught (event C).
+Add corresponding numbers to the lettered events that represent their order chronologically: 1, 2, and 3.
+If these events were described chronologically, they would run B1, A2, C3.  
+Arranged in the text, however, they run A2 (discovery), B1 (flashback), C3 (resolution).
+This accounts for the 'obvious' effects the reader will recognise, such as flashback.  It also deals with the structure of narratives on a more systematic basis, accounting for flash-forward, simultaneity, as well as possible, if rarely used, effects.  These disarrangements on the level of order are termed 'anachrony'.
+
+
+The separation between an event and its narration allows several possibilities.
+
+An event can occur once and be narrated once (singular).
+'Today I went to the shop.'
+An event can occur n times and be narrated once (iterative).
+'I used to go to the shop.'
+An event can occur once and be narrated n times (repetitive).
+'Today I went to the shop' + 'Today he went to the shop' etc.
+An event can occur n times and be narrated n times (multiple).
+'I used to go to the shop' + 'He used to go to the shop' + 'I went to the shop yesterday' etc.
+
+
+The separation between an event and its narration means that there is discourse time and narrative time.  These are the two main elements of duration.
+
+"Five years passed", has a lengthy narrative time, five years, but a short discourse time (it only took a second to read).
+James Joyce's novel Ulysses has a relatively short narrative time, twenty-four hours.  Not many people, however, could read Ulysses in twenty-four hours.  Thus it is safe to say it has a lengthy discourse time.
+
+
+Voice is concerned with who narrates, and from where.  This can be split four ways.
+
+Where the narration is from
+Intra-diegetic: inside the text. e.g. Wilkie Collins' The Woman in White
+Extra-diegetic: outside the text. e.g. Thomas Hardy's Tess of the D'Urbervilles
+Is the narrator a character in the story?
+Hetero-diegetic: the narrator is not a character in the story.  e.g. Homer's The Odyssey
+Homo-diegetic: the narrator is a character in the story.  e.g. Emily Brontë's Wuthering Heights
+
+
+Genette said narrative mode is dependent on the 'distance' and 'perspective' of the narrator, and like music, narrative mode has predominant patterns. It is related to voice.
+Distance of the narrator changes with narrated speech, transposed speech and reported speech.
+Perspective of the narrator is called focalization.  Narratives can be non-focalized, internally focalized or externally focalized.
+
+
+Officer of the Order of Arts and Letters (2016)
+
+
+Figures I-III, 1967-70 (eleven selected essays from Figures I-III translated as Figures of Literary Discourse, 1982; selections of Figures III on narratology translated as Narrative Discourse: An Essay in Method, 1980).
+Mimologiques: voyage en Cratylie, 1976 (translated as Mimologics, 1995).
+Introduction à l'architexte, 1979.
+Palimpsestes: La littérature au second degré, 1982. (Palimpsests: literature in the second degree)
+Nouveau discours du récit, 1983 (translated as Narrative Discourse Revisited, 1988).
+Seuils, 1987. (translated as Paratexts. Thresholds of interpretation, 1997)
+Fiction et diction, 1991.
+L'Œuvre de l'art, 1: Immanence et transcendence, 1994.
+L'Œuvre de l'art, 2: La relation esthétique, 1997.
+Figures IV, 1999.
+Figures V, 2002.
+Métalepse: De la figure à la fiction, 2004.
+Bardadrac, 2006.
+

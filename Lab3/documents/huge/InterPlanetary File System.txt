@@ -1,0 +1,11 @@
+The InterPlanetary File System (IPFS) is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.IPFS allows users to not only receive but host content, in a similar manner to BitTorrent. As opposed to a centrally located server, IPFS is built around a decentralized system of user-operators who hold a portion of the overall data, creating a resilient system of file storage and sharing. Any user in the network can serve a file by its content address, and other peers in the network can find and request that content from any node who has it using a distributed hash table (DHT).
+IPFS was launched in an alpha version in February 2015, and by October of the same year was described by TechCrunch as "quickly spreading by word of mouth."
+
+
+The IPStorm botnet, first detected in June 2019, uses IPFS, so it can hide its command-and-control amongst the flow of legitimate data on the IPFS network. Security researchers had worked out previously the theoretical possibility of using IPFS as a botnet command-and-control system.Phishing attacks have also been distributed through CloudFlare's IPFS gateway since July 2018. The phishing scam HTML is stored on IPFS, and displayed via CloudFlare's gateway. The connection shows as secure via a CloudFlare SSL certificate.
+
+
+The Catalan independence referendum, taking place in September–October 2017, was deemed illegal by the Constitutional Court of Spain and many related websites were blocked. Subsequently, the Catalan Pirate Party mirrored the website on IPFS to bypass the High Court of Justice of Catalonia order of blocking.
+IPFS was used to create a mirror of Wikipedia, which allows people living in jurisdictions where Wikipedia is blocked to access the content of Wikipedia.  That archived version of Wikipedia is a limited immutable copy that cannot be updated.
+Filecoin, also inter-related to IPFS and developed by Juan Benet and Protocol Labs, is an IPFS-based cooperative storage cloud.
+

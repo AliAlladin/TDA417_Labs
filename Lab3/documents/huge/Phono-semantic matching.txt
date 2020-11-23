@@ -1,0 +1,74 @@
+Phono-semantic matching (PSM) is the incorporation of a word into one language from another, often creating a neologism, where the word's non-native quality is hidden by replacing it with phonetically and semantically similar words or roots from the adopting language. Thus, the approximate sound and meaning of the original expression in the source language are preserved, though the new expression (the PSM) in the target language may sound native.
+Phono-semantic matching is distinct from calquing, which includes (semantic) translation but does not include phonetic matching (i.e. retaining the approximate sound of the borrowed word through matching it with a similar-sounding pre-existent word or morpheme in the target language). At the same time, phono-semantic matching is also distinct from homophonic translation, which retains the sound of a word but not the meaning.
+
+
+The term "phono-semantic matching" was introduced by linguist and revivalist Ghil'ad Zuckermann. It challenged Einar Haugen's classic typology of lexical borrowing (loanwords). While Haugen categorized borrowing into either substitution or importation, camouflaged borrowing in the form of PSM is a case of "simultaneous substitution and importation." Zuckermann proposed a new classification of multisourced neologisms, words deriving from two or more sources at the same time. Examples of such mechanisms are phonetic matching, semanticized phonetic matching and phono-semantic matching.
+Zuckermann concludes that language planners, for example members of the Academy of the Hebrew Language, employ the very same techniques used in folk etymology by laymen, as well as by religious leaders. He urges lexicographers and etymologists to recognize the widespread phenomena of camouflaged borrowing and multisourced neologization and not to force one source on multi-parental lexical items.
+
+
+
+
+The Hebrew name יְרוּשָׁלַיִם‎ (Yərūšālayim) for Jerusalem is rendered as Ἱεροσόλυμα (Hierosóluma) in, e.g., Matthew 2:1. The first part corresponds to the Ancient Greek prefix ἱερo- (hiero-), meaning "sacred, holy".
+
+
+Often in phono-semantic matching, the source-language determines both the root word and the noun-pattern. This makes it difficult to determine the source language's influence on the target-language morphology. For example, "the phono-semantic matcher of English dock with Israeli Hebrew מבדוק mivdók could have used –  after deliberately choosing the phonetically and semantically suitable root b-d-q בדק meaning 'check' (Rabbinic) or 'repair' (Biblical) –  the noun-patterns mi⌂⌂a⌂á, ma⌂⌂e⌂á, mi⌂⌂é⌂et, mi⌂⌂a⌂áim etc. (each ⌂ represents a slot where a radical is inserted). Instead, mi⌂⌂ó⌂, which was not highly productive, was chosen because its [o] makes the final syllable of מבדוק mivdók sound like English dock."
+
+
+PSM is frequently used in Mandarin borrowings.An example is the Taiwanese Mandarin word 威而剛 wēi'érgāng (wei'ergang), which literally means "powerful and hard" and refers to Viagra, the drug for treating impotence in men, manufactured by Pfizer.Another example is the Mandarin form of World Wide Web, which is wàn wéi wǎng (万维网), which satisfies "www" and literally means “myriad dimensional net”. The English word hacker has been borrowed into Mandarin as 黑客 (hēikè, "wicked visitor").Modern Standard Chinese 声纳 shēngnà "sonar" uses the characters 声 shēng "sound" and 纳 nà "receive, accept". The pronunciations shēng and nà are phonetically somewhat similar to the two syllables of the English word. Chinese has a large number of homo/heterotonal homophonous morphemes, which would have been a better phonetic fit than shēng, but not nearly as good semantically –  consider the syllable song (cf. 送 sòng ‘deliver, carry, give (as a present)’, 松 sōng ‘pine; loose, slack’, 耸 sǒng ‘tower; alarm, attract’ etc.), sou (cf. 搜 sōu ‘search’, 叟 sŏu ‘old man’, 馊 sōu ‘sour, spoiled’ and many others) or shou (cf. 收 shōu ‘receive, accept’, 受 shòu ‘receive, accept’, 手 shǒu ‘hand’, 首 shǒu ‘head’, 兽 shòu ‘beast’, 瘦 shòu ‘thin’ and so forth).".According to Zuckermann, PSM in Mandarin is common in:
+
+brand names
+computer jargon; the aforementioned word for "World Wide Web"
+technological terms; the aforementioned word for "Sonar".
+toponyms; e.g. The name 白俄罗斯 Bái'èluósī, "Belarus" combines the word 白 Bái, "White" with the name 俄罗斯 Èluósī, "Russia", therefore meaning "White Russia" just like the endonym "Белару́сь".From a monolingual Chinese view, Mandarin PSM is the ‘lesser evil’ compared with Latin script (in digraphic writing) or code switching (in speech). Zuckermann’s exploration of PSM in Standard Chinese and Meiji-period Japanese concludes that the Chinese writing system is multifunctional: pleremic ("full" of meaning, e.g. logographic), cenemic ("empty" of meaning, e.g. phonographic - like a syllabary) and simultaneously cenemic and pleremic (phono-logographic). Zuckermann argues that Leonard Bloomfield’s assertion that "a language is the same no matter what system of writing may be used" is inaccurate. “If Chinese had been written using roman letters, thousands of Chinese words would not have been coined, or would have been coined with completely different forms”.
+
+
+
+In modern Japanese, loan words are generally represented phonetically via katakana. However, in earlier times loan words were often represented by kanji (Chinese characters), a process called ateji when used for phonetic matching, or jukujikun when used for semantic matching. Some of these continue to be used; the characters chosen may correspond to the sound, the meaning, or both.
+In most cases the characters used were chosen only for their matching sound or only for their matching meaning. For example, in the word 寿司 (sushi), the two characters are respectively read as su and shi, but the character 寿 means "one's natural life span" and 司 means "to administer", neither of which has anything to do with the food –  this is ateji. Conversely, in the word 煙草 (tabako) for "tobacco", the individual kanji respectively mean "smoke" and "herb", which corresponds to the meaning, while none of their possible readings have a phonetic relationship to the word tabako –  this is jukujikun.
+In some cases, however, the kanji were chosen for both their semantic and phonetic values, a form of phono-semantic matching. A stock example is 倶楽部 (kurabu) for "club", where the characters can be interpreted loosely in sequence as "together-fun-place". Another example is 合羽 (kappa) for the Portuguese capa, a kind of raincoat. The characters can mean "wings coming together", as the pointed capa resembles a bird with wings folded together.
+
+
+Sapir & Zuckermann (2008) demonstrate how Icelandic camouflages many English words by means of phono-semantic matching. For example, the Icelandic-looking word eyðni, meaning "AIDS", is a PSM of the English acronym AIDS, using the pre-existent Icelandic verb eyða, meaning "to destroy", and the Icelandic nominal suffix -ni. Similarly, the Icelandic word tækni, meaning "technology, technique", derives from tæki, meaning "tool", combined with the nominal suffix -ni, but is, in fact, a PSM of the Danish (or international) teknik, meaning "technology, technique". Tækni was coined in 1912 by Dr Björn Bjarnarson from Viðfjörður in the East of Iceland. It had been in little use until the 1940s, but has ever since become highly common, as a lexeme and as an element in new formations, such as raftækni, lit. "electrical technics", i.e. "electronics", tæknilegur "technical" and tæknir "technician". Other PSMs discussed in the article are beygla, bifra –  bifrari, brokkál, dapur –  dapurleiki - depurð, fjárfesta - fjárfesting, heila, guðspjall, ímynd, júgurð, korréttur, Létt og laggott, musl, pallborð –  pallborðsumræður, páfagaukur, ratsjá, setur, staða, staðall –  staðla –  stöðlun, toga –  togari, uppi and veira.A few PSMs exist in English, based on French loanwords; the mispronunciation of chaise longue as "chase-lounge" is a familiar example.  The French word chartreuse (Carthusian monastery) was translated to the English charterhouse. The French word choupique, itself an adaptation of the Choctaw name for the bowfin, has likewise been Anglicized as "shoepike", although it is unrelated to the pikes.  The French name for the Osage orange, bois d'arc (lit. "bow-wood"), is sometimes rendered as "bowdark".The second part of the word muskrat was altered to match rat, replacing the original form musquash, which derives from an Algonquian (possibly Powhatan) word, muscascus (literally "it is red"), or from the Abenaki native word mòskwas.
+The Prayer Book's runagates in Psalm 68 derive from phono-semantic matching between Latin renegatus and English run agate.
+
+
+A number of PSMs exist in Dutch as well. One notable example is hangmat ("hammock"), which is a modification of Spanish hamaca, also the source of the English word. Natively, the word is transparently analysed as a "hang-mat", which aptly describes the object. Similarly:
+
+In ansjovis ("anchovy"), the second part was modified to resemble vis ("fish"), although the word originates in Spanish anchova;
+In scheurbuik ("scurvy"), the word parts were modified to resemble scheur- (stem of scheuren, tear open) and buik ("belly, stomach"), although the word originates in Middle Low German schorbuck;
+In sprokkelmaand (an alternative name for februari, "February"), the first part was modified to resemble sprokkelen ("gather wood"), although the word originates in Latin spurcalia;
+In witbier the first word part was modified from the German word Weizen ("wheat") to resemble wit ("white");
+In zijdenhemdje (a variety of apple with a very soft, thin, yellow skin), the word parts were modified to resemble zijden ("silken") and hemdje ("shirt; small shirt; vest"), although the word actually denotes the place Sydenham where the apple originates.
+Dutch dictionary Van Dale describes balkenbrij as a particularly notable example.
+Other examples are angstvallig, dukdalf, geeuwhonger, hagedis, hondsdraf, penthouse, rederijker, rendier and zondvloed.
+
+
+Mailhammer (2008) "applies the concepts of multisourced neologisation and, more generally, camouflaged borrowing, as established by Zuckermann (2003a) to Modern German, pursuing a twofold aim, namely to underline the significance of multisourced neologisation for language contact theory and secondly to demonstrate that together with other forms of camouflaged borrowing it remains an important borrowing mechanism in contemporary German."
+
+
+Zuckermann (2009, p. 60) analyses the evolution of the word artichoke. Beginning in Arabic الخرشوف ('al-xarshūf) "the artichoke", it was adapted into Spanish Arabic alxarshofa, then Old Spanish alcarchofa, then Italian alcarcioffo, North Italian arcicioffo > arciciocco > articiocco, then as the internationalism phonetically realized in English as artichoke. The word was eventually phono-semantically matched back into colloquial Levantine Arabic (for example in Syria, Lebanon and Israel) as أرضي شوكي arḍī shōkī, consisting of أرضي arḍī "earthly" and شوكي shawkī "thorny".
+Arabic has made use of phono-semantic matching to replace blatantly imported new terminology with a word derived from an existing triliteral root. Examples are:
+
+
+The Finnish compound word for "jealous" mustasukkainen literally means "black-socked" (musta "black" and sukka "sock"). However, the word is a case of a misunderstood loan translation from Swedish svartsjuk "black-sick". The Finnish word sukka fit with a close phonological equivalent to the Swedish sjuk. Similar cases are työmyyrä "hardworking person", literally "work mole", from arbetsmyra "work ant", matching myra "ant" to myyrä "mole", and liikavarvas "clavus", literally "extra toe", from liktå < liktorn "dead thorn" , matching liika "extra" to lik "dead (archaic)" and varvas "toe" to tå < torn "thorn".
+
+
+Viagra, a brand name which was suggested by Interbrand Wood (the consultancy firm hired by Pfizer), is itself a multisourced neologism, based on Sanskrit व्याघ्र vyāghráh ("tiger") but enhanced by the words vigour (i.e. strength) and Niagara (i.e. free/forceful flow).
+
+
+According to Zuckermann (2003a), PSM has various advantages from the point of view of the puristic language planner:
+
+recycling obsolete lexical items
+camouflaging foreign influence (for the native speaker in the future)
+facilitating initial learning (mnemonics) (for the contemporary learner/speaker)Other motivations for PSM include the following:
+
+playfulness (cf. midrashic tradition of homiletic commentary, cf. the Jewish pilpul)
+Apollonianism (the wish to create order/meaningfulness, cf. folk etymology, etymythology, paronymic attraction)
+iconicity (the belief that there is something intrinsic about the sound of names.)
+political correctness / rejective lexical engineering
+attracting customers (in the case of brand names)
+
+
+An expressive loan is a loanword incorporated into the expressive system of the borrowing language, making it resemble native words or onomatopoeia.  Expressive loanwords are hard to identify, and by definition, they follow the common phonetic sound change patterns poorly.  Likewise, there is a continuum between "pure" loanwords and "expressive" loanwords. The difference to a folk etymology is that a folk etymology or eggcorn is based on misunderstanding, whereas an expressive loan is changed on purpose, the speaker taking the loanword knowing full well that the descriptive quality is different from the original sound and meaning.
+South-eastern Finnish, for example, has many expressive loans. The main source language, Russian, does not use the  front rounded vowels 'y', 'ä' or 'ö' [y æ ø]. Thus, it is common to add these to redescriptivized loans to remove the degree of foreignness that the loanword would otherwise have. For example, tytinä "brawn" means "wobblyness", and superficially it looks like a native construction, originating from the verb tutista "to wobble" added with a front vowel sound in the vowel harmony. However, it is expressivized from tyyteni (which is a confusing word as -ni is a possessive suffix), which in turn is a loanword from Russian stúden' . A somewhat more obvious example is tökötti "sticky, tarry goo", which could be mistaken as a derivation from the onomatopoetic word tök (cf. the verb tökkiä "to poke"). However, it is an expressive loan of Russian d'ogot'  "tar".
+

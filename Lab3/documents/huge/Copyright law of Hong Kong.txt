@@ -1,0 +1,48 @@
+Copyright law in Hong Kong to a great extent follows the English model. The Basic Law of Hong Kong, its constitutional document, guarantees a high degree of autonomy and continuation of laws previously in force after its reunification with Mainland China.  Hong Kong therefore continues to maintain a separate intellectual property regime from Mainland China. Article 139 and 140 of the Basic Law specifically deal with the protection of copyright in Hong Kong.
+
+Article 139
+The Government of the Hong Kong Special Administrative Region shall, on its own, formulate policies on science and technology and protect by law achievements in scientific and technological research, patents, discoveries and inventions.
+
+The Government of the Hong Kong Special Administrative Region shall, on its own, decide on the scientific and technological standards and specifications applicable in Hong Kong. 
+
+Article 140
+The Government of the Hong Kong Special Administrative Region shall, on its own, formulate policies on culture and protect by law the achievements and the lawful rights and interests of authors in their literary and artistic creation.
+
+
+Apart from general substantive criteria, for Copyright to subsist in a work, the statutory requirements with respect to qualification for copyright protection in s 177 must be met (Copyright Ordinance s 2(3)).
+Hong Kong has broad copyright protection thanks to its open-qualification system under Copyright Ordinance ss177(1)(a), 177(1)(b) and 178. It means that no requirements of nationality or other status of the author, or of the work's place of first publication need to be satisfied before a work is eligible for protection. Works transmitted over Internet, radio, televisions are all under protection (ss26 and 177(1)(c)).
+Nonetheless, Copyright Ordinance s 180(1) allows the Chief Executive to deny or limit copyright protection for works originating in non-reciprocating jurisdictions.
+
+
+The Copyright Ordinance (Cap 528), which became effective on 27 June 1997, is Hong Kong's first purely local copyright law. However, the Copyright Act 1956 of the United Kingdom will continue to apply to the protection of copyright of works created before 27 June 1997.
+
+
+Copyright Ordinance (Cap 528) s 2(i)(a) protects 9 categories of copyrighted works:
+
+literary works
+dramatic works
+musical works
+artistic works
+sound recordings
+films
+broadcasts
+cable programmes
+typographical arrangement of published editions
+
+
+In order to successfully claim for copyright protection, 3 criteria must be satisfied: (1) the subject matter must be a 'work'; (2) the work must fall within 1 of the 9 categories stated in s.2(1) of the Hong Kong Copyright Ordinance; and (3) the work must be original if the subject matter is a literary, dramatic, musical or artistic work.
+
+
+S.17 to 21 of the Copyright Ordinance deal with the duration of copyright works. The author of the work is deemed to be the person who creates the work (with exceptions for commissioned works and employee works). S.17(1) to (5) states that the duration of copyright of literary, dramatic, musical and artistic works is the life of the author plus 50 years, or 50 years from the end of the year in which the work was first created or made available to the public if the identity of the author is not known. 
+Except for typographical arrangement of published editions, the duration of copyright in other works is also 50 years from certain events specified in the Copyright Ordinance.
+The duration of copyright in typographical arrangement of published editions is 25 years from the year of first publication, according to S.21 of the Copyright Ordinance.
+
+
+The Hong Kong Copyright Ordinance Pt II Div IV (ss 89-100) recognizes the following two types of moral rights ("droit d'auteur") in favour of the author, director or commissioner of the work regardless of whether he is the owner of the copyright: (i) Right to be identified as author or director (Copyright Ordinance s 89); and (ii) Right to object to derogatory treatment of work Copyright Ordinance s 92.
+
+
+Controversial changes criminalising the copying of materials in the course of trade were introduced in 2000: insofar as they affect printed matter, these were quickly suspended following an outcry from educational groups and consumer groups. The suspension, provided in the Copyright (Suspension of Amendments) Ordinance 2001, will expire on 31 July 2004. Hong Kong is currently unique in the common law world for treating copying infringing materials differently between printed and non-printed materials.
+
+
+Copyright laws are administered by the Intellectual Property Department of the Hong Kong Government.
+

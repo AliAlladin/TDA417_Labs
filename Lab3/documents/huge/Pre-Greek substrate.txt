@@ -1,0 +1,66 @@
+The Pre-Greek substrate (or Pre-Greek substratum) consists of the unknown language or languages spoken in prehistoric Greece before the settlement of Proto-Greek speakers during the Middle and Late Bronze Age period in the area. It is possible that Greek took over some thousand words and proper names from such a language (or languages), because some of its vocabulary cannot be satisfactorily explained as deriving from the Proto-Greek language.
+
+
+There are different categories of Pre-Greek, or "Aegean", loanwords such as:
+Animals
+βόλινθος/βόνασσος, bólinthos/bónassos, 'wild ox';
+κάνθαρος, kántharos, 'beetle';
+σμίνθος, smínthos, 'mouse'.Architecture:
+λαβύρινθος, labýrinthos, 'labyrinth';
+πλίνθος, plínthos, 'brick';
+πύργος, pýrgos, 'tower'.Maritime vocabulary:
+θάλασσα, thálassa, 'sea'.Musical instruments:
+σύριγξ, sýrinx, 'flute';
+κίθαρις, kítharis, 'zither';
+σάλπιγξ, sálpinx, 'trumpet';
+φόρμιγξ, phórminx, 'lyre'.Personal names:
+Ὀδυσσεύς, 'Odysseus';
+Ἥφαιστος, 'Hephaestus'.Plants:
+ἀψίνθιον, apsinthion, 'wormwood' or 'absinthe';
+ἐλαία, elaía, 'olive tree';
+κισσός, kissós, 'ivy';
+ἄμπελος, ámpelos, 'vine';
+σταφύλια,staphylia, grape.Metals and metallurgy:
+κασσίτερος, kassíteros, 'tin';
+χαλκός, chalkós, 'bronze';
+μόλυβδος, mólybdos, 'lead';
+σίδηρος, sídēros, 'iron'.Social institutions:
+τύραννος, týrannos, 'absolute ruler'.Theonyms:
+Ἀπόλλων, Apóllōn 'Apollo'.Toponyms (or placenames):
+-nth- (e.g. Κόρινθος 'Korinthos', Ζάκυνθος 'Zakynthos'),
+-ss- (e.g. Παρνασσός 'Parnassos') and
+-tt- (e.g. Ὑμηττός 'Hymettus').Use of domestic species:
+ἔλαιον, élaion, 'olive oil';
+λήκυθος, lḗkythos, 'oil-flask';
+κάνθων, kánthōn, 'pack-ass'.Weapons:
+σιβύνη, síbynē, 'hunting spear';
+ὑσσός, hyssós, 'javelin';
+θώραξ, thṓrax, 'corselet'.Weaving:
+μύρινθος, mýrinthos, 'cord';
+ἀρύβαλλος, arýballos, 'purse'.
+
+
+Various explanations have been put forward for these substrate features. Among these are:
+
+
+The existence of a Minoan (Eteocretan) substratum is the view of English archaeologist Arthur Evans who assumed widespread Minoan colonisation of the Aegean, policed by a Minoan thalassocracy.Raymond A. Brown, after listing a number of words of pre-Greek origin from Crete, suggests a relation between Minoan, Eteocretan, Lemnian (Pelasgian), and Tyrrhenian, coining the name "Aegeo-Asianic" for the proposed language family.Robert S. P. Beekes also suggests that the pre-Greek substratum, mostly non-Indo-European (or pre-Indo-European) in origin, is largely derived from either one language or a group of closely related languages which could still include Minoan and/or languages with affinities to it, such as Eteocretan. However, many Minoan loanwords found in Mycenaean Greek (e.g., words for architecture, metals and metallurgy, music, use of domestic species, social institutions, weapons, weaving) have been asserted to be the result of socio-cultural and economic interactions between the Minoans and Mycenaeans during the Bronze Age, and may therefore be part of a linguistic adstrate in Greek rather than a substrate.
+
+
+An Anatolian, perhaps specifically Luwian, substratum has been proposed, on the basis of -ssa- and -nda- (corresponding to -ssos- and -nthos- in mainland Greece) placenames being widespread in Western Anatolia. However, of the few words of secure Anatolian origin, most are cultural items or commodities likely the result of commercial exchange, not of a substratum. Furthermore, the correlations between Anatolian and Greek placenames may in fact represent a common early phase of Indo-European spoken before the Anatolian languages emerged in Asia Minor and Greek in mainland Greece. Some of the relevant vocabulary can alternatively be explained as language contact effects between Greek and Anatolic languages in Anatolia without necessarily arising from a language shift scenario.
+
+Anatolian loanwords include:Apóllōn (Doric: Apéllōn, Cypriot: Apeílōn), from *Apeljōn, as in Hittite Appaliunaš;
+dépas ‘cup; pot, vessel’, Mycenaean di-pa, from Hieroglyphic Luwian ti-pa-s ‘sky; bowl, cup’ (cf. Hittite nēpis ‘sky; cup’);
+eléphās ‘ivory’, from Hittite laḫpa (itself from Mesopotamia; cf. Phoenician ʾlp, Egyptian Ȝbw);
+kýanos ‘dark blue glaze; enamel’, from Hittite kuwannan- ‘copper ore; azurite’ (ultimately from Sumerian kù-an);
+kýmbachos ‘helmet’, from Hittite kupaḫi ‘headgear’;
+kýmbalon ‘cymbal’, from Hittite ḫuḫupal ‘wooden percussion instrument’;
+mólybdos ‘lead’, Mycenaean mo-ri-wo-do, from *morkʷ-io- ‘dark’, as in Lydian mariwda(ś)-k ‘the dark ones’;
+óbryza ‘vessel for refining gold’, from Hittite ḫuprušḫi ‘vessel’;
+tolýpē ‘ball of wool’, from Hittite taluppa ‘lump’/‘clod’ (or Cuneiform Luwian taluppa/i).
+
+
+A Tyrrhenian/Etruscan substratum was proposed on the basis of (firstly) statements by Thucydides, to the effect that Tyrrhenian languages were spoken in an area including Athens, before the Tyrrhenians were expelled to the island of Lemnos, and (secondly) the Lemnos funerary stele: four pottery sherds inscribed in Etruscan that were found in 1885 at Ephestia in Lemnos.However, the Lemnos funerary stele was written in a form of ancient Etruscan, which suggested that the author had emigrated from Etruria in Italy, rather than the Greek sphere, and the Homeric tradition makes no mention of a Tyrrhenian presence on Lemnos.If Etruscan was spoken in Greece, it must have been effectively a language isolate, with no significant relationship to or interaction with speakers of pre-Greek or ancient Greek, since, in the words of C. De Simone, there are no Etruscan words that can be "etymologically traced back to a single, common ancestral form with a Greek equivalent".
+
+
+In 1979, Edzard J. Furnée proposed a theory under which pre-Greek substrate is connected with Kartvelian languages.
+

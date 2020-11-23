@@ -1,0 +1,125 @@
+In language, a clause is a part of the sentence that contains a verb. A typical clause consists of a subject and a predicate, the latter typically a verb phrase, a verb with any objects and other modifiers. However, the subject is sometimes not said or explicit, often the case in null-subject languages if the subject is retrievable from context, but it sometimes also occurs  in other languages such as English (as in imperative sentences and non-finite clauses).
+A simple sentence usually consists of a single finite clause with a finite verb that is independent. More complex sentences may contain multiple clauses. Main clauses (matrix clauses, independent clauses) are those that can stand alone as a sentence. Subordinate clauses (embedded clauses, dependent clauses) are those that would be awkward or incomplete if they were alone.
+
+
+A primary division for the discussion of clauses is the distinction between main clauses (i.e. matrix clauses, independent clauses) and subordinate clauses (i.e. embedded clauses, dependent clauses). A main clause can stand alone, i.e. it can constitute a complete sentence by itself. A subordinate clause (i.e. embedded clause), in contrast, is reliant on the appearance of a main clause; it depends on the main clause and is therefore a dependent clause, whereas the main clause is an independent clause.
+A second major distinction concerns the difference between finite and non-finite clauses. A finite clause contains a structurally central finite verb, whereas the structurally central word of a non-finite clause is often a non-finite verb. Traditional grammar focuses on finite clauses, the awareness of non-finite clauses having arisen much later in connection with the modern study of syntax. The discussion here also focuses on finite clauses, although some aspects of non-finite clauses are considered further below.
+Clauses can be classified according to a distinctive trait that is a prominent characteristic of their syntactic form. The position of the finite verb is one major trait used for classification, and the appearance of a specific type of focusing word (e.g. wh-word) is another. These two criteria overlap to an extent, which means that often no single aspect of syntactic form is always decisive in determining how the clause functions. There are, however, strong tendencies.
+
+
+Standard SV-clauses (subject-verb) are the norm in English. They are usually declarative (as opposed to exclamative, imperative, or interrogative); they express information in a neutral manner, e.g.
+
+The pig has not yet been fed. - Declarative clause, standard SV order
+I've been hungry for two hours. - Declarative clause, standard SV order
+...that I've been hungry for two hours. - Declarative clause, standard SV order, but functioning as a subordinate clause due to the appearance of the subordinator thatDeclarative clauses like these are by far the most frequently occurring type of clause in any language. They can be viewed as basic, other clause types being derived from them. Standard SV-clauses can also be interrogative or exclamative, however, given the appropriate intonation contour and/or the appearance of a question word, e.g.
+
+a. The pig has not yet been fed? - Rising intonation on fed makes the clause a yes/no-question.b. The pig has not yet been fed! - Spoken forcefully, this clause is exclamative.c. You've been hungry for how long? - Appearance of interrogative word how and rising intonation make the clause a constituent questionExamples like these demonstrate that how a clause functions cannot be known based entirely on a single distinctive syntactic criterion. SV-clauses are usually declarative, but intonation and/or the appearance of a question word can render them interrogative or exclamative.
+
+
+Verb first clauses in English usually play one of three roles: 1. They express a yes/no-question via subject–auxiliary inversion, 2. they express a condition as an embedded clause, or 3. they express a command via imperative mood, e.g.
+
+a. He must stop laughing. - Standard declarative SV-clause (verb second order)
+b. Should he stop laughing? - Yes/no-question expressed by verb first order
+c. Had he stopped laughing,... - Condition expressed by verb first order
+d. Stop laughing! - Imperative formed with verb first ordera. They have done the job. - Standard declarative SV-clause (verb second order)
+b. Have they done the job? - Yes/no-question expressed by verb first order
+c. Had they done the job,... - Condition expressed by verb first order
+d. Do the job! - Imperative formed with verb first orderMost verb first clauses are main clauses. Verb first conditional clauses, however, must be classified as embedded clauses because they cannot stand alone.
+
+
+Wh-clauses contain a wh-word. Wh-words often serve to help express a constituent question. They are also prevalent, though, as relative pronouns, in which case they serve to introduce a relative clause and are not part of a question. The wh-word focuses a particular constituent and most of the time, it appears in clause-initial position. The following examples illustrate standard interrogative wh-clauses. The b-sentences are direct questions (main clauses), and the c-sentences contain the corresponding indirect questions (embedded clauses):
+
+a. Sam likes the meat. - Standard declarative SV-clause
+b. Who likes the meat? - Matrix interrogative wh-clause focusing on the subject
+c. They asked who likes the meat. - Embedded interrogative wh-clause focusing on the subjecta. Larry sent Susan to the store. - Standard declarative SV-clause
+b. Whom did Larry send to the store? - Matrix interrogative wh-clause focusing on the object, subject-auxiliary inversion present
+c. We know whom Larry sent to the store. - Embedded wh-clause focusing on the object, subject-auxiliary inversion absenta. Larry sent Susan to the store. - Standard declarative SV-clause
+b. Where did Larry send Susan? - Matrix interrogative wh-clause focusing on the oblique object, subject-auxiliary inversion present
+c. Someone is wondering where Larry sent Susan. - Embedded wh-clause focusing on the oblique object, subject-auxiliary inversion absentOne important aspect of matrix wh-clauses is that subject-auxiliary inversion is obligatory when something other than the subject is focused. When it is the subject (or something embedded in the subject) that is focused, however, subject-auxiliary inversion does not occur.
+
+a. Who called you? - Subject focused,  no subject-auxiliary inversion
+b. Whom did you call? - Object focused, subject-auxiliary inversion occursAnother important aspect of wh-clauses concerns the absence of subject-auxiliary inversion in embedded clauses, as illustrated in the c-examples just produced. Subject-auxiliary inversion is obligatory in matrix clauses when something other than the subject is focused, but it never occurs in embedded clauses regardless of the constituent that is focused. A systematic distinction in word order emerges across matrix wh-clauses, which can have VS order, and embedded wh-clauses, which always maintain SV order, e.g.
+
+a. Why are they doing that? - Subject-auxiliary inversion results in VS order in matrix wh-clause.
+b. They told us why they are doing that. - Subject-auxiliary inversion is absent in embedded wh-clause.
+c. *They told us why are they doing that. - Subject-auxiliary inversion is blocked in embedded wh-clause.a. Whom is he trying to avoid? - Subject-auxiliary inversion results in VS order in matrix wh-clause.
+b. We know whom he is trying to avoid. - Subject-auxiliary inversion is absent in embedded wh-clause.
+c. *We know whom is he trying to avoid. - Subject-auxiliary inversion is blocked in embedded wh-clause.
+
+
+
+Relative clauses are a mixed group. In English they can be standard SV-clauses if they are introduced by that or lack a relative pronoun entirely, or they can be wh-clauses if they are introduced by a wh-word that serves as a relative pronoun.
+
+
+Embedded clauses can be categorized according to their syntactic function in terms of predicate-argument structures. They can function as arguments, as adjuncts, or as predicative expressions. That is, embedded clauses can be an argument of a predicate, an adjunct on a predicate, or (part of) the predicate itself. The predicate in question is usually the matrix predicate of a main clause, but embedding of predicates is also frequent.
+
+
+A clause that functions as the argument of a given predicate is known as an argument clause. Argument clauses can appear as subjects, as objects, and as obliques. They can also modify a noun predicate, in which case they are known as content clauses.
+
+That they actually helped was really appreciated. - SV-clause functioning as the subject argument
+They mentioned that they had actually helped. - SV-clause functioning as the object argumentWhat he said was ridiculous. - Wh-clause functioning as the subject argument
+We know what he said. - Wh-clause functioning as an object argument
+He talked about what he had said. - Wh-clause functioning as an oblique object argumentThe following examples illustrate argument clauses that provide the content of a noun. Such argument clauses are content clauses:
+
+a. the claim that he was going to change it - Argument clause that provides the content of a noun (i.e. content clause)
+b. the claim that he expressed - Adjunct clause (relative clause) that modifies a nouna. the idea that we should alter the law - Argument clause that provides the content of a noun (i.e. content clause)
+b. the idea that came up - Adjunct clause (relative clause) that modifies a nounThe content clauses like these in the a-sentences are arguments. Relative clauses introduced by the relative pronoun that as in the b-clauses here have an outward appearance that is closely similar to that of content clauses. The relative clauses are adjuncts, however, not arguments.
+
+
+Adjunct clauses are embedded clauses that modify an entire predicate-argument structure. All clause types (SV-, verb first, wh-) can function as adjuncts, although the stereotypical adjunct clause is SV and introduced by a subordinator (i.e. subordinate conjunction, e.g. after, because, before, when, etc.), e.g.
+
+a. Fred arrived before you did. - Adjunct clause  modifying matrix clause
+b. After Fred arrived, the party started. - Adjunct clause modifying matrix clause
+c. Susan skipped the meal because she is fasting. - Adjunct clause modifying matrix clauseThese adjunct clauses modify the entire matrix clause. Thus before you did in the first example modifies the matrix clause Fred arrived. Adjunct clauses can also modify a nominal predicate. The typical instance of this type of adjunct is a relative clause, e.g.
+
+a. We like the music that you brought. - Relative clause functioning as an adjunct that modifies the noun music
+b. The people who brought music were singing loudly. - Relative clause functioning as an adjunct that modifies the noun people
+c. They are waiting for some food that will not come. - Relative clause functioning as an adjunct that modifies the noun food
+
+
+An embedded clause can also function as a predicative expression. That is, it can form (part of) the predicate of a greater clause.
+
+a. That was when they laughed. - Predicative SV-clause, i.e. a clause that functions as (part of) the main predicate
+b. He became what he always wanted to be. - Predicative wh-clause, i.e. wh-clause that functions as (part of) the main predicateThese predicative clauses are functioning just like other predicative expressions, e.g. predicative adjectives (That was good) and predicative nominals (That was the truth). They form the matrix predicate together with the copula.
+
+
+Some of the distinctions presented above are represented in syntax trees. These trees make the difference between main and subordinate clauses very clear, and they also illustrate well the difference between argument and adjunct clauses. The following dependency grammar trees show that embedded clauses are dependent on an element in the main clause, often on a verb:
+The main clause encompasses the entire tree each time, whereas the embedded clause is contained within the main clause. These two embedded clauses are arguments. The embedded wh-clause what we want is the object argument of the predicate know. The embedded clause that he is gaining is the subject argument of the predicate is motivating. Both of these argument clauses are directly dependent on the main verb of the matrix clause. The following trees identify adjunct clauses using an arrow dependency edge:
+
+These two embedded clauses are adjunct clauses because they provide circumstantial information that modifies a superordinate expression. The first is a dependent of the main verb of the matrix clause and the second is a dependent of the object noun. The arrow dependency edges identify them as adjuncts. The arrow points away from the adjunct towards it governor to indicate that semantic selection is running counter to the direction of the syntactic dependency; the adjunct is selecting its governor. The next four trees illustrate the distinction mentioned above between matrix wh-clauses and embedded wh-clauses
+
+The embedded wh-clause is an object argument each time. The position of the wh-word across the matrix clauses (a-trees) and the embedded clauses (b-trees) captures the difference in word order. Matrix wh-clauses have V2 word order, whereas embedded wh-clauses have (what amounts to) V3 word order. In the matrix clauses, the wh-word is a dependent of the finite verb, whereas it is the head over the finite verb in the embedded wh-clauses.
+
+
+There has been confusion about the distinction between clauses and phrases. This confusion is due in part to how these concepts are employed in the phrase structure grammars of the Chomskyan tradition. In the 1970s, Chomskyan grammars began labeling many clauses as CPs (i.e. complementizer phrases) or as IPs (i.e. inflection phrases), and then later as TPs (i.e. tense phrases), etc. The choice of labels was influenced by the theory-internal desire to use the labels consistently. The X-bar schema acknowledged at least three projection levels for every lexical head: a minimal projection (e.g. N, V, P, etc.), an intermediate projection (e.g. N', V', P', etc.), and a phrase level projection (e.g. NP, VP, PP, etc.). Extending this convention to the clausal categories occurred in the interest of the consistent use of labels.
+This use of labels should not, however, be confused with the actual status of the syntactic units to which the labels are attached. A more traditional understanding of clauses and phrases maintains that phrases are not clauses, and clauses are not phrases. There is a progression in the size and status of syntactic units: words < phrases < clauses. The characteristic trait of clauses, i.e. the presence of a subject and a (finite) verb, is absent from phrases. Clauses can be, however, embedded inside phrases.
+
+
+
+The central word of a non-finite clause is usually a non-finite verb (as opposed to a finite verb). There are various types of non-finite clauses that can be acknowledged based in part on the type of non-finite verb at hand. Gerunds are widely acknowledged to constitute non-finite clauses, and some modern grammars also judge many to-infinitives to be the structural locus of non-finite clauses. Finally, some modern grammars also acknowledge so-called small clauses, which often lack a verb altogether. It should be apparent that non-finite clauses are (by and large) embedded clauses.
+
+
+The underlined words in the following examples are considered non-finite clauses, e.g.
+
+a. Bill stopping the project was a big disappointment. - Non-finite gerund clause
+b. Bill's stopping the project was a big disappointment. - Gerund with noun statusa. We've heard about Susan attempting a solution. - Non-finite gerund clause
+b. We've heard about Susan's attempting a solution. - Gerund with noun statusa. They mentioned him cheating on the test. - Non-finite gerund clause
+b. They mentioned his cheating on the test. - Gerund with noun statusEach of the gerunds in the a-sentences (stopping, attempting, and cheating) constitutes a non-finite clause. The subject-predicate relationship that has long been taken as the defining trait of clauses is fully present in the a-sentences. The fact that the b-sentences are also acceptable illustrates the enigmatic behavior of gerunds. They seem to straddle two syntactic categories: they can function as non-finite verbs or as nouns. When they function as nouns as in the b-sentences, it is debatable whether they constitute clauses, since nouns are not generally taken to be constitutive of clauses.
+
+
+Some modern theories of syntax take many to-infinitives to be constitutive of non-finite clauses. This stance is supported by the clear predicate status of many to-infinitives. It is challenged, however, by the fact that to-infinitives do not take an overt subject, e.g.
+
+a. She refuses to consider the issue.
+a. He attempted to explain his concerns.The to-infinitives to consider and to explain clearly qualify as predicates (because they can be negated). They do not, however, take overt subjects. The subjects she and he are dependents of the matrix verbs refuses and attempted, respectively, not of the to-infinitives. Data like these are often addressed in terms of control. The matrix predicates refuses and attempted are control verbs; they control the embedded predicates consider and explain, which means they determine which of their arguments serves as the subject argument of the embedded predicate. Some theories of syntax posit the null subject PRO (i.e. pronoun) to help address the facts of control constructions, e.g.
+
+b. She refuses PRO to consider the issue.
+b. He attempted PRO to explain his concerns.With the presence of PRO as a null subject, to-infinitives can be construed as complete clauses, since both subject and predicate are present.
+One must keep in mind, though, that PRO-theory is particular to one tradition in the study of syntax and grammar (Government and Binding Theory, Minimalist Program). Other theories of syntax and grammar (e.g. Head-Driven Phrase Structure Grammar, Construction Grammar, dependency grammar) reject the presence of null elements such as PRO, which means they are likely to reject the stance that to-infinitives constitute clauses.
+
+
+Another type of construction that some schools of syntax and grammar view as non-finite clauses is the so-called small clause. A typical small clause consists of a noun phrase and a predicative expression, e.g.
+
+We consider that a joke. - Small clause with the predicative noun phrase a joke
+Something made him angry. - Small clause with the predicative adjective angry
+She wants us to stay. - Small clause with the predicative non-finite to-infinitive to stayThe subject-predicate relationship is clearly present in the underlined strings. The expression on the right is a predication over the noun phrase immediately to its left. While the subject-predicate relationship is indisputably present, the underlined strings do not behave as single constituents, a fact that undermines their status as clauses. Hence one can debate whether the underlined strings in these examples should qualify as clauses. The layered structures of the chomskyan tradition are again likely to view the underlined strings as clauses, whereas the schools of syntax that posit flatter structures are likely to reject clause status for them.
+

@@ -1,0 +1,12 @@
+The Explosives Division (EXD) is a division of the Science and Technology Directorate of the United States Department of Homeland Security. Within the Homeland Security Advanced Research Projects Agency, EXD develops technologies needed to detect, interdict, and lessen the effect of non-nuclear explosives used by terrorists against mass transit, civil aviation, and critical infrastructure.
+
+
+The 2007 High Priority Technical Needs Brochure, an article published by Homeland Security, defines critical focus areas for explosives research:
+
+Standoff detection on persons (portable solutions)
+System solution for detection in baggage (checked & carried)
+Capability to detect VBIED (Vehicle Borne Improvised Explosive Devices) of large threat mass (container, trailer, ship, vessel, car, rail)
+Capability to detect homemade and novel explosives
+Capability to assess, render safe, and neutralize explosive threats
+Optimize canine explosive detection capability
+
