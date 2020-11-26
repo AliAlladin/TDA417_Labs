@@ -91,11 +91,11 @@ public class Lab3 {
         // N.B. Path is Java's class for representing filenames
         // PathPair represents a pair of Paths (see PathPair.java)
         BST<PathPair, Integer> similarity = new BST<>();
-        for (Path path1: files.keys()) {
-            for (Path path2: files.keys()) {
+        for (Path path1: files.keys()) { // O(d)
+            for (Path path2: files.keys()) { // O(d)
                 if (path1.equals(path2)) continue;
-                for (Ngram ngram1: files.get(path1)) {
-                    for (Ngram ngram2: files.get(path2)) {
+                for (Ngram ngram1: files.get(path1)) { // O(k)
+                    for (Ngram ngram2: files.get(path2)) { // O(k)
                         if (ngram1.equals(ngram2)) {
                             PathPair pair = new PathPair(path1, path2);
 

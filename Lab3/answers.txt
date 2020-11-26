@@ -19,7 +19,13 @@ Group member C:    [...]
 **    is a small constant - that is, there is not much plagiarised text.
 ******************************************************************************/
 
-[...]
+O(N^2)
+
+The two loops that go through the file trees have a time complexity of O(D)
+each and the two loops that go through n-gram arrays each have a time complexity
+of O(K). This gives us a total time complexity of:
+
+D*D*K*K = N*N = N^2
 
 
 /******************************************************************************
@@ -28,7 +34,12 @@ Group member C:    [...]
 **    Explain very briefly why.
 *******************************************************************************/
 
-[...]
+small: 2,41 seconds
+medium: 423,82 seconds
+
+The amount of 5-grams increases by a factor of 10 for every directory (small (N = 20,000),
+medium (N = 200,000)). The time on the other hand increased with a factor greater than 100.
+This indicates that the complexity is quadratic.
 
 
 /******************************************************************************
@@ -36,7 +47,6 @@ Group member C:    [...]
 **    the 'huge' directory? Show your calculations.
 *******************************************************************************/
 
-[...]
 
 
 /******************************************************************************
