@@ -4,10 +4,10 @@
 ** Lab 3: Plagiarism detection
 *******************************************************************************/
 
-Name of lab group: [...]
-Group member A:    [...]
-Group member B:    [...]
-Group member C:    [...]
+Name of lab group: Group 50
+Group member A:    Ali Alladin
+Group member B:    William Hugo
+Group member C:    Elias Johansson
 
 
 /******************************************************************************
@@ -46,6 +46,7 @@ This indicates that the complexity is quadratic.
 ** 3. How long do you predict the program would take to run on
 **    the 'huge' directory? Show your calculations.
 *******************************************************************************/
+
 The huge sample is 200 times bigger than the small sample. Since O(N^2) the expected runtime would be
 the runtime of the small sample, 2,41s, times 200^2 which is around 27 hours.
 
@@ -54,7 +55,6 @@ the runtime of the medium sample, 423 s, times 20^2 which is around 47 hours. Th
 is O(N^2).
 
 From this we expect the runtime for the huge dataset to be roughly 27 hours< and <47 hours.
-
 
 
 /******************************************************************************
@@ -99,9 +99,9 @@ From this we expect the runtime for the huge dataset to be roughly 27 hours< and
 ** A. Approximately how many hours did you spend on the assignment?
 ******************************************************************************/
 
-[..group member..]:  [..hours..]
-[..group member..]:  [..hours..]
-[..group member..]:  [..hours..]
+Ali Alladin:      x
+William Hugo:     x
+Elias Johansson:  x
 
 
 /******************************************************************************
