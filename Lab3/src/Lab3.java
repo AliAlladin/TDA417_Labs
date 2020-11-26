@@ -105,7 +105,6 @@ public class Lab3 {
         // PathPair represents a pair of Paths (see PathPair.java)
         BST<PathPair, Integer> similarity = new BST<>();
 
-
         for (Ngram ngram : index.keys()) {
             for (Path p : index.get(ngram)) {
                 for (Path p2 : index.get(ngram)) {
