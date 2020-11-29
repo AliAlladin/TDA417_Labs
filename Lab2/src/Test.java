@@ -16,7 +16,7 @@ public class Test {
         arr[12] = new Term("e", 0);
         arr[13] = new Term("e", 0);
         arr[14] = new Term("e", 0);
-        arr[15] = new Term("f", 0);
+        arr[15] = new Term("", 0);
 
         Term[] arr2 = new Term[256];
         for (int i = 0; i < 256; i++) {
@@ -27,6 +27,9 @@ public class Test {
                 arr2[i] = new Term("B", 0);
             }
         }
-        System.out.println("Index: " + RangeBinarySearch.lastIndexOf(arr2, new Term("b", 0), Term.byLexicographicOrder()));
+        System.out.println("Index: " + RangeBinarySearch.lastIndexOf(arr, new Term("b", 0), Term.byLexicographicOrder()));
+
+        Term term = new Term("",0);
+        term.getPrefix(1);
     }
 }
