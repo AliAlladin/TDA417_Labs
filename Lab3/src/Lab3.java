@@ -107,30 +107,52 @@ public class Lab3 {
 
         for (Ngram ngram : index.keys()) {
             for (Path p : index.get(ngram)) {
-                for (Path p2: index.get(ngram)){
-                    if (p.compareTo(p2)!=0){
-                        PathPair pair = new PathPair(p,p2);
+                for (Path p2 : index.get(ngram)) {
+                    if (p.compareTo(p2) != 0) {
+                        PathPair pair = new PathPair(p, p2);
                         if (!similarity.contains(pair)) {
                             similarity.put(pair, 0);
                         }
-                        else {
+                        similarity.put(pair, similarity.get(pair) + 1);
+
+                    }
+
+                }
+            }
+        }
+      /*  for (Path p1 : files.keys()) {
+            for (Path p2 : files.keys()) {
+                if (p1.compareTo(p2) == 0) {
+                    continue;
+                }
+                for (Ngram ngram1 : files.get(p1)) {
+                    for (Ngram ngram2 : files.get(p2)
+                    ) {
+                        if (ngram1.equals(ngram2)) {
+                            PathPair pair = new PathPair(p1, p2);
+
+                            if (!similarity.contains(pair))
+                                similarity.put(pair, 0);
+
                             similarity.put(pair, similarity.get(pair) + 1);
+
                         }
+
                     }
 
                 }
 
-
-               /** if (ngram1.equals(ngram2)) {
-                    PathPair pair = new PathPair(path1, path2);
-
-                    if (!similarity.contains(pair))
-                        similarity.put(pair, 0);
-
-                    similarity.put(pair, similarity.get(pair) + 1);
-                }*/
             }
-        }
+
+
+            /** if (ngram1.equals(ngram2)) {
+             PathPair pair = new PathPair(path1, path2);
+
+             if (!similarity.contains(pair))
+             similarity.put(pair, 0);
+
+             similarity.put(pair, similarity.get(pair) + 1);
+             }*/
 
 
         return similarity;

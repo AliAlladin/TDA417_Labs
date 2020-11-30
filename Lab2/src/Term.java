@@ -23,6 +23,9 @@ public class Term {
 
     // Extracts a prefix from the word.
     public String getPrefix(int len) {
+        if (len > word.length()) {
+            return  "";
+        }
         return String.copyValueOf(word.toCharArray(), 0, len);
 
     }

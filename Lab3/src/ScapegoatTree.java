@@ -2,29 +2,29 @@ import java.util.NoSuchElementException;
 import java.util.ArrayList;
 
 /**
- *  The {@code ScapegoatTree} class represents an ordered map of generic
- *  key-value pairs.
- *  It supports the usual <em>put</em>, <em>get</em>, <em>contains</em>,
- *  <em>size</em> and <em>isEmpty</em> methods.
- *  It does not support <em>delete</em>, however.
- *  It also supports <em>min</em> and <em>max</em> for finding the
- *  smallest and largest keys in the map.
- *  It also provides a <em>keys</em> method for iterating over all of the keys.
- *  <p>
- *  This implementation uses a scapegoat tree. It requires that
- *  the key type implements the {@code Comparable} interface and calls the
- *  {@code compareTo()} and method to compare two keys. It does not call either
- *  {@code equals()} or {@code hashCode()}.
+ * The {@code ScapegoatTree} class represents an ordered map of generic
+ * key-value pairs.
+ * It supports the usual <em>put</em>, <em>get</em>, <em>contains</em>,
+ * <em>size</em> and <em>isEmpty</em> methods.
+ * It does not support <em>delete</em>, however.
+ * It also supports <em>min</em> and <em>max</em> for finding the
+ * smallest and largest keys in the map.
+ * It also provides a <em>keys</em> method for iterating over all of the keys.
+ * <p>
+ * This implementation uses a scapegoat tree. It requires that
+ * the key type implements the {@code Comparable} interface and calls the
+ * {@code compareTo()} and method to compare two keys. It does not call either
+ * {@code equals()} or {@code hashCode()}.
  *
- *  @author Robert Sedgewick
- *  @author Kevin Wayne
- *  @author Nick Smallbone
- *  @author You!
+ * @author Robert Sedgewick
+ * @author Kevin Wayne
+ * @author Nick Smallbone
+ * @author You!
  */
 public class ScapegoatTree<Key extends Comparable<Key>, Value> {
     final double alpha = 2;        // how unbalanced the tree may become;
-                                   // alpha must be greater than 1,
-                                   // height is always <= alpha * lg size.
+    // alpha must be greater than 1,
+    // height is always <= alpha * lg size.
 
     private Node root;             // root of BST
 
@@ -55,6 +55,7 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
 
     /**
      * Returns true if this map is empty.
+     *
      * @return {@code true} if this map is empty, {@code false} otherwise
      */
     public boolean isEmpty() {
@@ -63,6 +64,7 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
 
     /**
      * Returns the number of key-value pairs in this map.
+     *
      * @return the number of key-value pairs in this map
      */
     public int size() {
@@ -78,9 +80,9 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
     /**
      * Does this map contain the given key?
      *
-     * @param  key the key
+     * @param key the key
      * @return {@code true} if this map contains {@code key} and
-     *         {@code false} otherwise
+     * {@code false} otherwise
      * @throws IllegalArgumentException if {@code key} is {@code null}
      */
     public boolean contains(Key key) {
@@ -91,9 +93,9 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
     /**
      * Returns the value associated with the given key.
      *
-     * @param  key the key
+     * @param key the key
      * @return the value associated with the given key if the key is in the map
-     *         and {@code null} if the key is not in the map
+     * and {@code null} if the key is not in the map
      * @throws IllegalArgumentException if {@code key} is {@code null}
      */
     public Value get(Key key) {
@@ -104,17 +106,17 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
         if (key == null) throw new IllegalArgumentException("calls get() with a null key");
         if (x == null) return null;
         int cmp = key.compareTo(x.key);
-        if      (cmp < 0) return get(x.left, key);
+        if (cmp < 0) return get(x.left, key);
         else if (cmp > 0) return get(x.right, key);
-        else              return x.val;
+        else return x.val;
     }
 
     /**
      * Inserts the specified key-value pair into the map, overwriting the old
      * value with the new value if the map already contains the specified key.
      *
-     * @param  key the key
-     * @param  val the value
+     * @param key the key
+     * @param val the value
      * @throws IllegalArgumentException if {@code key} is {@code null}
      */
     public void put(Key key, Value val) {
@@ -149,7 +151,7 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
 
         ArrayList<Node> nodes = new ArrayList<>(size(node));
         inorder(node, nodes);
-        return balanceNodes(nodes, 0, nodes.size()-1);
+        return balanceNodes(nodes, 0, nodes.size() - 1);
     }
 
     // Perform an inorder traversal of the subtree rooted at 'node', storing
@@ -157,6 +159,13 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
     private void inorder(Node node, ArrayList<Node> nodes) {
         // TO DO: use in-order traversal to store 'node' and all
         // descendants into 'nodes' ArrayList
+        if (node == null){
+            return;
+        }
+        inorder(node.left, nodes);
+        nodes.add(node);
+        inorder(node.right, nodes);
+
         throw new UnsupportedOperationException();
     }
 
@@ -168,7 +177,7 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
         if (lo > hi) return null;
 
         // Midpoint of subarray.
-        int mid = (lo+hi)/2;
+        int mid = (lo + hi) / 2;
 
         // TO DO: finish this method.
         //
@@ -191,7 +200,7 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
     // Returns log base 2 of a number.
     private int log2(int n) {
         if (n <= 0) return 0;
-        return 32 - Integer.numberOfLeadingZeros(n-1);
+        return 32 - Integer.numberOfLeadingZeros(n - 1);
     }
 
     /**
@@ -203,12 +212,12 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
     public Key min() {
         if (size() == 0) throw new NoSuchElementException("calls min() with empty map");
         return min(root).key;
-    } 
+    }
 
-    private Node min(Node x) { 
-        if (x.left == null) return x; 
-        else                return min(x.left); 
-    } 
+    private Node min(Node x) {
+        if (x.left == null) return x;
+        else return min(x.left);
+    }
 
     /**
      * Returns the largest key in the map.
@@ -219,12 +228,12 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
     public Key max() {
         if (size() == 0) throw new NoSuchElementException("calls max() with empty map");
         return max(root).key;
-    } 
+    }
 
     private Node max(Node x) {
-        if (x.right == null) return x; 
-        else                 return max(x.right); 
-    } 
+        if (x.right == null) return x;
+        else return max(x.right);
+    }
 
     /**
      * Returns all keys in the map as an {@code Iterable}.
@@ -242,12 +251,12 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
      * Returns all keys in the map in the given range,
      * as an {@code Iterable}.
      *
-     * @param  lo minimum endpoint
-     * @param  hi maximum endpoint
+     * @param lo minimum endpoint
+     * @param hi maximum endpoint
      * @return all keys in the map between {@code lo}
-     *         (inclusive) and {@code hi} (inclusive)
+     * (inclusive) and {@code hi} (inclusive)
      * @throws IllegalArgumentException if either {@code lo} or {@code hi}
-     *         is {@code null}
+     *                                  is {@code null}
      */
     public Iterable<Key> keys(Key lo, Key hi) {
         if (lo == null) throw new IllegalArgumentException("first argument to keys() is null");
@@ -256,16 +265,16 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
         ArrayList<Key> queue = new ArrayList<Key>();
         keys(root, queue, lo, hi);
         return queue;
-    } 
+    }
 
-    private void keys(Node x, ArrayList<Key> queue, Key lo, Key hi) { 
-        if (x == null) return; 
-        int cmplo = lo.compareTo(x.key); 
-        int cmphi = hi.compareTo(x.key); 
-        if (cmplo < 0) keys(x.left, queue, lo, hi); 
-        if (cmplo <= 0 && cmphi >= 0) queue.add(x.key); 
-        if (cmphi > 0) keys(x.right, queue, lo, hi); 
-    } 
+    private void keys(Node x, ArrayList<Key> queue, Key lo, Key hi) {
+        if (x == null) return;
+        int cmplo = lo.compareTo(x.key);
+        int cmphi = hi.compareTo(x.key);
+        if (cmplo < 0) keys(x.left, queue, lo, hi);
+        if (cmplo <= 0 && cmphi >= 0) queue.add(x.key);
+        if (cmphi > 0) keys(x.right, queue, lo, hi);
+    }
 
     /**
      * Returns the height of the BST.
@@ -275,6 +284,7 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
     public int height() {
         return height(root);
     }
+
     private int height(Node x) {
         if (x == null) return -1;
         return x.height;
@@ -283,6 +293,7 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
     /**
      * Returns the number of times the rebuild method has been
      * called (for debugging only).
+     *
      * @return the number of times the rebuild method has been called
      */
     public int rebuilds() {
@@ -298,14 +309,14 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
         return String.format("scapegoat tree, size %d, height %d, rebuilds %d", size(), height(), rebuilds());
     }
 
-  /*************************************************************************
-    *  Check integrity of BST data structure.
-    ***************************************************************************/
+    /*************************************************************************
+     *  Check integrity of BST data structure.
+     ***************************************************************************/
     private boolean check() {
-        if (!isBST())              System.out.println("Not in symmetric order");
-        if (!isSizeConsistent())   System.out.println("Subtree counts not consistent");
+        if (!isBST()) System.out.println("Not in symmetric order");
+        if (!isSizeConsistent()) System.out.println("Subtree counts not consistent");
         if (!isHeightConsistent()) System.out.println("Heights not consistent");
-        if (!isBalanced())         System.out.println("Not balanced");
+        if (!isBalanced()) System.out.println("Not balanced");
         return isBST() && isSizeConsistent() && isHeightConsistent() && isBalanced();
     }
 
@@ -323,31 +334,40 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
         if (min != null && x.key.compareTo(min) <= 0) return false;
         if (max != null && x.key.compareTo(max) >= 0) return false;
         return isBST(x.left, min, x.key) && isBST(x.right, x.key, max);
-    } 
+    }
 
     // are the size fields correct?
-    private boolean isSizeConsistent() { return isSizeConsistent(root); }
+    private boolean isSizeConsistent() {
+        return isSizeConsistent(root);
+    }
+
     private boolean isSizeConsistent(Node x) {
         if (x == null) return true;
         if (x.size != size(x.left) + size(x.right) + 1) return false;
         return isSizeConsistent(x.left) && isSizeConsistent(x.right);
-    } 
+    }
 
     // are the height fields correct?
-    private boolean isHeightConsistent() { return isHeightConsistent(root); }
+    private boolean isHeightConsistent() {
+        return isHeightConsistent(root);
+    }
+
     private boolean isHeightConsistent(Node x) {
         if (x == null) return true;
         if (x.height != 1 + Math.max(height(x.left), height(x.right))) return false;
         return isHeightConsistent(x.left) && isHeightConsistent(x.right);
-    } 
+    }
 
     // is the tree sufficiently balanced?
-    private boolean isBalanced() { return isBalanced(root); }
+    private boolean isBalanced() {
+        return isBalanced(root);
+    }
+
     private boolean isBalanced(Node x) {
         if (x == null) return true;
         if (x.height > alpha * log2(x.size)) return false;
         return isBalanced(x.left) && isBalanced(x.right);
-    } 
+    }
 }
 
 /******************************************************************************
