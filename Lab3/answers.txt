@@ -4,10 +4,10 @@
 ** Lab 3: Plagiarism detection
 *******************************************************************************/
 
-Name of lab group: [...]
-Group member A:    [...]
-Group member B:    [...]
-Group member C:    [...]
+Name of lab group: Group 50
+Group member A:    Ali Alladin
+Group member B:    William Hugo
+Group member C:    Elias Johansson
 
 
 /******************************************************************************
@@ -81,7 +81,19 @@ From this we expect the runtime for the huge dataset to be roughly 27 hours< and
 **    that occur in more than one file.
 ******************************************************************************/
 
-[...]
+buildIndex has the complexity O(N*logN). The first for-loop is O(d) and the second
+is O(k). O(d) * O(k) = O(N). The call to put has the complexity O(logN). N since
+there's not a lot of duplicate n-grams. The total complexity is therefore
+O(N) * O(logN) = O(N*logN).
+
+findSimilarity has the complexity O(N*logN). The first for-loop takes roughly
+O(N) time since the number of n-grams that occur in multiple documents are small.
+The second and third loops take constant time, O(1), since the number of n-grams
+that occur in multiple documents are small. Contains takes O(logN) time since
+ScapegoatTree is a form of BST. Then put is called once which takes O(logN) time.
+The resulting complexity is then O(N)*O(1)*O(1)*2*O(logN) = O(N*logN).
+
+So the total complexity of both methods is O(N*logN) + O(N*logN) = O(N*logN).
 
 
 /******************************************************************************
@@ -99,16 +111,16 @@ From this we expect the runtime for the huge dataset to be roughly 27 hours< and
 ** A. Approximately how many hours did you spend on the assignment?
 ******************************************************************************/
 
-[..group member..]:  [..hours..]
-[..group member..]:  [..hours..]
-[..group member..]:  [..hours..]
+Ali Alladin:  8 hours
+William Hugo:  8 hours
+Elias Johansson:  8 hours
 
 
 /******************************************************************************
 ** B. Are there any known bugs / limitations?
 ******************************************************************************/
 
-[...]
+No
 
 
 /******************************************************************************
@@ -118,14 +130,14 @@ From this we expect the runtime for the huge dataset to be roughly 27 hours< and
 **    may have used in creating your design.
 ******************************************************************************/
 
-[...]
+No
 
 
 /******************************************************************************
 ** D. Describe any serious problems you encountered.                    
 ******************************************************************************/
 
-[...]
+Maintaining the invariant was challenging.
 
 
 /******************************************************************************
