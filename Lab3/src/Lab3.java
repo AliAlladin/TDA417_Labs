@@ -79,7 +79,7 @@ public class Lab3 {
     }
 
     // Phase 2: build index of n-grams (not implemented yet)
-    static ScapegoatTree<Ngram, ArrayList<Path>> buildIndex(ScapegoatTree<Path, Ngram[]> files) {
+    static ScapegoatTree<Ngram, ArrayList<Path>> buildIndex(ScapegoatTree<Path, Ngram[]> files) { // O(N*logN)
         ScapegoatTree<Ngram, ArrayList<Path>> index = new ScapegoatTree<>();
         for (Path p : files.keys()) { //O(d)
             for (Ngram ngram : files.get(p))// O(k)
@@ -89,7 +89,7 @@ public class Lab3 {
                 } else {
                     ArrayList<Path> pathList = new ArrayList<Path>();
                     pathList.add(p);
-                    index.put(ngram, pathList);
+                    index.put(ngram, pathList); // O(logN)
                 }
             }
 
@@ -99,27 +99,32 @@ public class Lab3 {
     }
 
     // Phase 3: Count how many n-grams each pair of files has in common.
-    static ScapegoatTree<PathPair, Integer> findSimilarity(ScapegoatTree<Path, Ngram[]> files, ScapegoatTree<Ngram, ArrayList<Path>> index) {
+    static ScapegoatTree<PathPair, Integer> findSimilarity(ScapegoatTree<Path, Ngram[]> files, ScapegoatTree<Ngram, ArrayList<Path>> index) { // O(N*logN)
         // TO DO: use index to make this loop much more efficient
         // N.B. Path is Java's class for representing filenames
         // PathPair represents a pair of Paths (see PathPair.java)
         ScapegoatTree<PathPair, Integer> similarity = new ScapegoatTree<>();
 
-        for (Ngram ngram : index.keys()) {
-            for (Path p : index.get(ngram)) {
-                for (Path p2 : index.get(ngram)) {
+        for (Ngram ngram : index.keys()) { // O(N-c)
+            for (Path p : index.get(ngram)) { // O(1)
+                for (Path p2 : index.get(ngram)) { // O(1)
                     if (p.compareTo(p2) != 0) {
                         PathPair pair = new PathPair(p, p2);
-                        if (!similarity.contains(pair)) {
-                            similarity.put(pair, 0);
+                        if (!similarity.contains(pair)) { //O(logN)
+                            similarity.put(pair, 1); // O(logN)
+                        } else {
+                            similarity.put(pair, similarity.get(pair)+1); // O(logN)
                         }
-                        similarity.put(pair, similarity.get(pair) + 1);
 
                     }
 
                 }
             }
         }
+
+        return similarity;
+
+
       /*  for (Path p1 : files.keys()) {
             for (Path p2 : files.keys()) {
                 if (p1.compareTo(p2) == 0) {
@@ -155,7 +160,6 @@ public class Lab3 {
              }*/
 
 
-        return similarity;
     }
 
     // Phase 4: find all pairs of files with more than 30 n-grams

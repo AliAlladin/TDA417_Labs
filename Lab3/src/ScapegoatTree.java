@@ -144,10 +144,11 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
         }
 
         node.size = 1 + size(node.left) + size(node.right);
-        node.height = log2(node.size);
+        node.height = 1 + Math.max(height(node.left), height(node.right));
+        //node.height = log2(size(node));
 
-        if (height() > alpha*log2(size())){
-            rebuild(node);
+        if (height(node) > alpha*log2(size(node))){
+            node = rebuild(node);
         }
 
         return node;
@@ -187,16 +188,16 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
         // Midpoint of subarray.
         int mid = (lo + hi) / 2;
 
-        Node root = nodes.get(mid);
+        Node node = nodes.get(mid);
 
-        root.size = hi - lo;
-        root.height = log2(root.size);
+        //node.height = log2(size(root));
 
-        root.left = balanceNodes(nodes, lo, mid-1);
+        node.left = balanceNodes(nodes, lo, mid-1);
+        node.right = balanceNodes(nodes, mid + 1, hi);
 
-        root.right = balanceNodes(nodes, mid + 1, hi);
-
-        return root;
+        node.size = hi - lo + 1;
+        node.height = 1+Math.max(height(node.left), height(node.right));
+        return node;
 
         // TO DO: finish this method.
         //
