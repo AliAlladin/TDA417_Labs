@@ -105,7 +105,7 @@ public class Lab3 {
         // PathPair represents a pair of Paths (see PathPair.java)
         ScapegoatTree<PathPair, Integer> similarity = new ScapegoatTree<>();
 
-        for (Ngram ngram : index.keys()) { // O(N-c)
+        for (Ngram ngram : index.keys()) { // O(N)
             for (Path p : index.get(ngram)) { // O(1)
                 for (Path p2 : index.get(ngram)) { // O(1)
                     if (p.compareTo(p2) != 0) {
@@ -113,7 +113,7 @@ public class Lab3 {
                         if (!similarity.contains(pair)) { //O(logN)
                             similarity.put(pair, 1); // O(logN)
                         } else {
-                            similarity.put(pair, similarity.get(pair)+1); // O(logN)
+                            similarity.put(pair, similarity.get(pair) + 1); // O(logN)
                         }
 
                     }
@@ -123,41 +123,6 @@ public class Lab3 {
         }
 
         return similarity;
-
-
-      /*  for (Path p1 : files.keys()) {
-            for (Path p2 : files.keys()) {
-                if (p1.compareTo(p2) == 0) {
-                    continue;
-                }
-                for (Ngram ngram1 : files.get(p1)) {
-                    for (Ngram ngram2 : files.get(p2)
-                    ) {
-                        if (ngram1.equals(ngram2)) {
-                            PathPair pair = new PathPair(p1, p2);
-
-                            if (!similarity.contains(pair))
-                                similarity.put(pair, 0);
-
-                            similarity.put(pair, similarity.get(pair) + 1);
-
-                        }
-
-                    }
-
-                }
-
-            }
-
-
-            /** if (ngram1.equals(ngram2)) {
-             PathPair pair = new PathPair(path1, path2);
-
-             if (!similarity.contains(pair))
-             similarity.put(pair, 0);
-
-             similarity.put(pair, similarity.get(pair) + 1);
-             }*/
 
 
     }

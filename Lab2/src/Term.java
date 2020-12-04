@@ -24,10 +24,9 @@ public class Term {
     // Extracts a prefix from the word.
     public String getPrefix(int len) {
         if (len > word.length()) {
-            return  "";
+            return word;
         }
         return String.copyValueOf(word.toCharArray(), 0, len);
-
     }
 
     // Compares the two terms in case-insensitive lexicographic order.
