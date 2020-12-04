@@ -37,23 +37,25 @@ D*D*K*K = N*N = N^2
 small: 2,41 seconds
 medium: 423,82 seconds
 
-The amount of 5-grams increases by a factor of 10 for every directory (small (N = 20,000),
-medium (N = 200,000)). The time on the other hand increased with a factor greater than 100.
-This indicates that the complexity is quadratic.
+The amount of 5-grams increases by a factor of 10 for every directory (small
+(N = 20,000), medium (N = 200,000)). The time on the other hand increased with
+a factor greater than 100. This indicates that the complexity is quadratic.
 
 
 /******************************************************************************
 ** 3. How long do you predict the program would take to run on
 **    the 'huge' directory? Show your calculations.
 *******************************************************************************/
-The huge sample is 200 times bigger than the small sample. Since O(N^2) the expected runtime would be
-the runtime of the small sample, 2,41s, times 200^2 which is around 27 hours.
+The huge sample is 200 times bigger than the small sample. Since O(N^2) the
+expected runtime would be the runtime of the small sample, 2,41s, times 200^2
+which is around 27 hours.
 
-If we use the medium sample instead, which the huge sample is 20 bigger than, the expected runtime would be
-the runtime of the medium sample, 423 s, times 20^2 which is around 47 hours. This is because the calculated complexity
-is O(N^2).
+If we use the medium sample instead, which the huge sample is 20 bigger than,
+the expected runtime would be the runtime of the medium sample, 423 s, times 20^2
+which is around 47 hours. This is because the calculated complexity is O(N^2).
 
-From this we expect the runtime for the huge dataset to be roughly 27 hours< and <47 hours.
+From this we expect the runtime for the huge dataset to be roughly 27 hours< and
+<47 hours.
 
 
 
@@ -63,7 +65,7 @@ From this we expect the runtime for the huge dataset to be roughly 27 hours< and
 ** 4. Which of the trees usually become unbalanced?
 ******************************************************************************/
 
-[...]
+The "files" tree is the most unbalanced.
 
 
 /******************************************************************************
