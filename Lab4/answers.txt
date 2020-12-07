@@ -17,15 +17,17 @@ Group member C:    [...]
 
 > java RunPathFinder ucs AdjacencyGraph graphs/AdjacencyGraph/citygraph-SE.txt Lund Kiruna
 
-loop iterations: [...]
-minimal cost:    [...]
-shortest path:   [...]
+loop iterations: 5427
+minimal cost:    1826.0
+shortest path:   Lund -> Löddeköpinge -> Hjärnarp -> Åled -> Oskarström -> ... -> Storuman -> Sorsele -> Jokkmokk -> Gällivare -> Kiruna
+                 32
 
 > java RunPathFinder ucs NPuzzle 3 "/HFG/BED/C_A/" "/ABC/DEF/GH_/"
 
-loop iterations: [...]
-minimal cost:    [...]
-shortest path:   [...]
+loop iterations: 483573
+minimal cost:    31.0
+shortest path:   /HFG/BED/C_A/ -> /HFG/BED/CA_/ -> /HFG/BE_/CAD/ -> /HFG/B_E/CAD/ -> /H_G/BFE/CAD/ -> ... -> /AC_/DBE/GHF/ -> /A_C/DBE/GHF/ -> /ABC/D_E/GHF/ -> /ABC/DE_/GHF/ -> /ABC/DEF/GH_/
+                 32
 
 > java RunPathFinder astar NPuzzle 3 "/HFG/BED/C_A/" "/ABC/DEF/GH_/"
 
@@ -34,15 +36,16 @@ minimal cost:    [...]
 
 > java RunPathFinder ucs NPuzzle 3 "/HGF/BED/C_A/" "/ABC/DEF/GH_/"
 
-loop iterations: [...]
-minimal cost:    [...]
-shortest path:   [...]
+loop iterations: 483841
+minimal cost:    -
+shortest path:   No path found
 
 > java RunPathFinder ucs GridGraph graphs/GridGraph/AR0011SR.map "23:161" "130:211"
 
-loop iterations: [...]
-minimal cost:    [...]
-shortest path:   [...]
+loop iterations: 159327
+minimal cost:    366.40411229460744
+shortest path:   23:160 -> 23:159 -> 23:158 -> 23:157 -> ... -> 132:207 -> 131:208 -> 131:209 -> 130:210 -> 130:211
+                 309
 
 > java RunPathFinder astar GridGraph graphs/GridGraph/AR0011SR.map "23:161" "130:211"
 
