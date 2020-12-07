@@ -1,0 +1,7372 @@
+'s Gravenmoer	Aardenburg	145
+Aardenburg	's Gravenmoer	145
+'s Gravenmoer	Dongen	4
+Dongen	's Gravenmoer	4
+'s Gravenmoer	Hulst	101
+Hulst	's Gravenmoer	101
+'s Gravenmoer	Loon op Zand	13
+Loon op Zand	's Gravenmoer	13
+'s Gravenmoer	Raamsdonk	5
+Raamsdonk	's Gravenmoer	5
+'s Gravenmoer	Waspik	5
+Waspik	's Gravenmoer	5
+'s-Gravenzande	Hoek van Holland	5
+Hoek van Holland	's-Gravenzande	5
+'s-Gravenzande	Monster	4
+Monster	's-Gravenzande	4
+'s-Gravenzande	Naaldwijk	4
+Naaldwijk	's-Gravenzande	4
+'s-Heerenberg	Berg en Dal	35
+Berg en Dal	's-Heerenberg	35
+'s-Heerenberg	Gendringen	11
+Gendringen	's-Heerenberg	11
+'s-Heerenberg	Groesbeek	36
+Groesbeek	's-Heerenberg	36
+'s-Heerenberg	Leuth	31
+Leuth	's-Heerenberg	31
+'s-Heerenberg	Lobith	13
+Lobith	's-Heerenberg	13
+'s-Heerenberg	Ottersum	33
+Ottersum	's-Heerenberg	33
+'s-Heerenberg	Zeddam	4
+Zeddam	's-Heerenberg	4
+'s-Hertogenbosch	Haarsteeg	11
+Haarsteeg	's-Hertogenbosch	11
+'s-Hertogenbosch	Hedel	7
+Hedel	's-Hertogenbosch	7
+'s-Hertogenbosch	Lith	18
+Lith	's-Hertogenbosch	18
+'s-Hertogenbosch	Molenhoek	6
+Molenhoek	's-Hertogenbosch	6
+'s-Hertogenbosch	Sint-Michielsgestel	8
+Sint-Michielsgestel	's-Hertogenbosch	8
+'s-Hertogenbosch	Vught	6
+Vught	's-Hertogenbosch	6
+'t Zand	Breezand	11
+Breezand	't Zand	11
+'t Zand	Callantsoog	6
+Callantsoog	't Zand	6
+'t Zand	De Noord	17
+De Noord	't Zand	17
+'t Zand	Den Helder	16
+Den Helder	't Zand	16
+'t Zand	Hippolytushoef	17
+Hippolytushoef	't Zand	17
+'t Zand	Middenmeer	20
+Middenmeer	't Zand	20
+'t Zand	Petten	12
+Petten	't Zand	12
+'t Zand	Schagerbrug	6
+Schagerbrug	't Zand	6
+'t Zand	Waarland	15
+Waarland	't Zand	15
+'t Zand	Wieringerwaard	11
+Wieringerwaard	't Zand	11
+'t Zand	Winkel	16
+Winkel	't Zand	16
+Aalburg	Ammerzoden	11
+Ammerzoden	Aalburg	11
+Aalburg	Elshout	8
+Elshout	Aalburg	8
+Aalburg	Genderen	4
+Genderen	Aalburg	4
+Aalburg	Veen	4
+Veen	Aalburg	4
+Aalburg	Waspik	21
+Waspik	Aalburg	21
+Aalden	Appelscha	35
+Appelscha	Aalden	35
+Aalden	Emmen	15
+Emmen	Aalden	15
+Aalden	Emmer-Erfscheidenveen	20
+Emmer-Erfscheidenveen	Aalden	20
+Aalden	Oosterhesselen	5
+Oosterhesselen	Aalden	5
+Aalden	Schoonoord	8
+Schoonoord	Aalden	8
+Aalden	Sleen	8
+Sleen	Aalden	8
+Aalden	Westerbork	14
+Westerbork	Aalden	14
+Aalsmeer	Hoofddorp	8
+Hoofddorp	Aalsmeer	8
+Aalsmeer	Kudelstaart	3
+Kudelstaart	Aalsmeer	3
+Aalsmeer	Oosteinde	5
+Oosteinde	Aalsmeer	5
+Aalsmeer	Uitgeest	36
+Uitgeest	Aalsmeer	36
+Aalsmeer	Uithoorn	6
+Uithoorn	Aalsmeer	6
+Aalst	Brakel	7
+Brakel	Aalst	7
+Aalst	Gameren	8
+Gameren	Aalst	8
+Aalst	Nederhemert	4
+Nederhemert	Aalst	4
+Aalten	Arcen	74
+Arcen	Aalten	74
+Aalten	Bredevoort	4
+Bredevoort	Aalten	4
+Aalten	Gendringen	17
+Gendringen	Aalten	17
+Aalten	Haanrade	162
+Haanrade	Aalten	162
+Aalten	Lichtenvoorde	8
+Lichtenvoorde	Aalten	8
+Aalten	Vaals	171
+Vaals	Aalten	171
+Aalten	Varsseveld	10
+Varsseveld	Aalten	10
+Aalten	Waubach	159
+Waubach	Aalten	159
+Aalten	Well	69
+Well	Aalten	69
+Aardenburg	Borgharen	189
+Borgharen	Aardenburg	189
+Aardenburg	De Bilt	199
+De Bilt	Aardenburg	199
+Aardenburg	Dongen	145
+Dongen	Aardenburg	145
+Aardenburg	Duizel	149
+Duizel	Aardenburg	149
+Aardenburg	Goirle	146
+Goirle	Aardenburg	146
+Aardenburg	Hollandsche Rading	205
+Hollandsche Rading	Aardenburg	205
+Aardenburg	IJzendijke	16
+IJzendijke	Aardenburg	16
+Aardenburg	Kamperland	80
+Kamperland	Aardenburg	80
+Aardenburg	Kapelle	66
+Kapelle	Aardenburg	66
+Aardenburg	Koewacht	47
+Koewacht	Aardenburg	47
+Aardenburg	Loon op Zand	153
+Loon op Zand	Aardenburg	153
+Aardenburg	Luyksgestel	151
+Luyksgestel	Aardenburg	151
+Aardenburg	Maastricht	185
+Maastricht	Aardenburg	185
+Aardenburg	Oostburg	10
+Oostburg	Aardenburg	10
+Aardenburg	Ossendrecht	85
+Ossendrecht	Aardenburg	85
+Aardenburg	Prinsenbeek	130
+Prinsenbeek	Aardenburg	130
+Aardenburg	Putte	82
+Putte	Aardenburg	82
+Aardenburg	Raamsdonk	146
+Raamsdonk	Aardenburg	146
+Aardenburg	Raamsdonksveer	146
+Raamsdonksveer	Aardenburg	146
+Aardenburg	Reusel	142
+Reusel	Aardenburg	142
+Aardenburg	Sas van Gent	35
+Sas van Gent	Aardenburg	35
+Aardenburg	Sluis	7
+Sluis	Aardenburg	7
+Aardenburg	Sluiskil	34
+Sluiskil	Aardenburg	34
+Aardenburg	Stein	185
+Stein	Aardenburg	185
+Aardenburg	Terneuzen	34
+Terneuzen	Aardenburg	34
+Aardenburg	Tilburg	147
+Tilburg	Aardenburg	147
+Aardenburg	Ulvenhout	126
+Ulvenhout	Aardenburg	126
+Aardenburg	Vlissingen	67
+Vlissingen	Aardenburg	67
+Aardenburg	Voldijn	162
+Voldijn	Aardenburg	162
+Aardenburg	Werkendam	161
+Werkendam	Aardenburg	161
+Aardenburg	Wolphaartsdijk	64
+Wolphaartsdijk	Aardenburg	64
+Aardenburg	Zaamslag	38
+Zaamslag	Aardenburg	38
+Aardenburg	Zierikzee	83
+Zierikzee	Aardenburg	83
+Aarle-Rixtel	Bakel	8
+Bakel	Aarle-Rixtel	8
+Aarle-Rixtel	Helmond	5
+Helmond	Aarle-Rixtel	5
+Aarle-Rixtel	Lieshout	4
+Lieshout	Aarle-Rixtel	4
+Aarle-Rixtel	Mierlo	9
+Mierlo	Aarle-Rixtel	9
+Aarle-Rixtel	Schutsboom	8
+Schutsboom	Aarle-Rixtel	8
+Abbekerk	Berkhout	13
+Berkhout	Abbekerk	13
+Abbekerk	Harlingen	66
+Harlingen	Abbekerk	66
+Abbekerk	Hoorn	12
+Hoorn	Abbekerk	12
+Abbekerk	Middenmeer	13
+Middenmeer	Abbekerk	13
+Abbekerk	Midwoud	7
+Midwoud	Abbekerk	7
+Abbekerk	Opperdoes	8
+Opperdoes	Abbekerk	8
+Abbekerk	Purmerend	29
+Purmerend	Abbekerk	29
+Abbekerk	Wieringerwerf	17
+Wieringerwerf	Abbekerk	17
+Abbekerk	Zaandijk	38
+Zaandijk	Abbekerk	38
+Abcoude	Almkerk	68
+Almkerk	Abcoude	68
+Abcoude	Amstelveen	11
+Amstelveen	Abcoude	11
+Abcoude	Amsterdam	15
+Amsterdam	Abcoude	15
+Abcoude	Arkel	56
+Arkel	Abcoude	56
+Abcoude	Beesd	49
+Beesd	Abcoude	49
+Abcoude	Boven-Hardinxveld	63
+Boven-Hardinxveld	Abcoude	63
+Abcoude	Breukelen	14
+Breukelen	Abcoude	14
+Abcoude	Driemond	8
+Driemond	Abcoude	8
+Abcoude	Duivendrecht	13
+Duivendrecht	Abcoude	13
+Abcoude	Houten	38
+Houten	Abcoude	38
+Abcoude	IJsselstein	34
+IJsselstein	Abcoude	34
+Abcoude	Kortenhoef	16
+Kortenhoef	Abcoude	16
+Abcoude	Linschoten	29
+Linschoten	Abcoude	29
+Abcoude	Nieuwegein	32
+Nieuwegein	Abcoude	32
+Abcoude	Oud-Loosdrecht	16
+Oud-Loosdrecht	Abcoude	16
+Abcoude	Ouderkerk aan de Amstel	10
+Ouderkerk aan de Amstel	Abcoude	10
+Abcoude	Raamsdonk	76
+Raamsdonk	Abcoude	76
+Abcoude	Schoonrewoerd	45
+Schoonrewoerd	Abcoude	45
+Abcoude	Vianen	36
+Vianen	Abcoude	36
+Abcoude	Vinkeveen	10
+Vinkeveen	Abcoude	10
+Abcoude	Vleuten	21
+Vleuten	Abcoude	21
+Abcoude	Waardenburg	56
+Waardenburg	Abcoude	56
+Abcoude	Werkendam	65
+Werkendam	Abcoude	65
+Abcoude	Woudrichem	68
+Woudrichem	Abcoude	68
+Abcoven	Tilburg	4
+Tilburg	Abcoven	4
+Aduard	Bedum	17
+Bedum	Aduard	17
+Aduard	Groningen	10
+Groningen	Aduard	10
+Aduard	Haren	17
+Haren	Aduard	17
+Aduard	Leens	18
+Leens	Aduard	18
+Aduard	Oldehove	10
+Oldehove	Aduard	10
+Aduard	Peize	16
+Peize	Aduard	16
+Aduard	Tynaarlo	26
+Tynaarlo	Aduard	26
+Aduard	Westlaren	27
+Westlaren	Aduard	27
+Aduard	Winsum	13
+Winsum	Aduard	13
+Aduard	Zuidhorn	5
+Zuidhorn	Aduard	5
+Afferden	Deest	3
+Deest	Afferden	3
+Afferden	Druten	3
+Druten	Afferden	3
+Akkrum	Aldeboarn	6
+Aldeboarn	Akkrum	6
+Akkrum	Berltsum	29
+Berltsum	Akkrum	29
+Akkrum	De Knipe	16
+De Knipe	Akkrum	16
+Akkrum	Goutum	18
+Goutum	Akkrum	18
+Akkrum	Grou	8
+Grou	Akkrum	8
+Akkrum	Heeg	25
+Heeg	Akkrum	25
+Akkrum	Heerenveen	15
+Heerenveen	Akkrum	15
+Akkrum	Lemmer	33
+Lemmer	Akkrum	33
+Akkrum	Oranjewoud	16
+Oranjewoud	Akkrum	16
+Akkrum	Oudehaske	16
+Oudehaske	Akkrum	16
+Akkrum	Oudeschoot	18
+Oudeschoot	Akkrum	18
+Akkrum	Scharnegoutum	15
+Scharnegoutum	Akkrum	15
+Akkrum	Warga	20
+Warga	Akkrum	20
+Akkrum	Wommels	22
+Wommels	Akkrum	22
+Alblasserdam	Ammerstol	18
+Ammerstol	Alblasserdam	18
+Alblasserdam	Berkenwoude	15
+Berkenwoude	Alblasserdam	15
+Alblasserdam	Bleskensgraaf	10
+Bleskensgraaf	Alblasserdam	10
+Alblasserdam	Hendrik-Ido-Ambacht	6
+Hendrik-Ido-Ambacht	Alblasserdam	6
+Alblasserdam	Krimpen aan den IJssel	10
+Krimpen aan den IJssel	Alblasserdam	10
+Alblasserdam	Nieuw-Lekkerland	8
+Nieuw-Lekkerland	Alblasserdam	8
+Alblasserdam	Papendrecht	5
+Papendrecht	Alblasserdam	5
+Alblasserdam	Sliedrecht	11
+Sliedrecht	Alblasserdam	11
+Aldeboarn	Beetsterzwaag	13
+Beetsterzwaag	Aldeboarn	13
+Aldeboarn	Boornbergum	12
+Boornbergum	Aldeboarn	12
+Aldeboarn	De Knipe	18
+De Knipe	Aldeboarn	18
+Aldeboarn	Doornspijk	87
+Doornspijk	Aldeboarn	87
+Aldeboarn	Gorredijk	14
+Gorredijk	Aldeboarn	14
+Aldeboarn	Groningen	55
+Groningen	Aldeboarn	55
+Aldeboarn	Grootegast	38
+Grootegast	Aldeboarn	38
+Aldeboarn	Grou	10
+Grou	Aldeboarn	10
+Aldeboarn	Haren	57
+Haren	Aldeboarn	57
+Aldeboarn	Harkstede	63
+Harkstede	Aldeboarn	63
+Aldeboarn	Heerenveen	17
+Heerenveen	Aldeboarn	17
+Aldeboarn	Hoogezand	68
+Hoogezand	Aldeboarn	68
+Aldeboarn	Leek	41
+Leek	Aldeboarn	41
+Aldeboarn	Marum	32
+Marum	Aldeboarn	32
+Aldeboarn	Oranjewoud	18
+Oranjewoud	Aldeboarn	18
+Aldeboarn	Oudehaske	18
+Oudehaske	Aldeboarn	18
+Aldeboarn	Ten Boer	65
+Ten Boer	Aldeboarn	65
+Aldeboarn	Ureterp	23
+Ureterp	Aldeboarn	23
+Alkmaar	Heiloo	8
+Heiloo	Alkmaar	8
+Alkmaar	Oosterzij	8
+Oosterzij	Alkmaar	8
+Alkmaar	Petten	18
+Petten	Alkmaar	18
+Alkmaar	Sint Pancras	6
+Sint Pancras	Alkmaar	6
+Alkmaar	Stompetoren	6
+Stompetoren	Alkmaar	6
+Alkmaar	Uitgeest	13
+Uitgeest	Alkmaar	13
+Almelo	Borne	10
+Borne	Almelo	10
+Almelo	Goor	19
+Goor	Almelo	19
+Almelo	Hengevelde	22
+Hengevelde	Almelo	22
+Almelo	Tubbergen	11
+Tubbergen	Almelo	11
+Almelo	Vriezenveen	8
+Vriezenveen	Almelo	8
+Almelo	Wierden	6
+Wierden	Almelo	6
+Almere Stad	Baarn	28
+Baarn	Almere Stad	28
+Almere Stad	Biddinghuizen	47
+Biddinghuizen	Almere Stad	47
+Almere Stad	Bijvanck	19
+Bijvanck	Almere Stad	19
+Almere Stad	Blaricum	20
+Blaricum	Almere Stad	20
+Almere Stad	Doornsteeg	34
+Doornsteeg	Almere Stad	34
+Almere Stad	Emmeloord	62
+Emmeloord	Almere Stad	62
+Almere Stad	Enkhuizen	57
+Enkhuizen	Almere Stad	57
+Almere Stad	Ens	62
+Ens	Almere Stad	62
+Almere Stad	Harderwijk	39
+Harderwijk	Almere Stad	39
+Almere Stad	Kampen	64
+Kampen	Almere Stad	64
+Almere Stad	Lelystad	31
+Lelystad	Almere Stad	31
+Almere Stad	Muiderberg	12
+Muiderberg	Almere Stad	12
+Almere Stad	Naarden	16
+Naarden	Almere Stad	16
+Almere Stad	Nijkerk	32
+Nijkerk	Almere Stad	32
+Almere Stad	Nunspeet	52
+Nunspeet	Almere Stad	52
+Almere Stad	Putten	39
+Putten	Almere Stad	39
+Almere Stad	Urk	57
+Urk	Almere Stad	57
+Almere Stad	Zeewolde	29
+Zeewolde	Almere Stad	29
+Almkerk	Amersfoort	63
+Amersfoort	Almkerk	63
+Almkerk	Amstelveen	76
+Amstelveen	Almkerk	76
+Almkerk	Boven-Hardinxveld	16
+Boven-Hardinxveld	Almkerk	16
+Almkerk	Bunnik	47
+Bunnik	Almkerk	47
+Almkerk	De Bilt	48
+De Bilt	Almkerk	48
+Almkerk	Diemen	78
+Diemen	Almkerk	78
+Almkerk	Duivendrecht	78
+Duivendrecht	Almkerk	78
+Almkerk	Giessenburg	17
+Giessenburg	Almkerk	17
+Almkerk	Gorinchem	12
+Gorinchem	Almkerk	12
+Almkerk	Houten	41
+Houten	Almkerk	41
+Almkerk	IJsselstein	39
+IJsselstein	Almkerk	39
+Almkerk	Maarssen	53
+Maarssen	Almkerk	53
+Almkerk	Nieuwegein	39
+Nieuwegein	Almkerk	39
+Almkerk	Nieuwpoort	23
+Nieuwpoort	Almkerk	23
+Almkerk	Noordeloos	21
+Noordeloos	Almkerk	21
+Almkerk	Ouderkerk aan de Amstel	75
+Ouderkerk aan de Amstel	Almkerk	75
+Almkerk	Raamsdonksveer	13
+Raamsdonksveer	Almkerk	13
+Almkerk	Vianen	35
+Vianen	Almkerk	35
+Almkerk	Vleuten	51
+Vleuten	Almkerk	51
+Almkerk	Werkendam	10
+Werkendam	Almkerk	10
+Almkerk	Woudrichem	6
+Woudrichem	Almkerk	6
+Alphen	Baarle-Nassau	5
+Baarle-Nassau	Alphen	5
+Alphen	Chaam	8
+Chaam	Alphen	8
+Alphen	Gilze	9
+Gilze	Alphen	9
+Alphen	Lage Mierde	18
+Lage Mierde	Alphen	18
+Alphen	Rijen	14
+Rijen	Alphen	14
+Alphen	Son	51
+Son	Alphen	51
+Alphen	Tilburg	19
+Tilburg	Alphen	19
+Alphen aan den Rijn	Amsterdam	38
+Amsterdam	Alphen aan den Rijn	38
+Alphen aan den Rijn	Benthuizen	14
+Benthuizen	Alphen aan den Rijn	14
+Alphen aan den Rijn	Hillegom	23
+Hillegom	Alphen aan den Rijn	23
+Alphen aan den Rijn	Hoofddorp	24
+Hoofddorp	Alphen aan den Rijn	24
+Alphen aan den Rijn	Hoogmade	11
+Hoogmade	Alphen aan den Rijn	11
+Alphen aan den Rijn	Kadoelen	45
+Kadoelen	Alphen aan den Rijn	45
+Alphen aan den Rijn	Kudelstaart	18
+Kudelstaart	Alphen aan den Rijn	18
+Alphen aan den Rijn	Roelofarendsveen	13
+Roelofarendsveen	Alphen aan den Rijn	13
+Alphen aan den Rijn	Uitgeest	51
+Uitgeest	Alphen aan den Rijn	51
+Alphen aan den Rijn	Velsen-Zuid	42
+Velsen-Zuid	Alphen aan den Rijn	42
+Alphen aan den Rijn	Zaandam	47
+Zaandam	Alphen aan den Rijn	47
+Alphen aan den Rijn	Zoeterwoude-Dorp	14
+Zoeterwoude-Dorp	Alphen aan den Rijn	14
+Alverna	Andelst	21
+Andelst	Alverna	21
+Alverna	Baarlo	64
+Baarlo	Alverna	64
+Alverna	Beuningen	9
+Beuningen	Alverna	9
+Alverna	Deest	16
+Deest	Alverna	16
+Alverna	Doorwerth	27
+Doorwerth	Alverna	27
+Alverna	Grave	6
+Grave	Alverna	6
+Alverna	Heelsum	27
+Heelsum	Alverna	27
+Alverna	Heteren	23
+Heteren	Alverna	23
+Alverna	Mook	12
+Mook	Alverna	12
+Alverna	Nijmegen	9
+Nijmegen	Alverna	9
+Alverna	Overasselt	7
+Overasselt	Alverna	7
+Alverna	Renkum	27
+Renkum	Alverna	27
+Alverna	Sevenum	54
+Sevenum	Alverna	54
+Alverna	Venlo	61
+Venlo	Alverna	61
+Alverna	Wijchen	4
+Wijchen	Alverna	4
+Amby	Borgharen	5
+Borgharen	Amby	5
+Amby	Gronsveld	6
+Gronsveld	Amby	6
+Amby	Maastricht	6
+Maastricht	Amby	6
+Amerongen	Druten	29
+Druten	Amerongen	29
+Amerongen	Leersum	3
+Leersum	Amerongen	3
+Amerongen	Lienden	13
+Lienden	Amerongen	13
+Amerongen	Lith	31
+Lith	Amerongen	31
+Amerongen	Maurik	7
+Maurik	Amerongen	7
+Amerongen	Megen	30
+Megen	Amerongen	30
+Amerongen	Oss	34
+Oss	Amerongen	34
+Amerongen	Overberg	5
+Overberg	Amerongen	5
+Amerongen	Rhenen	10
+Rhenen	Amerongen	10
+Amersfoort	Austerlitz	14
+Austerlitz	Amersfoort	14
+Amersfoort	Bosch en Duin	14
+Bosch en Duin	Amersfoort	14
+Amersfoort	Dongen	80
+Dongen	Amersfoort	80
+Amersfoort	Doornsteeg	14
+Doornsteeg	Amersfoort	14
+Amersfoort	Harderwijk	31
+Harderwijk	Amersfoort	31
+Amersfoort	Leusden	5
+Leusden	Amersfoort	5
+Amersfoort	Maarn	12
+Maarn	Amersfoort	12
+Amersfoort	Nijkerkerveen	10
+Nijkerkerveen	Amersfoort	10
+Amersfoort	Noordeloos	49
+Noordeloos	Amersfoort	49
+Amersfoort	Nunspeet	43
+Nunspeet	Amersfoort	43
+Amersfoort	Schoonrewoerd	40
+Schoonrewoerd	Amersfoort	40
+Amersfoort	Soest	8
+Soest	Amersfoort	8
+Amersfoort	Terschuur	11
+Terschuur	Amersfoort	11
+Amersfoort	Zeewolde	28
+Zeewolde	Amersfoort	28
+Amersfoort	Zeist	14
+Zeist	Amersfoort	14
+Ammerstol	Berkenwoude	11
+Berkenwoude	Ammerstol	11
+Ammerstol	Dordrecht	21
+Dordrecht	Ammerstol	21
+Ammerstol	Gageldonk	48
+Gageldonk	Ammerstol	48
+Ammerstol	Groot-Ammers	6
+Groot-Ammers	Ammerstol	6
+Ammerstol	Krimpen aan den IJssel	17
+Krimpen aan den IJssel	Ammerstol	17
+Ammerstol	Nieuw-Lekkerland	13
+Nieuw-Lekkerland	Ammerstol	13
+Ammerstol	Ouderkerk aan den IJssel	15
+Ouderkerk aan den IJssel	Ammerstol	15
+Ammerstol	Papendrecht	18
+Papendrecht	Ammerstol	18
+Ammerstol	Rijsbergen	56
+Rijsbergen	Ammerstol	56
+Ammerstol	Roosendaal	61
+Roosendaal	Ammerstol	61
+Ammerstol	Schoonhoven	4
+Schoonhoven	Ammerstol	4
+Ammerstol	Stolwijk	8
+Stolwijk	Ammerstol	8
+Ammerstol	Woensdrecht	77
+Woensdrecht	Ammerstol	77
+Ammerzoden	Gameren	6
+Gameren	Ammerzoden	6
+Ammerzoden	Genderen	11
+Genderen	Ammerzoden	11
+Ammerzoden	Hedel	3
+Hedel	Ammerzoden	3
+Ammerzoden	Nederhemert	5
+Nederhemert	Ammerzoden	5
+Ammerzoden	Waspik	27
+Waspik	Ammerzoden	27
+Amstelveen	Amsterdam	11
+Amsterdam	Amstelveen	11
+Amstelveen	Arkel	64
+Arkel	Amstelveen	64
+Amstelveen	Beesd	57
+Beesd	Amstelveen	57
+Amstelveen	Boven-Hardinxveld	71
+Boven-Hardinxveld	Amstelveen	71
+Amstelveen	Breukelen	22
+Breukelen	Amstelveen	22
+Amstelveen	Bruchem	70
+Bruchem	Amstelveen	70
+Amstelveen	Houten	46
+Houten	Amstelveen	46
+Amstelveen	IJsselstein	41
+IJsselstein	Amstelveen	41
+Amstelveen	Kadoelen	19
+Kadoelen	Amstelveen	19
+Amstelveen	Kortenhoef	24
+Kortenhoef	Amstelveen	24
+Amstelveen	Noordeloos	61
+Noordeloos	Amstelveen	61
+Amstelveen	Oosteinde	6
+Oosteinde	Amstelveen	6
+Amstelveen	Oud-Loosdrecht	24
+Oud-Loosdrecht	Amstelveen	24
+Amstelveen	Ouderkerk aan de Amstel	4
+Ouderkerk aan de Amstel	Amstelveen	4
+Amstelveen	Overveen	23
+Overveen	Amstelveen	23
+Amstelveen	Raamsdonksveer	82
+Raamsdonksveer	Amstelveen	82
+Amstelveen	Schoonrewoerd	53
+Schoonrewoerd	Amstelveen	53
+Amstelveen	Uithoorn	9
+Uithoorn	Amstelveen	9
+Amstelveen	Velsen-Zuid	26
+Velsen-Zuid	Amstelveen	26
+Amstelveen	Vianen	44
+Vianen	Amstelveen	44
+Amstelveen	Vijfhuizen	17
+Vijfhuizen	Amstelveen	17
+Amstelveen	Vleuten	29
+Vleuten	Amstelveen	29
+Amstelveen	Werkendam	73
+Werkendam	Amstelveen	73
+Amstelveen	Zaandam	21
+Zaandam	Amstelveen	21
+Amstelveen	Zandvoort	28
+Zandvoort	Amstelveen	28
+Amstenrade	Heksenberg	5
+Heksenberg	Amstenrade	5
+Amstenrade	Hoensbroek	3
+Hoensbroek	Amstenrade	3
+Amsterdam	Broek in Waterland	13
+Broek in Waterland	Amsterdam	13
+Amsterdam	Diemen	9
+Diemen	Amsterdam	9
+Amsterdam	Duivendrecht	9
+Duivendrecht	Amsterdam	9
+Amsterdam	IJsselstein	46
+IJsselstein	Amsterdam	46
+Amsterdam	Ilpendam	14
+Ilpendam	Amsterdam	14
+Amsterdam	Kadoelen	11
+Kadoelen	Amsterdam	11
+Amsterdam	Kortenhoef	28
+Kortenhoef	Amsterdam	28
+Amsterdam	Lisserbroek	33
+Lisserbroek	Amsterdam	33
+Amsterdam	Oude Wetering	30
+Oude Wetering	Amsterdam	30
+Amsterdam	Ouderkerk aan de Amstel	11
+Ouderkerk aan de Amstel	Amsterdam	11
+Amsterdam	Rijpwetering	33
+Rijpwetering	Amsterdam	33
+Amsterdam	Sassenheim	35
+Sassenheim	Amsterdam	35
+Amsterdam	Stompetoren	37
+Stompetoren	Amsterdam	37
+Amsterdam	Tricht	68
+Tricht	Amsterdam	68
+Amsterdam	Zaandam	14
+Zaandam	Amsterdam	14
+Amsterdam	Zoeterwoude-Dorp	43
+Zoeterwoude-Dorp	Amsterdam	43
+Andel	Genderen	9
+Genderen	Andel	9
+Andel	Veen	5
+Veen	Andel	5
+Andelst	Bergharen	18
+Bergharen	Andelst	18
+Andelst	Beuningen	17
+Beuningen	Andelst	17
+Andelst	Deest	17
+Deest	Andelst	17
+Andelst	Doorwerth	15
+Doorwerth	Andelst	15
+Andelst	Gorinchem	56
+Gorinchem	Andelst	56
+Andelst	Megen	26
+Megen	Andelst	26
+Andelst	Meteren	34
+Meteren	Andelst	34
+Andelst	Ochten	13
+Ochten	Andelst	13
+Andelst	Opheusden	9
+Opheusden	Andelst	9
+Andelst	Ravenstein	21
+Ravenstein	Andelst	21
+Andelst	Tegelen	81
+Tegelen	Andelst	81
+Andelst	Tiel	24
+Tiel	Andelst	24
+Andelst	Valburg	6
+Valburg	Andelst	6
+Andelst	Wijchen	21
+Wijchen	Andelst	21
+Andelst	Zetten	3
+Zetten	Andelst	3
+Angeren	Arnhem	10
+Arnhem	Angeren	10
+Angeren	Bemmel	7
+Bemmel	Angeren	7
+Angeren	Doornenburg	5
+Doornenburg	Angeren	5
+Angeren	Geldermalsen	52
+Geldermalsen	Angeren	52
+Angeren	Gendt	5
+Gendt	Angeren	5
+Angeren	Groessen	10
+Groessen	Angeren	10
+Angeren	Opheusden	26
+Opheusden	Angeren	26
+Angeren	Vredenburg	9
+Vredenburg	Angeren	9
+Angeren	Westervoort	7
+Westervoort	Angeren	7
+Angeren	Zetten	20
+Zetten	Angeren	20
+Annen	Gieten	9
+Gieten	Annen	9
+Annen	Rolde	15
+Rolde	Annen	15
+Annen	Wildervank	13
+Wildervank	Annen	13
+Annen	Zuidlaren	5
+Zuidlaren	Annen	5
+Apeldoorn	Beekbergen	7
+Beekbergen	Apeldoorn	7
+Apeldoorn	Borne	58
+Borne	Apeldoorn	58
+Apeldoorn	Emmeloord	67
+Emmeloord	Apeldoorn	67
+Apeldoorn	Epse	18
+Epse	Apeldoorn	18
+Apeldoorn	Heerde	23
+Heerde	Apeldoorn	23
+Apeldoorn	Kootwijkerbroek	28
+Kootwijkerbroek	Apeldoorn	28
+Apeldoorn	Nijkerk	39
+Nijkerk	Apeldoorn	39
+Apeldoorn	Otterlo	22
+Otterlo	Apeldoorn	22
+Apeldoorn	Terschuur	34
+Terschuur	Apeldoorn	34
+Apeldoorn	Twello	11
+Twello	Apeldoorn	11
+Apeldoorn	Uddel	17
+Uddel	Apeldoorn	17
+Apeldoorn	Vaassen	10
+Vaassen	Apeldoorn	10
+Apeldoorn	Voorst	14
+Voorst	Apeldoorn	14
+Apeldoorn	Wierden	53
+Wierden	Apeldoorn	53
+Apeldoorn	Woudsend	96
+Woudsend	Apeldoorn	96
+Appelscha	Assen	20
+Assen	Appelscha	20
+Appelscha	Beilen	19
+Beilen	Appelscha	19
+Appelscha	Diever	14
+Diever	Appelscha	14
+Appelscha	Emmen	46
+Emmen	Appelscha	46
+Appelscha	Oosterwolde	6
+Oosterwolde	Appelscha	6
+Appelscha	Vledder	17
+Vledder	Appelscha	17
+Appelscha	Vries	26
+Vries	Appelscha	26
+Appelscha	Wolvega	30
+Wolvega	Appelscha	30
+Appingedam	Loppersum	9
+Loppersum	Appingedam	9
+Appingedam	Siddeburen	10
+Siddeburen	Appingedam	10
+Appingedam	Ten Boer	14
+Ten Boer	Appingedam	14
+Appingedam	Tuikwerd	4
+Tuikwerd	Appingedam	4
+Appingedam	Uithuizermeeden	19
+Uithuizermeeden	Appingedam	19
+Arcen	Gendringen	62
+Gendringen	Arcen	62
+Arcen	Grashoek	27
+Grashoek	Arcen	27
+Arcen	Lichtenvoorde	79
+Lichtenvoorde	Arcen	79
+Arcen	Liessel	36
+Liessel	Arcen	36
+Arcen	Meerlo	10
+Meerlo	Arcen	10
+Arcen	Sevenum	21
+Sevenum	Arcen	21
+Arcen	Varsseveld	72
+Varsseveld	Arcen	72
+Arcen	Venlo	14
+Venlo	Arcen	14
+Arcen	Voldijn	60
+Voldijn	Arcen	60
+Arcen	Well	12
+Well	Arcen	12
+Arkel	Bunnik	36
+Bunnik	Arkel	36
+Arkel	Deil	25
+Deil	Arkel	25
+Arkel	Gorinchem	4
+Gorinchem	Arkel	4
+Arkel	Hollandsche Rading	43
+Hollandsche Rading	Arkel	43
+Arkel	IJsselstein	28
+IJsselstein	Arkel	28
+Arkel	Leusden	54
+Leusden	Arkel	54
+Arkel	Maarssen	41
+Maarssen	Arkel	41
+Arkel	Maartensdijk	42
+Maartensdijk	Arkel	42
+Arkel	Meteren	24
+Meteren	Arkel	24
+Arkel	Noordeloos	9
+Noordeloos	Arkel	9
+Arkel	Ouderkerk aan de Amstel	63
+Ouderkerk aan de Amstel	Arkel	63
+Arkel	Schoonrewoerd	14
+Schoonrewoerd	Arkel	14
+Arkel	Veldhuizen	34
+Veldhuizen	Arkel	34
+Arkel	Vianen	23
+Vianen	Arkel	23
+Arkel	Vinkeveen	55
+Vinkeveen	Arkel	55
+Arkel	Vuren	8
+Vuren	Arkel	8
+Arkel	Zeewolde	77
+Zeewolde	Arkel	77
+Arnemuiden	Bergen op Zoom	56
+Bergen op Zoom	Arnemuiden	56
+Arnemuiden	Borgharen	184
+Borgharen	Arnemuiden	184
+Arnemuiden	Borssele	21
+Borssele	Arnemuiden	21
+Arnemuiden	Dordrecht	104
+Dordrecht	Arnemuiden	104
+Arnemuiden	Duizel	143
+Duizel	Arnemuiden	143
+Arnemuiden	Goes	19
+Goes	Arnemuiden	19
+Arnemuiden	Heerle	60
+Heerle	Arnemuiden	60
+Arnemuiden	IJzendijke	50
+IJzendijke	Arnemuiden	50
+Arnemuiden	Kapelle	21
+Kapelle	Arnemuiden	21
+Arnemuiden	Krooswijk	84
+Krooswijk	Arnemuiden	84
+Arnemuiden	Luyksgestel	145
+Luyksgestel	Arnemuiden	145
+Arnemuiden	Maastricht	180
+Maastricht	Arnemuiden	180
+Arnemuiden	Middelburg	9
+Middelburg	Arnemuiden	9
+Arnemuiden	Oostburg	61
+Oostburg	Arnemuiden	61
+Arnemuiden	Oud Gastel	72
+Oud Gastel	Arnemuiden	72
+Arnemuiden	Scherpenisse	63
+Scherpenisse	Arnemuiden	63
+Arnemuiden	Serooskerke	12
+Serooskerke	Arnemuiden	12
+Arnemuiden	Sluiskil	39
+Sluiskil	Arnemuiden	39
+Arnemuiden	Standdaarbuiten	78
+Standdaarbuiten	Arnemuiden	78
+Arnemuiden	Stein	179
+Stein	Arnemuiden	179
+Arnemuiden	Terneuzen	34
+Terneuzen	Arnemuiden	34
+Arnemuiden	Tholen	59
+Tholen	Arnemuiden	59
+Arnemuiden	West-Souburg	10
+West-Souburg	Arnemuiden	10
+Arnemuiden	Wolphaartsdijk	15
+Wolphaartsdijk	Arnemuiden	15
+Arnhem	Beekbergen	22
+Beekbergen	Arnhem	22
+Arnhem	Loenen	24
+Loenen	Arnhem	24
+Arnhem	Oosterbeek	6
+Oosterbeek	Arnhem	6
+Arnhem	Velp	5
+Velp	Arnhem	5
+Arnhem	Westervoort	6
+Westervoort	Arnhem	6
+Assen	Beilen	19
+Beilen	Assen	19
+Assen	Dwingeloo	32
+Dwingeloo	Assen	32
+Assen	Norg	15
+Norg	Assen	15
+Assen	Raalte	77
+Raalte	Assen	77
+Assen	Rolde	9
+Rolde	Assen	9
+Assen	Ruinen	37
+Ruinen	Assen	37
+Assen	Vries	9
+Vries	Assen	9
+Asten	Bakel	14
+Bakel	Asten	14
+Asten	Heusden	3
+Heusden	Asten	3
+Asten	Lierop	6
+Lierop	Asten	6
+Asten	Liessel	7
+Liessel	Asten	7
+Asten	Someren	4
+Someren	Asten	4
+Austerlitz	Bosch en Duin	8
+Bosch en Duin	Austerlitz	8
+Austerlitz	Driebergen-Rijsenburg	5
+Driebergen-Rijsenburg	Austerlitz	5
+Austerlitz	Maarn	8
+Maarn	Austerlitz	8
+Austerlitz	Soest	16
+Soest	Austerlitz	16
+Austerlitz	Woudenberg	9
+Woudenberg	Austerlitz	9
+Austerlitz	Zeewolde	39
+Zeewolde	Austerlitz	39
+Austerlitz	Zeist	7
+Zeist	Austerlitz	7
+Avenhorn	De Rijp	13
+De Rijp	Avenhorn	13
+Avenhorn	Middenbeemster	9
+Middenbeemster	Avenhorn	9
+Avenhorn	Stompetoren	13
+Stompetoren	Avenhorn	13
+Axel	Hulst	13
+Hulst	Axel	13
+Axel	IJzendijke	26
+IJzendijke	Axel	26
+Axel	Koewacht	9
+Koewacht	Axel	9
+Axel	Middelburg	44
+Middelburg	Axel	44
+Axel	Sluiskil	12
+Sluiskil	Axel	12
+Axel	Terneuzen	12
+Terneuzen	Axel	12
+Axel	Westdorpe	10
+Westdorpe	Axel	10
+Axel	Wolphaartsdijk	44
+Wolphaartsdijk	Axel	44
+Axel	Zaamslag	6
+Zaamslag	Axel	6
+Baalder	Coevorden	13
+Coevorden	Baalder	13
+Baalder	Hardenberg	4
+Hardenberg	Baalder	4
+Baarle-Nassau	Chaam	9
+Chaam	Baarle-Nassau	9
+Baarle-Nassau	Goirle	17
+Goirle	Baarle-Nassau	17
+Baarle-Nassau	Lage Mierde	18
+Lage Mierde	Baarle-Nassau	18
+Baarle-Nassau	Maastricht	103
+Maastricht	Baarle-Nassau	103
+Baarlo	Boxmeer	42
+Boxmeer	Baarlo	42
+Baarlo	Deest	77
+Deest	Baarlo	77
+Baarlo	Grave	61
+Grave	Baarlo	61
+Baarlo	Haps	49
+Haps	Baarlo	49
+Baarlo	Hunnerberg	67
+Hunnerberg	Baarlo	67
+Baarlo	Kessel	6
+Kessel	Baarlo	6
+Baarlo	Leunen	27
+Leunen	Baarlo	27
+Baarlo	Maasbree	5
+Maasbree	Baarlo	5
+Baarlo	Meerlo	24
+Meerlo	Baarlo	24
+Baarlo	Oostrum	27
+Oostrum	Baarlo	27
+Baarlo	Overasselt	60
+Overasselt	Baarlo	60
+Baarlo	Tegelen	4
+Tegelen	Baarlo	4
+Baarn	Bijvanck	13
+Bijvanck	Baarn	13
+Baarn	Bunschoten	9
+Bunschoten	Baarn	9
+Baarn	Emmeloord	78
+Emmeloord	Baarn	78
+Baarn	Hilversum	9
+Hilversum	Baarn	9
+Baarn	Lelystad	48
+Lelystad	Baarn	48
+Baarn	Soestdijk	3
+Soestdijk	Baarn	3
+Baarn	Terschuur	20
+Terschuur	Baarn	20
+Baarn	Urk	73
+Urk	Baarn	73
+Babberich	Beek gem Montferland	6
+Beek gem Montferland	Babberich	6
+Babberich	Lichtenvoorde	36
+Lichtenvoorde	Babberich	36
+Babberich	Lobith	7
+Lobith	Babberich	7
+Babberich	Ottersum	40
+Ottersum	Babberich	40
+Babberich	Pannerden	8
+Pannerden	Babberich	8
+Babberich	Zevenaar	4
+Zevenaar	Babberich	4
+Baflo	Bedum	11
+Bedum	Baflo	11
+Baflo	Eenrum	5
+Eenrum	Baflo	5
+Baflo	Obergum	4
+Obergum	Baflo	4
+Baflo	Warffum	5
+Warffum	Baflo	5
+Bakel	Gemert	8
+Gemert	Bakel	8
+Bakel	Helmond	7
+Helmond	Bakel	7
+Bakel	Liessel	12
+Liessel	Bakel	12
+Bakel	Milheeze	3
+Milheeze	Bakel	3
+Bakkeveen	Gorredijk	16
+Gorredijk	Bakkeveen	16
+Bakkeveen	Haulerwijk	7
+Haulerwijk	Bakkeveen	7
+Bakkeveen	Jubbega	14
+Jubbega	Bakkeveen	14
+Bakkeveen	Leek	16
+Leek	Bakkeveen	16
+Bakkeveen	Marum	9
+Marum	Bakkeveen	9
+Bakkeveen	Oosterwolde	13
+Oosterwolde	Bakkeveen	13
+Bakkeveen	Roden	16
+Roden	Bakkeveen	16
+Bakkeveen	Surhuisterveen	15
+Surhuisterveen	Bakkeveen	15
+Bakkeveen	Ureterp	7
+Ureterp	Bakkeveen	7
+Balk	Koudum	12
+Koudum	Balk	12
+Balk	Lemmer	12
+Lemmer	Balk	12
+Balk	Oudemirdum	7
+Oudemirdum	Balk	7
+Balk	Sint Nicolaasga	13
+Sint Nicolaasga	Balk	13
+Balk	Woudsend	8
+Woudsend	Balk	8
+Ballast	Dalen	4
+Dalen	Ballast	4
+Bangert	Enkhuizen	12
+Enkhuizen	Bangert	12
+Bangert	Lutjebroek	7
+Lutjebroek	Bangert	7
+Bangert	Onderdijk	4
+Onderdijk	Bangert	4
+Barendrecht	Bolnes	7
+Bolnes	Barendrecht	7
+Barendrecht	Bruinisse	46
+Bruinisse	Barendrecht	46
+Barendrecht	Capelle aan den IJssel	13
+Capelle aan den IJssel	Barendrecht	13
+Barendrecht	Carnisse	7
+Carnisse	Barendrecht	7
+Barendrecht	Dinteloord	36
+Dinteloord	Barendrecht	36
+Barendrecht	Dirksland	47
+Dirksland	Barendrecht	47
+Barendrecht	Fijnaart	34
+Fijnaart	Barendrecht	34
+Barendrecht	Heerjansdam	4
+Heerjansdam	Barendrecht	4
+Barendrecht	Middelharnis	45
+Middelharnis	Barendrecht	45
+Barendrecht	Mijnsheerenland	12
+Mijnsheerenland	Barendrecht	12
+Barendrecht	Nieuw-Vossemeer	49
+Nieuw-Vossemeer	Barendrecht	49
+Barendrecht	Oud-Beijerland	14
+Oud-Beijerland	Barendrecht	14
+Barendrecht	Ridderkerk	6
+Ridderkerk	Barendrecht	6
+Barendrecht	Rijsoord	6
+Rijsoord	Barendrecht	6
+Barendrecht	Strijen	20
+Strijen	Barendrecht	20
+Barendrecht	Zuid-Beijerland	21
+Zuid-Beijerland	Barendrecht	21
+Barger-Oosterveld	Emmen	4
+Emmen	Barger-Oosterveld	4
+Barger-Oosterveld	Emmer-Erfscheidenveen	8
+Emmer-Erfscheidenveen	Barger-Oosterveld	8
+Barger-Oosterveld	Nieuw-Dordrecht	3
+Nieuw-Dordrecht	Barger-Oosterveld	3
+Barger-Oosterveld	Onstwedde	36
+Onstwedde	Barger-Oosterveld	36
+Barneveld	Kootwijkerbroek	7
+Kootwijkerbroek	Barneveld	7
+Barneveld	Leusden	14
+Leusden	Barneveld	14
+Barneveld	Lunteren	8
+Lunteren	Barneveld	8
+Barneveld	Nederwoud	7
+Nederwoud	Barneveld	7
+Barneveld	Nijkerk	13
+Nijkerk	Barneveld	13
+Barneveld	Renswoude	9
+Renswoude	Barneveld	9
+Barneveld	Terschuur	8
+Terschuur	Barneveld	8
+Barneveld	Voorthuizen	6
+Voorthuizen	Barneveld	6
+Barneveld	Wekerom	11
+Wekerom	Barneveld	11
+Bedum	Groningen	11
+Groningen	Bedum	11
+Bedum	Harkstede	18
+Harkstede	Bedum	18
+Bedum	Loppersum	13
+Loppersum	Bedum	13
+Bedum	Middelstum	10
+Middelstum	Bedum	10
+Bedum	Ten Boer	8
+Ten Boer	Bedum	8
+Bedum	Uithuizen	17
+Uithuizen	Bedum	17
+Bedum	Warffum	12
+Warffum	Bedum	12
+Beegden	Haelen	8
+Haelen	Beegden	8
+Beegden	Heythuysen	9
+Heythuysen	Beegden	9
+Beegden	Roermond	7
+Roermond	Beegden	7
+Beek gem Montferland	Groesbeek	41
+Groesbeek	Beek gem Montferland	41
+Beek gem Montferland	Lobith	8
+Lobith	Beek gem Montferland	8
+Beek gem Montferland	Ooyerhoek	31
+Ooyerhoek	Beek gem Montferland	31
+Beek gem Montferland	Steenderen	24
+Steenderen	Beek gem Montferland	24
+Beek gem Montferland	Zeddam	6
+Zeddam	Beek gem Montferland	6
+Beekbergen	Deventer	21
+Deventer	Beekbergen	21
+Beekbergen	Epse	20
+Epse	Beekbergen	20
+Beekbergen	Garderen	25
+Garderen	Beekbergen	25
+Beekbergen	Harderwijk	39
+Harderwijk	Beekbergen	39
+Beekbergen	Loenen	6
+Loenen	Beekbergen	6
+Beekbergen	Naarden	66
+Naarden	Beekbergen	66
+Beekbergen	Nijkerk	42
+Nijkerk	Beekbergen	42
+Beekbergen	Oosterbeek	25
+Oosterbeek	Beekbergen	25
+Beekbergen	Otterlo	20
+Otterlo	Beekbergen	20
+Beekbergen	Rozendaal	20
+Rozendaal	Beekbergen	20
+Beekbergen	Terschuur	37
+Terschuur	Beekbergen	37
+Beekbergen	Voorst	17
+Voorst	Beekbergen	17
+Beekbergen	Voorthuizen	33
+Voorthuizen	Beekbergen	33
+Beesd	Culemborg	11
+Culemborg	Beesd	11
+Beesd	De Bilt	30
+De Bilt	Beesd	30
+Beesd	Deil	6
+Deil	Beesd	6
+Beesd	Diemen	59
+Diemen	Beesd	59
+Beesd	Duivendrecht	59
+Duivendrecht	Beesd	59
+Beesd	Haaften	9
+Haaften	Beesd	9
+Beesd	Herwijnen	13
+Herwijnen	Beesd	13
+Beesd	IJsselstein	20
+IJsselstein	Beesd	20
+Beesd	Leerdam	8
+Leerdam	Beesd	8
+Beesd	Maarssen	33
+Maarssen	Beesd	33
+Beesd	Nieuwegein	21
+Nieuwegein	Beesd	21
+Beesd	Ouderkerk aan de Amstel	56
+Ouderkerk aan de Amstel	Beesd	56
+Beesd	Vianen	16
+Vianen	Beesd	16
+Beesd	Vinkeveen	48
+Vinkeveen	Beesd	48
+Beesd	Vleuten	32
+Vleuten	Beesd	32
+Beesd	Waardenburg	10
+Waardenburg	Beesd	10
+Beesel	Kessel	3
+Kessel	Beesel	3
+Beesel	Roermond	10
+Roermond	Beesel	10
+Beetsterzwaag	Boornbergum	5
+Boornbergum	Beetsterzwaag	5
+Beetsterzwaag	Gorredijk	7
+Gorredijk	Beetsterzwaag	7
+Beetsterzwaag	Groningen	45
+Groningen	Beetsterzwaag	45
+Beetsterzwaag	Grootegast	28
+Grootegast	Beetsterzwaag	28
+Beetsterzwaag	Haren	47
+Haren	Beetsterzwaag	47
+Beetsterzwaag	Harkstede	54
+Harkstede	Beetsterzwaag	54
+Beetsterzwaag	Haulerwijk	21
+Haulerwijk	Beetsterzwaag	21
+Beetsterzwaag	Hoogezand	58
+Hoogezand	Beetsterzwaag	58
+Beetsterzwaag	Jubbega	10
+Jubbega	Beetsterzwaag	10
+Beetsterzwaag	Leek	31
+Leek	Beetsterzwaag	31
+Beetsterzwaag	Marum	22
+Marum	Beetsterzwaag	22
+Beetsterzwaag	Oosterwolde	21
+Oosterwolde	Beetsterzwaag	21
+Beetsterzwaag	Oudehaske	20
+Oudehaske	Beetsterzwaag	20
+Beetsterzwaag	Ten Boer	55
+Ten Boer	Beetsterzwaag	55
+Beetsterzwaag	Ureterp	13
+Ureterp	Beetsterzwaag	13
+Beetsterzwaag	Zuidbroek	64
+Zuidbroek	Beetsterzwaag	64
+Beilen	Drachten	45
+Drachten	Beilen	45
+Beilen	Dwingeloo	16
+Dwingeloo	Beilen	16
+Beilen	Hoogeveen	19
+Hoogeveen	Beilen	19
+Beilen	Jubbega	39
+Jubbega	Beilen	39
+Beilen	Nieuwe Pekela	48
+Nieuwe Pekela	Beilen	48
+Beilen	Nieuwehorne	41
+Nieuwehorne	Beilen	41
+Beilen	Norg	28
+Norg	Beilen	28
+Beilen	Ommen	42
+Ommen	Beilen	42
+Beilen	Rolde	22
+Rolde	Beilen	22
+Beilen	Ruinen	21
+Ruinen	Beilen	21
+Beilen	Westerbork	8
+Westerbork	Beilen	8
+Beilen	Wildervank	42
+Wildervank	Beilen	42
+Beilen	Wolvega	46
+Wolvega	Beilen	46
+Bellingwolde	Blijham	7
+Blijham	Bellingwolde	7
+Bellingwolde	Bocholtz	328
+Bocholtz	Bellingwolde	328
+Bellingwolde	Enschede	128
+Enschede	Bellingwolde	128
+Bellingwolde	Grashoek	271
+Grashoek	Bellingwolde	271
+Bellingwolde	Haanrade	320
+Haanrade	Bellingwolde	320
+Bellingwolde	Ootmarsum	105
+Ootmarsum	Bellingwolde	105
+Bellingwolde	Vaals	329
+Vaals	Bellingwolde	329
+Bellingwolde	Venlo	256
+Venlo	Bellingwolde	256
+Bellingwolde	Vlagtwedde	13
+Vlagtwedde	Bellingwolde	13
+Bellingwolde	Waubach	317
+Waubach	Bellingwolde	317
+Bemmel	Duiven	14
+Duiven	Bemmel	14
+Bemmel	Elden	9
+Elden	Bemmel	9
+Bemmel	Elst	8
+Elst	Bemmel	8
+Bemmel	Groessen	14
+Groessen	Bemmel	14
+Bemmel	Haalderen	3
+Haalderen	Bemmel	3
+Bemmel	Lent	5
+Lent	Bemmel	5
+Bennebroek	Vogelenzang	3
+Vogelenzang	Bennebroek	3
+Bennekom	Ede	5
+Ede	Bennekom	5
+Bennekom	Opheusden	11
+Opheusden	Bennekom	11
+Bennekom	Renkum	5
+Renkum	Bennekom	5
+Bennekom	Veenendaal	11
+Veenendaal	Bennekom	11
+Bennekom	Wageningen	5
+Wageningen	Bennekom	5
+Benthuizen	Bleiswijk	9
+Bleiswijk	Benthuizen	9
+Benthuizen	Boskoop	8
+Boskoop	Benthuizen	8
+Benthuizen	Leiderdorp	12
+Leiderdorp	Benthuizen	12
+Benthuizen	Noordeinde	10
+Noordeinde	Benthuizen	10
+Benthuizen	Pijnacker	13
+Pijnacker	Benthuizen	13
+Benthuizen	Zoetermeer	7
+Zoetermeer	Benthuizen	7
+Benthuizen	Zoeterwoude-Dorp	10
+Zoeterwoude-Dorp	Benthuizen	10
+Berg en Dal	Groesbeek	6
+Groesbeek	Berg en Dal	6
+Berg en Dal	Hunnerberg	4
+Hunnerberg	Berg en Dal	4
+Berg en Dal	Leuth	8
+Leuth	Berg en Dal	8
+Berg en Dal	Ooij	5
+Ooij	Berg en Dal	5
+Berg en Dal	Overasselt	15
+Overasselt	Berg en Dal	15
+Bergeijk	Borgharen	77
+Borgharen	Bergeijk	77
+Bergeijk	Budel	20
+Budel	Bergeijk	20
+Bergeijk	Eersel	6
+Eersel	Bergeijk	6
+Bergeijk	Luyksgestel	6
+Luyksgestel	Bergeijk	6
+Bergeijk	Maastricht	74
+Maastricht	Bergeijk	74
+Bergeijk	Stein	67
+Stein	Bergeijk	67
+Bergeijk	Westerhoven	4
+Westerhoven	Bergeijk	4
+Bergen op Zoom	Bleskensgraaf	62
+Bleskensgraaf	Bergen op Zoom	62
+Bergen op Zoom	Borssele	58
+Borssele	Bergen op Zoom	58
+Bergen op Zoom	Breskens	98
+Breskens	Bergen op Zoom	98
+Bergen op Zoom	Dordrecht	51
+Dordrecht	Bergen op Zoom	51
+Bergen op Zoom	Heerle	7
+Heerle	Bergen op Zoom	7
+Bergen op Zoom	IJzendijke	87
+IJzendijke	Bergen op Zoom	87
+Bergen op Zoom	Kapelle	38
+Kapelle	Bergen op Zoom	38
+Bergen op Zoom	Kloetinge	39
+Kloetinge	Bergen op Zoom	39
+Bergen op Zoom	Klundert	32
+Klundert	Bergen op Zoom	32
+Bergen op Zoom	Krooswijk	31
+Krooswijk	Bergen op Zoom	31
+Bergen op Zoom	Nieuw-Lekkerland	64
+Nieuw-Lekkerland	Bergen op Zoom	64
+Bergen op Zoom	Noordeloos	73
+Noordeloos	Bergen op Zoom	73
+Bergen op Zoom	Noordgeest	3
+Noordgeest	Bergen op Zoom	3
+Bergen op Zoom	Oostburg	98
+Oostburg	Bergen op Zoom	98
+Bergen op Zoom	Oud Gastel	19
+Oud Gastel	Bergen op Zoom	19
+Bergen op Zoom	Roosendaal	14
+Roosendaal	Bergen op Zoom	14
+Bergen op Zoom	Sliedrecht	60
+Sliedrecht	Bergen op Zoom	60
+Bergen op Zoom	Standdaarbuiten	25
+Standdaarbuiten	Bergen op Zoom	25
+Bergen op Zoom	Stolwijk	74
+Stolwijk	Bergen op Zoom	74
+Bergen op Zoom	Terneuzen	71
+Terneuzen	Bergen op Zoom	71
+Bergen op Zoom	Wemeldinge	38
+Wemeldinge	Bergen op Zoom	38
+Bergen op Zoom	Yerseke	34
+Yerseke	Bergen op Zoom	34
+Bergen op Zoom	Zwijndrecht	51
+Zwijndrecht	Bergen op Zoom	51
+Bergharen	Beuningen	10
+Beuningen	Bergharen	10
+Bergharen	Deest	6
+Deest	Bergharen	6
+Bergharen	Doorwerth	25
+Doorwerth	Bergharen	25
+Bergharen	Driel	23
+Driel	Bergharen	23
+Bergharen	Elst	23
+Elst	Bergharen	23
+Bergharen	Grave	13
+Grave	Bergharen	13
+Bergharen	Heelsum	25
+Heelsum	Bergharen	25
+Bergharen	Heteren	21
+Heteren	Bergharen	21
+Bergharen	Lienden	25
+Lienden	Bergharen	25
+Bergharen	Maurik	29
+Maurik	Bergharen	29
+Bergharen	Megen	12
+Megen	Bergharen	12
+Bergharen	Ravenstein	11
+Ravenstein	Bergharen	11
+Bergharen	Renkum	25
+Renkum	Bergharen	25
+Bergharen	Tiel	26
+Tiel	Bergharen	26
+Bergharen	Wijchen	8
+Wijchen	Bergharen	8
+Bergharen	Wijk bij Duurstede	35
+Wijk bij Duurstede	Bergharen	35
+Berghem	Heesch	7
+Heesch	Berghem	7
+Berghem	Herpen	6
+Herpen	Berghem	6
+Berghem	Megen	6
+Megen	Berghem	6
+Berghem	Nistelrode	9
+Nistelrode	Berghem	9
+Berghem	Oss	5
+Oss	Berghem	5
+Bergschenhoek	Bleiswijk	5
+Bleiswijk	Bergschenhoek	5
+Bergschenhoek	Dordrecht	29
+Dordrecht	Bergschenhoek	29
+Beringe	Grashoek	4
+Grashoek	Beringe	4
+Beringe	Meijel	5
+Meijel	Beringe	5
+Beringe	Panningen	3
+Panningen	Beringe	3
+Berkel en Rodenrijs	Delft	12
+Delft	Berkel en Rodenrijs	12
+Berkel en Rodenrijs	Noordeinde	3
+Noordeinde	Berkel en Rodenrijs	3
+Berkel en Rodenrijs	Pijnacker	6
+Pijnacker	Berkel en Rodenrijs	6
+Berkel en Rodenrijs	Schiedam	15
+Schiedam	Berkel en Rodenrijs	15
+Berkenwoude	Gouderak	8
+Gouderak	Berkenwoude	8
+Berkenwoude	Groot-Ammers	12
+Groot-Ammers	Berkenwoude	12
+Berkenwoude	Krimpen aan den IJssel	11
+Krimpen aan den IJssel	Berkenwoude	11
+Berkenwoude	Nieuw-Lekkerland	15
+Nieuw-Lekkerland	Berkenwoude	15
+Berkenwoude	Ouderkerk aan den IJssel	9
+Ouderkerk aan den IJssel	Berkenwoude	9
+Berkenwoude	Stolwijk	6
+Stolwijk	Berkenwoude	6
+Berkhout	De Goorn	5
+De Goorn	Berkhout	5
+Berkhout	Edam	16
+Edam	Berkhout	16
+Berkhout	Harlingen	76
+Harlingen	Berkhout	76
+Berkhout	Hoorn	5
+Hoorn	Berkhout	5
+Berkhout	Middenmeer	23
+Middenmeer	Berkhout	23
+Berkhout	Midwoud	14
+Midwoud	Berkhout	14
+Berkhout	Purmerend	19
+Purmerend	Berkhout	19
+Berkhout	Sneek	86
+Sneek	Berkhout	86
+Berkhout	Spierdijk	5
+Spierdijk	Berkhout	5
+Berkhout	Wieringerwerf	27
+Wieringerwerf	Berkhout	27
+Berkhout	Witmarsum	72
+Witmarsum	Berkhout	72
+Berkhout	Zaandijk	28
+Zaandijk	Berkhout	28
+Berlicum	Molenhoek	5
+Molenhoek	Berlicum	5
+Berlicum	Vught	11
+Vught	Berlicum	11
+Berltsum	Emmeloord	75
+Emmeloord	Berltsum	75
+Berltsum	Goutum	15
+Goutum	Berltsum	15
+Berltsum	Grou	24
+Grou	Berltsum	24
+Berltsum	Heerenveen	40
+Heerenveen	Berltsum	40
+Berltsum	Leeuwarden	13
+Leeuwarden	Berltsum	13
+Berltsum	Lemmer	59
+Lemmer	Berltsum	59
+Berltsum	Menaam	4
+Menaam	Berltsum	4
+Berltsum	Minnertsga	5
+Minnertsga	Berltsum	5
+Berltsum	Sint Annaparochie	5
+Sint Annaparochie	Berltsum	5
+Berltsum	Sint Jacobiparochie	5
+Sint Jacobiparochie	Berltsum	5
+Best	Boxtel	14
+Boxtel	Best	14
+Best	Eindhoven	11
+Eindhoven	Best	11
+Best	Liempde	12
+Liempde	Best	12
+Best	Oirschot	6
+Oirschot	Best	6
+Best	Son	11
+Son	Best	11
+Best	Vaartbroek	12
+Vaartbroek	Best	12
+Best	Veldhoven	15
+Veldhoven	Best	15
+Best	Vlokhoven	12
+Vlokhoven	Best	12
+Best	Waalre	17
+Waalre	Best	17
+Beuningen	Deest	12
+Deest	Beuningen	12
+Beuningen	Doorwerth	23
+Doorwerth	Beuningen	23
+Beuningen	Heelsum	23
+Heelsum	Beuningen	23
+Beuningen	Heteren	19
+Heteren	Beuningen	19
+Beuningen	Lent	9
+Lent	Beuningen	9
+Beuningen	Nijmegen	8
+Nijmegen	Beuningen	8
+Beuningen	Renkum	23
+Renkum	Beuningen	23
+Beuningen	Wijchen	8
+Wijchen	Beuningen	8
+Beusichem	Cothen	10
+Cothen	Beusichem	10
+Beusichem	Culemborg	6
+Culemborg	Beusichem	6
+Beusichem	Driebergen-Rijsenburg	16
+Driebergen-Rijsenburg	Beusichem	16
+Beusichem	Druten	35
+Druten	Beusichem	35
+Beusichem	Geldermalsen	10
+Geldermalsen	Beusichem	10
+Beusichem	Houten	15
+Houten	Beusichem	15
+Beusichem	Maurik	13
+Maurik	Beusichem	13
+Beusichem	Tiel	16
+Tiel	Beusichem	16
+Beusichem	Werkhoven	13
+Werkhoven	Beusichem	13
+Beusichem	Wijk bij Duurstede	8
+Wijk bij Duurstede	Beusichem	8
+Beverwijk	Velsen-Zuid	5
+Velsen-Zuid	Beverwijk	5
+Beverwijk	Wijk aan Zee	5
+Wijk aan Zee	Beverwijk	5
+Biddinghuizen	Bijvanck	39
+Bijvanck	Biddinghuizen	39
+Biddinghuizen	Blaricum	40
+Blaricum	Biddinghuizen	40
+Biddinghuizen	Bunschoten	41
+Bunschoten	Biddinghuizen	41
+Biddinghuizen	Doornspijk	15
+Doornspijk	Biddinghuizen	15
+Biddinghuizen	Dronten	11
+Dronten	Biddinghuizen	11
+Biddinghuizen	Ens	32
+Ens	Biddinghuizen	32
+Biddinghuizen	Harderwijk	20
+Harderwijk	Biddinghuizen	20
+Biddinghuizen	Hollandsche Rading	51
+Hollandsche Rading	Biddinghuizen	51
+Biddinghuizen	Kampen	24
+Kampen	Biddinghuizen	24
+Biddinghuizen	Lelystad	21
+Lelystad	Biddinghuizen	21
+Biddinghuizen	Nieuw-Loosdrecht	54
+Nieuw-Loosdrecht	Biddinghuizen	54
+Biddinghuizen	Zeewolde	24
+Zeewolde	Biddinghuizen	24
+Bijvanck	Emmeloord	69
+Emmeloord	Bijvanck	69
+Bijvanck	Harderwijk	35
+Harderwijk	Bijvanck	35
+Bijvanck	Hollandsche Rading	15
+Hollandsche Rading	Bijvanck	15
+Bijvanck	Huizen	3
+Huizen	Bijvanck	3
+Bijvanck	Lelystad	39
+Lelystad	Bijvanck	39
+Bijvanck	Nieuw-Loosdrecht	18
+Nieuw-Loosdrecht	Bijvanck	18
+Bijvanck	Nunspeet	48
+Nunspeet	Bijvanck	48
+Bijvanck	Putten	35
+Putten	Bijvanck	35
+Bijvanck	Terschuur	30
+Terschuur	Bijvanck	30
+Bijvanck	Urk	64
+Urk	Bijvanck	64
+Bijvanck	Zeewolde	25
+Zeewolde	Bijvanck	25
+Bijvanck	Zwolle	74
+Zwolle	Bijvanck	74
+Bitswijk	Nistelrode	6
+Nistelrode	Bitswijk	6
+Bitswijk	Vorstenbosch	5
+Vorstenbosch	Bitswijk	5
+Bladel	Hapert	3
+Hapert	Bladel	3
+Bladel	Reusel	4
+Reusel	Bladel	4
+Blaricum	Emmeloord	70
+Emmeloord	Blaricum	70
+Blaricum	Harderwijk	36
+Harderwijk	Blaricum	36
+Blaricum	Huizen	3
+Huizen	Blaricum	3
+Blaricum	Lelystad	40
+Lelystad	Blaricum	40
+Blaricum	Nunspeet	49
+Nunspeet	Blaricum	49
+Blaricum	Putten	36
+Putten	Blaricum	36
+Blaricum	Urk	65
+Urk	Blaricum	65
+Blaricum	Zeewolde	26
+Zeewolde	Blaricum	26
+Bleiswijk	Bodegraven	21
+Bodegraven	Bleiswijk	21
+Bleiswijk	Capelle aan den IJssel	16
+Capelle aan den IJssel	Bleiswijk	16
+Bleiswijk	Gouda	16
+Gouda	Bleiswijk	16
+Bleiswijk	Gouderak	16
+Gouderak	Bleiswijk	16
+Bleiswijk	Hendrik-Ido-Ambacht	27
+Hendrik-Ido-Ambacht	Bleiswijk	27
+Bleiswijk	Schiedam	18
+Schiedam	Bleiswijk	18
+Bleiswijk	Voorburg	18
+Voorburg	Bleiswijk	18
+Bleiswijk	Waarder	25
+Waarder	Bleiswijk	25
+Bleiswijk	Waddinxveen	13
+Waddinxveen	Bleiswijk	13
+Bleiswijk	Zoetermeer	9
+Zoetermeer	Bleiswijk	9
+Bleiswijk	Zwijndrecht	28
+Zwijndrecht	Bleiswijk	28
+Bleskensgraaf	Bosschenhoofd	49
+Bosschenhoofd	Bleskensgraaf	49
+Bleskensgraaf	Chaam	56
+Chaam	Bleskensgraaf	56
+Bleskensgraaf	Gageldonk	40
+Gageldonk	Bleskensgraaf	40
+Bleskensgraaf	Giessendam	10
+Giessendam	Bleskensgraaf	10
+Bleskensgraaf	Groot-Ammers	10
+Groot-Ammers	Bleskensgraaf	10
+Bleskensgraaf	Huijbergen	64
+Huijbergen	Bleskensgraaf	64
+Bleskensgraaf	Klundert	37
+Klundert	Bleskensgraaf	37
+Bleskensgraaf	Krooswijk	36
+Krooswijk	Bleskensgraaf	36
+Bleskensgraaf	Nieuw-Lekkerland	10
+Nieuw-Lekkerland	Bleskensgraaf	10
+Bleskensgraaf	Noordeloos	15
+Noordeloos	Bleskensgraaf	15
+Bleskensgraaf	Oud Gastel	46
+Oud Gastel	Bleskensgraaf	46
+Bleskensgraaf	Papendrecht	10
+Papendrecht	Bleskensgraaf	10
+Bleskensgraaf	Prinsenbeek	39
+Prinsenbeek	Bleskensgraaf	39
+Bleskensgraaf	Rijsbergen	49
+Rijsbergen	Bleskensgraaf	49
+Bleskensgraaf	Roosendaal	53
+Roosendaal	Bleskensgraaf	53
+Bleskensgraaf	Sliedrecht	8
+Sliedrecht	Bleskensgraaf	8
+Bleskensgraaf	Standdaarbuiten	40
+Standdaarbuiten	Bleskensgraaf	40
+Bleskensgraaf	Strijen	29
+Strijen	Bleskensgraaf	29
+Bleskensgraaf	Terheijden	39
+Terheijden	Bleskensgraaf	39
+Bleskensgraaf	Wagenberg	39
+Wagenberg	Bleskensgraaf	39
+Bleskensgraaf	Wemeldinge	97
+Wemeldinge	Bleskensgraaf	97
+Bleskensgraaf	Yerseke	93
+Yerseke	Bleskensgraaf	93
+Blijham	Onstwedde	9
+Onstwedde	Blijham	9
+Blijham	Oude Pekela	7
+Oude Pekela	Blijham	7
+Blijham	Vlagtwedde	10
+Vlagtwedde	Blijham	10
+Blijham	Winschoten	6
+Winschoten	Blijham	6
+Bloemendaal	Uitgeest	19
+Uitgeest	Bloemendaal	19
+Bocholtz	Emmer-Compascuum	295
+Emmer-Compascuum	Bocholtz	295
+Bocholtz	Gulpen	10
+Gulpen	Bocholtz	10
+Bocholtz	Klazienaveen	293
+Klazienaveen	Bocholtz	293
+Bocholtz	Mechelen	8
+Mechelen	Bocholtz	8
+Bocholtz	Nieuw-Dordrecht	294
+Nieuw-Dordrecht	Bocholtz	294
+Bocholtz	Simpelveld	3
+Simpelveld	Bocholtz	3
+Bocholtz	Vaals	10
+Vaals	Bocholtz	10
+Bocholtz	Vlagtwedde	324
+Vlagtwedde	Bocholtz	324
+Bodegraven	Boskoop	12
+Boskoop	Bodegraven	12
+Bodegraven	Capelle aan den IJssel	23
+Capelle aan den IJssel	Bodegraven	23
+Bodegraven	Gouwsluis	10
+Gouwsluis	Bodegraven	10
+Bodegraven	Leiderdorp	23
+Leiderdorp	Bodegraven	23
+Bodegraven	Nieuwkoop	11
+Nieuwkoop	Bodegraven	11
+Bodegraven	Pijnacker	28
+Pijnacker	Bodegraven	28
+Bodegraven	Reeuwijk	6
+Reeuwijk	Bodegraven	6
+Bodegraven	Schiedam	35
+Schiedam	Bodegraven	35
+Bodegraven	The Hague	36
+The Hague	Bodegraven	36
+Bodegraven	Voorburg	32
+Voorburg	Bodegraven	32
+Bodegraven	Voorschoten	26
+Voorschoten	Bodegraven	26
+Bodegraven	Waddinxveen	12
+Waddinxveen	Bodegraven	12
+Bodegraven	Weijpoort	4
+Weijpoort	Bodegraven	4
+Bodegraven	Zoetermeer	23
+Zoetermeer	Bodegraven	23
+Boekel	Erp	5
+Erp	Boekel	5
+Boekel	Gemert	7
+Gemert	Boekel	7
+Boekel	Sint Anthonis	16
+Sint Anthonis	Boekel	16
+Boekel	Volkel	5
+Volkel	Boekel	5
+Boekel	Wanroij	14
+Wanroij	Boekel	14
+Boekel	Ysselsteyn	26
+Ysselsteyn	Boekel	26
+Bolnes	Capelle aan den IJssel	11
+Capelle aan den IJssel	Bolnes	11
+Bolnes	Kop van Zuid	8
+Kop van Zuid	Bolnes	8
+Bolnes	Ridderkerk	4
+Ridderkerk	Bolnes	4
+Bolsward	Sneek	12
+Sneek	Bolsward	12
+Bolsward	Witmarsum	7
+Witmarsum	Bolsward	7
+Bolsward	Wommels	9
+Wommels	Bolsward	9
+Bolsward	Workum	14
+Workum	Bolsward	14
+Boornbergum	Drachten	7
+Drachten	Boornbergum	7
+Boornbergum	Emmeloord	56
+Emmeloord	Boornbergum	56
+Boornbergum	Joure	26
+Joure	Boornbergum	26
+Boornbergum	Kampen	77
+Kampen	Boornbergum	77
+Boornbergum	Lemmer	40
+Lemmer	Boornbergum	40
+Boornbergum	Sint Nicolaasga	33
+Sint Nicolaasga	Boornbergum	33
+Borculo	Lichtenvoorde	18
+Lichtenvoorde	Borculo	18
+Borculo	Lochem	11
+Lochem	Borculo	11
+Borculo	Markelo	19
+Markelo	Borculo	19
+Borculo	Neede	8
+Neede	Borculo	8
+Borculo	Ruurlo	6
+Ruurlo	Borculo	6
+Borculo	Winterswijk	23
+Winterswijk	Borculo	23
+Borger	Exloo	8
+Exloo	Borger	8
+Borger	Gasselte	6
+Gasselte	Borger	6
+Borger	Nieuw-Buinen	14
+Nieuw-Buinen	Borger	14
+Borger	Rolde	13
+Rolde	Borger	13
+Borger	Schoonoord	12
+Schoonoord	Borger	12
+Borger	Stadskanaal	15
+Stadskanaal	Borger	15
+Borger	Westerbork	16
+Westerbork	Borger	16
+Borgharen	Bunde	6
+Bunde	Borgharen	6
+Borgharen	Eijsden	14
+Eijsden	Borgharen	14
+Borgharen	Hulst	145
+Hulst	Borgharen	145
+Borgharen	Kapelle	166
+Kapelle	Borgharen	166
+Borgharen	Kloetinge	167
+Kloetinge	Borgharen	167
+Borgharen	Koewacht	146
+Koewacht	Borgharen	146
+Borgharen	Luyksgestel	80
+Luyksgestel	Borgharen	80
+Borgharen	Maastricht	8
+Maastricht	Borgharen	8
+Borgharen	Putte	128
+Putte	Borgharen	128
+Borgharen	Vlissingen	193
+Vlissingen	Borgharen	193
+Borgharen	Wemeldinge	166
+Wemeldinge	Borgharen	166
+Borgharen	Yerseke	162
+Yerseke	Borgharen	162
+Born	Limbricht	3
+Limbricht	Born	3
+Borne	Delden	6
+Delden	Borne	6
+Borne	Epse	43
+Epse	Borne	43
+Borne	Haaksbergen	19
+Haaksbergen	Borne	19
+Borne	Het Oostrik	43
+Het Oostrik	Borne	43
+Borne	Loenen	64
+Loenen	Borne	64
+Borne	Oosterbeek	83
+Oosterbeek	Borne	83
+Borne	Ootmarsum	21
+Ootmarsum	Borne	21
+Borne	Schalkhaar	45
+Schalkhaar	Borne	45
+Borne	Tubbergen	16
+Tubbergen	Borne	16
+Borssele	Breskens	50
+Breskens	Borssele	50
+Borssele	Colijnsplaat	30
+Colijnsplaat	Borssele	30
+Borssele	Duizel	144
+Duizel	Borssele	144
+Borssele	Goes	20
+Goes	Borssele	20
+Borssele	Heerle	62
+Heerle	Borssele	62
+Borssele	IJzendijke	39
+IJzendijke	Borssele	39
+Borssele	Kapelle	23
+Kapelle	Borssele	23
+Borssele	Krooswijk	85
+Krooswijk	Borssele	85
+Borssele	Luyksgestel	146
+Luyksgestel	Borssele	146
+Borssele	Middelburg	20
+Middelburg	Borssele	20
+Borssele	Oostburg	50
+Oostburg	Borssele	50
+Borssele	Oud Gastel	74
+Oud Gastel	Borssele	74
+Borssele	Roosendaal	69
+Roosendaal	Borssele	69
+Borssele	Scherpenisse	65
+Scherpenisse	Borssele	65
+Borssele	Sluiskil	27
+Sluiskil	Borssele	27
+Borssele	Standdaarbuiten	79
+Standdaarbuiten	Borssele	79
+Borssele	Terneuzen	23
+Terneuzen	Borssele	23
+Borssele	Tholen	61
+Tholen	Borssele	61
+Borssele	West-Souburg	21
+West-Souburg	Borssele	21
+Borssele	Wolphaartsdijk	21
+Wolphaartsdijk	Borssele	21
+Borssele	Zierikzee	40
+Zierikzee	Borssele	40
+Bosch en Duin	De Bilt	6
+De Bilt	Bosch en Duin	6
+Bosch en Duin	Hilversum	17
+Hilversum	Bosch en Duin	17
+Bosch en Duin	Hoogland	16
+Hoogland	Bosch en Duin	16
+Bosch en Duin	Maarn	13
+Maarn	Bosch en Duin	13
+Bosch en Duin	Maartensdijk	12
+Maartensdijk	Bosch en Duin	12
+Bosch en Duin	Soestdijk	11
+Soestdijk	Bosch en Duin	11
+Bosch en Duin	Zeist	4
+Zeist	Bosch en Duin	4
+Boskoop	Gouwsluis	8
+Gouwsluis	Boskoop	8
+Boskoop	Kudelstaart	23
+Kudelstaart	Boskoop	23
+Boskoop	Nieuwkoop	15
+Nieuwkoop	Boskoop	15
+Boskoop	Reeuwijk	9
+Reeuwijk	Boskoop	9
+Boskoop	Waddinxveen	5
+Waddinxveen	Boskoop	5
+Boskoop	Zevenhoven	17
+Zevenhoven	Boskoop	17
+Bosschenhoofd	Boven-Hardinxveld	53
+Boven-Hardinxveld	Bosschenhoofd	53
+Bosschenhoofd	Breda	19
+Breda	Bosschenhoofd	19
+Bosschenhoofd	Dordrecht	38
+Dordrecht	Bosschenhoofd	38
+Bosschenhoofd	Gageldonk	20
+Gageldonk	Bosschenhoofd	20
+Bosschenhoofd	Klundert	19
+Klundert	Bosschenhoofd	19
+Bosschenhoofd	Krooswijk	18
+Krooswijk	Bosschenhoofd	18
+Bosschenhoofd	Nieuw-Lekkerland	51
+Nieuw-Lekkerland	Bosschenhoofd	51
+Bosschenhoofd	Rucphen	4
+Rucphen	Bosschenhoofd	4
+Bosschenhoofd	Sliedrecht	47
+Sliedrecht	Bosschenhoofd	47
+Bosschenhoofd	Stolwijk	61
+Stolwijk	Bosschenhoofd	61
+Bosschenhoofd	Strijen	43
+Strijen	Bosschenhoofd	43
+Bosschenhoofd	Zegge	3
+Zegge	Bosschenhoofd	3
+Bosschenhoofd	Zwijndrecht	37
+Zwijndrecht	Bosschenhoofd	37
+Boven-Hardinxveld	Bunnik	43
+Bunnik	Boven-Hardinxveld	43
+Boven-Hardinxveld	De Bilt	44
+De Bilt	Boven-Hardinxveld	44
+Boven-Hardinxveld	Duivendrecht	73
+Duivendrecht	Boven-Hardinxveld	73
+Boven-Hardinxveld	Giessenburg	5
+Giessenburg	Boven-Hardinxveld	5
+Boven-Hardinxveld	Giessendam	4
+Giessendam	Boven-Hardinxveld	4
+Boven-Hardinxveld	Gorinchem	8
+Gorinchem	Boven-Hardinxveld	8
+Boven-Hardinxveld	Hollandsche Rading	50
+Hollandsche Rading	Boven-Hardinxveld	50
+Boven-Hardinxveld	Kadoelen	85
+Kadoelen	Boven-Hardinxveld	85
+Boven-Hardinxveld	Kapelle	102
+Kapelle	Boven-Hardinxveld	102
+Boven-Hardinxveld	Maarssen	47
+Maarssen	Boven-Hardinxveld	47
+Boven-Hardinxveld	Maartensdijk	49
+Maartensdijk	Boven-Hardinxveld	49
+Boven-Hardinxveld	Meteren	31
+Meteren	Boven-Hardinxveld	31
+Boven-Hardinxveld	Nieuwegein	35
+Nieuwegein	Boven-Hardinxveld	35
+Boven-Hardinxveld	Ouderkerk aan de Amstel	70
+Ouderkerk aan de Amstel	Boven-Hardinxveld	70
+Boven-Hardinxveld	Papendrecht	15
+Papendrecht	Boven-Hardinxveld	15
+Boven-Hardinxveld	Raamsdonk	24
+Raamsdonk	Boven-Hardinxveld	24
+Boven-Hardinxveld	Vianen	30
+Vianen	Boven-Hardinxveld	30
+Boven-Hardinxveld	Vleuten	46
+Vleuten	Boven-Hardinxveld	46
+Boven-Hardinxveld	Werkendam	13
+Werkendam	Boven-Hardinxveld	13
+Boven-Hardinxveld	Woudrichem	16
+Woudrichem	Boven-Hardinxveld	16
+Boxmeer	Deest	39
+Deest	Boxmeer	39
+Boxmeer	Grave	22
+Grave	Boxmeer	22
+Boxmeer	Haps	11
+Haps	Boxmeer	11
+Boxmeer	Heijen	8
+Heijen	Boxmeer	8
+Boxmeer	Overasselt	22
+Overasselt	Boxmeer	22
+Boxmeer	Sevenum	32
+Sevenum	Boxmeer	32
+Boxmeer	Sint Anthonis	6
+Sint Anthonis	Boxmeer	6
+Boxmeer	Tegelen	41
+Tegelen	Boxmeer	41
+Boxmeer	Venlo	40
+Venlo	Boxmeer	40
+Boxmeer	Well	21
+Well	Boxmeer	21
+Boxtel	Esch	4
+Esch	Boxtel	4
+Boxtel	Gemonde	5
+Gemonde	Boxtel	5
+Boxtel	Liempde	5
+Liempde	Boxtel	5
+Boxtel	Oirschot	12
+Oirschot	Boxtel	12
+Boxtel	Vaartbroek	22
+Vaartbroek	Boxtel	22
+Boxtel	Vlokhoven	22
+Vlokhoven	Boxtel	22
+Brabander	Gemert	23
+Gemert	Brabander	23
+Brabander	Milheeze	18
+Milheeze	Brabander	18
+Brabander	Odiliapeel	26
+Odiliapeel	Brabander	26
+Brabander	Overloon	5
+Overloon	Brabander	5
+Brakel	Deil	19
+Deil	Brakel	19
+Brakel	Gameren	11
+Gameren	Brakel	11
+Brakel	Herwijnen	6
+Herwijnen	Brakel	6
+Brakel	Leerdam	10
+Leerdam	Brakel	10
+Brakel	Meteren	18
+Meteren	Brakel	18
+Brakel	Vuren	5
+Vuren	Brakel	5
+Breda	Gageldonk	4
+Gageldonk	Breda	4
+Breda	Koewacht	85
+Koewacht	Breda	85
+Breda	Rijsbergen	10
+Rijsbergen	Breda	10
+Breda	Roosendaal	25
+Roosendaal	Breda	25
+Breda	Terheijden	8
+Terheijden	Breda	8
+Breda	Teteringen	6
+Teteringen	Breda	6
+Breda	Ulvenhout	6
+Ulvenhout	Breda	6
+Bredevoort	Eibergen	22
+Eibergen	Bredevoort	22
+Bredevoort	Lichtenvoorde	8
+Lichtenvoorde	Bredevoort	8
+Bredevoort	Winterswijk	9
+Winterswijk	Bredevoort	9
+Bredeweg	Milsbeek	5
+Milsbeek	Bredeweg	5
+Breezand	Den Helder	11
+Den Helder	Breezand	11
+Breezand	Hippolytushoef	13
+Hippolytushoef	Breezand	13
+Breezand	Wieringerwaard	9
+Wieringerwaard	Breezand	9
+Breskens	Colijnsplaat	71
+Colijnsplaat	Breskens	71
+Breskens	Dordrecht	146
+Dordrecht	Breskens	146
+Breskens	Goes	61
+Goes	Breskens	61
+Breskens	Heerle	102
+Heerle	Breskens	102
+Breskens	IJzendijke	14
+IJzendijke	Breskens	14
+Breskens	Kamperland	78
+Kamperland	Breskens	78
+Breskens	Kapelle	64
+Kapelle	Breskens	64
+Breskens	Krooswijk	126
+Krooswijk	Breskens	126
+Breskens	Middelburg	62
+Middelburg	Breskens	62
+Breskens	Oostburg	13
+Oostburg	Breskens	13
+Breskens	Oud Gastel	114
+Oud Gastel	Breskens	114
+Breskens	Roosendaal	109
+Roosendaal	Breskens	109
+Breskens	Sluis	18
+Sluis	Breskens	18
+Breskens	Sluiskil	32
+Sluiskil	Breskens	32
+Breskens	Standdaarbuiten	120
+Standdaarbuiten	Breskens	120
+Breskens	Terneuzen	32
+Terneuzen	Breskens	32
+Breskens	West-Souburg	63
+West-Souburg	Breskens	63
+Breskens	Wolphaartsdijk	62
+Wolphaartsdijk	Breskens	62
+Breskens	Zaamslag	36
+Zaamslag	Breskens	36
+Breskens	Zierikzee	81
+Zierikzee	Breskens	81
+Breukelen	Diemen	24
+Diemen	Breukelen	24
+Breukelen	Duivendrecht	24
+Duivendrecht	Breukelen	24
+Breukelen	Maarssen	6
+Maarssen	Breukelen	6
+Breukelen	Nieuwkoop	19
+Nieuwkoop	Breukelen	19
+Breukelen	Oud-Loosdrecht	9
+Oud-Loosdrecht	Breukelen	9
+Breukelen	Ouderkerk aan de Amstel	21
+Ouderkerk aan de Amstel	Breukelen	21
+Breukelen	Vinkeveen	13
+Vinkeveen	Breukelen	13
+Breukelen	Wilnis	11
+Wilnis	Breukelen	11
+Breukelen	Woerden	17
+Woerden	Breukelen	17
+Breukelen	Zevenhoven	20
+Zevenhoven	Breukelen	20
+Brielle	Dirksland	30
+Dirksland	Brielle	30
+Brielle	Goedereede	22
+Goedereede	Brielle	22
+Brielle	Hellevoetsluis	13
+Hellevoetsluis	Brielle	13
+Brielle	Oostvoorne	6
+Oostvoorne	Brielle	6
+Brielle	Rozenburg	9
+Rozenburg	Brielle	9
+Brielle	Spijkenisse	15
+Spijkenisse	Brielle	15
+Broek in Waterland	Diemen	15
+Diemen	Broek in Waterland	15
+Broek in Waterland	Ilpendam	9
+Ilpendam	Broek in Waterland	9
+Broek in Waterland	Kadoelen	10
+Kadoelen	Broek in Waterland	10
+Broek in Waterland	Landsmeer	10
+Landsmeer	Broek in Waterland	10
+Broek in Waterland	Monnickendam	4
+Monnickendam	Broek in Waterland	4
+Broek op Langedijk	Heerhugowaard	4
+Heerhugowaard	Broek op Langedijk	4
+Broek op Langedijk	Sint Pancras	3
+Sint Pancras	Broek op Langedijk	3
+Broekhem	Schimmert	5
+Schimmert	Broekhem	5
+Broeksittard	Koningsbosch	11
+Koningsbosch	Broeksittard	11
+Broeksittard	Schinveld	9
+Schinveld	Broeksittard	9
+Broeksittard	Sittard	3
+Sittard	Broeksittard	3
+Bruchem	Gameren	4
+Gameren	Bruchem	4
+Bruchem	Genderen	15
+Genderen	Bruchem	15
+Bruchem	Hedel	5
+Hedel	Bruchem	5
+Bruchem	Lith	17
+Lith	Bruchem	17
+Bruchem	Nederhemert	7
+Nederhemert	Bruchem	7
+Bruchem	Ouderkerk aan de Amstel	69
+Ouderkerk aan de Amstel	Bruchem	69
+Bruchem	Waardenburg	8
+Waardenburg	Bruchem	8
+Bruchem	Woerden	52
+Woerden	Bruchem	52
+Bruchem	Zaltbommel	4
+Zaltbommel	Bruchem	4
+Bruinisse	Carnisse	49
+Carnisse	Bruinisse	49
+Bruinisse	Dirksland	21
+Dirksland	Bruinisse	21
+Bruinisse	Fijnaart	34
+Fijnaart	Bruinisse	34
+Bruinisse	Klaaswaal	34
+Klaaswaal	Bruinisse	34
+Bruinisse	Middelharnis	18
+Middelharnis	Bruinisse	18
+Bruinisse	Nieuw-Vossemeer	21
+Nieuw-Vossemeer	Bruinisse	21
+Bruinisse	Numansdorp	33
+Numansdorp	Bruinisse	33
+Bruinisse	Oosterland	5
+Oosterland	Bruinisse	5
+Bruinisse	Oud-Vossemeer	23
+Oud-Vossemeer	Bruinisse	23
+Bruinisse	Rhoon	52
+Rhoon	Bruinisse	52
+Bruinisse	Scherpenisse	26
+Scherpenisse	Bruinisse	26
+Bruinisse	Sint Philipsland	17
+Sint Philipsland	Bruinisse	17
+Bruinisse	Stavenisse	32
+Stavenisse	Bruinisse	32
+Bruinisse	Steenbergen	25
+Steenbergen	Bruinisse	25
+Bruinisse	Strijen	40
+Strijen	Bruinisse	40
+Bruinisse	Zuid-Beijerland	33
+Zuid-Beijerland	Bruinisse	33
+Brummen	Dieren	7
+Dieren	Brummen	7
+Brummen	Eerbeek	8
+Eerbeek	Brummen	8
+Brummen	Ooyerhoek	8
+Ooyerhoek	Brummen	8
+Brummen	Steenderen	5
+Steenderen	Brummen	5
+Brummen	Terschuur	52
+Terschuur	Brummen	52
+Brummen	Voorst	12
+Voorst	Brummen	12
+Brunssum	Heksenberg	3
+Heksenberg	Brunssum	3
+Brunssum	Hoensbroek	5
+Hoensbroek	Brunssum	5
+Brunssum	Merkelbeek	3
+Merkelbeek	Brunssum	3
+Brunssum	Schinveld	3
+Schinveld	Brunssum	3
+Brunssum	Waubach	7
+Waubach	Brunssum	7
+Buchten	Koningsbosch	16
+Koningsbosch	Buchten	16
+Buchten	Maasbracht	15
+Maasbracht	Buchten	15
+Buchten	Montfort	19
+Montfort	Buchten	19
+Buchten	Stramproy	21
+Stramproy	Buchten	21
+Budel	Budel-Schoot	3
+Budel-Schoot	Budel	3
+Budel-Schoot	Westerhoven	23
+Westerhoven	Budel-Schoot	23
+Budschop	Ospel	3
+Ospel	Budschop	3
+Buitenpost	Grijpskerk	13
+Grijpskerk	Buitenpost	13
+Buitenpost	Grootegast	13
+Grootegast	Buitenpost	13
+Buitenpost	Kollum	5
+Kollum	Buitenpost	5
+Buitenpost	Kollumerzwaag	6
+Kollumerzwaag	Buitenpost	6
+Buitenpost	Kootstertille	7
+Kootstertille	Buitenpost	7
+Buitenpost	Marum	17
+Marum	Buitenpost	17
+Buitenpost	Noardburgum	11
+Noardburgum	Buitenpost	11
+Buitenpost	Surhuisterveen	10
+Surhuisterveen	Buitenpost	10
+Bunnik	Houten	9
+Houten	Bunnik	9
+Bunnik	Montfoort	22
+Montfoort	Bunnik	22
+Bunnik	Nieuwegein	14
+Nieuwegein	Bunnik	14
+Bunnik	Noordeloos	33
+Noordeloos	Bunnik	33
+Bunnik	Odijk	4
+Odijk	Bunnik	4
+Bunnik	Raamsdonksveer	54
+Raamsdonksveer	Bunnik	54
+Bunnik	Utrecht	8
+Utrecht	Bunnik	8
+Bunnik	Waardenburg	36
+Waardenburg	Bunnik	36
+Bunnik	Waarder	30
+Waarder	Bunnik	30
+Bunnik	Werkendam	45
+Werkendam	Bunnik	45
+Bunnik	Woerden	27
+Woerden	Bunnik	27
+Bunnik	Woudrichem	48
+Woudrichem	Bunnik	48
+Bunnik	Zeist	5
+Zeist	Bunnik	5
+Bunschoten	Doornsteeg	6
+Doornsteeg	Bunschoten	6
+Bunschoten	Zeewolde	21
+Zeewolde	Bunschoten	21
+Burgum	Feanwâlden	5
+Feanwâlden	Burgum	5
+Burgum	Garyp	6
+Garyp	Burgum	6
+Burgum	Hurdegaryp	5
+Hurdegaryp	Burgum	5
+Burgum	Noardburgum	5
+Noardburgum	Burgum	5
+Burgum	Opeinde	9
+Opeinde	Burgum	9
+Bussum	Hilversum	6
+Hilversum	Bussum	6
+Bussum	Kortenhoef	7
+Kortenhoef	Bussum	7
+Bussum	Naarden	3
+Naarden	Bussum	3
+Callantsoog	Den Helder	15
+Den Helder	Callantsoog	15
+Callantsoog	Petten	10
+Petten	Callantsoog	10
+Callantsoog	Schagerbrug	8
+Schagerbrug	Callantsoog	8
+Capelle aan den IJssel	Gouderak	11
+Gouderak	Capelle aan den IJssel	11
+Capelle aan den IJssel	Krimpen aan den IJssel	4
+Krimpen aan den IJssel	Capelle aan den IJssel	4
+Capelle aan den IJssel	Rotterdam	8
+Rotterdam	Capelle aan den IJssel	8
+Capelle aan den IJssel	Waarder	27
+Waarder	Capelle aan den IJssel	27
+Capelle aan den IJssel	Waddinxveen	17
+Waddinxveen	Capelle aan den IJssel	17
+Capelle aan den IJssel	Zwijndrecht	17
+Zwijndrecht	Capelle aan den IJssel	17
+Carnisse	Dinteloord	38
+Dinteloord	Carnisse	38
+Carnisse	Fijnaart	37
+Fijnaart	Carnisse	37
+Carnisse	Heijplaat	6
+Heijplaat	Carnisse	6
+Carnisse	Kop van Zuid	3
+Kop van Zuid	Carnisse	3
+Carnisse	Middelharnis	47
+Middelharnis	Carnisse	47
+Carnisse	Mijnsheerenland	15
+Mijnsheerenland	Carnisse	15
+Carnisse	Oud Gastel	43
+Oud Gastel	Carnisse	43
+Carnisse	Oud-Beijerland	17
+Oud-Beijerland	Carnisse	17
+Carnisse	Pernis	9
+Pernis	Carnisse	9
+Carnisse	Rhoon	6
+Rhoon	Carnisse	6
+Carnisse	Rozenburg	21
+Rozenburg	Carnisse	21
+Carnisse	Schiedam	9
+Schiedam	Carnisse	9
+Carnisse	Strijen	23
+Strijen	Carnisse	23
+Carnisse	Zuid-Beijerland	24
+Zuid-Beijerland	Carnisse	24
+Castricum	Egmond-Binnen	6
+Egmond-Binnen	Castricum	6
+Castricum	Limmen	4
+Limmen	Castricum	4
+Castricum	Uitgeest	8
+Uitgeest	Castricum	8
+Chaam	Gilze	8
+Gilze	Chaam	8
+Chaam	Koewacht	87
+Koewacht	Chaam	87
+Chaam	Marken	134
+Marken	Chaam	134
+Chaam	Prinsenbeek	20
+Prinsenbeek	Chaam	20
+Chaam	Sliedrecht	54
+Sliedrecht	Chaam	54
+Chaam	Ulvenhout	7
+Ulvenhout	Chaam	7
+Coevorden	Dalfsen	43
+Dalfsen	Coevorden	43
+Coevorden	Ommen	32
+Ommen	Coevorden	32
+Coevorden	Ootmarsum	39
+Ootmarsum	Coevorden	39
+Coevorden	Schoonebeek	11
+Schoonebeek	Coevorden	11
+Colijnsplaat	Goes	13
+Goes	Colijnsplaat	13
+Colijnsplaat	IJzendijke	60
+IJzendijke	Colijnsplaat	60
+Colijnsplaat	Kamperland	12
+Kamperland	Colijnsplaat	12
+Colijnsplaat	Nieuwerkerk	17
+Nieuwerkerk	Colijnsplaat	17
+Colijnsplaat	Oostburg	71
+Oostburg	Colijnsplaat	71
+Colijnsplaat	Serooskerke	22
+Serooskerke	Colijnsplaat	22
+Colijnsplaat	Sluiskil	48
+Sluiskil	Colijnsplaat	48
+Colijnsplaat	Terneuzen	44
+Terneuzen	Colijnsplaat	44
+Colijnsplaat	Wemeldinge	20
+Wemeldinge	Colijnsplaat	20
+Colijnsplaat	Wolphaartsdijk	13
+Wolphaartsdijk	Colijnsplaat	13
+Colijnsplaat	Zierikzee	15
+Zierikzee	Colijnsplaat	15
+Commandeurs	Wijk aan Zee	6
+Wijk aan Zee	Commandeurs	6
+Cothen	Doorn	5
+Doorn	Cothen	5
+Cothen	Werkhoven	8
+Werkhoven	Cothen	8
+Cothen	Wijk bij Duurstede	5
+Wijk bij Duurstede	Cothen	5
+Cranendonck	Eindhoven	19
+Eindhoven	Cranendonck	19
+Cuijk	Grave	11
+Grave	Cuijk	11
+Cuijk	Haps	6
+Haps	Cuijk	6
+Cuijk	Mook	4
+Mook	Cuijk	4
+Culemborg	Driebergen-Rijsenburg	18
+Driebergen-Rijsenburg	Culemborg	18
+Culemborg	Geldermalsen	10
+Geldermalsen	Culemborg	10
+Culemborg	Houten	13
+Houten	Culemborg	13
+Culemborg	IJsselstein	21
+IJsselstein	Culemborg	21
+Culemborg	Maurik	16
+Maurik	Culemborg	16
+Culemborg	Megen	40
+Megen	Culemborg	40
+Culemborg	Schoonrewoerd	11
+Schoonrewoerd	Culemborg	11
+Culemborg	Vianen	16
+Vianen	Culemborg	16
+Culemborg	Werkhoven	14
+Werkhoven	Culemborg	14
+Culemborg	Wijk bij Duurstede	11
+Wijk bij Duurstede	Culemborg	11
+Dalen	De Wijk	39
+De Wijk	Dalen	39
+Dalen	Emmen	15
+Emmen	Dalen	15
+Dalen	Hoogeveen	25
+Hoogeveen	Dalen	25
+Dalen	Klazienaveen	19
+Klazienaveen	Dalen	19
+Dalen	Meppel	42
+Meppel	Dalen	42
+Dalen	Odoorn	20
+Odoorn	Dalen	20
+Dalen	Oosterhesselen	7
+Oosterhesselen	Dalen	7
+Dalen	Ruinerwold	42
+Ruinerwold	Dalen	42
+Dalen	Sleen	11
+Sleen	Dalen	11
+Dalen	Staphorst	45
+Staphorst	Dalen	45
+Dalen	Veenoord	10
+Veenoord	Dalen	10
+Dalfsen	Hardenberg	30
+Hardenberg	Dalfsen	30
+Dalfsen	Hasselt	21
+Hasselt	Dalfsen	21
+Dalfsen	Heino	16
+Heino	Dalfsen	16
+Dalfsen	Hoogeveen	36
+Hoogeveen	Dalfsen	36
+Dalfsen	Ommen	14
+Ommen	Dalfsen	14
+Dalfsen	Rolde	72
+Rolde	Dalfsen	72
+Dalfsen	Staphorst	21
+Staphorst	Dalfsen	21
+Dalfsen	Wierden	34
+Wierden	Dalfsen	34
+Dalfsen	Wijhe	27
+Wijhe	Dalfsen	27
+Dalfsen	Zwolle	15
+Zwolle	Dalfsen	15
+Damwâld	De Westereen	6
+De Westereen	Damwâld	6
+Damwâld	Dokkum	4
+Dokkum	Damwâld	4
+Damwâld	Feanwâlden	7
+Feanwâlden	Damwâld	7
+De Bilt	Dongen	65
+Dongen	De Bilt	65
+De Bilt	Groenekan	3
+Groenekan	De Bilt	3
+De Bilt	Hulst	155
+Hulst	De Bilt	155
+De Bilt	Noordeloos	34
+Noordeloos	De Bilt	34
+De Bilt	Raamsdonk	57
+Raamsdonk	De Bilt	57
+De Bilt	Schoonrewoerd	25
+Schoonrewoerd	De Bilt	25
+De Bilt	Soestdijk	13
+Soestdijk	De Bilt	13
+De Bilt	Tricht	36
+Tricht	De Bilt	36
+De Bilt	Utrecht	5
+Utrecht	De Bilt	5
+De Bilt	Vianen	18
+Vianen	De Bilt	18
+De Bilt	Waardenburg	37
+Waardenburg	De Bilt	37
+De Bilt	Werkendam	46
+Werkendam	De Bilt	46
+De Bilt	Woudrichem	49
+Woudrichem	De Bilt	49
+De Bilt	Zeist	5
+Zeist	De Bilt	5
+De Glip	Heemstede	3
+Heemstede	De Glip	3
+De Goorn	Egmond aan Zee	27
+Egmond aan Zee	De Goorn	27
+De Goorn	Egmond-Binnen	27
+Egmond-Binnen	De Goorn	27
+De Goorn	Spierdijk	4
+Spierdijk	De Goorn	4
+De Knipe	Drachten	22
+Drachten	De Knipe	22
+De Knipe	Gorredijk	9
+Gorredijk	De Knipe	9
+De Knipe	Groningen	57
+Groningen	De Knipe	57
+De Knipe	Grootegast	41
+Grootegast	De Knipe	41
+De Knipe	Grou	20
+Grou	De Knipe	20
+De Knipe	Haren	59
+Haren	De Knipe	59
+De Knipe	Harkstede	66
+Harkstede	De Knipe	66
+De Knipe	Heerenveen	4
+Heerenveen	De Knipe	4
+De Knipe	Hoogezand	70
+Hoogezand	De Knipe	70
+De Knipe	Jubbega	13
+Jubbega	De Knipe	13
+De Knipe	Marum	34
+Marum	De Knipe	34
+De Knipe	Nieuwehorne	8
+Nieuwehorne	De Knipe	8
+De Knipe	Oranjewoud	5
+Oranjewoud	De Knipe	5
+De Knipe	Oudehaske	9
+Oudehaske	De Knipe	9
+De Knipe	Ureterp	25
+Ureterp	De Knipe	25
+De Lier	Delft	10
+Delft	De Lier	10
+De Lier	Hoek van Holland	10
+Hoek van Holland	De Lier	10
+De Lier	Leiden	30
+Leiden	De Lier	30
+De Lier	Leiderdorp	31
+Leiderdorp	De Lier	31
+De Lier	Maasdijk	6
+Maasdijk	De Lier	6
+De Lier	Maasland	10
+Maasland	De Lier	10
+De Lier	Naaldwijk	6
+Naaldwijk	De Lier	6
+De Lier	Schiedam	17
+Schiedam	De Lier	17
+De Lier	Schipluiden	7
+Schipluiden	De Lier	7
+De Lier	Zoeterwoude-Dorp	28
+Zoeterwoude-Dorp	De Lier	28
+De Noord	Heerhugowaard	4
+Heerhugowaard	De Noord	4
+De Noord	Nieuwe-Niedorp	7
+Nieuwe-Niedorp	De Noord	7
+De Noord	Schagen	11
+Schagen	De Noord	11
+De Noord	Waarland	5
+Waarland	De Noord	5
+De Rijp	Edam	16
+Edam	De Rijp	16
+De Rijp	Heiloo	16
+Heiloo	De Rijp	16
+De Rijp	Hensbroek	16
+Hensbroek	De Rijp	16
+De Rijp	Middenbeemster	7
+Middenbeemster	De Rijp	7
+De Rijp	Monnickendam	20
+Monnickendam	De Rijp	20
+De Rijp	Stompetoren	12
+Stompetoren	De Rijp	12
+De Rijp	Uitgeest	14
+Uitgeest	De Rijp	14
+De Rijp	Zaandijk	16
+Zaandijk	De Rijp	16
+De Westereen	Kollumerzwaag	3
+Kollumerzwaag	De Westereen	3
+De Westereen	Noardburgum	6
+Noardburgum	De Westereen	6
+De Westereen	Twijzelerheide	3
+Twijzelerheide	De Westereen	3
+De Wijk	Emmen	50
+Emmen	De Wijk	50
+De Wijk	Hardenberg	31
+Hardenberg	De Wijk	31
+De Wijk	Hoogeveen	20
+Hoogeveen	De Wijk	20
+De Wijk	Klazienaveen	54
+Klazienaveen	De Wijk	54
+De Wijk	Meppel	8
+Meppel	De Wijk	8
+De Wijk	Ommen	24
+Ommen	De Wijk	24
+De Wijk	Oosterhesselen	39
+Oosterhesselen	De Wijk	39
+De Wijk	Ruinerwold	8
+Ruinerwold	De Wijk	8
+De Wijk	Staphorst	12
+Staphorst	De Wijk	12
+De Wijk	Valthermond	62
+Valthermond	De Wijk	62
+De Wijk	Veenoord	45
+Veenoord	De Wijk	45
+Deest	Doorwerth	24
+Doorwerth	Deest	24
+Deest	Elst	22
+Elst	Deest	22
+Deest	Heteren	19
+Heteren	Deest	19
+Deest	Nijmegen	17
+Nijmegen	Deest	17
+Deest	Renkum	23
+Renkum	Deest	23
+Deest	Sevenum	67
+Sevenum	Deest	67
+Deest	Tegelen	76
+Tegelen	Deest	76
+Deil	Geldermalsen	4
+Geldermalsen	Deil	4
+Deil	Gorinchem	24
+Gorinchem	Deil	24
+Deil	Nieuwegein	24
+Nieuwegein	Deil	24
+Deil	Vuren	20
+Vuren	Deil	20
+Delden	Goor	10
+Goor	Delden	10
+Delden	Haaksbergen	16
+Haaksbergen	Delden	16
+Delden	Hengevelde	10
+Hengevelde	Delden	10
+Delden	Woolde	5
+Woolde	Delden	5
+Delft	Heijplaat	22
+Heijplaat	Delft	22
+Delft	Pernis	19
+Pernis	Delft	19
+Delft	Rotterdam	16
+Rotterdam	Delft	16
+Delft	Schiedam	13
+Schiedam	Delft	13
+Delft	Schipluiden	6
+Schipluiden	Delft	6
+Delft	Spijkenisse	24
+Spijkenisse	Delft	24
+Delft	Vlaardingen	15
+Vlaardingen	Delft	15
+Delft	Ypenburg	5
+Ypenburg	Delft	5
+Delfzijl	Uithuizermeeden	19
+Uithuizermeeden	Delfzijl	19
+Den Burg	Den Helder	13
+Den Helder	Den Burg	13
+Den Ham	Hardenberg	18
+Hardenberg	Den Ham	18
+Den Ham	Heino	26
+Heino	Den Ham	26
+Den Ham	Ommen	10
+Ommen	Den Ham	10
+Den Ham	Raalte	26
+Raalte	Den Ham	26
+Den Ham	Vroomshoop	5
+Vroomshoop	Den Ham	5
+Den Ham	Wierden	15
+Wierden	Den Ham	15
+Den Helder	Hippolytushoef	20
+Hippolytushoef	Den Helder	20
+Den Helder	Slootdorp	25
+Slootdorp	Den Helder	25
+Den Oever	Harlingen	42
+Harlingen	Den Oever	42
+Den Oever	Hippolytushoef	6
+Hippolytushoef	Den Oever	6
+Den Oever	Makkum	37
+Makkum	Den Oever	37
+Den Oever	Middenmeer	16
+Middenmeer	Den Oever	16
+Den Oever	Sneek	52
+Sneek	Den Oever	52
+Den Oever	Wieringerwerf	13
+Wieringerwerf	Den Oever	13
+Den Oever	Witmarsum	38
+Witmarsum	Den Oever	38
+Deventer	Epse	5
+Epse	Deventer	5
+Deventer	Het Oostrik	4
+Het Oostrik	Deventer	4
+Deventer	Olst	12
+Olst	Deventer	12
+Deventer	Schalkhaar	3
+Schalkhaar	Deventer	3
+Deventer	Twello	6
+Twello	Deventer	6
+Deventer	Vaassen	19
+Vaassen	Deventer	19
+Diemen	Dongen	95
+Dongen	Diemen	95
+Diemen	Driemond	7
+Driemond	Diemen	7
+Diemen	Duivendrecht	4
+Duivendrecht	Diemen	4
+Diemen	Hoofddorp	25
+Hoofddorp	Diemen	25
+Diemen	Houten	48
+Houten	Diemen	48
+Diemen	IJsselstein	44
+IJsselstein	Diemen	44
+Diemen	Ilpendam	17
+Ilpendam	Diemen	17
+Diemen	Kadoelen	14
+Kadoelen	Diemen	14
+Diemen	Landsmeer	14
+Landsmeer	Diemen	14
+Diemen	Lisserbroek	35
+Lisserbroek	Diemen	35
+Diemen	Muiden	9
+Muiden	Diemen	9
+Diemen	Nieuwegein	42
+Nieuwegein	Diemen	42
+Diemen	Oude Wetering	32
+Oude Wetering	Diemen	32
+Diemen	Rijpwetering	35
+Rijpwetering	Diemen	35
+Diemen	Sassenheim	37
+Sassenheim	Diemen	37
+Diemen	Schiedam	74
+Schiedam	Diemen	74
+Diemen	Schoonrewoerd	55
+Schoonrewoerd	Diemen	55
+Diemen	Vianen	46
+Vianen	Diemen	46
+Diemen	Vijfhuizen	25
+Vijfhuizen	Diemen	25
+Diemen	Woerden	37
+Woerden	Diemen	37
+Diemen	Zoeterwoude-Dorp	45
+Zoeterwoude-Dorp	Diemen	45
+Diepenheim	Goor	5
+Goor	Diepenheim	5
+Diepenheim	Lochem	12
+Lochem	Diepenheim	12
+Diepenheim	Markelo	7
+Markelo	Diepenheim	7
+Diepenheim	Neede	9
+Neede	Diepenheim	9
+Dieren	Doesburg	7
+Doesburg	Dieren	7
+Dieren	Eerbeek	8
+Eerbeek	Dieren	8
+Dieren	Rheden	10
+Rheden	Dieren	10
+Dieren	Steenderen	9
+Steenderen	Dieren	9
+Diessen	Hilvarenbeek	3
+Hilvarenbeek	Diessen	3
+Diessen	Hoogeloon	13
+Hoogeloon	Diessen	13
+Diessen	Lage Mierde	10
+Lage Mierde	Diessen	10
+Diessen	Middelbeers	6
+Middelbeers	Diessen	6
+Diever	Drachten	40
+Drachten	Diever	40
+Diever	Dwingeloo	5
+Dwingeloo	Diever	5
+Diever	Havelte	13
+Havelte	Diever	13
+Diever	Jubbega	28
+Jubbega	Diever	28
+Diever	Norg	30
+Norg	Diever	30
+Diever	Vledder	8
+Vledder	Diever	8
+Dinteloord	Dirksland	37
+Dirksland	Dinteloord	37
+Dinteloord	Fijnaart	12
+Fijnaart	Dinteloord	12
+Dinteloord	Heerjansdam	37
+Heerjansdam	Dinteloord	37
+Dinteloord	Klaaswaal	23
+Klaaswaal	Dinteloord	23
+Dinteloord	Kruisland	14
+Kruisland	Dinteloord	14
+Dinteloord	Middelharnis	34
+Middelharnis	Dinteloord	34
+Dinteloord	Noordeloos	64
+Noordeloos	Dinteloord	64
+Dinteloord	Numansdorp	22
+Numansdorp	Dinteloord	22
+Dinteloord	Oud Gastel	12
+Oud Gastel	Dinteloord	12
+Dinteloord	Rhoon	41
+Rhoon	Dinteloord	41
+Dinteloord	Roosendaal	20
+Roosendaal	Dinteloord	20
+Dinteloord	Strijen	29
+Strijen	Dinteloord	29
+Dinteloord	Zuid-Beijerland	22
+Zuid-Beijerland	Dinteloord	22
+Dinteloord	Zwijndrecht	41
+Zwijndrecht	Dinteloord	41
+Dirkshorn	Schagen	5
+Schagen	Dirkshorn	5
+Dirksland	Fijnaart	35
+Fijnaart	Dirksland	35
+Dirksland	Goedereede	13
+Goedereede	Dirksland	13
+Dirksland	Hellevoetsluis	22
+Hellevoetsluis	Dirksland	22
+Dirksland	Klaaswaal	35
+Klaaswaal	Dirksland	35
+Dirksland	Middelharnis	6
+Middelharnis	Dirksland	6
+Dirksland	Nieuw-Vossemeer	30
+Nieuw-Vossemeer	Dirksland	30
+Dirksland	Numansdorp	34
+Numansdorp	Dirksland	34
+Dirksland	Oostvoorne	28
+Oostvoorne	Dirksland	28
+Dirksland	Oud Gastel	41
+Oud Gastel	Dirksland	41
+Dirksland	Oud-Vossemeer	32
+Oud-Vossemeer	Dirksland	32
+Dirksland	Rozenburg	32
+Rozenburg	Dirksland	32
+Dirksland	Scherpenisse	35
+Scherpenisse	Dirksland	35
+Dirksland	Sint Philipsland	26
+Sint Philipsland	Dirksland	26
+Dirksland	Stavenisse	41
+Stavenisse	Dirksland	41
+Dirksland	Strijen	41
+Strijen	Dirksland	41
+Dirksland	Zuid-Beijerland	34
+Zuid-Beijerland	Dirksland	34
+Doesburg	Doetinchem	13
+Doetinchem	Doesburg	13
+Doesburg	Giesbeek	7
+Giesbeek	Doesburg	7
+Doesburg	Rheden	10
+Rheden	Doesburg	10
+Doesburg	Steenderen	9
+Steenderen	Doesburg	9
+Doesburg	Zelhem	16
+Zelhem	Doesburg	16
+Doesburg	Zevenaar	12
+Zevenaar	Doesburg	12
+Doetinchem	Etten	7
+Etten	Doetinchem	7
+Doetinchem	Ooyerhoek	22
+Ooyerhoek	Doetinchem	22
+Doetinchem	Steenderen	16
+Steenderen	Doetinchem	16
+Doetinchem	Zeddam	8
+Zeddam	Doetinchem	8
+Doetinchem	Zelhem	8
+Zelhem	Doetinchem	8
+Dokkum	Holwerd	9
+Holwerd	Dokkum	9
+Dokkum	Kollum	14
+Kollum	Dokkum	14
+Dokkum	Leens	35
+Leens	Dokkum	35
+Domburg	Koudekerke	13
+Koudekerke	Domburg	13
+Domburg	Oostkapelle	4
+Oostkapelle	Domburg	4
+Domburg	Westkapelle	7
+Westkapelle	Domburg	7
+Domburg	Zoutelande	9
+Zoutelande	Domburg	9
+Dongen	Enschot	17
+Enschot	Dongen	17
+Dongen	Gorinchem	29
+Gorinchem	Dongen	29
+Dongen	Hulst	101
+Hulst	Dongen	101
+Dongen	Raamsdonksveer	12
+Raamsdonksveer	Dongen	12
+Dongen	Rijen	6
+Rijen	Dongen	6
+Dongen	Udenhout	18
+Udenhout	Dongen	18
+Dongen	Waalwijk	14
+Waalwijk	Dongen	14
+Dongen	Werkendam	27
+Werkendam	Dongen	27
+Doorn	Driebergen-Rijsenburg	5
+Driebergen-Rijsenburg	Doorn	5
+Doorn	Leersum	7
+Leersum	Doorn	7
+Doorn	Maarn	5
+Maarn	Doorn	5
+Doorn	Zeewolde	40
+Zeewolde	Doorn	40
+Doornenburg	Gendt	3
+Gendt	Doornenburg	3
+Doornenburg	Pannerden	4
+Pannerden	Doornenburg	4
+Doornspijk	Drachten	95
+Drachten	Doornspijk	95
+Doornspijk	Dronten	18
+Dronten	Doornspijk	18
+Doornspijk	Emmeloord	39
+Emmeloord	Doornspijk	39
+Doornspijk	Ens	30
+Ens	Doornspijk	30
+Doornspijk	Grou	89
+Grou	Doornspijk	89
+Doornspijk	Joure	68
+Joure	Doornspijk	68
+Doornspijk	Kampen	21
+Kampen	Doornspijk	21
+Doornspijk	Lemmer	54
+Lemmer	Doornspijk	54
+Doornspijk	Nunspeet	5
+Nunspeet	Doornspijk	5
+Doornspijk	Oldemarkt	59
+Oldemarkt	Doornspijk	59
+Doornspijk	Sint Nicolaasga	64
+Sint Nicolaasga	Doornspijk	64
+Doornspijk	Ureterp	99
+Ureterp	Doornspijk	99
+Doornspijk	Wolvega	63
+Wolvega	Doornspijk	63
+Doornsteeg	Harderwijk	22
+Harderwijk	Doornsteeg	22
+Doornsteeg	Leusden	15
+Leusden	Doornsteeg	15
+Doornsteeg	Nijkerk	6
+Nijkerk	Doornsteeg	6
+Doornsteeg	Nijkerkerveen	7
+Nijkerkerveen	Doornsteeg	7
+Doornsteeg	Nunspeet	35
+Nunspeet	Doornsteeg	35
+Doornsteeg	Zeewolde	19
+Zeewolde	Doornsteeg	19
+Doorwerth	Driel	11
+Driel	Doorwerth	11
+Doorwerth	Heelsum	3
+Heelsum	Doorwerth	3
+Doorwerth	Heesch	39
+Heesch	Doorwerth	39
+Doorwerth	Heteren	9
+Heteren	Doorwerth	9
+Doorwerth	Megen	33
+Megen	Doorwerth	33
+Doorwerth	Oosterbeek	4
+Oosterbeek	Doorwerth	4
+Doorwerth	Ravenstein	28
+Ravenstein	Doorwerth	28
+Doorwerth	Wijchen	27
+Wijchen	Doorwerth	27
+Doorwerth	Wolfheze	4
+Wolfheze	Doorwerth	4
+Dordrecht	Groot-Ammers	21
+Groot-Ammers	Dordrecht	21
+Dordrecht	Huijbergen	53
+Huijbergen	Dordrecht	53
+Dordrecht	IJzendijke	135
+IJzendijke	Dordrecht	135
+Dordrecht	Kapelle	86
+Kapelle	Dordrecht	86
+Dordrecht	Klaaswaal	23
+Klaaswaal	Dordrecht	23
+Dordrecht	Klundert	26
+Klundert	Dordrecht	26
+Dordrecht	Krooswijk	25
+Krooswijk	Dordrecht	25
+Dordrecht	Mijnsheerenland	20
+Mijnsheerenland	Dordrecht	20
+Dordrecht	Nieuw-Lekkerland	16
+Nieuw-Lekkerland	Dordrecht	16
+Dordrecht	Oostburg	146
+Oostburg	Dordrecht	146
+Dordrecht	Oud Gastel	35
+Oud Gastel	Dordrecht	35
+Dordrecht	Oud-Beijerland	25
+Oud-Beijerland	Dordrecht	25
+Dordrecht	Papendrecht	6
+Papendrecht	Dordrecht	6
+Dordrecht	Prinsenbeek	28
+Prinsenbeek	Dordrecht	28
+Dordrecht	Rijsbergen	38
+Rijsbergen	Dordrecht	38
+Dordrecht	Sliedrecht	12
+Sliedrecht	Dordrecht	12
+Dordrecht	Standdaarbuiten	29
+Standdaarbuiten	Dordrecht	29
+Dordrecht	Strijen	18
+Strijen	Dordrecht	18
+Dordrecht	Terheijden	28
+Terheijden	Dordrecht	28
+Dordrecht	Teteringen	34
+Teteringen	Dordrecht	34
+Dordrecht	Wagenberg	28
+Wagenberg	Dordrecht	28
+Dordrecht	Wemeldinge	86
+Wemeldinge	Dordrecht	86
+Dordrecht	Yerseke	82
+Yerseke	Dordrecht	82
+Dordrecht	Zwijndrecht	6
+Zwijndrecht	Dordrecht	6
+Dorst	Gageldonk	9
+Gageldonk	Dorst	9
+Dorst	Gilze	11
+Gilze	Dorst	11
+Dorst	Loon op Zand	23
+Loon op Zand	Dorst	23
+Dorst	Marken	122
+Marken	Dorst	122
+Dorst	Raamsdonk	17
+Raamsdonk	Dorst	17
+Dorst	Raamsdonksveer	16
+Raamsdonksveer	Dorst	16
+Dorst	Rijen	6
+Rijen	Dorst	6
+Dorst	Teteringen	5
+Teteringen	Dorst	5
+Dorst	Ulvenhout	9
+Ulvenhout	Dorst	9
+Dorst	Werkendam	31
+Werkendam	Dorst	31
+Drachten	Drachtstercompagnie	5
+Drachtstercompagnie	Drachten	5
+Drachten	Emmer-Erfscheidenveen	78
+Emmer-Erfscheidenveen	Drachten	78
+Drachten	Oosterwolde	23
+Oosterwolde	Drachten	23
+Drachten	Opeinde	4
+Opeinde	Drachten	4
+Drachten	Oudehaske	26
+Oudehaske	Drachten	26
+Drachten	Rottevalle	5
+Rottevalle	Drachten	5
+Drachten	Sleen	67
+Sleen	Drachten	67
+Drachten	Ureterp	7
+Ureterp	Drachten	7
+Drachtstercompagnie	Groningen	36
+Groningen	Drachtstercompagnie	36
+Drachtstercompagnie	Haren	38
+Haren	Drachtstercompagnie	38
+Drachtstercompagnie	Harkstede	45
+Harkstede	Drachtstercompagnie	45
+Drachtstercompagnie	Hoogezand	49
+Hoogezand	Drachtstercompagnie	49
+Drachtstercompagnie	Jubbega	20
+Jubbega	Drachtstercompagnie	20
+Drachtstercompagnie	Leek	23
+Leek	Drachtstercompagnie	23
+Drachtstercompagnie	Marum	13
+Marum	Drachtstercompagnie	13
+Drachtstercompagnie	Rottevalle	4
+Rottevalle	Drachtstercompagnie	4
+Drachtstercompagnie	Ten Boer	46
+Ten Boer	Drachtstercompagnie	46
+Drachtstercompagnie	Ureterp	7
+Ureterp	Drachtstercompagnie	7
+Drachtstercompagnie	Vledder	41
+Vledder	Drachtstercompagnie	41
+Driebergen-Rijsenburg	Odijk	5
+Odijk	Driebergen-Rijsenburg	5
+Driebergen-Rijsenburg	Raamsdonk	58
+Raamsdonk	Driebergen-Rijsenburg	58
+Driebergen-Rijsenburg	Rijen	70
+Rijen	Driebergen-Rijsenburg	70
+Driebergen-Rijsenburg	Veldhuizen	19
+Veldhuizen	Driebergen-Rijsenburg	19
+Driebergen-Rijsenburg	Zeist	6
+Zeist	Driebergen-Rijsenburg	6
+Driebruggen	Haastrecht	7
+Haastrecht	Driebruggen	7
+Driebruggen	Waarder	3
+Waarder	Driebruggen	3
+Driel	Elden	7
+Elden	Driel	7
+Driel	Elst	6
+Elst	Driel	6
+Driel	Heelsum	11
+Heelsum	Driel	11
+Driel	Heesch	37
+Heesch	Driel	37
+Driel	Heteren	5
+Heteren	Driel	5
+Driel	Opheusden	19
+Opheusden	Driel	19
+Driel	Ravenstein	26
+Ravenstein	Driel	26
+Driel	Renkum	11
+Renkum	Driel	11
+Driel	Wijchen	25
+Wijchen	Driel	25
+Driemond	Ouderkerk aan de Amstel	11
+Ouderkerk aan de Amstel	Driemond	11
+Driemond	Weesp	3
+Weesp	Driemond	3
+Drogeham	Harkema	4
+Harkema	Drogeham	4
+Drogeham	Zuidhorn	23
+Zuidhorn	Drogeham	23
+Dronryp	Franeker	9
+Franeker	Dronryp	9
+Dronryp	Goutum	13
+Goutum	Dronryp	13
+Dronryp	Grou	22
+Grou	Dronryp	22
+Dronryp	Heerenveen	38
+Heerenveen	Dronryp	38
+Dronryp	Leeuwarden	12
+Leeuwarden	Dronryp	12
+Dronryp	Scharnegoutum	20
+Scharnegoutum	Dronryp	20
+Dronryp	Sexbierum	13
+Sexbierum	Dronryp	13
+Dronryp	Wommels	14
+Wommels	Dronryp	14
+Dronten	Emmeloord	29
+Emmeloord	Dronten	29
+Dronten	Ens	25
+Ens	Dronten	25
+Dronten	Hattem	31
+Hattem	Dronten	31
+Dronten	Kampen	16
+Kampen	Dronten	16
+Dronten	Lelystad	20
+Lelystad	Dronten	20
+Dronten	Urk	24
+Urk	Dronten	24
+Dronten	Zeewolde	32
+Zeewolde	Dronten	32
+Dronten	Zwolle	33
+Zwolle	Dronten	33
+Druten	Lienden	21
+Lienden	Druten	21
+Druten	Maurik	25
+Maurik	Druten	25
+Druten	Megen	11
+Megen	Druten	11
+Druten	Meteren	32
+Meteren	Druten	32
+Druten	Ochten	23
+Ochten	Druten	23
+Druten	Tiel	22
+Tiel	Druten	22
+Druten	Wijk bij Duurstede	31
+Wijk bij Duurstede	Druten	31
+Duiven	Giesbeek	9
+Giesbeek	Duiven	9
+Duiven	Groessen	4
+Groessen	Duiven	4
+Duiven	Westervoort	5
+Westervoort	Duiven	5
+Duivendrecht	Hoofddorp	24
+Hoofddorp	Duivendrecht	24
+Duivendrecht	Houten	48
+Houten	Duivendrecht	48
+Duivendrecht	Linschoten	39
+Linschoten	Duivendrecht	39
+Duivendrecht	Lisserbroek	34
+Lisserbroek	Duivendrecht	34
+Duivendrecht	Nieuwegein	42
+Nieuwegein	Duivendrecht	42
+Duivendrecht	Noordeloos	63
+Noordeloos	Duivendrecht	63
+Duivendrecht	Oude Wetering	31
+Oude Wetering	Duivendrecht	31
+Duivendrecht	Ouderkerk aan de Amstel	6
+Ouderkerk aan de Amstel	Duivendrecht	6
+Duivendrecht	Raamsdonk	86
+Raamsdonk	Duivendrecht	86
+Duivendrecht	Sassenheim	37
+Sassenheim	Duivendrecht	37
+Duivendrecht	Schoonrewoerd	55
+Schoonrewoerd	Duivendrecht	55
+Duivendrecht	Vianen	46
+Vianen	Duivendrecht	46
+Duivendrecht	Vinkeveen	20
+Vinkeveen	Duivendrecht	20
+Duivendrecht	Vleuten	31
+Vleuten	Duivendrecht	31
+Duivendrecht	Werkendam	75
+Werkendam	Duivendrecht	75
+Duivendrecht	Zandvoort	34
+Zandvoort	Duivendrecht	34
+Duizel	Eersel	3
+Eersel	Duizel	3
+Duizel	Hapert	3
+Hapert	Duizel	3
+Duizel	Hulst	105
+Hulst	Duizel	105
+Duizel	Kloetinge	127
+Kloetinge	Duizel	127
+Duizel	Middelbeers	13
+Middelbeers	Duizel	13
+Duizel	Oerle	9
+Oerle	Duizel	9
+Duizel	Putte	87
+Putte	Duizel	87
+Duizel	Wemeldinge	125
+Wemeldinge	Duizel	125
+Duizel	Yerseke	121
+Yerseke	Duizel	121
+Dwingeloo	Gieten	44
+Gieten	Dwingeloo	44
+Dwingeloo	Havelte	15
+Havelte	Dwingeloo	15
+Dwingeloo	Hoogeveen	20
+Hoogeveen	Dwingeloo	20
+Dwingeloo	Ommen	43
+Ommen	Dwingeloo	43
+Dwingeloo	Rolde	35
+Rolde	Dwingeloo	35
+Dwingeloo	Ruinen	11
+Ruinen	Dwingeloo	11
+Edam	Middenbeemster	13
+Middenbeemster	Edam	13
+Edam	Monnickendam	7
+Monnickendam	Edam	7
+Edam	Purmerend	9
+Purmerend	Edam	9
+Edam	Stompetoren	23
+Stompetoren	Edam	23
+Edam	Volendam	3
+Volendam	Edam	3
+Ede	Lunteren	7
+Lunteren	Ede	7
+Ede	Maarn	22
+Maarn	Ede	22
+Ede	Rozendaal	26
+Rozendaal	Ede	26
+Ede	Veenendaal	10
+Veenendaal	Ede	10
+Ede	Wekerom	10
+Wekerom	Ede	10
+Ederveen	Lunteren	5
+Lunteren	Ederveen	5
+Ederveen	Renswoude	3
+Renswoude	Ederveen	3
+Ederveen	Veenendaal	5
+Veenendaal	Ederveen	5
+Eefde	Gorssel	5
+Gorssel	Eefde	5
+Eefde	Zutphen	4
+Zutphen	Eefde	4
+Eenrum	Leens	6
+Leens	Eenrum	6
+Eenrum	Oldehove	11
+Oldehove	Eenrum	11
+Eerbeek	Loenen	4
+Loenen	Eerbeek	4
+Eerschot	Heeswijk-Dinther	12
+Heeswijk-Dinther	Eerschot	12
+Eersel	Luyksgestel	9
+Luyksgestel	Eersel	9
+Eersel	Riethoven	6
+Riethoven	Eersel	6
+Egmond aan Zee	Egmond-Binnen	4
+Egmond-Binnen	Egmond aan Zee	4
+Egmond aan Zee	Petten	26
+Petten	Egmond aan Zee	26
+Egmond-Binnen	Heiloo	3
+Heiloo	Egmond-Binnen	3
+Egmond-Binnen	Petten	26
+Petten	Egmond-Binnen	26
+Eibergen	Haaksbergen	10
+Haaksbergen	Eibergen	10
+Eibergen	Lichtenvoorde	17
+Lichtenvoorde	Eibergen	17
+Eibergen	Neede	5
+Neede	Eibergen	5
+Eibergen	Ruurlo	15
+Ruurlo	Eibergen	15
+Eibergen	Winterswijk	19
+Winterswijk	Eibergen	19
+Eijsden	Gronsveld	6
+Gronsveld	Eijsden	6
+Eijsden	Margraten	10
+Margraten	Eijsden	10
+Eindhoven	Gilze	44
+Gilze	Eindhoven	44
+Eindhoven	Helmond	14
+Helmond	Eindhoven	14
+Eindhoven	Oisterwijk	31
+Oisterwijk	Eindhoven	31
+Eindhoven	Stepekolk	11
+Stepekolk	Eindhoven	11
+Eindhoven	Tilburg	34
+Tilburg	Eindhoven	34
+Eindhoven	Veldhoven	8
+Veldhoven	Eindhoven	8
+Eindhoven	Vlokhoven	4
+Vlokhoven	Eindhoven	4
+Eindhoven	Voldijn	5
+Voldijn	Eindhoven	5
+Eindhoven	Zesgehuchten	6
+Zesgehuchten	Eindhoven	6
+Einighausen	Lindenheuvel	3
+Lindenheuvel	Einighausen	3
+Elburg	Oldemarkt	58
+Oldemarkt	Elburg	58
+Elburg	Oranjewoud	77
+Oranjewoud	Elburg	77
+Elburg	Zeewolde	32
+Zeewolde	Elburg	32
+Elden	Elst	6
+Elst	Elden	6
+Elshout	Genderen	8
+Genderen	Elshout	8
+Elshout	Haarsteeg	5
+Haarsteeg	Elshout	5
+Elshout	Waalwijk	7
+Waalwijk	Elshout	7
+Elsloo	Stein	3
+Stein	Elsloo	3
+Elspeet	Ermelo	15
+Ermelo	Elspeet	15
+Elspeet	Lelystad	44
+Lelystad	Elspeet	44
+Elspeet	Nunspeet	10
+Nunspeet	Elspeet	10
+Elspeet	Uddel	4
+Uddel	Elspeet	4
+Elst	Heesch	37
+Heesch	Elst	37
+Elst	Megen	31
+Megen	Elst	31
+Elst	Ravenstein	26
+Ravenstein	Elst	26
+Elst	Valburg	4
+Valburg	Elst	4
+Emmeloord	Enkhuizen	63
+Enkhuizen	Emmeloord	63
+Emmeloord	Ens	12
+Ens	Emmeloord	12
+Emmeloord	Goutum	64
+Goutum	Emmeloord	64
+Emmeloord	Grootegast	78
+Grootegast	Emmeloord	78
+Emmeloord	Heeg	39
+Heeg	Emmeloord	39
+Emmeloord	Hollandsche Rading	81
+Hollandsche Rading	Emmeloord	81
+Emmeloord	Hoorn	79
+Hoorn	Emmeloord	79
+Emmeloord	Joure	33
+Joure	Emmeloord	33
+Emmeloord	Lelystad	35
+Lelystad	Emmeloord	35
+Emmeloord	Lemmer	19
+Lemmer	Emmeloord	19
+Emmeloord	Marum	72
+Marum	Emmeloord	72
+Emmeloord	Muiderberg	68
+Muiderberg	Emmeloord	68
+Emmeloord	Nieuw-Loosdrecht	84
+Nieuw-Loosdrecht	Emmeloord	84
+Emmeloord	Oldemarkt	23
+Oldemarkt	Emmeloord	23
+Emmeloord	Oudehaske	36
+Oudehaske	Emmeloord	36
+Emmeloord	Sint Nicolaasga	29
+Sint Nicolaasga	Emmeloord	29
+Emmeloord	Steenwijk	29
+Steenwijk	Emmeloord	29
+Emmeloord	Ten Boer	105
+Ten Boer	Emmeloord	105
+Emmeloord	Ureterp	63
+Ureterp	Emmeloord	63
+Emmeloord	Urk	13
+Urk	Emmeloord	13
+Emmeloord	Vollenhove	16
+Vollenhove	Emmeloord	16
+Emmeloord	Voorst	76
+Voorst	Emmeloord	76
+Emmeloord	Wolvega	28
+Wolvega	Emmeloord	28
+Emmen	Emmer-Erfscheidenveen	8
+Emmer-Erfscheidenveen	Emmen	8
+Emmen	Hoogeveen	36
+Hoogeveen	Emmen	36
+Emmen	Meppel	53
+Meppel	Emmen	53
+Emmen	Odoorn	10
+Odoorn	Emmen	10
+Emmen	Raalte	68
+Raalte	Emmen	68
+Emmen	Ruinen	49
+Ruinen	Emmen	49
+Emmen	Ruinerwold	53
+Ruinerwold	Emmen	53
+Emmen	Schoonebeek	16
+Schoonebeek	Emmen	16
+Emmen	Schoonoord	15
+Schoonoord	Emmen	15
+Emmen	Sleen	10
+Sleen	Emmen	10
+Emmen	Staphorst	56
+Staphorst	Emmen	56
+Emmen	Valthermond	15
+Valthermond	Emmen	15
+Emmen	Veenoord	12
+Veenoord	Emmen	12
+Emmer-Compascuum	Emmer-Erfscheidenveen	4
+Emmer-Erfscheidenveen	Emmer-Compascuum	4
+Emmer-Compascuum	Gasselternijveen	26
+Gasselternijveen	Emmer-Compascuum	26
+Emmer-Compascuum	Grashoek	239
+Grashoek	Emmer-Compascuum	239
+Emmer-Compascuum	Nieuw-Buinen	22
+Nieuw-Buinen	Emmer-Compascuum	22
+Emmer-Compascuum	Ter Apel	9
+Ter Apel	Emmer-Compascuum	9
+Emmer-Compascuum	Tweede Exloërmond	16
+Tweede Exloërmond	Emmer-Compascuum	16
+Emmer-Compascuum	Vaals	297
+Vaals	Emmer-Compascuum	297
+Emmer-Compascuum	Valthermond	13
+Valthermond	Emmer-Compascuum	13
+Emmer-Compascuum	Venlo	223
+Venlo	Emmer-Compascuum	223
+Emmer-Compascuum	Waubach	284
+Waubach	Emmer-Compascuum	284
+Emmer-Erfscheidenveen	Exloo	15
+Exloo	Emmer-Erfscheidenveen	15
+Emmer-Erfscheidenveen	Gasselte	27
+Gasselte	Emmer-Erfscheidenveen	27
+Emmer-Erfscheidenveen	Jubbega	72
+Jubbega	Emmer-Erfscheidenveen	72
+Emmer-Erfscheidenveen	Nieuwehorne	74
+Nieuwehorne	Emmer-Erfscheidenveen	74
+Emmer-Erfscheidenveen	Odoorn	14
+Odoorn	Emmer-Erfscheidenveen	14
+Emmer-Erfscheidenveen	Schoonoord	20
+Schoonoord	Emmer-Erfscheidenveen	20
+Emmer-Erfscheidenveen	Ureterp	75
+Ureterp	Emmer-Erfscheidenveen	75
+Enkhuizen	Ens	64
+Ens	Enkhuizen	64
+Enkhuizen	Hattem	80
+Hattem	Enkhuizen	80
+Enkhuizen	Heerde	87
+Heerde	Enkhuizen	87
+Enkhuizen	Kampen	65
+Kampen	Enkhuizen	65
+Enkhuizen	Lelystad	33
+Lelystad	Enkhuizen	33
+Enkhuizen	Lutjebroek	8
+Lutjebroek	Enkhuizen	8
+Enkhuizen	Urk	59
+Urk	Enkhuizen	59
+Enkhuizen	Zwolle	82
+Zwolle	Enkhuizen	82
+Ens	Frankhuis	23
+Frankhuis	Ens	23
+Ens	Hasselt	26
+Hasselt	Ens	26
+Ens	Heerde	37
+Heerde	Ens	37
+Ens	Kampen	15
+Kampen	Ens	15
+Ens	Lelystad	35
+Lelystad	Ens	35
+Ens	Lemmer	27
+Lemmer	Ens	27
+Ens	Muiderberg	69
+Muiderberg	Ens	69
+Ens	Naarden	73
+Naarden	Ens	73
+Ens	Oosterblokker	76
+Oosterblokker	Ens	76
+Ens	Oudehaske	44
+Oudehaske	Ens	44
+Ens	Sint Nicolaasga	37
+Sint Nicolaasga	Ens	37
+Ens	Staphorst	31
+Staphorst	Ens	31
+Ens	Steenwijk	30
+Steenwijk	Ens	30
+Ens	Urk	17
+Urk	Ens	17
+Ens	Vollenhove	12
+Vollenhove	Ens	12
+Ens	Wolvega	36
+Wolvega	Ens	36
+Enschede	Haaksbergen	14
+Haaksbergen	Enschede	14
+Enschede	Losser	11
+Losser	Enschede	11
+Enschede	Ter Apel	102
+Ter Apel	Enschede	102
+Enschede	Vlagtwedde	124
+Vlagtwedde	Enschede	124
+Enschede	Winterswijk	36
+Winterswijk	Enschede	36
+Enschede	Zuid-Berghuizen	12
+Zuid-Berghuizen	Enschede	12
+Enschot	Helvoirt	9
+Helvoirt	Enschot	9
+Enschot	Hilvarenbeek	12
+Hilvarenbeek	Enschot	12
+Enschot	Oisterwijk	4
+Oisterwijk	Enschot	4
+Enschot	Tilburg	5
+Tilburg	Enschot	5
+Enschot	Udenhout	4
+Udenhout	Enschot	4
+Enschot	Veldhoven	34
+Veldhoven	Enschot	34
+Epe	Ermelo	31
+Ermelo	Epe	31
+Epe	Heerde	7
+Heerde	Epe	7
+Epe	Leusden	57
+Leusden	Epe	57
+Epe	Loenen	29
+Loenen	Epe	29
+Epe	Nunspeet	15
+Nunspeet	Epe	15
+Epe	Oldebroek	17
+Oldebroek	Epe	17
+Epe	Olst	12
+Olst	Epe	12
+Epe	Vaassen	9
+Vaassen	Epe	9
+Epe	Voorst	28
+Voorst	Epe	28
+Epe	Zeewolde	39
+Zeewolde	Epe	39
+Epse	Gorssel	4
+Gorssel	Epse	4
+Epse	Het Oostrik	6
+Het Oostrik	Epse	6
+Epse	Wierden	38
+Wierden	Epse	38
+Ermelo	Frankhuis	45
+Frankhuis	Ermelo	45
+Ermelo	Garderen	12
+Garderen	Ermelo	12
+Ermelo	Harderwijk	6
+Harderwijk	Ermelo	6
+Ermelo	Nunspeet	19
+Nunspeet	Ermelo	19
+Ermelo	Putten	6
+Putten	Ermelo	6
+Ermelo	Zwolle	45
+Zwolle	Ermelo	45
+Erp	Gemert	8
+Gemert	Erp	8
+Erp	Veghel	5
+Veghel	Erp	5
+Esch	Haaren	6
+Haaren	Esch	6
+Esch	Vught	6
+Vught	Esch	6
+Etten	Zeddam	7
+Zeddam	Etten	7
+Etten	Zelhem	12
+Zelhem	Etten	12
+Exloo	Gasselternijveen	15
+Gasselternijveen	Exloo	15
+Exloo	Odoorn	4
+Odoorn	Exloo	4
+Exloo	Tweede Exloërmond	6
+Tweede Exloërmond	Exloo	6
+Exloo	Valthermond	9
+Valthermond	Exloo	9
+Farmsum	Midwolda	19
+Midwolda	Farmsum	19
+Farmsum	Scheemda	20
+Scheemda	Farmsum	20
+Feanwâlden	Ferwert	19
+Ferwert	Feanwâlden	19
+Feanwâlden	Hurdegaryp	5
+Hurdegaryp	Feanwâlden	5
+Feanwâlden	Noardburgum	3
+Noardburgum	Feanwâlden	3
+Feanwâlden	Twijzelerheide	5
+Twijzelerheide	Feanwâlden	5
+Ferwert	Hallum	5
+Hallum	Ferwert	5
+Ferwert	Holwerd	7
+Holwerd	Ferwert	7
+Fijnaart	Heerjansdam	35
+Heerjansdam	Fijnaart	35
+Fijnaart	Klaaswaal	21
+Klaaswaal	Fijnaart	21
+Fijnaart	Klundert	7
+Klundert	Fijnaart	7
+Fijnaart	Middelharnis	32
+Middelharnis	Fijnaart	32
+Fijnaart	Numansdorp	20
+Numansdorp	Fijnaart	20
+Fijnaart	Oud Gastel	9
+Oud Gastel	Fijnaart	9
+Fijnaart	Rhoon	40
+Rhoon	Fijnaart	40
+Fijnaart	Standdaarbuiten	6
+Standdaarbuiten	Fijnaart	6
+Fijnaart	Strijen	27
+Strijen	Fijnaart	27
+Fijnaart	Zuid-Beijerland	20
+Zuid-Beijerland	Fijnaart	20
+Franeker	Harlingen	9
+Harlingen	Franeker	9
+Franeker	Medemblik	68
+Medemblik	Franeker	68
+Franeker	Middenmeer	62
+Middenmeer	Franeker	62
+Franeker	Minnertsga	10
+Minnertsga	Franeker	10
+Franeker	Sexbierum	7
+Sexbierum	Franeker	7
+Franeker	Witmarsum	14
+Witmarsum	Franeker	14
+Franeker	Wommels	13
+Wommels	Franeker	13
+Frankhuis	Hasselt	13
+Hasselt	Frankhuis	13
+Frankhuis	Hattem	9
+Hattem	Frankhuis	9
+Frankhuis	Kampen	13
+Kampen	Frankhuis	13
+Frankhuis	Leusden	71
+Leusden	Frankhuis	71
+Frankhuis	Oldebroek	18
+Oldebroek	Frankhuis	18
+Frankhuis	Werkendam	129
+Werkendam	Frankhuis	129
+Frankhuis	Zeewolde	53
+Zeewolde	Frankhuis	53
+Frankhuis	Zwolle	5
+Zwolle	Frankhuis	5
+Gageldonk	Nieuw-Lekkerland	43
+Nieuw-Lekkerland	Gageldonk	43
+Gageldonk	Prinsenbeek	4
+Prinsenbeek	Gageldonk	4
+Gageldonk	Roosendaal	26
+Roosendaal	Gageldonk	26
+Gageldonk	Sliedrecht	38
+Sliedrecht	Gageldonk	38
+Gageldonk	Stolwijk	52
+Stolwijk	Gageldonk	52
+Gageldonk	Terheijden	8
+Terheijden	Gageldonk	8
+Gageldonk	Teteringen	7
+Teteringen	Gageldonk	7
+Gageldonk	Zwijndrecht	29
+Zwijndrecht	Gageldonk	29
+Gameren	Nederhemert	7
+Nederhemert	Gameren	7
+Gameren	Zaltbommel	3
+Zaltbommel	Gameren	3
+Garderen	Kootwijkerbroek	11
+Kootwijkerbroek	Garderen	11
+Garderen	Putten	9
+Putten	Garderen	9
+Garderen	Uddel	6
+Uddel	Garderen	6
+Garderen	Voorthuizen	11
+Voorthuizen	Garderen	11
+Garderen	Westeneng	13
+Westeneng	Garderen	13
+Garyp	Goutum	12
+Goutum	Garyp	12
+Garyp	Grou	21
+Grou	Garyp	21
+Garyp	Leeuwarden	14
+Leeuwarden	Garyp	14
+Garyp	Oudega	6
+Oudega	Garyp	6
+Garyp	Scharnegoutum	30
+Scharnegoutum	Garyp	30
+Garyp	Warga	10
+Warga	Garyp	10
+Garyp	Zuiderburen	13
+Zuiderburen	Garyp	13
+Gasselte	Gasselternijveen	5
+Gasselternijveen	Gasselte	5
+Gasselte	Gieten	5
+Gieten	Gasselte	5
+Gasselternijveen	Hoogezand	24
+Hoogezand	Gasselternijveen	24
+Gasselternijveen	Nieuwe Pekela	19
+Nieuwe Pekela	Gasselternijveen	19
+Gasselternijveen	Stadskanaal	8
+Stadskanaal	Gasselternijveen	8
+Gasselternijveen	Tweede Exloërmond	13
+Tweede Exloërmond	Gasselternijveen	13
+Gasselternijveen	Valthermond	17
+Valthermond	Gasselternijveen	17
+Gasselternijveen	Wildervank	15
+Wildervank	Gasselternijveen	15
+Geertruidenberg	Made	7
+Made	Geertruidenberg	7
+Geffen	Heesch	6
+Heesch	Geffen	6
+Geffen	Heeswijk-Dinther	11
+Heeswijk-Dinther	Geffen	11
+Geffen	Lith	10
+Lith	Geffen	10
+Geffen	Molenhoek	9
+Molenhoek	Geffen	9
+Geffen	Oss	6
+Oss	Geffen	6
+Geldermalsen	Lent	47
+Lent	Geldermalsen	47
+Geldermalsen	Lienden	22
+Lienden	Geldermalsen	22
+Geldermalsen	Megen	34
+Megen	Geldermalsen	34
+Geldermalsen	Meteren	3
+Meteren	Geldermalsen	3
+Geldermalsen	Zetten	35
+Zetten	Geldermalsen	35
+Geldrop	Nuenen	7
+Nuenen	Geldrop	7
+Geleen	Munstergeleen	4
+Munstergeleen	Geleen	4
+Geleen	Neerbeek	4
+Neerbeek	Geleen	4
+Geleen	Puth	5
+Puth	Geleen	5
+Geleen	Stein	6
+Stein	Geleen	6
+Gemert	Overloon	23
+Overloon	Gemert	23
+Gemert	Sint Anthonis	18
+Sint Anthonis	Gemert	18
+Gemert	Wanroij	18
+Wanroij	Gemert	18
+Gemonde	Liempde	7
+Liempde	Gemonde	7
+Gemonde	Schijndel	6
+Schijndel	Gemonde	6
+Gemonde	Sint-Michielsgestel	4
+Sint-Michielsgestel	Gemonde	4
+Gemonde	Sint-Oedenrode	11
+Sint-Oedenrode	Gemonde	11
+Genderen	Raamsdonksveer	19
+Raamsdonksveer	Genderen	19
+Genderen	Waspik	21
+Waspik	Genderen	21
+Gendringen	Silvolde	5
+Silvolde	Gendringen	5
+Gendringen	Well	57
+Well	Gendringen	57
+Gendt	Haalderen	4
+Haalderen	Gendt	4
+Gennep	Haps	9
+Haps	Gennep	9
+Gennep	Heijen	3
+Heijen	Gennep	3
+Gerwen	Helmond	8
+Helmond	Gerwen	8
+Gerwen	Lieshout	5
+Lieshout	Gerwen	5
+Gerwen	Nuenen	3
+Nuenen	Gerwen	3
+Gerwen	Son	7
+Son	Gerwen	7
+Giesbeek	Groessen	10
+Groessen	Giesbeek	10
+Giesbeek	Velp	10
+Velp	Giesbeek	10
+Giesbeek	Westervoort	10
+Westervoort	Giesbeek	10
+Giesbeek	Zevenaar	11
+Zevenaar	Giesbeek	11
+Giessenburg	Giessendam	6
+Giessendam	Giessenburg	6
+Giessenburg	Gorinchem	8
+Gorinchem	Giessenburg	8
+Giessenburg	Meteren	31
+Meteren	Giessenburg	31
+Giessenburg	Nieuwpoort	11
+Nieuwpoort	Giessenburg	11
+Giessenburg	Noordeloos	8
+Noordeloos	Giessenburg	8
+Giessenburg	Raamsdonk	25
+Raamsdonk	Giessenburg	25
+Giessenburg	Werkendam	14
+Werkendam	Giessenburg	14
+Giessenburg	Woudrichem	17
+Woudrichem	Giessenburg	17
+Giessendam	Groot-Ammers	14
+Groot-Ammers	Giessendam	14
+Giessendam	Sliedrecht	6
+Sliedrecht	Giessendam	6
+Gieten	Nieuwe Pekela	23
+Nieuwe Pekela	Gieten	23
+Gieten	Rolde	12
+Rolde	Gieten	12
+Gieten	Westlaren	14
+Westlaren	Gieten	14
+Gieten	Wildervank	17
+Wildervank	Gieten	17
+Giethoorn	Hasselt	20
+Hasselt	Giethoorn	20
+Giethoorn	Kampen	31
+Kampen	Giethoorn	31
+Giethoorn	Meppel	13
+Meppel	Giethoorn	13
+Giethoorn	Steenwijk	7
+Steenwijk	Giethoorn	7
+Giethoorn	Vollenhove	15
+Vollenhove	Giethoorn	15
+Gilze	Goirle	12
+Goirle	Gilze	12
+Gilze	Loon op Zand	19
+Loon op Zand	Gilze	19
+Gilze	Rijen	8
+Rijen	Gilze	8
+Gilze	Son	45
+Son	Gilze	45
+Gilze	Tilburg	13
+Tilburg	Gilze	13
+Gilze	Veldhoven	46
+Veldhoven	Gilze	46
+Gilze	Waalre	48
+Waalre	Gilze	48
+Goedereede	Hellevoetsluis	14
+Hellevoetsluis	Goedereede	14
+Goedereede	Oostvoorne	20
+Oostvoorne	Goedereede	20
+Goedereede	Ouddorp	4
+Ouddorp	Goedereede	4
+Goedereede	Rozenburg	24
+Rozenburg	Goedereede	24
+Goes	IJzendijke	50
+IJzendijke	Goes	50
+Goes	Kamperland	20
+Kamperland	Goes	20
+Goes	Kloetinge	3
+Kloetinge	Goes	3
+Goes	Nieuwerkerk	25
+Nieuwerkerk	Goes	25
+Goes	Oostburg	61
+Oostburg	Goes	61
+Goes	Sluiskil	39
+Sluiskil	Goes	39
+Goes	Terneuzen	34
+Terneuzen	Goes	34
+Goes	Wolphaartsdijk	8
+Wolphaartsdijk	Goes	8
+Goes	Zierikzee	23
+Zierikzee	Goes	23
+Goirle	Hilvarenbeek	8
+Hilvarenbeek	Goirle	8
+Goirle	Hulst	102
+Hulst	Goirle	102
+Goirle	Koewacht	103
+Koewacht	Goirle	103
+Goirle	Rijen	16
+Rijen	Goirle	16
+Goirle	Ulvenhout	24
+Ulvenhout	Goirle	24
+Goirle	Waalwijk	20
+Waalwijk	Goirle	20
+Goor	Hengevelde	6
+Hengevelde	Goor	6
+Goor	Markelo	7
+Markelo	Goor	7
+Goor	Wierden	17
+Wierden	Goor	17
+Gorinchem	Leerdam	15
+Leerdam	Gorinchem	15
+Gorinchem	Lent	68
+Lent	Gorinchem	68
+Gorinchem	Lienden	43
+Lienden	Gorinchem	43
+Gorinchem	Nieuwpoort	15
+Nieuwpoort	Gorinchem	15
+Gorinchem	Ochten	46
+Ochten	Gorinchem	46
+Gorinchem	Raamsdonk	21
+Raamsdonk	Gorinchem	21
+Gorinchem	Raamsdonksveer	20
+Raamsdonksveer	Gorinchem	20
+Gorinchem	Tiel	35
+Tiel	Gorinchem	35
+Gorinchem	Vuren	7
+Vuren	Gorinchem	7
+Gorinchem	Werkendam	11
+Werkendam	Gorinchem	11
+Gorinchem	Woudrichem	13
+Woudrichem	Gorinchem	13
+Gorinchem	Zetten	56
+Zetten	Gorinchem	56
+Gorredijk	Jubbega	7
+Jubbega	Gorredijk	7
+Gorredijk	Nieuwehorne	9
+Nieuwehorne	Gorredijk	9
+Gorredijk	Noordwolde	17
+Noordwolde	Gorredijk	17
+Gouda	Gouderak	5
+Gouderak	Gouda	5
+Gouda	Haastrecht	6
+Haastrecht	Gouda	6
+Gouda	Noordeinde	20
+Noordeinde	Gouda	20
+Gouda	Reeuwijk	5
+Reeuwijk	Gouda	5
+Gouda	Stolwijk	7
+Stolwijk	Gouda	7
+Gouda	Voorburg	28
+Voorburg	Gouda	28
+Gouda	Waddinxveen	7
+Waddinxveen	Gouda	7
+Gouda	Ypenburg	27
+Ypenburg	Gouda	27
+Gouderak	Noordeinde	20
+Noordeinde	Gouderak	20
+Gouderak	Ouderkerk aan den IJssel	8
+Ouderkerk aan den IJssel	Gouderak	8
+Gouderak	Schiedam	25
+Schiedam	Gouderak	25
+Gouderak	Stolwijk	9
+Stolwijk	Gouderak	9
+Gouderak	Voorburg	28
+Voorburg	Gouderak	28
+Gouderak	Ypenburg	27
+Ypenburg	Gouderak	27
+Gouderak	Zoetermeer	19
+Zoetermeer	Gouderak	19
+Goudswaard	Piershil	3
+Piershil	Goudswaard	3
+Goutum	Grou	13
+Grou	Goutum	13
+Goutum	Heerenveen	29
+Heerenveen	Goutum	29
+Goutum	Leeuwarden	5
+Leeuwarden	Goutum	5
+Goutum	Lemmer	48
+Lemmer	Goutum	48
+Goutum	Oranjewoud	30
+Oranjewoud	Goutum	30
+Goutum	Scharnegoutum	21
+Scharnegoutum	Goutum	21
+Goutum	Warga	6
+Warga	Goutum	6
+Goutum	Wommels	21
+Wommels	Goutum	21
+Goutum	Zuiderburen	4
+Zuiderburen	Goutum	4
+Gracht	Simpelveld	5
+Simpelveld	Gracht	5
+Grashoek	Liessel	12
+Liessel	Grashoek	12
+Grashoek	Maasbree	10
+Maasbree	Grashoek	10
+Grashoek	Meijel	6
+Meijel	Grashoek	6
+Grashoek	Sevenum	10
+Sevenum	Grashoek	10
+Grashoek	Ter Apel	245
+Ter Apel	Grashoek	245
+Grashoek	Vlagtwedde	267
+Vlagtwedde	Grashoek	267
+Grashoek	Ysselsteyn	19
+Ysselsteyn	Grashoek	19
+Grave	Langenboom	8
+Langenboom	Grave	8
+Grave	Overasselt	6
+Overasselt	Grave	6
+Grave	Reek	5
+Reek	Grave	5
+Grave	Sevenum	51
+Sevenum	Grave	51
+Grave	Venlo	58
+Venlo	Grave	58
+Grevenbicht	Stramproy	22
+Stramproy	Grevenbicht	22
+Grijpskerk	Grootegast	8
+Grootegast	Grijpskerk	8
+Grijpskerk	Haulerwijk	25
+Haulerwijk	Grijpskerk	25
+Grijpskerk	Kollum	13
+Kollum	Grijpskerk	13
+Grijpskerk	Leens	18
+Leens	Grijpskerk	18
+Grijpskerk	Niekerk	7
+Niekerk	Grijpskerk	7
+Grijpskerk	Noordhorn	6
+Noordhorn	Grijpskerk	6
+Groenekan	Hollandsche Rading	7
+Hollandsche Rading	Groenekan	7
+Groenekan	Maarssen	9
+Maarssen	Groenekan	9
+Groenekan	Maartensdijk	6
+Maartensdijk	Groenekan	6
+Groenekan	Nieuw-Loosdrecht	11
+Nieuw-Loosdrecht	Groenekan	11
+Groesbeek	Mook	5
+Mook	Groesbeek	5
+Groessen	Pannerden	7
+Pannerden	Groessen	7
+Groessen	Westervoort	6
+Westervoort	Groessen	6
+Groessen	Zevenaar	4
+Zevenaar	Groessen	4
+Groningen	Haren	10
+Haren	Groningen	10
+Groningen	Harkstede	12
+Harkstede	Groningen	12
+Groningen	Hoogezand	17
+Hoogezand	Groningen	17
+Groningen	Leek	19
+Leek	Groningen	19
+Groningen	Marum	26
+Marum	Groningen	26
+Groningen	Oudehaske	61
+Oudehaske	Groningen	61
+Groningen	Peize	14
+Peize	Groningen	14
+Groningen	Ten Boer	13
+Ten Boer	Groningen	13
+Groningen	Tynaarlo	19
+Tynaarlo	Groningen	19
+Groningen	Ureterp	39
+Ureterp	Groningen	39
+Groningen	Westlaren	20
+Westlaren	Groningen	20
+Groningen	Winsum	15
+Winsum	Groningen	15
+Gronsveld	Maastricht	7
+Maastricht	Gronsveld	7
+Gronsveld	Margraten	8
+Margraten	Gronsveld	8
+Groot-Ammers	Krimpen aan den IJssel	19
+Krimpen aan den IJssel	Groot-Ammers	19
+Groot-Ammers	Nieuw-Lekkerland	13
+Nieuw-Lekkerland	Groot-Ammers	13
+Groot-Ammers	Ouderkerk aan den IJssel	17
+Ouderkerk aan den IJssel	Groot-Ammers	17
+Groot-Ammers	Stolwijk	10
+Stolwijk	Groot-Ammers	10
+Grootegast	Kollum	14
+Kollum	Grootegast	14
+Grootegast	Lemmer	62
+Lemmer	Grootegast	62
+Grootegast	Marum	10
+Marum	Grootegast	10
+Grootegast	Niekerk	6
+Niekerk	Grootegast	6
+Grootegast	Oudehaske	45
+Oudehaske	Grootegast	45
+Grootegast	Surhuisterveen	9
+Surhuisterveen	Grootegast	9
+Grou	Heerenveen	19
+Heerenveen	Grou	19
+Grou	Oranjewoud	20
+Oranjewoud	Grou	20
+Grou	Oudehaske	20
+Oudehaske	Grou	20
+Grou	Oudeschoot	22
+Oudeschoot	Grou	22
+Grou	Scharnegoutum	16
+Scharnegoutum	Grou	16
+Grou	Sint Annaparochie	26
+Sint Annaparochie	Grou	26
+Grou	Warga	15
+Warga	Grou	15
+Gulpen	Margraten	6
+Margraten	Gulpen	6
+Gulpen	Mechelen	5
+Mechelen	Gulpen	5
+Gulpen	Vaals	11
+Vaals	Gulpen	11
+Gulpen	Wijlre	3
+Wijlre	Gulpen	3
+Haaften	Herwijnen	7
+Herwijnen	Haaften	7
+Haaften	Waardenburg	4
+Waardenburg	Haaften	4
+Haaksbergen	Hengevelde	9
+Hengevelde	Haaksbergen	9
+Haaksbergen	Neede	10
+Neede	Haaksbergen	10
+Haaksbergen	Woolde	16
+Woolde	Haaksbergen	16
+Haalderen	Velp	16
+Velp	Haalderen	16
+Haamstede	Kamperland	18
+Kamperland	Haamstede	18
+Haamstede	Ouddorp	23
+Ouddorp	Haamstede	23
+Haamstede	Serooskerke	23
+Serooskerke	Haamstede	23
+Haamstede	Zierikzee	16
+Zierikzee	Haamstede	16
+Haanrade	Klazienaveen	285
+Klazienaveen	Haanrade	285
+Haanrade	Nieuw-Dordrecht	286
+Nieuw-Dordrecht	Haanrade	286
+Haanrade	Ter Apel	294
+Ter Apel	Haanrade	294
+Haanrade	Vlagtwedde	316
+Vlagtwedde	Haanrade	316
+Haaren	Helvoirt	4
+Helvoirt	Haaren	4
+Haaren	Oisterwijk	4
+Oisterwijk	Haaren	4
+Haarlem	Heemstede	5
+Heemstede	Haarlem	5
+Haarlem	Overveen	4
+Overveen	Haarlem	4
+Haarlem	Vijfhuizen	7
+Vijfhuizen	Haarlem	7
+Haarsteeg	Hedel	10
+Hedel	Haarsteeg	10
+Haarsteeg	Nederhemert	12
+Nederhemert	Haarsteeg	12
+Haarsteeg	Vught	12
+Vught	Haarsteeg	12
+Haastrecht	Oudewater	8
+Oudewater	Haastrecht	8
+Haastrecht	Schoonhoven	9
+Schoonhoven	Haastrecht	9
+Haastrecht	Stolwijk	9
+Stolwijk	Haastrecht	9
+Haelen	Helden	11
+Helden	Haelen	11
+Haelen	Heythuysen	7
+Heythuysen	Haelen	7
+Haelen	Kessel	10
+Kessel	Haelen	10
+Haelen	Meijel	16
+Meijel	Haelen	16
+Haelen	Roermond	8
+Roermond	Haelen	8
+Haelen	Thorn	13
+Thorn	Haelen	13
+Hallum	Stiens	6
+Stiens	Hallum	6
+Halsteren	Lepelstraat	3
+Lepelstraat	Halsteren	3
+Halsteren	Noordgeest	3
+Noordgeest	Halsteren	3
+Halsteren	Tholen	5
+Tholen	Halsteren	5
+Hapert	Hoogeloon	4
+Hoogeloon	Hapert	4
+Haps	Sevenum	39
+Sevenum	Haps	39
+Haps	Tegelen	48
+Tegelen	Haps	48
+Haps	Venlo	47
+Venlo	Haps	47
+Haps	Wanroij	5
+Wanroij	Haps	5
+Hardenberg	Hasselt	39
+Hasselt	Hardenberg	39
+Hardenberg	Heino	37
+Heino	Hardenberg	37
+Hardenberg	Hoogeveen	33
+Hoogeveen	Hardenberg	33
+Hardenberg	Ommen	19
+Ommen	Hardenberg	19
+Hardenberg	Raalte	37
+Raalte	Hardenberg	37
+Hardenberg	Staphorst	40
+Staphorst	Hardenberg	40
+Hardenberg	Tubbergen	24
+Tubbergen	Hardenberg	24
+Hardenberg	Vroomshoop	16
+Vroomshoop	Hardenberg	16
+Hardenberg	Westerhaar-Vriezenveensewijk	18
+Westerhaar-Vriezenveensewijk	Hardenberg	18
+Hardenberg	Zwolle	40
+Zwolle	Hardenberg	40
+Harderwijk	Lelystad	25
+Lelystad	Harderwijk	25
+Harderwijk	Leusden	32
+Leusden	Harderwijk	32
+Harderwijk	Markelo	75
+Markelo	Harderwijk	75
+Harderwijk	Nunspeet	16
+Nunspeet	Harderwijk	16
+Harderwijk	Uddel	19
+Uddel	Harderwijk	19
+Harderwijk	Vianen	61
+Vianen	Harderwijk	61
+Harderwijk	Zeewolde	14
+Zeewolde	Harderwijk	14
+Haren	Harkstede	11
+Harkstede	Haren	11
+Haren	Hoogezand	14
+Hoogezand	Haren	14
+Haren	Marum	28
+Marum	Haren	28
+Haren	Oudehaske	63
+Oudehaske	Haren	63
+Haren	Paterswolde	5
+Paterswolde	Haren	5
+Haren	Ten Boer	20
+Ten Boer	Haren	20
+Haren	Tynaarlo	12
+Tynaarlo	Haren	12
+Haren	Ureterp	40
+Ureterp	Haren	40
+Haren	Westlaren	13
+Westlaren	Haren	13
+Haren	Zuidbroek	20
+Zuidbroek	Haren	20
+Harenkarspel	Oudkarspel	4
+Oudkarspel	Harenkarspel	4
+Harenkarspel	Sint Pancras	9
+Sint Pancras	Harenkarspel	9
+Harkema	Leens	34
+Leens	Harkema	34
+Harkema	Rottevalle	6
+Rottevalle	Harkema	6
+Harkema	Surhuisterveen	3
+Surhuisterveen	Harkema	3
+Harkstede	Hoogezand	8
+Hoogezand	Harkstede	8
+Harkstede	Loppersum	19
+Loppersum	Harkstede	19
+Harkstede	Marum	35
+Marum	Harkstede	35
+Harkstede	Oudehaske	70
+Oudehaske	Harkstede	70
+Harkstede	Slochteren	9
+Slochteren	Harkstede	9
+Harkstede	Ten Boer	13
+Ten Boer	Harkstede	13
+Harkstede	Ureterp	48
+Ureterp	Harkstede	48
+Harkstede	Winsum	24
+Winsum	Harkstede	24
+Harkstede	Zuidlaren	16
+Zuidlaren	Harkstede	16
+Harlingen	Makkum	16
+Makkum	Harlingen	16
+Harlingen	Purmerend	92
+Purmerend	Harlingen	92
+Harlingen	Sexbierum	8
+Sexbierum	Harlingen	8
+Harlingen	Sneek	31
+Sneek	Harlingen	31
+Harlingen	West-Terschelling	41
+West-Terschelling	Harlingen	41
+Harlingen	Wieringerwerf	52
+Wieringerwerf	Harlingen	52
+Harlingen	Witmarsum	17
+Witmarsum	Harlingen	17
+Harlingen	Zaandijk	101
+Zaandijk	Harlingen	101
+Harskamp	Kootwijkerbroek	8
+Kootwijkerbroek	Harskamp	8
+Harskamp	Otterlo	4
+Otterlo	Harskamp	4
+Harskamp	Westeneng	3
+Westeneng	Harskamp	3
+Hasselt	Kampen	20
+Kampen	Hasselt	20
+Hasselt	Ommen	30
+Ommen	Hasselt	30
+Hasselt	Staphorst	15
+Staphorst	Hasselt	15
+Hasselt	Vollenhove	17
+Vollenhove	Hasselt	17
+Hasselt	Zwolle	13
+Zwolle	Hasselt	13
+Hattem	Kampen	18
+Kampen	Hattem	18
+Hattem	Lemmer	54
+Lemmer	Hattem	54
+Hattem	Lutjebroek	85
+Lutjebroek	Hattem	85
+Hattem	Oldebroek	16
+Oldebroek	Hattem	16
+Hattem	Oosterblokker	92
+Oosterblokker	Hattem	92
+Hattem	Wapenveld	6
+Wapenveld	Hattem	6
+Hattem	Zwolle	8
+Zwolle	Hattem	8
+Haulerwijk	Jubbega	17
+Jubbega	Haulerwijk	17
+Haulerwijk	Leek	13
+Leek	Haulerwijk	13
+Haulerwijk	Norg	9
+Norg	Haulerwijk	9
+Haulerwijk	Oosterwolde	10
+Oosterwolde	Haulerwijk	10
+Haulerwijk	Roden	13
+Roden	Haulerwijk	13
+Havelte	Noordwolde	16
+Noordwolde	Havelte	16
+Havelte	Norg	40
+Norg	Havelte	40
+Havelte	Ruinen	10
+Ruinen	Havelte	10
+Havelte	Ruinerwold	6
+Ruinerwold	Havelte	6
+Havelte	Steenwijk	9
+Steenwijk	Havelte	9
+Havelte	Vledder	12
+Vledder	Havelte	12
+Hedel	Kerkdriel	7
+Kerkdriel	Hedel	7
+Hedel	Lith	17
+Lith	Hedel	17
+Heeg	IJlst	7
+IJlst	Heeg	7
+Heeg	Kampen	60
+Kampen	Heeg	60
+Heeg	Woudsend	9
+Woudsend	Heeg	9
+Heel	Leuken	17
+Leuken	Heel	17
+Heel	Linne	9
+Linne	Heel	9
+Heel	Wessem	4
+Wessem	Heel	4
+Heelsum	Heesch	39
+Heesch	Heelsum	39
+Heelsum	Heteren	9
+Heteren	Heelsum	9
+Heelsum	Ravenstein	28
+Ravenstein	Heelsum	28
+Heelsum	Renkum	3
+Renkum	Heelsum	3
+Heelsum	Wijchen	27
+Wijchen	Heelsum	27
+Heemstede	Hoofddorp	8
+Hoofddorp	Heemstede	8
+Heemstede	Overveen	6
+Overveen	Heemstede	6
+Heemstede	Vijfhuizen	6
+Vijfhuizen	Heemstede	6
+Heemstede	Zandvoort	8
+Zandvoort	Heemstede	8
+Heerde	Kampen	25
+Kampen	Heerde	25
+Heerde	Lemmer	61
+Lemmer	Heerde	61
+Heerde	Loenen	33
+Loenen	Heerde	33
+Heerde	Lutjebroek	92
+Lutjebroek	Heerde	92
+Heerde	Oldebroek	18
+Oldebroek	Heerde	18
+Heerde	Olst	10
+Olst	Heerde	10
+Heerde	Oosterblokker	99
+Oosterblokker	Heerde	99
+Heerde	Voorst	32
+Voorst	Heerde	32
+Heerde	Wapenveld	6
+Wapenveld	Heerde	6
+Heerde	Wijhe	9
+Wijhe	Heerde	9
+Heerenveen	Joure	11
+Joure	Heerenveen	11
+Heerenveen	Oranjewoud	4
+Oranjewoud	Heerenveen	4
+Heerenveen	Oudehaske	8
+Oudehaske	Heerenveen	8
+Heerhugowaard	Obdam	5
+Obdam	Heerhugowaard	5
+Heerhugowaard	Stompetoren	8
+Stompetoren	Heerhugowaard	8
+Heerjansdam	Middelharnis	46
+Middelharnis	Heerjansdam	46
+Heerjansdam	Mijnsheerenland	13
+Mijnsheerenland	Heerjansdam	13
+Heerjansdam	Nieuw-Vossemeer	50
+Nieuw-Vossemeer	Heerjansdam	50
+Heerjansdam	Rijsoord	5
+Rijsoord	Heerjansdam	5
+Heerjansdam	Strijen	21
+Strijen	Heerjansdam	21
+Heerjansdam	Zuid-Beijerland	22
+Zuid-Beijerland	Heerjansdam	22
+Heerjansdam	Zwijndrecht	8
+Zwijndrecht	Heerjansdam	8
+Heerle	IJzendijke	91
+IJzendijke	Heerle	91
+Heerle	Kapelle	42
+Kapelle	Heerle	42
+Heerle	Kruisland	8
+Kruisland	Heerle	8
+Heerle	Noordgeest	7
+Noordgeest	Heerle	7
+Heerle	Oostburg	102
+Oostburg	Heerle	102
+Heerle	Terneuzen	75
+Terneuzen	Heerle	75
+Heerle	Wemeldinge	42
+Wemeldinge	Heerle	42
+Heerle	Wouw	3
+Wouw	Heerle	3
+Heerle	Yerseke	38
+Yerseke	Heerle	38
+Heerlen	Heksenberg	5
+Heksenberg	Heerlen	5
+Heerlen	Hopel	7
+Hopel	Heerlen	7
+Heerlen	Husken	3
+Husken	Heerlen	3
+Heerlen	Simpelveld	8
+Simpelveld	Heerlen	8
+Heerlen	Waubach	7
+Waubach	Heerlen	7
+Heesch	Heteren	35
+Heteren	Heesch	35
+Heesch	Nistelrode	5
+Nistelrode	Heesch	5
+Heesch	Opheusden	39
+Opheusden	Heesch	39
+Heesch	Oss	5
+Oss	Heesch	5
+Heesch	Renkum	39
+Renkum	Heesch	39
+Heesch	Schaijk	9
+Schaijk	Heesch	9
+Heesch	Wijchen	20
+Wijchen	Heesch	20
+Heesch	Zetten	33
+Zetten	Heesch	33
+Heeswijk-Dinther	Lieshout	19
+Lieshout	Heeswijk-Dinther	19
+Heeswijk-Dinther	Middelrode	5
+Middelrode	Heeswijk-Dinther	5
+Heeswijk-Dinther	Nistelrode	9
+Nistelrode	Heeswijk-Dinther	9
+Heeswijk-Dinther	Schijndel	6
+Schijndel	Heeswijk-Dinther	6
+Heeswijk-Dinther	Wijbosch	6
+Wijbosch	Heeswijk-Dinther	6
+Heeze	Leende	5
+Leende	Heeze	5
+Heeze	Maarheeze	10
+Maarheeze	Heeze	10
+Heeze	Someren	11
+Someren	Heeze	11
+Heeze	Voldijn	10
+Voldijn	Heeze	10
+Heijen	Well	17
+Well	Heijen	17
+Heijplaat	Hellevoetsluis	26
+Hellevoetsluis	Heijplaat	26
+Heijplaat	Pernis	8
+Pernis	Heijplaat	8
+Heijplaat	Rhoon	7
+Rhoon	Heijplaat	7
+Heijplaat	Rozenburg	19
+Rozenburg	Heijplaat	19
+Heijplaat	Schiedam	12
+Schiedam	Heijplaat	12
+Heijplaat	Schipluiden	23
+Schipluiden	Heijplaat	23
+Heijplaat	Spijkenisse	13
+Spijkenisse	Heijplaat	13
+Heijplaat	Vlaardingen	13
+Vlaardingen	Heijplaat	13
+Heiligerlee	Meeden	7
+Meeden	Heiligerlee	7
+Heiligerlee	Scheemda	4
+Scheemda	Heiligerlee	4
+Heiligerlee	Winschoten	3
+Winschoten	Heiligerlee	3
+Heiloo	Oosterzij	4
+Oosterzij	Heiloo	4
+Heino	Ommen	21
+Ommen	Heino	21
+Heino	Raalte	7
+Raalte	Heino	7
+Heino	Staphorst	30
+Staphorst	Heino	30
+Heino	Zwolle	14
+Zwolle	Heino	14
+Heksenberg	Hoensbroek	5
+Hoensbroek	Heksenberg	5
+Heksenberg	Husken	5
+Husken	Heksenberg	5
+Helden	Kessel	5
+Kessel	Helden	5
+Hellevoetsluis	Oostvoorne	13
+Oostvoorne	Hellevoetsluis	13
+Hellevoetsluis	Rozenburg	15
+Rozenburg	Hellevoetsluis	15
+Hellevoetsluis	Schiedam	27
+Schiedam	Hellevoetsluis	27
+Hellevoetsluis	Spijkenisse	16
+Spijkenisse	Hellevoetsluis	16
+Helmond	Heusden	15
+Heusden	Helmond	15
+Helmond	Lierop	9
+Lierop	Helmond	9
+Helmond	Liessel	16
+Liessel	Helmond	16
+Helmond	Mierlo	7
+Mierlo	Helmond	7
+Helmond	Ysselsteyn	19
+Ysselsteyn	Helmond	19
+Helvoirt	Udenhout	9
+Udenhout	Helvoirt	9
+Helvoirt	Vught	6
+Vught	Helvoirt	6
+Hendrik-Ido-Ambacht	Papendrecht	7
+Papendrecht	Hendrik-Ido-Ambacht	7
+Hendrik-Ido-Ambacht	Prinsenbeek	32
+Prinsenbeek	Hendrik-Ido-Ambacht	32
+Hendrik-Ido-Ambacht	Rijsoord	4
+Rijsoord	Hendrik-Ido-Ambacht	4
+Hendrik-Ido-Ambacht	Sliedrecht	13
+Sliedrecht	Hendrik-Ido-Ambacht	13
+Hendrik-Ido-Ambacht	Zwijndrecht	6
+Zwijndrecht	Hendrik-Ido-Ambacht	6
+Hengevelde	Neede	9
+Neede	Hengevelde	9
+Hensbroek	Obdam	3
+Obdam	Hensbroek	3
+Hensbroek	Stompetoren	9
+Stompetoren	Hensbroek	9
+Herkenbosch	Melick	4
+Melick	Herkenbosch	4
+Herkenbosch	Reuver	19
+Reuver	Herkenbosch	19
+Herkenbosch	Vlodrop	4
+Vlodrop	Herkenbosch	4
+Herpen	Heteren	25
+Heteren	Herpen	25
+Herpen	Ravenstein	4
+Ravenstein	Herpen	4
+Herpen	Reek	5
+Reek	Herpen	5
+Herpen	Renkum	29
+Renkum	Herpen	29
+Herpen	Schaijk	4
+Schaijk	Herpen	4
+Herwijnen	Leerdam	10
+Leerdam	Herwijnen	10
+Herwijnen	Vuren	7
+Vuren	Herwijnen	7
+Het Oostrik	Loenen	26
+Loenen	Het Oostrik	26
+Het Oostrik	Markelo	25
+Markelo	Het Oostrik	25
+Het Oostrik	Wierden	38
+Wierden	Het Oostrik	38
+Heteren	Megen	28
+Megen	Heteren	28
+Heteren	Nistelrode	35
+Nistelrode	Heteren	35
+Heteren	Ravenstein	24
+Ravenstein	Heteren	24
+Heteren	Renkum	9
+Renkum	Heteren	9
+Heteren	Valburg	8
+Valburg	Heteren	8
+Heteren	Wijchen	23
+Wijchen	Heteren	23
+Heteren	Zetten	6
+Zetten	Heteren	6
+Heusden	Liessel	7
+Liessel	Heusden	7
+Heusden	Meijel	10
+Meijel	Heusden	10
+Heusden	Neerkant	9
+Neerkant	Heusden	9
+Heusden	Ospel	12
+Ospel	Heusden	12
+Heusden	Someren-Eind	7
+Someren-Eind	Heusden	7
+Heythuysen	Leuken	14
+Leuken	Heythuysen	14
+Heythuysen	Meijel	12
+Meijel	Heythuysen	12
+Heythuysen	Ospel	12
+Ospel	Heythuysen	12
+Heythuysen	Roermond	12
+Roermond	Heythuysen	12
+Heythuysen	Stramproy	16
+Stramproy	Heythuysen	16
+Hillegom	Kudelstaart	18
+Kudelstaart	Hillegom	18
+Hillegom	Mijdrecht	29
+Mijdrecht	Hillegom	29
+Hillegom	Nieuwkoop	25
+Nieuwkoop	Hillegom	25
+Hillegom	Noordwijkerhout	10
+Noordwijkerhout	Hillegom	10
+Hillegom	Rijpwetering	17
+Rijpwetering	Hillegom	17
+Hillegom	Zevenhoven	23
+Zevenhoven	Hillegom	23
+Hilvarenbeek	Lage Mierde	10
+Lage Mierde	Hilvarenbeek	10
+Hilvarenbeek	Tilburg	10
+Tilburg	Hilvarenbeek	10
+Hilversum	Hollandsche Rading	7
+Hollandsche Rading	Hilversum	7
+Hilversum	Kortenhoef	6
+Kortenhoef	Hilversum	6
+Hilversum	Maartensdijk	9
+Maartensdijk	Hilversum	9
+Hilversum	Nieuw-Loosdrecht	6
+Nieuw-Loosdrecht	Hilversum	6
+Hilversum	Soestdijk	9
+Soestdijk	Hilversum	9
+Hippolytushoef	Slootdorp	10
+Slootdorp	Hippolytushoef	10
+Hippolytushoef	Wieringerwaard	15
+Wieringerwaard	Hippolytushoef	15
+Hoek van Holland	Maasdijk	8
+Maasdijk	Hoek van Holland	8
+Hoensbroek	Husken	6
+Husken	Hoensbroek	6
+Hoensbroek	Klimmen	8
+Klimmen	Hoensbroek	8
+Hoensbroek	Nuth	4
+Nuth	Hoensbroek	4
+Hollandsche Rading	Hulst	161
+Hulst	Hollandsche Rading	161
+Hollandsche Rading	Lelystad	51
+Lelystad	Hollandsche Rading	51
+Hollandsche Rading	Maartensdijk	7
+Maartensdijk	Hollandsche Rading	7
+Hollandsche Rading	Nieuw-Loosdrecht	10
+Nieuw-Loosdrecht	Hollandsche Rading	10
+Hollandsche Rading	Noordeloos	40
+Noordeloos	Hollandsche Rading	40
+Hollandsche Rading	Soestdijk	12
+Soestdijk	Hollandsche Rading	12
+Hollandsche Rading	Terschuur	31
+Terschuur	Hollandsche Rading	31
+Hollandsche Rading	Werkendam	52
+Werkendam	Hollandsche Rading	52
+Hollandsche Rading	Zeewolde	37
+Zeewolde	Hollandsche Rading	37
+Holwerd	Leens	41
+Leens	Holwerd	41
+Honselersdijk	Kwintsheul	3
+Kwintsheul	Honselersdijk	3
+Honselersdijk	Poeldijk	3
+Poeldijk	Honselersdijk	3
+Hoofddorp	Oosteinde	10
+Oosteinde	Hoofddorp	10
+Hoofddorp	Oude Wetering	15
+Oude Wetering	Hoofddorp	15
+Hoofddorp	Rijpwetering	18
+Rijpwetering	Hoofddorp	18
+Hoofddorp	Vijfhuizen	8
+Vijfhuizen	Hoofddorp	8
+Hoofddorp	Zwaanshoek	8
+Zwaanshoek	Hoofddorp	8
+Hoogeloon	Lage Mierde	9
+Lage Mierde	Hoogeloon	9
+Hoogeloon	Middelbeers	10
+Middelbeers	Hoogeloon	10
+Hoogeloon	Oerle	10
+Oerle	Hoogeloon	10
+Hoogerheide	Huijbergen	4
+Huijbergen	Hoogerheide	4
+Hoogerheide	Ossendrecht	5
+Ossendrecht	Hoogerheide	5
+Hoogerheide	Putte	9
+Putte	Hoogerheide	9
+Hoogeveen	Klazienaveen	40
+Klazienaveen	Hoogeveen	40
+Hoogeveen	Meppel	22
+Meppel	Hoogeveen	22
+Hoogeveen	Ommen	26
+Ommen	Hoogeveen	26
+Hoogeveen	Oosterhesselen	25
+Oosterhesselen	Hoogeveen	25
+Hoogeveen	Raalte	44
+Raalte	Hoogeveen	44
+Hoogeveen	Ruinen	16
+Ruinen	Hoogeveen	16
+Hoogeveen	Staphorst	26
+Staphorst	Hoogeveen	26
+Hoogeveen	Veenoord	31
+Veenoord	Hoogeveen	31
+Hoogezand	Leek	32
+Leek	Hoogezand	32
+Hoogezand	Marum	39
+Marum	Hoogezand	39
+Hoogezand	Oudehaske	74
+Oudehaske	Hoogezand	74
+Hoogezand	Peize	27
+Peize	Hoogezand	27
+Hoogezand	Stadskanaal	25
+Stadskanaal	Hoogezand	25
+Hoogezand	Wildervank	14
+Wildervank	Hoogezand	14
+Hoogezand	Zuidlaren	12
+Zuidlaren	Hoogezand	12
+Hoogmade	Leiderdorp	5
+Leiderdorp	Hoogmade	5
+Hoogmade	Mijdrecht	24
+Mijdrecht	Hoogmade	24
+Hoogmade	Nieuwkoop	19
+Nieuwkoop	Hoogmade	19
+Hoogmade	Rijpwetering	4
+Rijpwetering	Hoogmade	4
+Hoogwoud	Middenmeer	13
+Middenmeer	Hoogwoud	13
+Hoogwoud	Nieuwe-Niedorp	6
+Nieuwe-Niedorp	Hoogwoud	6
+Hoogwoud	Opperdoes	13
+Opperdoes	Hoogwoud	13
+Hoorn	Middenmeer	21
+Middenmeer	Hoorn	21
+Hoorn	Midwoud	13
+Midwoud	Hoorn	13
+Hoorn	Oosterblokker	6
+Oosterblokker	Hoorn	6
+Hoorn	Purmerend	21
+Purmerend	Hoorn	21
+Hoorn	Zaandijk	30
+Zaandijk	Hoorn	30
+Hopel	Waubach	4
+Waubach	Hopel	4
+Houten	Nieuwegein	10
+Nieuwegein	Houten	10
+Houten	Noordeloos	27
+Noordeloos	Houten	27
+Houten	Odijk	8
+Odijk	Houten	8
+Houten	Ouderkerk aan de Amstel	45
+Ouderkerk aan de Amstel	Houten	45
+Houten	Raamsdonk	49
+Raamsdonk	Houten	49
+Houten	Raamsdonksveer	48
+Raamsdonksveer	Houten	48
+Houten	Schoonrewoerd	18
+Schoonrewoerd	Houten	18
+Houten	Veldhuizen	16
+Veldhuizen	Houten	16
+Houten	Vianen	10
+Vianen	Houten	10
+Houten	Vinkeveen	37
+Vinkeveen	Houten	37
+Houten	Waarder	30
+Waarder	Houten	30
+Houten	Werkendam	39
+Werkendam	Houten	39
+Houten	Werkhoven	8
+Werkhoven	Houten	8
+Houten	Woudrichem	42
+Woudrichem	Houten	42
+Houthem	Meerssen	4
+Meerssen	Houthem	4
+Huijbergen	Klundert	34
+Klundert	Huijbergen	34
+Huijbergen	Krooswijk	33
+Krooswijk	Huijbergen	33
+Huijbergen	Nieuw-Lekkerland	66
+Nieuw-Lekkerland	Huijbergen	66
+Huijbergen	Noordeloos	75
+Noordeloos	Huijbergen	75
+Huijbergen	Ossendrecht	6
+Ossendrecht	Huijbergen	6
+Huijbergen	Oud Gastel	21
+Oud Gastel	Huijbergen	21
+Huijbergen	Putte	10
+Putte	Huijbergen	10
+Huijbergen	Roosendaal	16
+Roosendaal	Huijbergen	16
+Huijbergen	Sliedrecht	62
+Sliedrecht	Huijbergen	62
+Huijbergen	Standdaarbuiten	27
+Standdaarbuiten	Huijbergen	27
+Huijbergen	Stolwijk	76
+Stolwijk	Huijbergen	76
+Huijbergen	Wouw	11
+Wouw	Huijbergen	11
+Huijbergen	Zwijndrecht	52
+Zwijndrecht	Huijbergen	52
+Huizen	Naarden	6
+Naarden	Huizen	6
+Hulsberg	Klimmen	3
+Klimmen	Hulsberg	3
+Hulsberg	Schimmert	4
+Schimmert	Hulsberg	4
+Hulsberg	Wijnandsrade	3
+Wijnandsrade	Hulsberg	3
+Hulst	Koewacht	12
+Koewacht	Hulst	12
+Hulst	Loon op Zand	109
+Loon op Zand	Hulst	109
+Hulst	Luyksgestel	107
+Luyksgestel	Hulst	107
+Hulst	Maastricht	141
+Maastricht	Hulst	141
+Hulst	Ossendrecht	41
+Ossendrecht	Hulst	41
+Hulst	Prinsenbeek	86
+Prinsenbeek	Hulst	86
+Hulst	Putte	38
+Putte	Hulst	38
+Hulst	Raamsdonk	102
+Raamsdonk	Hulst	102
+Hulst	Raamsdonksveer	102
+Raamsdonksveer	Hulst	102
+Hulst	Reusel	98
+Reusel	Hulst	98
+Hulst	Stein	141
+Stein	Hulst	141
+Hulst	Tilburg	103
+Tilburg	Hulst	103
+Hulst	Ulvenhout	82
+Ulvenhout	Hulst	82
+Hulst	Voldijn	118
+Voldijn	Hulst	118
+Hulst	Werkendam	117
+Werkendam	Hulst	117
+Hulst	Westdorpe	19
+Westdorpe	Hulst	19
+Hulst	Zaamslag	13
+Zaamslag	Hulst	13
+Hunnerberg	Lent	3
+Lent	Hunnerberg	3
+Hunnerberg	Sevenum	57
+Sevenum	Hunnerberg	57
+Hunnerberg	Sint Anthonis	31
+Sint Anthonis	Hunnerberg	31
+Hunnerberg	Venlo	65
+Venlo	Hunnerberg	65
+Hurdegaryp	Noardburgum	5
+Noardburgum	Hurdegaryp	5
+Hurdegaryp	Tytsjerk	3
+Tytsjerk	Hurdegaryp	3
+Husken	Nuth	7
+Nuth	Husken	7
+IJlst	Sneek	4
+Sneek	IJlst	4
+IJlst	Woudsend	11
+Woudsend	IJlst	11
+IJlst	Zaandijk	113
+Zaandijk	IJlst	113
+IJsselstein	Lopik	12
+Lopik	IJsselstein	12
+IJsselstein	Maarssen	18
+Maarssen	IJsselstein	18
+IJsselstein	Montfoort	10
+Montfoort	IJsselstein	10
+IJsselstein	Nieuwegein	5
+Nieuwegein	IJsselstein	5
+IJsselstein	Noordeloos	24
+Noordeloos	IJsselstein	24
+IJsselstein	Ouderkerk aan de Amstel	40
+Ouderkerk aan de Amstel	IJsselstein	40
+IJsselstein	Raamsdonk	47
+Raamsdonk	IJsselstein	47
+IJsselstein	Schoonrewoerd	17
+Schoonrewoerd	IJsselstein	17
+IJsselstein	Veldhuizen	9
+Veldhuizen	IJsselstein	9
+IJsselstein	Vianen	8
+Vianen	IJsselstein	8
+IJsselstein	Vinkeveen	32
+Vinkeveen	IJsselstein	32
+IJsselstein	Werkendam	36
+Werkendam	IJsselstein	36
+IJsselstein	Woudrichem	40
+Woudrichem	IJsselstein	40
+IJzendijke	Kamperland	67
+Kamperland	IJzendijke	67
+IJzendijke	Kapelle	53
+Kapelle	IJzendijke	53
+IJzendijke	Krooswijk	115
+Krooswijk	IJzendijke	115
+IJzendijke	Middelburg	51
+Middelburg	IJzendijke	51
+IJzendijke	Nieuwerkerk	72
+Nieuwerkerk	IJzendijke	72
+IJzendijke	Oostburg	14
+Oostburg	IJzendijke	14
+IJzendijke	Oud Gastel	103
+Oud Gastel	IJzendijke	103
+IJzendijke	Roosendaal	98
+Roosendaal	IJzendijke	98
+IJzendijke	Scherpenisse	94
+Scherpenisse	IJzendijke	94
+IJzendijke	Sluiskil	21
+Sluiskil	IJzendijke	21
+IJzendijke	Standdaarbuiten	109
+Standdaarbuiten	IJzendijke	109
+IJzendijke	Terneuzen	21
+Terneuzen	IJzendijke	21
+IJzendijke	Tholen	90
+Tholen	IJzendijke	90
+IJzendijke	West-Souburg	52
+West-Souburg	IJzendijke	52
+IJzendijke	Wolphaartsdijk	51
+Wolphaartsdijk	IJzendijke	51
+IJzendijke	Zaamslag	25
+Zaamslag	IJzendijke	25
+IJzendijke	Zierikzee	70
+Zierikzee	IJzendijke	70
+Ilpendam	Kadoelen	11
+Kadoelen	Ilpendam	11
+Ilpendam	Landsmeer	11
+Landsmeer	Ilpendam	11
+Ilpendam	Monnickendam	8
+Monnickendam	Ilpendam	8
+Ilpendam	Muiden	23
+Muiden	Ilpendam	23
+Ilpendam	Purmerend	6
+Purmerend	Ilpendam	6
+Ilpendam	Volendam	12
+Volendam	Ilpendam	12
+Ilpendam	Werkendam	90
+Werkendam	Ilpendam	90
+Ilpendam	Zaandijk	16
+Zaandijk	Ilpendam	16
+Joure	Kampen	54
+Kampen	Joure	54
+Joure	Lemmer	17
+Lemmer	Joure	17
+Joure	Marum	42
+Marum	Joure	42
+Joure	Oudehaske	6
+Oudehaske	Joure	6
+Joure	Sint Nicolaasga	10
+Sint Nicolaasga	Joure	10
+Joure	Sneek	17
+Sneek	Joure	17
+Jubbega	Nieuwehorne	8
+Nieuwehorne	Jubbega	8
+Jubbega	Noordwolde	16
+Noordwolde	Jubbega	16
+Jubbega	Oosterwolde	17
+Oosterwolde	Jubbega	17
+Jubbega	Sleen	61
+Sleen	Jubbega	61
+Jubbega	Ureterp	17
+Ureterp	Jubbega	17
+Kadoelen	Landsmeer	3
+Landsmeer	Kadoelen	3
+Kadoelen	Marken	19
+Marken	Kadoelen	19
+Kadoelen	Muiden	20
+Muiden	Kadoelen	20
+Kadoelen	Oude Wetering	36
+Oude Wetering	Kadoelen	36
+Kadoelen	Rijpwetering	39
+Rijpwetering	Kadoelen	39
+Kadoelen	Sassenheim	42
+Sassenheim	Kadoelen	42
+Kadoelen	Velsen-Zuid	24
+Velsen-Zuid	Kadoelen	24
+Kadoelen	Werkendam	87
+Werkendam	Kadoelen	87
+Kadoelen	Zaandam	7
+Zaandam	Kadoelen	7
+Kampen	Lutjebroek	70
+Lutjebroek	Kampen	70
+Kampen	Marum	93
+Marum	Kampen	93
+Kampen	Muiderberg	70
+Muiderberg	Kampen	70
+Kampen	Oldebroek	17
+Oldebroek	Kampen	17
+Kampen	Oldemarkt	44
+Oldemarkt	Kampen	44
+Kampen	Oosterblokker	77
+Oosterblokker	Kampen	77
+Kampen	Ureterp	84
+Ureterp	Kampen	84
+Kampen	Zeewolde	45
+Zeewolde	Kampen	45
+Kamperland	Oostburg	78
+Oostburg	Kamperland	78
+Kamperland	Serooskerke	13
+Serooskerke	Kamperland	13
+Kamperland	Sluiskil	55
+Sluiskil	Kamperland	55
+Kamperland	Terneuzen	51
+Terneuzen	Kamperland	51
+Kamperland	Wemeldinge	27
+Wemeldinge	Kamperland	27
+Kamperland	Wolphaartsdijk	20
+Wolphaartsdijk	Kamperland	20
+Kapelle	Kloetinge	4
+Kloetinge	Kapelle	4
+Kapelle	Krooswijk	66
+Krooswijk	Kapelle	66
+Kapelle	Luyksgestel	128
+Luyksgestel	Kapelle	128
+Kapelle	Maastricht	162
+Maastricht	Kapelle	162
+Kapelle	Oostburg	64
+Oostburg	Kapelle	64
+Kapelle	Scherpenisse	45
+Scherpenisse	Kapelle	45
+Kapelle	Sluiskil	41
+Sluiskil	Kapelle	41
+Kapelle	Standdaarbuiten	60
+Standdaarbuiten	Kapelle	60
+Kapelle	Stein	161
+Stein	Kapelle	161
+Kapelle	Terneuzen	36
+Terneuzen	Kapelle	36
+Kapelle	Tholen	41
+Tholen	Kapelle	41
+Kapelle	Wemeldinge	5
+Wemeldinge	Kapelle	5
+Kapelle	Yerseke	8
+Yerseke	Kapelle	8
+Kapelle	Zwijndrecht	86
+Zwijndrecht	Kapelle	86
+Katwijk aan den Rijn	Wassenaar	7
+Wassenaar	Katwijk aan den Rijn	7
+Kerkdriel	Molenhoek	15
+Molenhoek	Kerkdriel	15
+Kessel	Reuver	4
+Reuver	Kessel	4
+Kesteren	Lienden	5
+Lienden	Kesteren	5
+Kesteren	Ochten	4
+Ochten	Kesteren	4
+Kesteren	Opheusden	5
+Opheusden	Kesteren	5
+Kesteren	Rhenen	4
+Rhenen	Kesteren	4
+Klaaswaal	Middelharnis	32
+Middelharnis	Klaaswaal	32
+Klaaswaal	Nieuw-Beijerland	12
+Nieuw-Beijerland	Klaaswaal	12
+Klaaswaal	Numansdorp	5
+Numansdorp	Klaaswaal	5
+Klaaswaal	Oud-Beijerland	8
+Oud-Beijerland	Klaaswaal	8
+Klaaswaal	Piershil	11
+Piershil	Klaaswaal	11
+Klaaswaal	Strijen	11
+Strijen	Klaaswaal	11
+Klaaswaal	Westmaas	4
+Westmaas	Klaaswaal	4
+Klaaswaal	Zuid-Beijerland	8
+Zuid-Beijerland	Klaaswaal	8
+Klazienaveen	Meppel	57
+Meppel	Klazienaveen	57
+Klazienaveen	Nieuw-Dordrecht	4
+Nieuw-Dordrecht	Klazienaveen	4
+Klazienaveen	Ruinerwold	58
+Ruinerwold	Klazienaveen	58
+Klazienaveen	Staphorst	60
+Staphorst	Klazienaveen	60
+Klazienaveen	Vaals	294
+Vaals	Klazienaveen	294
+Klazienaveen	Veenoord	14
+Veenoord	Klazienaveen	14
+Klazienaveen	Waubach	282
+Waubach	Klazienaveen	282
+Klazienaveen	Weiteveen	7
+Weiteveen	Klazienaveen	7
+Klein-Zundert	Rijsbergen	6
+Rijsbergen	Klein-Zundert	6
+Klein-Zundert	Son	73
+Son	Klein-Zundert	73
+Klein-Zundert	Sprundel	9
+Sprundel	Klein-Zundert	9
+Klein-Zundert	Veldhoven	74
+Veldhoven	Klein-Zundert	74
+Klimmen	Wijlre	6
+Wijlre	Klimmen	6
+Kloetinge	Luyksgestel	129
+Luyksgestel	Kloetinge	129
+Kloetinge	Maastricht	163
+Maastricht	Kloetinge	163
+Kloetinge	Stein	162
+Stein	Kloetinge	162
+Klundert	Krooswijk	6
+Krooswijk	Klundert	6
+Klundert	Sliedrecht	35
+Sliedrecht	Klundert	35
+Klundert	Standdaarbuiten	10
+Standdaarbuiten	Klundert	10
+Klundert	Stolwijk	49
+Stolwijk	Klundert	49
+Klundert	Strijen	31
+Strijen	Klundert	31
+Klundert	Wemeldinge	67
+Wemeldinge	Klundert	67
+Klundert	Yerseke	63
+Yerseke	Klundert	63
+Klundert	Zwijndrecht	26
+Zwijndrecht	Klundert	26
+Koewacht	Loon op Zand	110
+Loon op Zand	Koewacht	110
+Koewacht	Luyksgestel	108
+Luyksgestel	Koewacht	108
+Koewacht	Maastricht	141
+Maastricht	Koewacht	141
+Koewacht	Ossendrecht	42
+Ossendrecht	Koewacht	42
+Koewacht	Prinsenbeek	86
+Prinsenbeek	Koewacht	86
+Koewacht	Putte	38
+Putte	Koewacht	38
+Koewacht	Raamsdonk	103
+Raamsdonk	Koewacht	103
+Koewacht	Raamsdonksveer	102
+Raamsdonksveer	Koewacht	102
+Koewacht	Reusel	98
+Reusel	Koewacht	98
+Koewacht	Stein	141
+Stein	Koewacht	141
+Koewacht	Tilburg	104
+Tilburg	Koewacht	104
+Koewacht	Ulvenhout	83
+Ulvenhout	Koewacht	83
+Koewacht	Voldijn	119
+Voldijn	Koewacht	119
+Koewacht	Westdorpe	15
+Westdorpe	Koewacht	15
+Kollum	Kollumerzwaag	7
+Kollumerzwaag	Kollum	7
+Kollum	Leens	24
+Leens	Kollum	24
+Kollum	Oentsjerk	20
+Oentsjerk	Kollum	20
+Kollumerzwaag	Kootstertille	7
+Kootstertille	Kollumerzwaag	7
+Koningsbosch	Maasbracht	14
+Maasbracht	Koningsbosch	14
+Koningsbosch	Montfort	11
+Montfort	Koningsbosch	11
+Koningsbosch	Posterholt	10
+Posterholt	Koningsbosch	10
+Koningsbosch	Schinveld	10
+Schinveld	Koningsbosch	10
+Kootstertille	Noardburgum	7
+Noardburgum	Kootstertille	7
+Kootstertille	Twijzelerheide	6
+Twijzelerheide	Kootstertille	6
+Kootwijkerbroek	Lunteren	11
+Lunteren	Kootwijkerbroek	11
+Kootwijkerbroek	Markelo	66
+Markelo	Kootwijkerbroek	66
+Kootwijkerbroek	Voorthuizen	8
+Voorthuizen	Kootwijkerbroek	8
+Kootwijkerbroek	Wekerom	7
+Wekerom	Kootwijkerbroek	7
+Kop van Zuid	Papendrecht	19
+Papendrecht	Kop van Zuid	19
+Kop van Zuid	Rotterdam	3
+Rotterdam	Kop van Zuid	3
+Kop van Zuid	Schiedam	9
+Schiedam	Kop van Zuid	9
+Kortenhoef	Nieuw-Loosdrecht	7
+Nieuw-Loosdrecht	Kortenhoef	7
+Kortenhoef	Oud-Loosdrecht	6
+Oud-Loosdrecht	Kortenhoef	6
+Kortenhoef	Vinkeveen	14
+Vinkeveen	Kortenhoef	14
+Kortenhoef	Vleuten	26
+Vleuten	Kortenhoef	26
+Kortenhoef	Weesp	13
+Weesp	Kortenhoef	13
+Koudekerke	Middelburg	6
+Middelburg	Koudekerke	6
+Koudekerke	Oostkapelle	13
+Oostkapelle	Koudekerke	13
+Koudekerke	Vlissingen	5
+Vlissingen	Koudekerke	5
+Koudekerke	West-Souburg	4
+West-Souburg	Koudekerke	4
+Koudekerke	Zoutelande	7
+Zoutelande	Koudekerke	7
+Koudum	Oudemirdum	12
+Oudemirdum	Koudum	12
+Koudum	Workum	9
+Workum	Koudum	9
+Krimpen aan den IJssel	Nieuw-Lekkerland	10
+Nieuw-Lekkerland	Krimpen aan den IJssel	10
+Krimpen aan den IJssel	Ouderkerk aan den IJssel	5
+Ouderkerk aan den IJssel	Krimpen aan den IJssel	5
+Krooswijk	Noordeloos	47
+Noordeloos	Krooswijk	47
+Krooswijk	Oostburg	126
+Oostburg	Krooswijk	126
+Krooswijk	Oud Gastel	15
+Oud Gastel	Krooswijk	15
+Krooswijk	Prinsenbeek	11
+Prinsenbeek	Krooswijk	11
+Krooswijk	Rijsbergen	19
+Rijsbergen	Krooswijk	19
+Krooswijk	Roosendaal	22
+Roosendaal	Krooswijk	22
+Krooswijk	Sliedrecht	34
+Sliedrecht	Krooswijk	34
+Krooswijk	Sprundel	18
+Sprundel	Krooswijk	18
+Krooswijk	Standdaarbuiten	9
+Standdaarbuiten	Krooswijk	9
+Krooswijk	Stolwijk	48
+Stolwijk	Krooswijk	48
+Krooswijk	Strijen	30
+Strijen	Krooswijk	30
+Krooswijk	Terheijden	14
+Terheijden	Krooswijk	14
+Krooswijk	Terneuzen	98
+Terneuzen	Krooswijk	98
+Krooswijk	Wagenberg	13
+Wagenberg	Krooswijk	13
+Krooswijk	Wemeldinge	66
+Wemeldinge	Krooswijk	66
+Krooswijk	Yerseke	62
+Yerseke	Krooswijk	62
+Krooswijk	Zwijndrecht	25
+Zwijndrecht	Krooswijk	25
+Kruisland	Oud Gastel	5
+Oud Gastel	Kruisland	5
+Kruisland	Wouw	8
+Wouw	Kruisland	8
+Kudelstaart	Oude Wetering	10
+Oude Wetering	Kudelstaart	10
+Kudelstaart	Woerden	27
+Woerden	Kudelstaart	27
+Kudelstaart	Zevenhoven	11
+Zevenhoven	Kudelstaart	11
+Kwintsheul	Rhoon	28
+Rhoon	Kwintsheul	28
+Kwintsheul	Schiedam	18
+Schiedam	Kwintsheul	18
+Kwintsheul	Schipluiden	10
+Schipluiden	Kwintsheul	10
+Kwintsheul	Strijp	4
+Strijp	Kwintsheul	4
+Lage Mierde	Reusel	6
+Reusel	Lage Mierde	6
+Landsmeer	Middenmeer	47
+Middenmeer	Landsmeer	47
+Landsmeer	Midwoud	38
+Midwoud	Landsmeer	38
+Landsmeer	Purmerend	11
+Purmerend	Landsmeer	11
+Landsmeer	Urk	86
+Urk	Landsmeer	86
+Langenboom	Milheeze	26
+Milheeze	Langenboom	26
+Langenboom	Odiliapeel	9
+Odiliapeel	Langenboom	9
+Langenboom	Reek	10
+Reek	Langenboom	10
+Langenboom	Wanroij	9
+Wanroij	Langenboom	9
+Langenboom	Zeeland	6
+Zeeland	Langenboom	6
+Leek	Marum	13
+Marum	Leek	13
+Leek	Niekerk	9
+Niekerk	Leek	9
+Leek	Oudehaske	48
+Oudehaske	Leek	48
+Leek	Peize	10
+Peize	Leek	10
+Leek	Roden	6
+Roden	Leek	6
+Leende	Maarheeze	8
+Maarheeze	Leende	8
+Leende	Valkenswaard	7
+Valkenswaard	Leende	7
+Leende	Voldijn	10
+Voldijn	Leende	10
+Leende	Weert	17
+Weert	Leende	17
+Leens	Oldehove	11
+Oldehove	Leens	11
+Leerdam	Noordeloos	12
+Noordeloos	Leerdam	12
+Leerdam	Schoonrewoerd	4
+Schoonrewoerd	Leerdam	4
+Leerdam	Vuren	11
+Vuren	Leerdam	11
+Leersum	Maarn	9
+Maarn	Leersum	9
+Leersum	Wijk bij Duurstede	9
+Wijk bij Duurstede	Leersum	9
+Leersum	Woudenberg	10
+Woudenberg	Leersum	10
+Leest	Wijbosch	7
+Wijbosch	Leest	7
+Leeuwarden	Stiens	9
+Stiens	Leeuwarden	9
+Leeuwarden	Tytsjerk	9
+Tytsjerk	Leeuwarden	9
+Leeuwarden	Warga	8
+Warga	Leeuwarden	8
+Leeuwarden	Wommels	21
+Wommels	Leeuwarden	21
+Leeuwarden	Zuiderburen	6
+Zuiderburen	Leeuwarden	6
+Leiden	Leiderdorp	4
+Leiderdorp	Leiden	4
+Leiden	Oegstgeest	4
+Oegstgeest	Leiden	4
+Leiden	Rijpwetering	9
+Rijpwetering	Leiden	9
+Leiden	Vlaardingen	35
+Vlaardingen	Leiden	35
+Leiden	Voorschoten	5
+Voorschoten	Leiden	5
+Leiden	Ypenburg	19
+Ypenburg	Leiden	19
+Leiden	Zoeterwoude-Dorp	5
+Zoeterwoude-Dorp	Leiden	5
+Leiderdorp	Limmen	55
+Limmen	Leiderdorp	55
+Leiderdorp	Ypenburg	20
+Ypenburg	Leiderdorp	20
+Lelystad	Muiderberg	38
+Muiderberg	Lelystad	38
+Lelystad	Nieuw-Loosdrecht	54
+Nieuw-Loosdrecht	Lelystad	54
+Lelystad	Nunspeet	38
+Nunspeet	Lelystad	38
+Lelystad	Oosterblokker	45
+Oosterblokker	Lelystad	45
+Lelystad	Urk	30
+Urk	Lelystad	30
+Lelystad	Woudsend	65
+Woudsend	Lelystad	65
+Lelystad	Zeewolde	29
+Zeewolde	Lelystad	29
+Lemmer	Marum	56
+Marum	Lemmer	56
+Lemmer	Oldemarkt	30
+Oldemarkt	Lemmer	30
+Lemmer	Oudehaske	20
+Oudehaske	Lemmer	20
+Lemmer	Oudemirdum	15
+Oudemirdum	Lemmer	15
+Lemmer	Roden	69
+Roden	Lemmer	69
+Lemmer	Sint Nicolaasga	13
+Sint Nicolaasga	Lemmer	13
+Lemmer	Ten Boer	89
+Ten Boer	Lemmer	89
+Lemmer	Vollenhove	29
+Vollenhove	Lemmer	29
+Lemmer	Woudsend	16
+Woudsend	Lemmer	16
+Lent	Opheusden	21
+Opheusden	Lent	21
+Lepelstraat	Nieuw-Vossemeer	8
+Nieuw-Vossemeer	Lepelstraat	8
+Leuken	Linne	21
+Linne	Leuken	21
+Leuken	Maasbracht	20
+Maasbracht	Leuken	20
+Leuken	Roermond	20
+Roermond	Leuken	20
+Leuken	Thorn	15
+Thorn	Leuken	15
+Leuken	Weert	3
+Weert	Leuken	3
+Leunen	Neerkant	22
+Neerkant	Leunen	22
+Leunen	Sevenum	17
+Sevenum	Leunen	17
+Leunen	Tegelen	26
+Tegelen	Leunen	26
+Leusden	Nederwoud	13
+Nederwoud	Leusden	13
+Leusden	Nieuwegein	33
+Nieuwegein	Leusden	33
+Leusden	Nijkerkerveen	12
+Nijkerkerveen	Leusden	12
+Leusden	Nunspeet	45
+Nunspeet	Leusden	45
+Leusden	Raamsdonk	74
+Raamsdonk	Leusden	74
+Leusden	Raamsdonksveer	73
+Raamsdonksveer	Leusden	73
+Leusden	Scherpenzeel	10
+Scherpenzeel	Leusden	10
+Leusden	Terschuur	11
+Terschuur	Leusden	11
+Leusden	Vianen	35
+Vianen	Leusden	35
+Leusden	Woudenberg	7
+Woudenberg	Leusden	7
+Leusden	Woudrichem	66
+Woudrichem	Leusden	66
+Leusden	Zeewolde	29
+Zeewolde	Leusden	29
+Leusden	Zwolle	71
+Zwolle	Leusden	71
+Leuth	Ooij	7
+Ooij	Leuth	7
+Lichtenvoorde	Ruurlo	16
+Ruurlo	Lichtenvoorde	16
+Lichtenvoorde	Varsseveld	10
+Varsseveld	Lichtenvoorde	10
+Lichtenvoorde	Winterswijk	13
+Winterswijk	Lichtenvoorde	13
+Liempde	Oirschot	12
+Oirschot	Liempde	12
+Liempde	Sint-Oedenrode	8
+Sint-Oedenrode	Liempde	8
+Lienden	Lith	23
+Lith	Lienden	23
+Lienden	Maurik	9
+Maurik	Lienden	9
+Lienden	Megen	22
+Megen	Lienden	22
+Lienden	Oss	26
+Oss	Lienden	26
+Lienden	Rhenen	6
+Rhenen	Lienden	6
+Lienden	Tiel	11
+Tiel	Lienden	11
+Lierop	Mierlo	6
+Mierlo	Lierop	6
+Lierop	Someren	5
+Someren	Lierop	5
+Lieshout	Nijnsel	10
+Nijnsel	Lieshout	10
+Lieshout	Son	8
+Son	Lieshout	8
+Lieshout	Wijbosch	16
+Wijbosch	Lieshout	16
+Liessel	Milheeze	12
+Milheeze	Liessel	12
+Liessel	Neerkant	7
+Neerkant	Liessel	7
+Liessel	Sevenum	19
+Sevenum	Liessel	19
+Liessel	Voldijn	27
+Voldijn	Liessel	27
+Liessel	Ysselsteyn	13
+Ysselsteyn	Liessel	13
+Limbricht	Sittard	3
+Sittard	Limbricht	3
+Limmen	Rijpwetering	50
+Rijpwetering	Limmen	50
+Limmen	Uitgeest	7
+Uitgeest	Limmen	7
+Limmen	Vijfhuizen	29
+Vijfhuizen	Limmen	29
+Limmen	Zaandijk	15
+Zaandijk	Limmen	15
+Lindenheuvel	Urmond	4
+Urmond	Lindenheuvel	4
+Linne	Maasbracht	6
+Maasbracht	Linne	6
+Linne	Montfort	5
+Montfort	Linne	5
+Linne	Sint Odiliënberg	5
+Sint Odiliënberg	Linne	5
+Linne	Stramproy	21
+Stramproy	Linne	21
+Linne	Wessem	8
+Wessem	Linne	8
+Linschoten	Lopik	13
+Lopik	Linschoten	13
+Linschoten	Montfoort	5
+Montfoort	Linschoten	5
+Linschoten	Oudewater	9
+Oudewater	Linschoten	9
+Linschoten	Vleuten	14
+Vleuten	Linschoten	14
+Linschoten	Waarder	8
+Waarder	Linschoten	8
+Linschoten	Wilnis	18
+Wilnis	Linschoten	18
+Linschoten	Woerden	5
+Woerden	Linschoten	5
+Lisse	Noordwijk-Binnen	11
+Noordwijk-Binnen	Lisse	11
+Lisse	Sassenheim	5
+Sassenheim	Lisse	5
+Lisserbroek	Oude Wetering	8
+Oude Wetering	Lisserbroek	8
+Lith	Maurik	27
+Maurik	Lith	27
+Lith	Megen	12
+Megen	Lith	12
+Lith	Ochten	25
+Ochten	Lith	25
+Lith	Oss	9
+Oss	Lith	9
+Lith	Ravenstein	17
+Ravenstein	Lith	17
+Lith	Tiel	24
+Tiel	Lith	24
+Lith	Wijk bij Duurstede	33
+Wijk bij Duurstede	Lith	33
+Lith	Zetten	36
+Zetten	Lith	36
+Lobith	Ottersum	38
+Ottersum	Lobith	38
+Lochem	Markelo	13
+Markelo	Lochem	13
+Lochem	Ruurlo	9
+Ruurlo	Lochem	9
+Lochem	Vorden	11
+Vorden	Lochem	11
+Lochem	Warnsveld	14
+Warnsveld	Lochem	14
+Loenen	Oosterbeek	26
+Oosterbeek	Loenen	26
+Loenen	Otterlo	23
+Otterlo	Loenen	23
+Loenen	Rozendaal	22
+Rozendaal	Loenen	22
+Loenen	Twello	22
+Twello	Loenen	22
+Loenen	Voorst	14
+Voorst	Loenen	14
+Loenen	Wierden	59
+Wierden	Loenen	59
+Loon op Zand	Tilburg	11
+Tilburg	Loon op Zand	11
+Loon op Zand	Udenhout	6
+Udenhout	Loon op Zand	6
+Loon op Zand	Waalwijk	10
+Waalwijk	Loon op Zand	10
+Lopik	Montfoort	11
+Montfoort	Lopik	11
+Lopik	Oudewater	10
+Oudewater	Lopik	10
+Lopik	Schoonhoven	8
+Schoonhoven	Lopik	8
+Loppersum	Middelstum	8
+Middelstum	Loppersum	8
+Loppersum	Schildwolde	16
+Schildwolde	Loppersum	16
+Loppersum	Ten Boer	10
+Ten Boer	Loppersum	10
+Loppersum	Uithuizen	12
+Uithuizen	Loppersum	12
+Losser	Winterswijk	44
+Winterswijk	Losser	44
+Losser	Zuid-Berghuizen	8
+Zuid-Berghuizen	Losser	8
+Lunteren	Nederwoud	6
+Nederwoud	Lunteren	6
+Lunteren	Rozendaal	28
+Rozendaal	Lunteren	28
+Lunteren	Wekerom	11
+Wekerom	Lunteren	11
+Lunteren	Wolfheze	19
+Wolfheze	Lunteren	19
+Lutjebroek	Onderdijk	8
+Onderdijk	Lutjebroek	8
+Lutjebroek	Westwoud	5
+Westwoud	Lutjebroek	5
+Lutjebroek	Zwolle	87
+Zwolle	Lutjebroek	87
+Luyksgestel	Maastricht	77
+Maastricht	Luyksgestel	77
+Luyksgestel	Putte	89
+Putte	Luyksgestel	89
+Luyksgestel	Stein	70
+Stein	Luyksgestel	70
+Luyksgestel	Wemeldinge	127
+Wemeldinge	Luyksgestel	127
+Luyksgestel	Yerseke	123
+Yerseke	Luyksgestel	123
+Maarheeze	Someren-Eind	11
+Someren-Eind	Maarheeze	11
+Maarn	Odijk	11
+Odijk	Maarn	11
+Maarn	Overberg	10
+Overberg	Maarn	10
+Maarn	Woudenberg	5
+Woudenberg	Maarn	5
+Maarn	Zeist	12
+Zeist	Maarn	12
+Maarssen	Nieuw-Loosdrecht	14
+Nieuw-Loosdrecht	Maarssen	14
+Maarssen	Nieuwegein	17
+Nieuwegein	Maarssen	17
+Maarssen	Noordeloos	38
+Noordeloos	Maarssen	38
+Maarssen	Raamsdonksveer	59
+Raamsdonksveer	Maarssen	59
+Maarssen	Schoonrewoerd	30
+Schoonrewoerd	Maarssen	30
+Maarssen	Utrecht	9
+Utrecht	Maarssen	9
+Maarssen	Vianen	21
+Vianen	Maarssen	21
+Maarssen	Vleuten	6
+Vleuten	Maarssen	6
+Maarssen	Werkendam	49
+Werkendam	Maarssen	49
+Maarssen	Woudrichem	53
+Woudrichem	Maarssen	53
+Maartensdijk	Nieuw-Loosdrecht	8
+Nieuw-Loosdrecht	Maartensdijk	8
+Maartensdijk	Soestdijk	9
+Soestdijk	Maartensdijk	9
+Maartensdijk	Werkendam	51
+Werkendam	Maartensdijk	51
+Maartensdijk	Woudrichem	54
+Woudrichem	Maartensdijk	54
+Maasbracht	Montfort	7
+Montfort	Maasbracht	7
+Maasbracht	Wessem	6
+Wessem	Maasbracht	6
+Maasbree	Sevenum	7
+Sevenum	Maasbree	7
+Maasbree	Venlo	10
+Venlo	Maasbree	10
+Maasdijk	Maasland	7
+Maasland	Maasdijk	7
+Maasdijk	Maassluis	6
+Maassluis	Maasdijk	6
+Maasdijk	Naaldwijk	7
+Naaldwijk	Maasdijk	7
+Maasdijk	Schipluiden	10
+Schipluiden	Maasdijk	10
+Maasland	Maassluis	4
+Maassluis	Maasland	4
+Maasland	Schipluiden	7
+Schipluiden	Maasland	7
+Maasland	Vlaardingen	7
+Vlaardingen	Maasland	7
+Maassluis	Rozenburg	4
+Rozenburg	Maassluis	4
+Maassluis	Vlaardingen	8
+Vlaardingen	Maassluis	8
+Maastricht	Margraten	11
+Margraten	Maastricht	11
+Maastricht	Putte	124
+Putte	Maastricht	124
+Maastricht	Wemeldinge	162
+Wemeldinge	Maastricht	162
+Maastricht	Yerseke	158
+Yerseke	Maastricht	158
+Made	Nieuw-Lekkerland	43
+Nieuw-Lekkerland	Made	43
+Made	Raamsdonk	9
+Raamsdonk	Made	9
+Made	Teteringen	9
+Teteringen	Made	9
+Made	Wagenberg	4
+Wagenberg	Made	4
+Makkum	Middenmeer	50
+Middenmeer	Makkum	50
+Makkum	Purmerend	86
+Purmerend	Makkum	86
+Makkum	Sneek	22
+Sneek	Makkum	22
+Makkum	Wieringerwerf	46
+Wieringerwerf	Makkum	46
+Makkum	Witmarsum	8
+Witmarsum	Makkum	8
+Makkum	Workum	10
+Workum	Makkum	10
+Markelo	Ommen	39
+Ommen	Markelo	39
+Markelo	Otterlo	59
+Otterlo	Markelo	59
+Markelo	Raalte	31
+Raalte	Markelo	31
+Markelo	Schalkhaar	27
+Schalkhaar	Markelo	27
+Markelo	Voorthuizen	69
+Voorthuizen	Markelo	69
+Markelo	Wierden	19
+Wierden	Markelo	19
+Marken	Monnickendam	8
+Monnickendam	Marken	8
+Marken	Muiden	31
+Muiden	Marken	31
+Marum	Oudehaske	39
+Oudehaske	Marum	39
+Marum	Surhuisterveen	10
+Surhuisterveen	Marum	10
+Maurik	Megen	27
+Megen	Maurik	27
+Maurik	Oss	30
+Oss	Maurik	30
+Maurik	Tiel	10
+Tiel	Maurik	10
+Maurik	Wijk bij Duurstede	10
+Wijk bij Duurstede	Maurik	10
+Mechelen	Simpelveld	8
+Simpelveld	Mechelen	8
+Mechelen	Ubachsberg	8
+Ubachsberg	Mechelen	8
+Mechelen	Vaals	9
+Vaals	Mechelen	9
+Mechelen	Wijlre	5
+Wijlre	Mechelen	5
+Medemblik	Middenmeer	10
+Middenmeer	Medemblik	10
+Medemblik	Onderdijk	5
+Onderdijk	Medemblik	5
+Medemblik	Opperdoes	4
+Opperdoes	Medemblik	4
+Medemblik	Wieringerwerf	12
+Wieringerwerf	Medemblik	12
+Meeden	Noordbroek	10
+Noordbroek	Meeden	10
+Meeden	Oude Pekela	8
+Oude Pekela	Meeden	8
+Meeden	Scheemda	8
+Scheemda	Meeden	8
+Meeden	Siddeburen	16
+Siddeburen	Meeden	16
+Meeden	Veendam	6
+Veendam	Meeden	6
+Meeden	Zuidbroek	9
+Zuidbroek	Meeden	9
+Meerlo	Sevenum	14
+Sevenum	Meerlo	14
+Meerlo	Tegelen	23
+Tegelen	Meerlo	23
+Meerlo	Wanssum	3
+Wanssum	Meerlo	3
+Meerssen	Ulestraten	4
+Ulestraten	Meerssen	4
+Megen	Ochten	25
+Ochten	Megen	25
+Megen	Ravenstein	9
+Ravenstein	Megen	9
+Megen	Renkum	32
+Renkum	Megen	32
+Megen	Tiel	23
+Tiel	Megen	23
+Megen	Wijk bij Duurstede	32
+Wijk bij Duurstede	Megen	32
+Meijel	Neerkant	4
+Neerkant	Meijel	4
+Meijel	Ospel	10
+Ospel	Meijel	10
+Melick	Roermond	6
+Roermond	Melick	6
+Melick	Sint Odiliënberg	3
+Sint Odiliënberg	Melick	3
+Menaam	Stiens	10
+Stiens	Menaam	10
+Meppel	Oosterhesselen	42
+Oosterhesselen	Meppel	42
+Meppel	Ruinerwold	6
+Ruinerwold	Meppel	6
+Meppel	Staphorst	8
+Staphorst	Meppel	8
+Meppel	Steenwijk	15
+Steenwijk	Meppel	15
+Meppel	Veenoord	48
+Veenoord	Meppel	48
+Meppel	Vollenhove	22
+Vollenhove	Meppel	22
+Meteren	Ochten	24
+Ochten	Meteren	24
+Meteren	Ophemert	10
+Ophemert	Meteren	10
+Meteren	Sliedrecht	37
+Sliedrecht	Meteren	37
+Meteren	Tiel	13
+Tiel	Meteren	13
+Meteren	Vuren	19
+Vuren	Meteren	19
+Meteren	Waardenburg	5
+Waardenburg	Meteren	5
+Meteren	Werkendam	34
+Werkendam	Meteren	34
+Middelbeers	Oerle	12
+Oerle	Middelbeers	12
+Middelbeers	Oirschot	7
+Oirschot	Middelbeers	7
+Middelbeers	Son	21
+Son	Middelbeers	21
+Middelbeers	Vaartbroek	22
+Vaartbroek	Middelbeers	22
+Middelburg	Oostburg	62
+Oostburg	Middelburg	62
+Middelburg	Serooskerke	8
+Serooskerke	Middelburg	8
+Middelburg	Sluiskil	39
+Sluiskil	Middelburg	39
+Middelburg	Terneuzen	35
+Terneuzen	Middelburg	35
+Middelburg	West-Souburg	6
+West-Souburg	Middelburg	6
+Middelharnis	Nieuw-Vossemeer	27
+Nieuw-Vossemeer	Middelharnis	27
+Middelharnis	Numansdorp	31
+Numansdorp	Middelharnis	31
+Middelharnis	Oud-Vossemeer	29
+Oud-Vossemeer	Middelharnis	29
+Middelharnis	Scherpenisse	32
+Scherpenisse	Middelharnis	32
+Middelharnis	Sint Philipsland	23
+Sint Philipsland	Middelharnis	23
+Middelharnis	Stavenisse	38
+Stavenisse	Middelharnis	38
+Middelharnis	Steenbergen	31
+Steenbergen	Middelharnis	31
+Middelharnis	Strijen	38
+Strijen	Middelharnis	38
+Middelharnis	Zuid-Beijerland	31
+Zuid-Beijerland	Middelharnis	31
+Middelrode	Schijndel	6
+Schijndel	Middelrode	6
+Middelstum	Schildwolde	19
+Schildwolde	Middelstum	19
+Middelstum	Ten Boer	11
+Ten Boer	Middelstum	11
+Middelstum	Uithuizen	13
+Uithuizen	Middelstum	13
+Middelstum	Warffum	11
+Warffum	Middelstum	11
+Middenbeemster	Stompetoren	13
+Stompetoren	Middenbeemster	13
+Middenmeer	Nieuwe-Niedorp	11
+Nieuwe-Niedorp	Middenmeer	11
+Middenmeer	Purmerend	39
+Purmerend	Middenmeer	39
+Middenmeer	Schagen	18
+Schagen	Middenmeer	18
+Middenmeer	Schagerbrug	18
+Schagerbrug	Middenmeer	18
+Middenmeer	Slootdorp	5
+Slootdorp	Middenmeer	5
+Middenmeer	Wieringerwerf	7
+Wieringerwerf	Middenmeer	7
+Middenmeer	Zaandijk	48
+Zaandijk	Middenmeer	48
+Middenmeer	Zaanstad	48
+Zaanstad	Middenmeer	48
+Midwolda	Noordbroek	13
+Noordbroek	Midwolda	13
+Midwolda	Scheemda	6
+Scheemda	Midwolda	6
+Midwolda	Wagenborgen	13
+Wagenborgen	Midwolda	13
+Midwolda	Winschoten	7
+Winschoten	Midwolda	7
+Midwolda	Zuidbroek	12
+Zuidbroek	Midwolda	12
+Midwoud	Onderdijk	6
+Onderdijk	Midwoud	6
+Midwoud	Opperdoes	5
+Opperdoes	Midwoud	5
+Midwoud	Purmerend	30
+Purmerend	Midwoud	30
+Midwoud	Westwoud	8
+Westwoud	Midwoud	8
+Midwoud	Zaandijk	39
+Zaandijk	Midwoud	39
+Midwoud	Zaanstad	39
+Zaanstad	Midwoud	39
+Mijdrecht	Uithoorn	6
+Uithoorn	Mijdrecht	6
+Mijdrecht	Vinkeveen	6
+Vinkeveen	Mijdrecht	6
+Mijdrecht	Wilnis	4
+Wilnis	Mijdrecht	4
+Mijdrecht	Zevenhoven	11
+Zevenhoven	Mijdrecht	11
+Mijnsheerenland	Pernis	21
+Pernis	Mijnsheerenland	21
+Mijnsheerenland	Prinsenbeek	36
+Prinsenbeek	Mijnsheerenland	36
+Mijnsheerenland	Rhoon	18
+Rhoon	Mijnsheerenland	18
+Mijnsheerenland	Rijsbergen	46
+Rijsbergen	Mijnsheerenland	46
+Mijnsheerenland	Terheijden	36
+Terheijden	Mijnsheerenland	36
+Mijnsheerenland	Teteringen	42
+Teteringen	Mijnsheerenland	42
+Mijnsheerenland	Vlaardingen	26
+Vlaardingen	Mijnsheerenland	26
+Mijnsheerenland	Wagenberg	36
+Wagenberg	Mijnsheerenland	36
+Mijnsheerenland	Westmaas	3
+Westmaas	Mijnsheerenland	3
+Milheeze	Odiliapeel	20
+Odiliapeel	Milheeze	20
+Milheeze	Overloon	19
+Overloon	Milheeze	19
+Milheeze	Reek	32
+Reek	Milheeze	32
+Milheeze	Sint Anthonis	18
+Sint Anthonis	Milheeze	18
+Milheeze	Ysselsteyn	12
+Ysselsteyn	Milheeze	12
+Milsbeek	Mook	6
+Mook	Milsbeek	6
+Minnertsga	Sexbierum	9
+Sexbierum	Minnertsga	9
+Minnertsga	Sint Jacobiparochie	3
+Sint Jacobiparochie	Minnertsga	3
+Molenhoek	Waardenburg	20
+Waardenburg	Molenhoek	20
+Molenhoek	Zaltbommel	18
+Zaltbommel	Molenhoek	18
+Monnickendam	Purmerend	10
+Purmerend	Monnickendam	10
+Monnickendam	Volendam	7
+Volendam	Monnickendam	7
+Monster	Poeldijk	4
+Poeldijk	Monster	4
+Montfoort	Nieuwegein	12
+Nieuwegein	Montfoort	12
+Montfoort	Odijk	22
+Odijk	Montfoort	22
+Montfoort	Oudewater	8
+Oudewater	Montfoort	8
+Montfoort	Veldhuizen	8
+Veldhuizen	Montfoort	8
+Montfort	Sint Odiliënberg	5
+Sint Odiliënberg	Montfort	5
+Montfort	Wessem	10
+Wessem	Montfort	10
+Mook	Overasselt	9
+Overasselt	Mook	9
+Muiden	Muiderberg	5
+Muiderberg	Muiden	5
+Muiden	Naarden	8
+Naarden	Muiden	8
+Muiden	Ouderkerk aan de Amstel	15
+Ouderkerk aan de Amstel	Muiden	15
+Muiden	Weesp	4
+Weesp	Muiden	4
+Muiderberg	Naarden	7
+Naarden	Muiderberg	7
+Muiderberg	Urk	64
+Urk	Muiderberg	64
+Muiderberg	Zeewolde	36
+Zeewolde	Muiderberg	36
+Munstergeleen	Oirsbeek	5
+Oirsbeek	Munstergeleen	5
+Munstergeleen	Puth	4
+Puth	Munstergeleen	4
+Munstergeleen	Sittard	5
+Sittard	Munstergeleen	5
+Munstergeleen	Spaubeek	6
+Spaubeek	Munstergeleen	6
+Naaldwijk	Vlaardingen	16
+Vlaardingen	Naaldwijk	16
+Naarden	Soestdijk	15
+Soestdijk	Naarden	15
+Naarden	Urk	68
+Urk	Naarden	68
+Nederwoud	Renswoude	5
+Renswoude	Nederwoud	5
+Neerbeek	Puth	5
+Puth	Neerbeek	5
+Neerbeek	Spaubeek	3
+Spaubeek	Neerbeek	3
+Neerbeek	Wessem	29
+Wessem	Neerbeek	29
+Neerkant	Ospel	11
+Ospel	Neerkant	11
+Niekerk	Zuidhorn	5
+Zuidhorn	Niekerk	5
+Nieuw-Beijerland	Oud-Beijerland	7
+Oud-Beijerland	Nieuw-Beijerland	7
+Nieuw-Beijerland	Piershil	4
+Piershil	Nieuw-Beijerland	4
+Nieuw-Beijerland	Spijkenisse	5
+Spijkenisse	Nieuw-Beijerland	5
+Nieuw-Buinen	Stadskanaal	4
+Stadskanaal	Nieuw-Buinen	4
+Nieuw-Buinen	Tweede Exloërmond	9
+Tweede Exloërmond	Nieuw-Buinen	9
+Nieuw-Buinen	Valthermond	13
+Valthermond	Nieuw-Buinen	13
+Nieuw-Dordrecht	Vaals	295
+Vaals	Nieuw-Dordrecht	295
+Nieuw-Dordrecht	Veenoord	14
+Veenoord	Nieuw-Dordrecht	14
+Nieuw-Dordrecht	Waubach	283
+Waubach	Nieuw-Dordrecht	283
+Nieuw-Lekkerland	Oud Gastel	48
+Oud Gastel	Nieuw-Lekkerland	48
+Nieuw-Lekkerland	Rijsbergen	51
+Rijsbergen	Nieuw-Lekkerland	51
+Nieuw-Lekkerland	Roosendaal	56
+Roosendaal	Nieuw-Lekkerland	56
+Nieuw-Lekkerland	Sprundel	54
+Sprundel	Nieuw-Lekkerland	54
+Nieuw-Lekkerland	Stolwijk	17
+Stolwijk	Nieuw-Lekkerland	17
+Nieuw-Lekkerland	Strijen	31
+Strijen	Nieuw-Lekkerland	31
+Nieuw-Lekkerland	Terheijden	41
+Terheijden	Nieuw-Lekkerland	41
+Nieuw-Loosdrecht	Oud-Loosdrecht	4
+Oud-Loosdrecht	Nieuw-Loosdrecht	4
+Nieuw-Loosdrecht	Urk	79
+Urk	Nieuw-Loosdrecht	79
+Nieuw-Loosdrecht	Zeewolde	40
+Zeewolde	Nieuw-Loosdrecht	40
+Nieuw-Vossemeer	Oud-Vossemeer	5
+Oud-Vossemeer	Nieuw-Vossemeer	5
+Nieuw-Vossemeer	Scherpenisse	11
+Scherpenisse	Nieuw-Vossemeer	11
+Nieuw-Vossemeer	Sint Philipsland	8
+Sint Philipsland	Nieuw-Vossemeer	8
+Nieuwe Pekela	Onstwedde	10
+Onstwedde	Nieuwe Pekela	10
+Nieuwe Pekela	Oude Pekela	5
+Oude Pekela	Nieuwe Pekela	5
+Nieuwe Pekela	Rolde	30
+Rolde	Nieuwe Pekela	30
+Nieuwe Pekela	Stadskanaal	15
+Stadskanaal	Nieuwe Pekela	15
+Nieuwe Pekela	Veendam	8
+Veendam	Nieuwe Pekela	8
+Nieuwe-Niedorp	Waarland	8
+Waarland	Nieuwe-Niedorp	8
+Nieuwegein	Noordeloos	25
+Noordeloos	Nieuwegein	25
+Nieuwegein	Odijk	14
+Odijk	Nieuwegein	14
+Nieuwegein	Ouderkerk aan de Amstel	39
+Ouderkerk aan de Amstel	Nieuwegein	39
+Nieuwegein	Raamsdonksveer	46
+Raamsdonksveer	Nieuwegein	46
+Nieuwegein	Schoonrewoerd	16
+Schoonrewoerd	Nieuwegein	16
+Nieuwegein	Tricht	27
+Tricht	Nieuwegein	27
+Nieuwegein	Utrecht	11
+Utrecht	Nieuwegein	11
+Nieuwegein	Vianen	8
+Vianen	Nieuwegein	8
+Nieuwegein	Vinkeveen	31
+Vinkeveen	Nieuwegein	31
+Nieuwegein	Vleuten	16
+Vleuten	Nieuwegein	16
+Nieuwegein	Waardenburg	28
+Waardenburg	Nieuwegein	28
+Nieuwegein	Werkendam	37
+Werkendam	Nieuwegein	37
+Nieuwegein	Woudrichem	40
+Woudrichem	Nieuwegein	40
+Nieuwegein	Zeewolde	56
+Zeewolde	Nieuwegein	56
+Nieuwehorne	Noordwolde	13
+Noordwolde	Nieuwehorne	13
+Nieuwehorne	Oosterwolde	21
+Oosterwolde	Nieuwehorne	21
+Nieuwehorne	Oudeschoot	8
+Oudeschoot	Nieuwehorne	8
+Nieuwehorne	Sleen	63
+Sleen	Nieuwehorne	63
+Nieuwerkerk	Oostburg	83
+Oostburg	Nieuwerkerk	83
+Nieuwerkerk	Oosterland	4
+Oosterland	Nieuwerkerk	4
+Nieuwerkerk	Sluiskil	61
+Sluiskil	Nieuwerkerk	61
+Nieuwerkerk	Terneuzen	56
+Terneuzen	Nieuwerkerk	56
+Nieuwerkerk	Wemeldinge	32
+Wemeldinge	Nieuwerkerk	32
+Nieuwerkerk	Wolphaartsdijk	25
+Wolphaartsdijk	Nieuwerkerk	25
+Nieuwerkerk	Zierikzee	7
+Zierikzee	Nieuwerkerk	7
+Nieuwkoop	Roelofarendsveen	15
+Roelofarendsveen	Nieuwkoop	15
+Nieuwkoop	Vleuten	27
+Vleuten	Nieuwkoop	27
+Nieuwkoop	Woerden	18
+Woerden	Nieuwkoop	18
+Nieuwkoop	Zevenhoven	5
+Zevenhoven	Nieuwkoop	5
+Nieuwpoort	Noordeloos	11
+Noordeloos	Nieuwpoort	11
+Nieuwpoort	Raamsdonksveer	30
+Raamsdonksveer	Nieuwpoort	30
+Nieuwpoort	Werkendam	21
+Werkendam	Nieuwpoort	21
+Nieuwpoort	Woudrichem	24
+Woudrichem	Nieuwpoort	24
+Nijkerk	Nijkerkerveen	4
+Nijkerkerveen	Nijkerk	4
+Nijkerk	Putten	11
+Putten	Nijkerk	11
+Nijkerk	Voorthuizen	12
+Voorthuizen	Nijkerk	12
+Nijkerk	Zeewolde	17
+Zeewolde	Nijkerk	17
+Nijkerkerveen	Terschuur	6
+Terschuur	Nijkerkerveen	6
+Nijmegen	Overasselt	13
+Overasselt	Nijmegen	13
+Nijnsel	Son	5
+Son	Nijnsel	5
+Nistelrode	Ravenstein	14
+Ravenstein	Nistelrode	14
+Nistelrode	Renkum	39
+Renkum	Nistelrode	39
+Nistelrode	Schaijk	9
+Schaijk	Nistelrode	9
+Nistelrode	Vorstenbosch	6
+Vorstenbosch	Nistelrode	6
+Nistelrode	Zetten	33
+Zetten	Nistelrode	33
+Noordbroek	Scheemda	13
+Scheemda	Noordbroek	13
+Noordbroek	Siddeburen	9
+Siddeburen	Noordbroek	9
+Noordbroek	Slochteren	6
+Slochteren	Noordbroek	6
+Noordbroek	Zuidbroek	5
+Zuidbroek	Noordbroek	5
+Noordeinde	Pijnacker	6
+Pijnacker	Noordeinde	6
+Noordeinde	Waarder	29
+Waarder	Noordeinde	29
+Noordeinde	Waddinxveen	17
+Waddinxveen	Noordeinde	17
+Noordeinde	Zoetermeer	7
+Zoetermeer	Noordeinde	7
+Noordeloos	Oud Gastel	57
+Oud Gastel	Noordeloos	57
+Noordeloos	Ouderkerk aan de Amstel	60
+Ouderkerk aan de Amstel	Noordeloos	60
+Noordeloos	Papendrecht	21
+Papendrecht	Noordeloos	21
+Noordeloos	Raamsdonk	29
+Raamsdonk	Noordeloos	29
+Noordeloos	Standdaarbuiten	51
+Standdaarbuiten	Noordeloos	51
+Noordeloos	Strijen	40
+Strijen	Noordeloos	40
+Noordeloos	Vianen	20
+Vianen	Noordeloos	20
+Noordeloos	Wemeldinge	108
+Wemeldinge	Noordeloos	108
+Noordeloos	Werkendam	18
+Werkendam	Noordeloos	18
+Noordeloos	Woudrichem	21
+Woudrichem	Noordeloos	21
+Noordeloos	Yerseke	104
+Yerseke	Noordeloos	104
+Noordhorn	Oldehove	6
+Oldehove	Noordhorn	6
+Noordwijk-Binnen	Noordwijkerhout	5
+Noordwijkerhout	Noordwijk-Binnen	5
+Noordwijk-Binnen	Voorhout	5
+Voorhout	Noordwijk-Binnen	5
+Noordwijkerhout	Sassenheim	7
+Sassenheim	Noordwijkerhout	7
+Noordwijkerhout	Vogelenzang	10
+Vogelenzang	Noordwijkerhout	10
+Noordwijkerhout	Voorhout	7
+Voorhout	Noordwijkerhout	7
+Noordwolde	Oldemarkt	15
+Oldemarkt	Noordwolde	15
+Noordwolde	Oosterwolde	21
+Oosterwolde	Noordwolde	21
+Noordwolde	Oudeschoot	18
+Oudeschoot	Noordwolde	18
+Noordwolde	Steenwijk	13
+Steenwijk	Noordwolde	13
+Noordwolde	Steenwijkerwold	14
+Steenwijkerwold	Noordwolde	14
+Noordwolde	Vledder	8
+Vledder	Noordwolde	8
+Noordwolde	Wolvega	12
+Wolvega	Noordwolde	12
+Norg	Peize	13
+Peize	Norg	13
+Norg	Roden	10
+Roden	Norg	10
+Norg	Vries	11
+Vries	Norg	11
+Nuenen	Stepekolk	6
+Stepekolk	Nuenen	6
+Nuenen	Vaartbroek	5
+Vaartbroek	Nuenen	5
+Nuenen	Vlokhoven	5
+Vlokhoven	Nuenen	5
+Numansdorp	Strijen	10
+Strijen	Numansdorp	10
+Numansdorp	Zuid-Beijerland	7
+Zuid-Beijerland	Numansdorp	7
+Nunspeet	Zeewolde	27
+Zeewolde	Nunspeet	27
+Nuth	Schinnen	5
+Schinnen	Nuth	5
+Nuth	Spaubeek	6
+Spaubeek	Nuth	6
+Obdam	Spierdijk	5
+Spierdijk	Obdam	5
+Ochten	Oss	29
+Oss	Ochten	29
+Ochten	Tiel	14
+Tiel	Ochten	14
+Odijk	Veldhuizen	17
+Veldhuizen	Odijk	17
+Odijk	Waarder	30
+Waarder	Odijk	30
+Odijk	Werkhoven	4
+Werkhoven	Odijk	4
+Odijk	Woerden	28
+Woerden	Odijk	28
+Odiliapeel	Volkel	4
+Volkel	Odiliapeel	4
+Odiliapeel	Wanroij	9
+Wanroij	Odiliapeel	9
+Odiliapeel	Ysselsteyn	25
+Ysselsteyn	Odiliapeel	25
+Odiliapeel	Zeeland	8
+Zeeland	Odiliapeel	8
+Odoorn	Schoonoord	9
+Schoonoord	Odoorn	9
+Odoorn	Sleen	12
+Sleen	Odoorn	12
+Odoorn	Valthermond	9
+Valthermond	Odoorn	9
+Oegstgeest	Rijnsburg	3
+Rijnsburg	Oegstgeest	3
+Oegstgeest	Warmond	4
+Warmond	Oegstgeest	4
+Oegstgeest	Wassenaar	7
+Wassenaar	Oegstgeest	7
+Oerle	Veldhoven	3
+Veldhoven	Oerle	3
+Oirschot	Oisterwijk	17
+Oisterwijk	Oirschot	17
+Oirschot	Tilburg	20
+Tilburg	Oirschot	20
+Oirschot	Veldhoven	18
+Veldhoven	Oirschot	18
+Oisterwijk	Waalre	35
+Waalre	Oisterwijk	35
+Oldebroek	Wapenveld	16
+Wapenveld	Oldebroek	16
+Oldebroek	Zwolle	18
+Zwolle	Oldebroek	18
+Oldemarkt	Steenwijkerwold	7
+Steenwijkerwold	Oldemarkt	7
+Oldemarkt	Vollenhove	21
+Vollenhove	Oldemarkt	21
+Oldemarkt	Wolvega	10
+Wolvega	Oldemarkt	10
+Olst	Wijhe	7
+Wijhe	Olst	7
+Ommen	Raalte	21
+Raalte	Ommen	21
+Ommen	Staphorst	30
+Staphorst	Ommen	30
+Ommen	Zwolle	24
+Zwolle	Ommen	24
+Onderdijk	Westwoud	10
+Westwoud	Onderdijk	10
+Onstwedde	Stadskanaal	10
+Stadskanaal	Onstwedde	10
+Onstwedde	Ter Apel	21
+Ter Apel	Onstwedde	21
+Onstwedde	Valthermond	21
+Valthermond	Onstwedde	21
+Onstwedde	Veendam	15
+Veendam	Onstwedde	15
+Onstwedde	Vlagtwedde	6
+Vlagtwedde	Onstwedde	6
+Oostburg	Oud Gastel	114
+Oud Gastel	Oostburg	114
+Oostburg	Roosendaal	109
+Roosendaal	Oostburg	109
+Oostburg	Scherpenisse	105
+Scherpenisse	Oostburg	105
+Oostburg	Sluis	9
+Sluis	Oostburg	9
+Oostburg	Sluiskil	32
+Sluiskil	Oostburg	32
+Oostburg	Standdaarbuiten	120
+Standdaarbuiten	Oostburg	120
+Oostburg	Terneuzen	31
+Terneuzen	Oostburg	31
+Oostburg	Tholen	101
+Tholen	Oostburg	101
+Oostburg	West-Souburg	63
+West-Souburg	Oostburg	63
+Oostburg	Wolphaartsdijk	62
+Wolphaartsdijk	Oostburg	62
+Oostburg	Zaamslag	36
+Zaamslag	Oostburg	36
+Oostburg	Zierikzee	81
+Zierikzee	Oostburg	81
+Oosteinde	Uithoorn	8
+Uithoorn	Oosteinde	8
+Oosterbeek	Otterlo	16
+Otterlo	Oosterbeek	16
+Oosterbeek	Wierden	78
+Wierden	Oosterbeek	78
+Oosterbeek	Wolfheze	5
+Wolfheze	Oosterbeek	5
+Oosterblokker	Urk	71
+Urk	Oosterblokker	71
+Oosterblokker	Westwoud	3
+Westwoud	Oosterblokker	3
+Oosterblokker	Zwolle	94
+Zwolle	Oosterblokker	94
+Oosterhesselen	Ruinerwold	42
+Ruinerwold	Oosterhesselen	42
+Oosterhesselen	Sleen	7
+Sleen	Oosterhesselen	7
+Oosterhesselen	Staphorst	46
+Staphorst	Oosterhesselen	46
+Oosterwolde	Rottevalle	25
+Rottevalle	Oosterwolde	25
+Oosterwolde	Vledder	20
+Vledder	Oosterwolde	20
+Oosterwolde	Wolvega	27
+Wolvega	Oosterwolde	27
+Oostkapelle	Serooskerke	4
+Serooskerke	Oostkapelle	4
+Oostrum	Sevenum	17
+Sevenum	Oostrum	17
+Oostrum	Venlo	24
+Venlo	Oostrum	24
+Oostrum	Venray	3
+Venray	Oostrum	3
+Oostrum	Wanssum	5
+Wanssum	Oostrum	5
+Ootmarsum	Schoonebeek	35
+Schoonebeek	Ootmarsum	35
+Ootmarsum	Tubbergen	9
+Tubbergen	Ootmarsum	9
+Ootmarsum	Weiteveen	40
+Weiteveen	Ootmarsum	40
+Ooyerhoek	Steenderen	10
+Steenderen	Ooyerhoek	10
+Ooyerhoek	Vorden	9
+Vorden	Ooyerhoek	9
+Opeinde	Oudega	5
+Oudega	Opeinde	5
+Opeinde	Rottevalle	4
+Rottevalle	Opeinde	4
+Opeinde	Warga	16
+Warga	Opeinde	16
+Ophemert	Tiel	7
+Tiel	Ophemert	7
+Ophemert	Waardenburg	11
+Waardenburg	Ophemert	11
+Opheusden	Venlo	86
+Venlo	Opheusden	86
+Opheusden	Wageningen	9
+Wageningen	Opheusden	9
+Opheusden	Zetten	9
+Zetten	Opheusden	9
+Oranjewoud	Oudehaske	9
+Oudehaske	Oranjewoud	9
+Oranjewoud	Oudeschoot	5
+Oudeschoot	Oranjewoud	5
+Oranjewoud	Staphorst	43
+Staphorst	Oranjewoud	43
+Ospel	Someren-Eind	10
+Someren-Eind	Ospel	10
+Oss	Tiel	27
+Tiel	Oss	27
+Oss	Wijk bij Duurstede	36
+Wijk bij Duurstede	Oss	36
+Ossendrecht	Putte	7
+Putte	Ossendrecht	7
+Otterlo	Rozendaal	21
+Rozendaal	Otterlo	21
+Otterlo	Wekerom	5
+Wekerom	Otterlo	5
+Otterlo	Wolfheze	15
+Wolfheze	Otterlo	15
+Oud Gastel	Rhoon	46
+Rhoon	Oud Gastel	46
+Oud Gastel	Roosendaal	11
+Roosendaal	Oud Gastel	11
+Oud Gastel	Sliedrecht	44
+Sliedrecht	Oud Gastel	44
+Oud Gastel	Standdaarbuiten	9
+Standdaarbuiten	Oud Gastel	9
+Oud Gastel	Stolwijk	58
+Stolwijk	Oud Gastel	58
+Oud Gastel	Terneuzen	87
+Terneuzen	Oud Gastel	87
+Oud Gastel	Wemeldinge	54
+Wemeldinge	Oud Gastel	54
+Oud Gastel	Yerseke	50
+Yerseke	Oud Gastel	50
+Oud Gastel	Zegge	7
+Zegge	Oud Gastel	7
+Oud Gastel	Zwijndrecht	35
+Zwijndrecht	Oud Gastel	35
+Oud-Beijerland	Prinsenbeek	41
+Prinsenbeek	Oud-Beijerland	41
+Oud-Beijerland	Rijsbergen	51
+Rijsbergen	Oud-Beijerland	51
+Oud-Beijerland	Terheijden	41
+Terheijden	Oud-Beijerland	41
+Oud-Beijerland	Teteringen	47
+Teteringen	Oud-Beijerland	47
+Oud-Beijerland	Wagenberg	41
+Wagenberg	Oud-Beijerland	41
+Oud-Beijerland	Westmaas	9
+Westmaas	Oud-Beijerland	9
+Oud-Beijerland	Zuid-Beijerland	10
+Zuid-Beijerland	Oud-Beijerland	10
+Oud-Loosdrecht	Ouderkerk aan de Amstel	23
+Ouderkerk aan de Amstel	Oud-Loosdrecht	23
+Oud-Loosdrecht	Vinkeveen	14
+Vinkeveen	Oud-Loosdrecht	14
+Oud-Vossemeer	Scherpenisse	9
+Scherpenisse	Oud-Vossemeer	9
+Oud-Vossemeer	Sint Philipsland	9
+Sint Philipsland	Oud-Vossemeer	9
+Oud-Vossemeer	Steenbergen	12
+Steenbergen	Oud-Vossemeer	12
+Oud-Vossemeer	Tholen	6
+Tholen	Oud-Vossemeer	6
+Ouddorp	Zierikzee	29
+Zierikzee	Ouddorp	29
+Oude Pekela	Winschoten	7
+Winschoten	Oude Pekela	7
+Oude Wetering	Sassenheim	11
+Sassenheim	Oude Wetering	11
+Oude Wetering	Uitgeest	42
+Uitgeest	Oude Wetering	42
+Oude Wetering	Zaandam	38
+Zaandam	Oude Wetering	38
+Oudehaske	Oudeschoot	11
+Oudeschoot	Oudehaske	11
+Oudehaske	Sint Nicolaasga	13
+Sint Nicolaasga	Oudehaske	13
+Oudehaske	Sneek	20
+Sneek	Oudehaske	20
+Oudehaske	Ureterp	30
+Ureterp	Oudehaske	30
+Oudehaske	Vollenhove	46
+Vollenhove	Oudehaske	46
+Oudemirdum	Sint Nicolaasga	17
+Sint Nicolaasga	Oudemirdum	17
+Ouderkerk aan de Amstel	Raamsdonksveer	81
+Raamsdonksveer	Ouderkerk aan de Amstel	81
+Ouderkerk aan de Amstel	Schoonrewoerd	52
+Schoonrewoerd	Ouderkerk aan de Amstel	52
+Ouderkerk aan de Amstel	Vianen	43
+Vianen	Ouderkerk aan de Amstel	43
+Ouderkerk aan de Amstel	Vleuten	28
+Vleuten	Ouderkerk aan de Amstel	28
+Ouderkerk aan de Amstel	Werkendam	72
+Werkendam	Ouderkerk aan de Amstel	72
+Ouderkerk aan de Amstel	Wilnis	14
+Wilnis	Ouderkerk aan de Amstel	14
+Oudeschoot	Steenwijkerwold	20
+Steenwijkerwold	Oudeschoot	20
+Oudeschoot	Tuk	20
+Tuk	Oudeschoot	20
+Oudeschoot	Wolvega	9
+Wolvega	Oudeschoot	9
+Oudewater	Schoonrewoerd	34
+Schoonrewoerd	Oudewater	34
+Oudewater	Waarder	7
+Waarder	Oudewater	7
+Oudewater	Woerden	10
+Woerden	Oudewater	10
+Oudkarspel	Waarland	3
+Waarland	Oudkarspel	3
+Overasselt	Sevenum	50
+Sevenum	Overasselt	50
+Overasselt	Sint Anthonis	24
+Sint Anthonis	Overasselt	24
+Overasselt	Tegelen	59
+Tegelen	Overasselt	59
+Overasselt	Venlo	58
+Venlo	Overasselt	58
+Overberg	Scherpenzeel	6
+Scherpenzeel	Overberg	6
+Overberg	Veenendaal	6
+Veenendaal	Overberg	6
+Overberg	Woudenberg	10
+Woudenberg	Overberg	10
+Overloon	Sint Anthonis	8
+Sint Anthonis	Overloon	8
+Overveen	Zandvoort	8
+Zandvoort	Overveen	8
+Pannerden	Zevenaar	7
+Zevenaar	Pannerden	7
+Panningen	Ysselsteyn	21
+Ysselsteyn	Panningen	21
+Papendrecht	Sliedrecht	9
+Sliedrecht	Papendrecht	9
+Papendrecht	Stolwijk	22
+Stolwijk	Papendrecht	22
+Peize	Roden	7
+Roden	Peize	7
+Peize	Ten Boer	24
+Ten Boer	Peize	24
+Peize	Vries	11
+Vries	Peize	11
+Pernis	Rhoon	6
+Rhoon	Pernis	6
+Pernis	Rijsoord	18
+Rijsoord	Pernis	18
+Pernis	Rozenburg	16
+Rozenburg	Pernis	16
+Pernis	Schiedam	9
+Schiedam	Pernis	9
+Pernis	Schipluiden	20
+Schipluiden	Pernis	20
+Pernis	Spijkenisse	9
+Spijkenisse	Pernis	9
+Pernis	Strijen	29
+Strijen	Pernis	29
+Pernis	Vlaardingen	10
+Vlaardingen	Pernis	10
+Petten	Schagerbrug	12
+Schagerbrug	Petten	12
+Piershil	Zuid-Beijerland	7
+Zuid-Beijerland	Piershil	7
+Pijnacker	Rotterdam	13
+Rotterdam	Pijnacker	13
+Pijnacker	Schiedam	17
+Schiedam	Pijnacker	17
+Pijnacker	Voorburg	11
+Voorburg	Pijnacker	11
+Pijnacker	Ypenburg	7
+Ypenburg	Pijnacker	7
+Poeldijk	The Hague	9
+The Hague	Poeldijk	9
+Posterholt	Sint Odiliënberg	4
+Sint Odiliënberg	Posterholt	4
+Posterholt	Vlodrop	4
+Vlodrop	Posterholt	4
+Prinsenbeek	Rijsbergen	13
+Rijsbergen	Prinsenbeek	13
+Prinsenbeek	Stolwijk	51
+Stolwijk	Prinsenbeek	51
+Prinsenbeek	Strijen	33
+Strijen	Prinsenbeek	33
+Prinsenbeek	Wagenberg	14
+Wagenberg	Prinsenbeek	14
+Prinsenbeek	Zwijndrecht	29
+Zwijndrecht	Prinsenbeek	29
+Purmerend	Sneek	102
+Sneek	Purmerend	102
+Purmerend	Wieringerwerf	43
+Wieringerwerf	Purmerend	43
+Purmerend	Witmarsum	88
+Witmarsum	Purmerend	88
+Purmerend	Zaandijk	14
+Zaandijk	Purmerend	14
+Purmerend	Zaanstad	14
+Zaanstad	Purmerend	14
+Putte	Reusel	80
+Reusel	Putte	80
+Putte	Stein	123
+Stein	Putte	123
+Putte	Voldijn	100
+Voldijn	Putte	100
+Putte	Zundert	26
+Zundert	Putte	26
+Putten	Terschuur	15
+Terschuur	Putten	15
+Putten	Voorthuizen	11
+Voorthuizen	Putten	11
+Raalte	Rolde	80
+Rolde	Raalte	80
+Raalte	Schalkhaar	17
+Schalkhaar	Raalte	17
+Raalte	Veenoord	63
+Veenoord	Raalte	63
+Raalte	Wierden	23
+Wierden	Raalte	23
+Raalte	Wijhe	10
+Wijhe	Raalte	10
+Raamsdonk	Raamsdonksveer	4
+Raamsdonksveer	Raamsdonk	4
+Raamsdonk	Vianen	43
+Vianen	Raamsdonk	43
+Raamsdonk	Waspik	3
+Waspik	Raamsdonk	3
+Raamsdonk	Werkendam	19
+Werkendam	Raamsdonk	19
+Raamsdonk	Zeewolde	97
+Zeewolde	Raamsdonk	97
+Raamsdonksveer	Rijen	15
+Rijen	Raamsdonksveer	15
+Raamsdonksveer	Vleuten	58
+Vleuten	Raamsdonksveer	58
+Raamsdonksveer	Zeewolde	96
+Zeewolde	Raamsdonksveer	96
+Ravenstein	Renkum	28
+Renkum	Ravenstein	28
+Ravenstein	Wijchen	9
+Wijchen	Ravenstein	9
+Reek	Schaijk	4
+Schaijk	Reek	4
+Reek	Ysselsteyn	37
+Ysselsteyn	Reek	37
+Reek	Zeeland	7
+Zeeland	Reek	7
+Reeuwijk	Waarder	10
+Waarder	Reeuwijk	10
+Renkum	Tegelen	87
+Tegelen	Renkum	87
+Renkum	Wageningen	6
+Wageningen	Renkum	6
+Renkum	Wijchen	27
+Wijchen	Renkum	27
+Renkum	Wolfheze	7
+Wolfheze	Renkum	7
+Renswoude	Scherpenzeel	4
+Scherpenzeel	Renswoude	4
+Reuver	Tegelen	8
+Tegelen	Reuver	8
+Rheden	Velp	5
+Velp	Rheden	5
+Rhenen	Veenendaal	10
+Veenendaal	Rhenen	10
+Rhenen	Wageningen	8
+Wageningen	Rhenen	8
+Rhoon	Ridderkerk	14
+Ridderkerk	Rhoon	14
+Rhoon	Schipluiden	23
+Schipluiden	Rhoon	23
+Rhoon	Spijkenisse	9
+Spijkenisse	Rhoon	9
+Rhoon	Strijen	26
+Strijen	Rhoon	26
+Rhoon	Vlaardingen	13
+Vlaardingen	Rhoon	13
+Ridderkerk	Rijsoord	3
+Rijsoord	Ridderkerk	3
+Ridderkerk	Rozenburg	30
+Rozenburg	Ridderkerk	30
+Ridderkerk	Sliedrecht	16
+Sliedrecht	Ridderkerk	16
+Riethoven	Waalre	7
+Waalre	Riethoven	7
+Riethoven	Westerhoven	3
+Westerhoven	Riethoven	3
+Rijen	Tilburg	13
+Tilburg	Rijen	13
+Rijnsburg	Voorhout	5
+Voorhout	Rijnsburg	5
+Rijpwetering	Roelofarendsveen	5
+Roelofarendsveen	Rijpwetering	5
+Rijpwetering	Warmond	12
+Warmond	Rijpwetering	12
+Rijsbergen	Sliedrecht	47
+Sliedrecht	Rijsbergen	47
+Rijsbergen	Sprundel	11
+Sprundel	Rijsbergen	11
+Rijsbergen	Stolwijk	61
+Stolwijk	Rijsbergen	61
+Rijsbergen	Strijen	43
+Strijen	Rijsbergen	43
+Rijsbergen	Zwijndrecht	37
+Zwijndrecht	Rijsbergen	37
+Rijsoord	Rozenburg	30
+Rozenburg	Rijsoord	30
+Rijsoord	Zwijndrecht	6
+Zwijndrecht	Rijsoord	6
+Rolde	Ruinen	40
+Ruinen	Rolde	40
+Rolde	Schoonoord	17
+Schoonoord	Rolde	17
+Rolde	Westerbork	19
+Westerbork	Rolde	19
+Rolde	Wildervank	23
+Wildervank	Rolde	23
+Roosendaal	Rucphen	10
+Rucphen	Roosendaal	10
+Roosendaal	Sliedrecht	51
+Sliedrecht	Roosendaal	51
+Roosendaal	Sluiskil	86
+Sluiskil	Roosendaal	86
+Roosendaal	Standdaarbuiten	16
+Standdaarbuiten	Roosendaal	16
+Roosendaal	Stolwijk	65
+Stolwijk	Roosendaal	65
+Roosendaal	Terneuzen	82
+Terneuzen	Roosendaal	82
+Roosendaal	Vlissingen	77
+Vlissingen	Roosendaal	77
+Roosendaal	Wouw	9
+Wouw	Roosendaal	9
+Roosendaal	Zegge	7
+Zegge	Roosendaal	7
+Roosendaal	Zwijndrecht	42
+Zwijndrecht	Roosendaal	42
+Rotterdam	Schiedam	9
+Schiedam	Rotterdam	9
+Rozenburg	Spijkenisse	12
+Spijkenisse	Rozenburg	12
+Rozendaal	Veenendaal	31
+Veenendaal	Rozendaal	31
+Rucphen	Sprundel	3
+Sprundel	Rucphen	3
+Ruinen	Ruinerwold	9
+Ruinerwold	Ruinen	9
+Ruinerwold	Veenoord	48
+Veenoord	Ruinerwold	48
+Ruinerwold	Vollenhove	25
+Vollenhove	Ruinerwold	25
+Ruurlo	Varsseveld	21
+Varsseveld	Ruurlo	21
+Ruurlo	Vorden	11
+Vorden	Ruurlo	11
+Ruurlo	Winterswijk	25
+Winterswijk	Ruurlo	25
+Ruurlo	Zelhem	13
+Zelhem	Ruurlo	13
+Sappemeer	Slochteren	7
+Slochteren	Sappemeer	7
+Sappemeer	Zuidbroek	6
+Zuidbroek	Sappemeer	6
+Sas van Gent	Sluiskil	7
+Sluiskil	Sas van Gent	7
+Sas van Gent	Westdorpe	3
+Westdorpe	Sas van Gent	3
+Sassenheim	Voorhout	5
+Voorhout	Sassenheim	5
+Sassenheim	Warmond	4
+Warmond	Sassenheim	4
+Sassenheim	Zaandam	44
+Zaandam	Sassenheim	44
+Schagen	Schagerbrug	4
+Schagerbrug	Schagen	4
+Schagen	Winkel	12
+Winkel	Schagen	12
+Schagerbrug	Wieringerwaard	9
+Wieringerwaard	Schagerbrug	9
+Scharnegoutum	Sneek	4
+Sneek	Scharnegoutum	4
+Scharnegoutum	Warga	24
+Warga	Scharnegoutum	24
+Scharnegoutum	Wommels	11
+Wommels	Scharnegoutum	11
+Scheemda	Wagenborgen	13
+Wagenborgen	Scheemda	13
+Scheemda	Zuidbroek	11
+Zuidbroek	Scheemda	11
+Scherpenisse	Sint Philipsland	12
+Sint Philipsland	Scherpenisse	12
+Scherpenisse	Sluiskil	82
+Sluiskil	Scherpenisse	82
+Scherpenisse	Stavenisse	9
+Stavenisse	Scherpenisse	9
+Scherpenisse	Terneuzen	78
+Terneuzen	Scherpenisse	78
+Scherpenisse	Tholen	9
+Tholen	Scherpenisse	9
+Scherpenisse	Wemeldinge	45
+Wemeldinge	Scherpenisse	45
+Scherpenisse	Yerseke	41
+Yerseke	Scherpenisse	41
+Scherpenzeel	Woudenberg	7
+Woudenberg	Scherpenzeel	7
+Scheveningen	The Hague	4
+The Hague	Scheveningen	4
+Scheveningen	Voorburg	8
+Voorburg	Scheveningen	8
+Schiedam	Schipluiden	14
+Schipluiden	Schiedam	14
+Schiedam	Spijkenisse	14
+Spijkenisse	Schiedam	14
+Schiedam	Vlaardingen	5
+Vlaardingen	Schiedam	5
+Schiedam	Waarder	38
+Waarder	Schiedam	38
+Schijndel	Sint-Michielsgestel	7
+Sint-Michielsgestel	Schijndel	7
+Schijndel	Wijbosch	3
+Wijbosch	Schijndel	3
+Schildwolde	Siddeburen	6
+Siddeburen	Schildwolde	6
+Schildwolde	Ten Boer	13
+Ten Boer	Schildwolde	13
+Schildwolde	Wagenborgen	9
+Wagenborgen	Schildwolde	9
+Schimmert	Spaubeek	4
+Spaubeek	Schimmert	4
+Schimmert	Ulestraten	3
+Ulestraten	Schimmert	3
+Schinnen	Spaubeek	4
+Spaubeek	Schinnen	4
+Schipluiden	Spijkenisse	24
+Spijkenisse	Schipluiden	24
+Schipluiden	Strijp	9
+Strijp	Schipluiden	9
+Schoonebeek	Tubbergen	34
+Tubbergen	Schoonebeek	34
+Schoonebeek	Veenoord	7
+Veenoord	Schoonebeek	7
+Schoonebeek	Weiteveen	9
+Weiteveen	Schoonebeek	9
+Schoonebeek	Westerhaar-Vriezenveensewijk	36
+Westerhaar-Vriezenveensewijk	Schoonebeek	36
+Schoonoord	Sleen	9
+Sleen	Schoonoord	9
+Schoonoord	Westerbork	11
+Westerbork	Schoonoord	11
+Schoonrewoerd	Veldhuizen	23
+Veldhuizen	Schoonrewoerd	23
+Schoonrewoerd	Vianen	12
+Vianen	Schoonrewoerd	12
+Schoonrewoerd	Vinkeveen	44
+Vinkeveen	Schoonrewoerd	44
+Schoonrewoerd	Waarder	37
+Waarder	Schoonrewoerd	37
+Schoonrewoerd	Zaltbommel	24
+Zaltbommel	Schoonrewoerd	24
+Serooskerke	Zoutelande	10
+Zoutelande	Serooskerke	10
+Sevenum	Venlo	12
+Venlo	Sevenum	12
+Sevenum	Voldijn	43
+Voldijn	Sevenum	43
+Sevenum	Ysselsteyn	15
+Ysselsteyn	Sevenum	15
+Siddeburen	Wagenborgen	6
+Wagenborgen	Siddeburen	6
+Silvolde	Terborg	3
+Terborg	Silvolde	3
+Silvolde	Wisch	3
+Wisch	Silvolde	3
+Simpelveld	Spekholzerheide	4
+Spekholzerheide	Simpelveld	4
+Simpelveld	Ubachsberg	5
+Ubachsberg	Simpelveld	5
+Simpelveld	Vaals	10
+Vaals	Simpelveld	10
+Simpelveld	Wijlre	8
+Wijlre	Simpelveld	8
+Sint Annaparochie	Sint Jacobiparochie	4
+Sint Jacobiparochie	Sint Annaparochie	4
+Sint Annaparochie	Stiens	8
+Stiens	Sint Annaparochie	8
+Sint Anthonis	Wanroij	6
+Wanroij	Sint Anthonis	6
+Sint Anthonis	Ysselsteyn	18
+Ysselsteyn	Sint Anthonis	18
+Sint Nicolaasga	Vollenhove	39
+Vollenhove	Sint Nicolaasga	39
+Sint Nicolaasga	Woudsend	10
+Woudsend	Sint Nicolaasga	10
+Sint Pancras	Stompetoren	9
+Stompetoren	Sint Pancras	9
+Sint Philipsland	Stavenisse	18
+Stavenisse	Sint Philipsland	18
+Sint Philipsland	Steenbergen	12
+Steenbergen	Sint Philipsland	12
+Sint-Oedenrode	Wijbosch	7
+Wijbosch	Sint-Oedenrode	7
+Sleen	Veenoord	8
+Veenoord	Sleen	8
+Sliedrecht	Standdaarbuiten	38
+Standdaarbuiten	Sliedrecht	38
+Sliedrecht	Strijen	27
+Strijen	Sliedrecht	27
+Sliedrecht	Terheijden	37
+Terheijden	Sliedrecht	37
+Sliedrecht	Wagenberg	37
+Wagenberg	Sliedrecht	37
+Sliedrecht	Wemeldinge	95
+Wemeldinge	Sliedrecht	95
+Sliedrecht	Yerseke	91
+Yerseke	Sliedrecht	91
+Slootdorp	Wieringerwaard	8
+Wieringerwaard	Slootdorp	8
+Slootdorp	Wieringerwerf	5
+Wieringerwerf	Slootdorp	5
+Sluiskil	Terneuzen	9
+Terneuzen	Sluiskil	9
+Sluiskil	Tholen	79
+Tholen	Sluiskil	79
+Sluiskil	West-Souburg	40
+West-Souburg	Sluiskil	40
+Sluiskil	Wolphaartsdijk	39
+Wolphaartsdijk	Sluiskil	39
+Sluiskil	Zaamslag	10
+Zaamslag	Sluiskil	10
+Sluiskil	Zierikzee	58
+Zierikzee	Sluiskil	58
+Sneek	Wieringerwerf	62
+Wieringerwerf	Sneek	62
+Sneek	Workum	22
+Workum	Sneek	22
+Sneek	Woudsend	12
+Woudsend	Sneek	12
+Soest	Soestdijk	3
+Soestdijk	Soest	3
+Someren	Someren-Eind	4
+Someren-Eind	Someren	4
+Son	Vaartbroek	4
+Vaartbroek	Son	4
+Spierdijk	Stompetoren	12
+Stompetoren	Spierdijk	12
+Spijkenisse	Vlaardingen	14
+Vlaardingen	Spijkenisse	14
+Stadskanaal	Ter Apel	19
+Ter Apel	Stadskanaal	19
+Stadskanaal	Wildervank	15
+Wildervank	Stadskanaal	15
+Standdaarbuiten	Stolwijk	52
+Stolwijk	Standdaarbuiten	52
+Standdaarbuiten	Terneuzen	92
+Terneuzen	Standdaarbuiten	92
+Standdaarbuiten	Wemeldinge	60
+Wemeldinge	Standdaarbuiten	60
+Standdaarbuiten	Woensdrecht	32
+Woensdrecht	Standdaarbuiten	32
+Standdaarbuiten	Yerseke	56
+Yerseke	Standdaarbuiten	56
+Standdaarbuiten	Zwijndrecht	29
+Zwijndrecht	Standdaarbuiten	29
+Staphorst	Veenoord	51
+Veenoord	Staphorst	51
+Staphorst	Vollenhove	22
+Vollenhove	Staphorst	22
+Staphorst	Wijhe	35
+Wijhe	Staphorst	35
+Staphorst	Zwolle	19
+Zwolle	Staphorst	19
+Steenderen	Zelhem	14
+Zelhem	Steenderen	14
+Steenwijk	Tuk	3
+Tuk	Steenwijk	3
+Steenwijk	Vledder	10
+Vledder	Steenwijk	10
+Steenwijkerwold	Tuk	3
+Tuk	Steenwijkerwold	3
+Stein	Urmond	3
+Urmond	Stein	3
+Stein	Wemeldinge	161
+Wemeldinge	Stein	161
+Stein	Yerseke	157
+Yerseke	Stein	157
+Stiens	Tytsjerk	15
+Tytsjerk	Stiens	15
+Stolwijk	Strijen	41
+Strijen	Stolwijk	41
+Stolwijk	Terheijden	51
+Terheijden	Stolwijk	51
+Stolwijk	Wagenberg	51
+Wagenberg	Stolwijk	51
+Stolwijk	Wemeldinge	109
+Wemeldinge	Stolwijk	109
+Stolwijk	Yerseke	105
+Yerseke	Stolwijk	105
+Stompetoren	Zaanstad	26
+Zaanstad	Stompetoren	26
+Stramproy	Thorn	13
+Thorn	Stramproy	13
+Strijen	Terheijden	34
+Terheijden	Strijen	34
+Strijen	Vlaardingen	34
+Vlaardingen	Strijen	34
+Strijen	Wagenberg	34
+Wagenberg	Strijen	34
+Strijen	Westmaas	10
+Westmaas	Strijen	10
+Strijen	Zwijndrecht	18
+Zwijndrecht	Strijen	18
+Strijp	Vlaardingen	18
+Vlaardingen	Strijp	18
+Tegelen	Venlo	4
+Venlo	Tegelen	4
+Ten Boer	Tynaarlo	29
+Tynaarlo	Ten Boer	29
+Ten Boer	Uithuizen	19
+Uithuizen	Ten Boer	19
+Ten Boer	Uithuizermeeden	20
+Uithuizermeeden	Ten Boer	20
+Ten Boer	Ureterp	49
+Ureterp	Ten Boer	49
+Ter Apel	Tweede Exloërmond	11
+Tweede Exloërmond	Ter Apel	11
+Ter Apel	Vaals	303
+Vaals	Ter Apel	303
+Ter Apel	Valthermond	9
+Valthermond	Ter Apel	9
+Terheijden	Teteringen	9
+Teteringen	Terheijden	9
+Terheijden	Wagenberg	4
+Wagenberg	Terheijden	4
+Terheijden	Zwijndrecht	28
+Zwijndrecht	Terheijden	28
+Terneuzen	Tholen	74
+Tholen	Terneuzen	74
+Terneuzen	West-Souburg	36
+West-Souburg	Terneuzen	36
+Terneuzen	Wolphaartsdijk	35
+Wolphaartsdijk	Terneuzen	35
+Terneuzen	Zaamslag	9
+Zaamslag	Terneuzen	9
+Terneuzen	Zierikzee	54
+Zierikzee	Terneuzen	54
+Terschuur	Voorthuizen	7
+Voorthuizen	Terschuur	7
+The Hague	Voorburg	7
+Voorburg	The Hague	7
+The Hague	Wassenaar	12
+Wassenaar	The Hague	12
+The Hague	Ypenburg	7
+Ypenburg	The Hague	7
+Theereheide	Vught	5
+Vught	Theereheide	5
+Tholen	Wemeldinge	41
+Wemeldinge	Tholen	41
+Tholen	Yerseke	37
+Yerseke	Tholen	37
+Thorn	Wessem	3
+Wessem	Thorn	3
+Tiel	Wijk bij Duurstede	16
+Wijk bij Duurstede	Tiel	16
+Tilburg	Vaartbroek	35
+Vaartbroek	Tilburg	35
+Tilburg	Vlokhoven	35
+Vlokhoven	Tilburg	35
+Tilburg	Waalwijk	17
+Waalwijk	Tilburg	17
+Tricht	Vianen	22
+Vianen	Tricht	22
+Tricht	Vinkeveen	54
+Vinkeveen	Tricht	54
+Tricht	Vleuten	39
+Vleuten	Tricht	39
+Tubbergen	Vriezenveen	16
+Vriezenveen	Tubbergen	16
+Tubbergen	Vroomshoop	22
+Vroomshoop	Tubbergen	22
+Tuk	Wolvega	14
+Wolvega	Tuk	14
+Tweede Exloërmond	Valthermond	7
+Valthermond	Tweede Exloërmond	7
+Twello	Vaassen	17
+Vaassen	Twello	17
+Twello	Voorst	11
+Voorst	Twello	11
+Tynaarlo	Vries	4
+Vries	Tynaarlo	4
+Tynaarlo	Westlaren	4
+Westlaren	Tynaarlo	4
+Ubachsberg	Wijlre	6
+Wijlre	Ubachsberg	6
+Uddel	Vaassen	21
+Vaassen	Uddel	21
+Uitgeest	Velsen-Zuid	13
+Velsen-Zuid	Uitgeest	13
+Uitgeest	Vijfhuizen	25
+Vijfhuizen	Uitgeest	25
+Uitgeest	Zaandijk	11
+Zaandijk	Uitgeest	11
+Uithoorn	Vinkeveen	9
+Vinkeveen	Uithoorn	9
+Uithoorn	Zevenhoven	10
+Zevenhoven	Uithoorn	10
+Uithuizen	Uithuizermeeden	4
+Uithuizermeeden	Uithuizen	4
+Uithuizen	Warffum	9
+Warffum	Uithuizen	9
+Ulvenhout	Waalre	60
+Waalre	Ulvenhout	60
+Ureterp	Vledder	37
+Vledder	Ureterp	37
+Utrecht	Veldhuizen	11
+Veldhuizen	Utrecht	11
+Utrecht	Vleuten	8
+Vleuten	Utrecht	8
+Vaals	Vlagtwedde	325
+Vlagtwedde	Vaals	325
+Vaartbroek	Vlokhoven	3
+Vlokhoven	Vaartbroek	3
+Vaassen	Voorthuizen	32
+Voorthuizen	Vaassen	32
+Valkenswaard	Waalre	5
+Waalre	Valkenswaard	5
+Valkenswaard	Westerhoven	6
+Westerhoven	Valkenswaard	6
+Valthermond	Vlagtwedde	24
+Vlagtwedde	Valthermond	24
+Varsseveld	Well	67
+Well	Varsseveld	67
+Varsseveld	Wisch	5
+Wisch	Varsseveld	5
+Varsseveld	Zelhem	12
+Zelhem	Varsseveld	12
+Veendam	Wildervank	3
+Wildervank	Veendam	3
+Veendam	Zuidbroek	7
+Zuidbroek	Veendam	7
+Veghel	Ven	3
+Ven	Veghel	3
+Veldhoven	Waalre	5
+Waalre	Veldhoven	5
+Veldhuizen	Vleuten	8
+Vleuten	Veldhuizen	8
+Veldhuizen	Waarder	17
+Waarder	Veldhuizen	17
+Veldhuizen	Wilnis	21
+Wilnis	Veldhuizen	21
+Veldhuizen	Zevenhoven	27
+Zevenhoven	Veldhuizen	27
+Velp	Westervoort	7
+Westervoort	Velp	7
+Velp	Zevenaar	12
+Zevenaar	Velp	12
+Velsen-Zuid	Zaandijk	19
+Zaandijk	Velsen-Zuid	19
+Venlo	Vlagtwedde	252
+Vlagtwedde	Venlo	252
+Vianen	Vinkeveen	35
+Vinkeveen	Vianen	35
+Vianen	Vleuten	20
+Vleuten	Vianen	20
+Vianen	Waardenburg	23
+Waardenburg	Vianen	23
+Vianen	Waarder	28
+Waarder	Vianen	28
+Vianen	Werkendam	32
+Werkendam	Vianen	32
+Vianen	Woerden	26
+Woerden	Vianen	26
+Vianen	Woudrichem	35
+Woudrichem	Vianen	35
+Vianen	Zeewolde	58
+Zeewolde	Vianen	58
+Vinkeveen	Vleuten	20
+Vleuten	Vinkeveen	20
+Vinkeveen	Waardenburg	55
+Waardenburg	Vinkeveen	55
+Vinkeveen	Werkendam	63
+Werkendam	Vinkeveen	63
+Vinkeveen	Wilnis	5
+Wilnis	Vinkeveen	5
+Vlagtwedde	Waubach	313
+Waubach	Vlagtwedde	313
+Vleuten	Waarder	19
+Waarder	Vleuten	19
+Vleuten	Werkendam	48
+Werkendam	Vleuten	48
+Vleuten	Wilnis	19
+Wilnis	Vleuten	19
+Vleuten	Woerden	16
+Woerden	Vleuten	16
+Vleuten	Woudrichem	52
+Woudrichem	Vleuten	52
+Vleuten	Zevenhoven	28
+Zevenhoven	Vleuten	28
+Vlissingen	West-Souburg	4
+West-Souburg	Vlissingen	4
+Vogelenzang	Zandvoort	9
+Zandvoort	Vogelenzang	9
+Voldijn	Waalre	3
+Waalre	Voldijn	3
+Voorburg	Voorschoten	9
+Voorschoten	Voorburg	9
+Voorburg	Waarder	37
+Waarder	Voorburg	37
+Voorburg	Wassenaar	11
+Wassenaar	Voorburg	11
+Voorburg	Ypenburg	7
+Ypenburg	Voorburg	7
+Voorburg	Zoetermeer	12
+Zoetermeer	Voorburg	12
+Voorhout	Warmond	5
+Warmond	Voorhout	5
+Voorschoten	Wassenaar	5
+Wassenaar	Voorschoten	5
+Voorschoten	Zoeterwoude-Dorp	6
+Zoeterwoude-Dorp	Voorschoten	6
+Voorst	Woudsend	105
+Woudsend	Voorst	105
+Voorst	Zutphen	7
+Zutphen	Voorst	7
+Vorden	Warnsveld	9
+Warnsveld	Vorden	9
+Vriezenveen	Westerhaar-Vriezenveensewijk	6
+Westerhaar-Vriezenveensewijk	Vriezenveen	6
+Vriezenveen	Wierden	8
+Wierden	Vriezenveen	8
+Vroomshoop	Westerhaar-Vriezenveensewijk	5
+Westerhaar-Vriezenveensewijk	Vroomshoop	5
+Vroomshoop	Wierden	14
+Wierden	Vroomshoop	14
+Waalwijk	Waspik	11
+Waspik	Waalwijk	11
+Waardenburg	Zaltbommel	8
+Zaltbommel	Waardenburg	8
+Waarder	Waddinxveen	16
+Waddinxveen	Waarder	16
+Waarder	Weijpoort	3
+Weijpoort	Waarder	3
+Waarder	Woerden	7
+Woerden	Waarder	7
+Waarder	Ypenburg	36
+Ypenburg	Waarder	36
+Waarder	Zoetermeer	28
+Zoetermeer	Waarder	28
+Waarland	Wieringerwaard	19
+Wieringerwaard	Waarland	19
+Waddinxveen	Zoetermeer	15
+Zoetermeer	Waddinxveen	15
+Wagenberg	Zwijndrecht	28
+Zwijndrecht	Wagenberg	28
+Wageningen	Zetten	7
+Zetten	Wageningen	7
+Wanssum	Well	5
+Well	Wanssum	5
+Wapenveld	Wijhe	9
+Wijhe	Wapenveld	9
+Warga	Zuiderburen	6
+Zuiderburen	Warga	6
+Weijpoort	Woerden	7
+Woerden	Weijpoort	7
+Wemeldinge	Wolphaartsdijk	15
+Wolphaartsdijk	Wemeldinge	15
+Wemeldinge	Yerseke	7
+Yerseke	Wemeldinge	7
+Wemeldinge	Zierikzee	29
+Zierikzee	Wemeldinge	29
+Wemeldinge	Zwijndrecht	86
+Zwijndrecht	Wemeldinge	86
+Werkendam	Woudrichem	11
+Woudrichem	Werkendam	11
+Westkapelle	Zoutelande	5
+Zoutelande	Westkapelle	5
+Wierden	Woolde	19
+Woolde	Wierden	19
+Wieringerwaard	Winkel	13
+Winkel	Wieringerwaard	13
+Wieringerwerf	Witmarsum	48
+Witmarsum	Wieringerwerf	48
+Wieringerwerf	Zaandijk	52
+Zaandijk	Wieringerwerf	52
+Wijhe	Zwolle	19
+Zwolle	Wijhe	19
+Wilnis	Woerden	16
+Woerden	Wilnis	16
+Winsum	Zuidbroek	36
+Zuidbroek	Winsum	36
+Wisch	Zelhem	14
+Zelhem	Wisch	14
+Witmarsum	Wommels	10
+Wommels	Witmarsum	10
+Woerden	Zevenhoven	19
+Zevenhoven	Woerden	19
+Wolphaartsdijk	Zierikzee	23
+Zierikzee	Wolphaartsdijk	23
+Wommels	Workum	20
+Workum	Wommels	20
+Woudrichem	Zeewolde	89
+Zeewolde	Woudrichem	89
+Yerseke	Zwijndrecht	82
+Zwijndrecht	Yerseke	82
+Ypenburg	Zoetermeer	11
+Zoetermeer	Ypenburg	11
+Ypenburg	Zoeterwoude-Dorp	17
+Zoeterwoude-Dorp	Ypenburg	17
+Zaandam	Zaanstad	3
+Zaanstad	Zaandam	3
+Zaandijk	Zaanstad	3
+Zaanstad	Zaandijk	3
+Zeewolde	Zwolle	53
+Zwolle	Zeewolde	53
+Zoetermeer	Zoeterwoude-Dorp	9
+Zoeterwoude-Dorp	Zoetermeer	9

@@ -134,13 +134,24 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
         // Read the lab instructions for more hints!
         if (cmp < 0) {
             // key is less than node.key
+            node.left = put(node.left, key, val);
         } else if (cmp > 0) {
             // key is greater than node.key
+            node.right = put(node.right, key, val);
         } else {
             // key is equal to node.key
+            node.val = val;
         }
 
-        throw new UnsupportedOperationException();
+        node.size = 1 + size(node.left) + size(node.right);
+        node.height = 1 + Math.max(height(node.left), height(node.right));
+        //node.height = log2(size(node));
+
+        if (height(node) > alpha*log2(size(node))){
+            node = rebuild(node);
+        }
+
+        return node;
     }
 
     // Rebuild a tree to make it perfectly balanced.
@@ -165,8 +176,6 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
         inorder(node.left, nodes);
         nodes.add(node);
         inorder(node.right, nodes);
-
-        throw new UnsupportedOperationException();
     }
 
     // Given an array of nodes, and two indexes 'lo' and 'hi',
@@ -178,6 +187,17 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
 
         // Midpoint of subarray.
         int mid = (lo + hi) / 2;
+
+        Node node = nodes.get(mid);
+
+        //node.height = log2(size(root));
+
+        node.left = balanceNodes(nodes, lo, mid-1);
+        node.right = balanceNodes(nodes, mid + 1, hi);
+
+        node.size = hi - lo + 1;
+        node.height = 1+Math.max(height(node.left), height(node.right));
+        return node;
 
         // TO DO: finish this method.
         //
@@ -194,7 +214,6 @@ public class ScapegoatTree<Key extends Comparable<Key>, Value> {
         // (4) Correctly set the 'size' and 'height' fields for the
         //      node.
         // (5) Return the node!
-        throw new UnsupportedOperationException();
     }
 
     // Returns log base 2 of a number.

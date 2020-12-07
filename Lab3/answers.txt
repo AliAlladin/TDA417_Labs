@@ -37,24 +37,26 @@ D*D*K*K = N*N = N^2
 small: 2,41 seconds
 medium: 423,82 seconds
 
-The amount of 5-grams increases by a factor of 10 for every directory (small (N = 20,000),
-medium (N = 200,000)). The time on the other hand increased with a factor greater than 100.
-This indicates that the complexity is quadratic.
+The amount of 5-grams increases by a factor of 10 for every directory (small
+(N = 20,000), medium (N = 200,000)). The time on the other hand increased with
+a factor greater than 100. This indicates that the complexity is quadratic.
 
 
 /******************************************************************************
 ** 3. How long do you predict the program would take to run on
 **    the 'huge' directory? Show your calculations.
 *******************************************************************************/
+The huge sample is 200 times bigger than the small sample. Since O(N^2) the
+expected runtime would be the runtime of the small sample, 2,41s, times 200^2
+which is around 27 hours.
 
-The huge sample is 200 times bigger than the small sample. Since O(N^2) the expected runtime would be
-the runtime of the small sample, 2,41s, times 200^2 which is around 27 hours.
+If we use the medium sample instead, which the huge sample is 20 bigger than,
+the expected runtime would be the runtime of the medium sample, 423 s, times 20^2
+which is around 47 hours. This is because the calculated complexity is O(N^2).
 
-If we use the medium sample instead, which the huge sample is 20 bigger than, the expected runtime would be
-the runtime of the medium sample, 423 s, times 20^2 which is around 47 hours. This is because the calculated complexity
-is O(N^2).
+From this we expect the runtime for the huge dataset to be roughly 27 hours< and
+<47 hours.
 
-From this we expect the runtime for the huge dataset to be roughly 27 hours< and <47 hours.
 
 
 /******************************************************************************
@@ -63,7 +65,7 @@ From this we expect the runtime for the huge dataset to be roughly 27 hours< and
 ** 4. Which of the trees usually become unbalanced?
 ******************************************************************************/
 
-[...]
+The "files" tree is the most unbalanced.
 
 
 /******************************************************************************
@@ -81,7 +83,19 @@ From this we expect the runtime for the huge dataset to be roughly 27 hours< and
 **    that occur in more than one file.
 ******************************************************************************/
 
-[...]
+buildIndex has the complexity O(N*logN). The first for-loop is O(d) and the second
+is O(k). O(d) * O(k) = O(N). The call to put has the complexity O(logN). N since
+there's not a lot of duplicate n-grams. The total complexity is therefore
+O(N) * O(logN) = O(N*logN).
+
+findSimilarity has the complexity O(N*logN). The first for-loop takes roughly
+O(N) time since the number of n-grams that occur in multiple documents are small.
+The second and third loops take constant time, O(1), since the number of n-grams
+that occur in multiple documents are small. Contains takes O(logN) time since
+ScapegoatTree is a form of BST. Then put is called once which takes O(logN) time.
+The resulting complexity is then O(N)*O(1)*O(1)*2*O(logN) = O(N*logN).
+
+So the total complexity of both methods is O(N*logN) + O(N*logN) = O(N*logN).
 
 
 /******************************************************************************
@@ -99,16 +113,16 @@ From this we expect the runtime for the huge dataset to be roughly 27 hours< and
 ** A. Approximately how many hours did you spend on the assignment?
 ******************************************************************************/
 
-Ali Alladin:      x
-William Hugo:     x
-Elias Johansson:  x
+Ali Alladin:  8 hours
+William Hugo:  8 hours
+Elias Johansson:  8 hours
 
 
 /******************************************************************************
 ** B. Are there any known bugs / limitations?
 ******************************************************************************/
 
-[...]
+No
 
 
 /******************************************************************************
@@ -118,14 +132,14 @@ Elias Johansson:  x
 **    may have used in creating your design.
 ******************************************************************************/
 
-[...]
+No
 
 
 /******************************************************************************
 ** D. Describe any serious problems you encountered.                    
 ******************************************************************************/
 
-[...]
+Maintaining the invariant was challenging.
 
 
 /******************************************************************************
