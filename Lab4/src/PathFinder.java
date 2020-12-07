@@ -1,10 +1,5 @@
 
-import java.util.List;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.PriorityQueue;
-import java.util.Random;
-import java.util.Comparator;
+import java.util.*;
 
 import java.util.stream.Collectors;
 import java.util.function.Function;
@@ -94,6 +89,23 @@ public class PathFinder<Node> {
          * TODO: Task 1a+c            *
          * Change below this comment  *
          ******************************/
+        Set<Node> visited = new HashSet<>();
+
+        pqueue.add(new PQEntry(start, 0, null));
+        while (!pqueue.isEmpty()){
+            PQEntry entry = pqueue.remove();
+            iterations++;
+            if (entry.node.equals(goal)){
+                return new Result(true, start, goal, entry.costToHere, extractPath(entry), iterations);
+            }
+            if (!visited.contains(entry.node)) {
+                for (DirectedEdge<Node> edge : graph.outgoingEdges(entry.node)) {
+                    double costToNext = entry.costToHere + edge.weight();
+                    pqueue.add(new PQEntry(edge.to(), costToNext, entry));
+                }
+                visited.add(entry.node);
+            }
+        }
         return new Result(false, start, goal, -1, null, iterations);
     }
     
@@ -124,7 +136,14 @@ public class PathFinder<Node> {
          * TODO: Task 1b              *
          * Change below this comment  *
          ******************************/
+        while (entry.backPointer != null){
+            path.add(entry.node);
+            entry = entry.backPointer;
+        }
         path.add(entry.node);
+
+        Collections.reverse(path);
+
         return path;
     }
 
