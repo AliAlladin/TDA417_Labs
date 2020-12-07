@@ -1,0 +1,162 @@
+
+/******************************************************************************
+** DAT038, TDA417  Datastrukturer och algoritmer, LP2 2020
+** Lab 4: Path finder
+*******************************************************************************/
+
+Name of lab group: [...]
+Group member A:    [...]
+Group member B:    [...]
+Group member C:    [...]
+
+
+/******************************************************************************
+** 1. List the minimal cost, shortest path, and nr of loop iterations,
+**    for each of the following invocations.
+******************************************************************************/
+
+> java RunPathFinder ucs AdjacencyGraph graphs/AdjacencyGraph/citygraph-SE.txt Lund Kiruna
+
+loop iterations: [...]
+minimal cost:    [...]
+shortest path:   [...]
+
+> java RunPathFinder ucs NPuzzle 3 "/HFG/BED/C_A/" "/ABC/DEF/GH_/"
+
+loop iterations: [...]
+minimal cost:    [...]
+shortest path:   [...]
+
+> java RunPathFinder astar NPuzzle 3 "/HFG/BED/C_A/" "/ABC/DEF/GH_/"
+
+loop iterations: [...]
+minimal cost:    [...]
+
+> java RunPathFinder ucs NPuzzle 3 "/HGF/BED/C_A/" "/ABC/DEF/GH_/"
+
+loop iterations: [...]
+minimal cost:    [...]
+shortest path:   [...]
+
+> java RunPathFinder ucs GridGraph graphs/GridGraph/AR0011SR.map "23:161" "130:211"
+
+loop iterations: [...]
+minimal cost:    [...]
+shortest path:   [...]
+
+> java RunPathFinder astar GridGraph graphs/GridGraph/AR0011SR.map "23:161" "130:211"
+
+loop iterations: [...]
+minimal cost:    [...]
+
+> java RunPathFinder ucs WordLadder graphs/WordLadder/words-saldo.txt syster broder
+
+loop iterations: [...]
+minimal cost:    [...]
+shortest path:   [...]
+
+> java RunPathFinder astar WordLadder graphs/WordLadder/words-saldo.txt syster broder
+
+loop iterations: [...]
+minimal cost:    [...]
+
+
+/******************************************************************************
+** 2. For each of the three classes GridGraph, WordLadder and NPuzzle,
+**    what is the approximate improvement in the nr. of iterations,
+**    by running A* instead of UCS?
+**    Try a number of different examples per class.
+******************************************************************************/
+
+GridGraph:  [...]
+
+WordLadder: [...]
+
+NPuzzle:    [...]
+
+
+/******************************************************************************
+** 3. For which of the three classes GridGraph, WordLadder and NPuzzle,
+**    did the heuristics .guessCost() have the most impact?
+**    Why do you think this is the case?
+******************************************************************************/
+
+[...]
+
+
+/******************************************************************************
+** 4. Give pseudo-code of the following methods that you implemented
+******************************************************************************/
+
+WordLadder.outgoingEdges(String w):
+    [...]
+
+
+WordLadder.guessCost(String w, String u):
+    [...]
+
+
+GridGraph.guessCost(Coord p, Coord q):
+    [...]
+
+
+/******************************************************************************
+** 5. Give pseudo-code of the method .searchAstar() in PathFinder
+******************************************************************************/
+
+PathFinder.searchAstar(Node start, Node goal):
+    [...]
+
+
+/******************************************************************************
+** 6. What are the main differences between your implementations 
+**    of .searchAstar() and .searchUCS()?
+******************************************************************************/
+
+[...]
+
+
+
+/******************************************************************************
+** Appendix: General information
+**
+** A. Approximately how many hours did you spend on the assignment?
+******************************************************************************/
+
+[..group member..]:  [..hours..]
+[..group member..]:  [..hours..]
+[..group member..]:  [..hours..]
+
+
+/******************************************************************************
+** B. Are there any known bugs / limitations?
+******************************************************************************/
+
+[...]
+
+
+/******************************************************************************
+** C. Did you collaborate with any other students on this lab?
+**    If so, please write in what way you collaborated and with whom.
+**    Also include any resources (including the web) that you may
+**    may have used in creating your design.
+******************************************************************************/
+
+[...]
+
+
+/******************************************************************************
+** D. Describe any serious problems you encountered.                    
+******************************************************************************/
+
+[...]
+
+
+/******************************************************************************
+** E. List any other comments here.
+**    Feel free to provide any feedback on how much you learned 
+**    from doing the assignment, and whether you enjoyed it.                                             
+******************************************************************************/
+
+[...]
+
