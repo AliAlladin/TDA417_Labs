@@ -14,7 +14,6 @@ import java.nio.file.Paths;
 
 /**
  * A graph that encodes word ladders.
- *
  * The class does not store the full graph in memory, just a dictionary of words. 
  * The edges are then computed on demand. 
  */
