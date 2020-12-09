@@ -102,12 +102,14 @@ WordLadder.outgoingEdges(String w):
                 sb.append(w)
                 sb.replace(i,i+1,o)
                 if(dictionary.contains(sb.toString())&&sb.toString()!=w):
-                    list.add(sb.toString()
+                    list.add(new DirectedEdge<>(w, sb.toString()))
 
     return list
 
 
 WordLadder.guessCost(String w, String u):
+    if (w.length() != u.length()):
+        return 0
     int diff = 0
     for i in ... p.length-1:
         if(w.charAt(i)!=u.charAt[i]):
@@ -116,7 +118,7 @@ WordLadder.guessCost(String w, String u):
 
 
 GridGraph.guessCost(Coord p, Coord q):
-    return sqrt((u.y-w.y)^2+(u.x-w.x)^2)
+    return sqrt((q.y-q.y)^2+(q.x-p.x)^2)
 
 
 /******************************************************************************
@@ -132,10 +134,10 @@ PathFinder.searchAstar(Node start, Node goal):
     while (!pqueue.isEmpty()):
         PQEntry entry = pqueue.remove()
         iterations++
-        if (entry.node.equals(goal))
+        if (entry.node.equals(goal)):
             return new Result(true, start, goal, entry.costToHere, extractPath(entry), iterations)
 
-        if (!visited.contains(entry.node))
+        if (!visited.contains(entry.node)):
             for (DirectedEdge<Node> edge : graph.outgoingEdges(entry.node)):
                     double costToNext = entry.costToHere + edge.weight()
                     Node n = edge.to()
