@@ -144,7 +144,7 @@ public class GridGraph implements DirectedGraph<GridGraph.Coord> {
          * TODO: Task 4               *
          * Change below this comment  *
          ******************************/
-        return 0;
+        return Math.sqrt(Math.pow(q.y-p.y, 2) + Math.pow(q.x-p.x, 2));
     }
 
 

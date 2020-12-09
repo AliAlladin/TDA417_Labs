@@ -14,9 +14,9 @@ import java.nio.file.Paths;
 
 /**
  * A graph that encodes word ladders.
- *
- * The class does not store the full graph in memory, just a dictionary of words. 
- * The edges are then computed on demand. 
+ * <p>
+ * The class does not store the full graph in memory, just a dictionary of words.
+ * The edges are then computed on demand.
  */
 
 public class WordLadder implements DirectedGraph<String> {
@@ -37,21 +37,23 @@ public class WordLadder implements DirectedGraph<String> {
     /**
      * Creates a new word ladder graph from the given dictionary file.
      * The file should contain one word per line, except lines starting with "#".
-     * @param file  path to a text file
+     *
+     * @param file path to a text file
      */
     public WordLadder(String file) throws IOException {
         dictionary = new HashSet<>();
         charset = new HashSet<>();
         Files.lines(Paths.get(file))
-            .filter(line -> !line.startsWith("#"))
-            .forEach(word -> addWord(word.trim()));
+                .filter(line -> !line.startsWith("#"))
+                .forEach(word -> addWord(word.trim()));
     }
 
 
     /**
      * Adds the {@code word} to the dictionary, if it only contains letters.
      * The word is converted to lowercase.
-     * @param word  the word
+     *
+     * @param word the word
      */
     public void addWord(String word) {
         // 
@@ -74,7 +76,7 @@ public class WordLadder implements DirectedGraph<String> {
 
 
     /**
-     * @param  w  a graph node (a word)
+     * @param w a graph node (a word)
      * @return a list of the graph edges that originate from {@code w}
      */
     public List<DirectedEdge<String>> outgoingEdges(String w) {
@@ -82,13 +84,27 @@ public class WordLadder implements DirectedGraph<String> {
          * TODO: Task 2               *
          * Change below this comment  *
          ******************************/
-        return new LinkedList<>();
+
+        LinkedList<DirectedEdge<String>> list = new LinkedList<>();
+
+        for (int i = 0; i < w.length(); i++) {
+            for (Object d : charset.toArray()) {
+                StringBuilder sb = new StringBuilder();
+                sb.append(w);
+                sb.replace(i, i + 1, String.valueOf((char) d));
+
+                if (dictionary.contains(sb.toString()) && !sb.toString().equals(w)) {
+                    list.add(new DirectedEdge<>(w, sb.toString()));
+                }
+            }
+        }
+        return list;
     }
 
 
     /**
-     * @param  w  one node/word
-     * @param  u  another node/word
+     * @param w one node/word
+     * @param u another node/word
      * @return the guessed best cost for getting from {@code w} to {@code u}
      * (the number of differing character positions)
      */
@@ -97,7 +113,18 @@ public class WordLadder implements DirectedGraph<String> {
          * TODO: Task 4               *
          * Change below this comment  *
          ******************************/
-        return 0;
+        if (w.length() != u.length()){
+            return 0;
+        }
+
+        int diff = 0;
+        for (int i = 0; i < w.length(); i++) {
+            if (w.charAt(i) != u.charAt(i)){
+                diff++;
+            }
+        }
+
+        return diff;
     }
 
 
@@ -108,7 +135,7 @@ public class WordLadder implements DirectedGraph<String> {
     public String toString() {
         StringBuilder s = new StringBuilder();
         s.append("Word ladder with " + nNodes() + " words, " +
-                 "charset: \"" + charset.stream().map(x -> x.toString()).collect(Collectors.joining()) + "\"\n\n");
+                "charset: \"" + charset.stream().map(x -> x.toString()).collect(Collectors.joining()) + "\"\n\n");
         int ctr = 0;
         s.append("Example words and ladder steps:\n");
         for (String v : dictionary) {
@@ -124,7 +151,8 @@ public class WordLadder implements DirectedGraph<String> {
 
     /**
      * Unit tests the class
-     * @param args  the command-line arguments
+     *
+     * @param args the command-line arguments
      */
     public static void main(String[] args) {
         try {

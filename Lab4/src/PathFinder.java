@@ -121,6 +121,27 @@ public class PathFinder<Node> {
          * TODO: Task 3               *
          * Change below this comment  *
          ******************************/
+        Queue<PQEntry> pqueue = new PriorityQueue<>(Comparator.comparingDouble((entry) -> entry.costToHere + entry.estimatedCost));
+
+        Set<Node> visited = new HashSet<>();
+
+        pqueue.add(new PQEntry(start, graph.guessCost(start, goal), 0, null));
+        while (!pqueue.isEmpty()){
+            PQEntry entry = pqueue.remove();
+            iterations++;
+            if (entry.node.equals(goal)){
+                return new Result(true, start, goal, entry.costToHere, extractPath(entry), iterations);
+            }
+            if (!visited.contains(entry.node)) {
+                for (DirectedEdge<Node> edge : graph.outgoingEdges(entry.node)) {
+                    double costToNext = entry.costToHere + edge.weight();
+                    Node n = edge.to();
+                    pqueue.add(new PQEntry(n, graph.guessCost(n, goal), costToNext, entry));
+                }
+                visited.add(entry.node);
+            }
+        }
+
         return new Result(false, start, goal, -1, null, iterations);
     }
 
@@ -154,6 +175,7 @@ public class PathFinder<Node> {
     private class PQEntry {
         public final Node node;
         public final double costToHere;
+        public final double estimatedCost;
         public final PQEntry backPointer;
         /******************************
          * TODO: Task 3               *
@@ -164,6 +186,14 @@ public class PathFinder<Node> {
             node = n;
             costToHere = c;
             backPointer = bp;
+            estimatedCost = 0;
+        }
+
+        PQEntry(Node n, double b, double c, PQEntry bp) {
+            node = n;
+            costToHere = c;
+            backPointer = bp;
+            estimatedCost = b;
         }
     }
 

@@ -4,10 +4,10 @@
 ** Lab 4: Path finder
 *******************************************************************************/
 
-Name of lab group: [...]
-Group member A:    [...]
-Group member B:    [...]
-Group member C:    [...]
+Name of lab group: Group 50
+Group member A:    Ali Alladin
+Group member B:    William Hugo
+Group member C:    Elias Johansson
 
 
 /******************************************************************************
@@ -20,19 +20,17 @@ Group member C:    [...]
 loop iterations: 5427
 minimal cost:    1826.0
 shortest path:   Lund -> Löddeköpinge -> Hjärnarp -> Åled -> Oskarström -> ... -> Storuman -> Sorsele -> Jokkmokk -> Gällivare -> Kiruna
-                 32
 
 > java RunPathFinder ucs NPuzzle 3 "/HFG/BED/C_A/" "/ABC/DEF/GH_/"
 
 loop iterations: 483573
 minimal cost:    31.0
 shortest path:   /HFG/BED/C_A/ -> /HFG/BED/CA_/ -> /HFG/BE_/CAD/ -> /HFG/B_E/CAD/ -> /H_G/BFE/CAD/ -> ... -> /AC_/DBE/GHF/ -> /A_C/DBE/GHF/ -> /ABC/D_E/GHF/ -> /ABC/DE_/GHF/ -> /ABC/DEF/GH_/
-                 32
 
 > java RunPathFinder astar NPuzzle 3 "/HFG/BED/C_A/" "/ABC/DEF/GH_/"
 
-loop iterations: [...]
-minimal cost:    [...]
+loop iterations: 32375
+minimal cost:    31.0
 
 > java RunPathFinder ucs NPuzzle 3 "/HGF/BED/C_A/" "/ABC/DEF/GH_/"
 
@@ -45,23 +43,22 @@ shortest path:   No path found
 loop iterations: 159327
 minimal cost:    366.40411229460744
 shortest path:   23:160 -> 23:159 -> 23:158 -> 23:157 -> ... -> 132:207 -> 131:208 -> 131:209 -> 130:210 -> 130:211
-                 309
 
 > java RunPathFinder astar GridGraph graphs/GridGraph/AR0011SR.map "23:161" "130:211"
 
-loop iterations: [...]
-minimal cost:    [...]
+loop iterations: 95160
+minimal cost:    366.4041122946075
 
 > java RunPathFinder ucs WordLadder graphs/WordLadder/words-saldo.txt syster broder
 
-loop iterations: [...]
-minimal cost:    [...]
-shortest path:   [...]
+loop iterations: 71182
+minimal cost:    11.0
+shortest path:   syster -> sylter -> sylten -> synten -> synden -> ... -> bauden -> bruden -> bröden -> bröder -> broder
 
 > java RunPathFinder astar WordLadder graphs/WordLadder/words-saldo.txt syster broder
 
-loop iterations: [...]
-minimal cost:    [...]
+loop iterations: 7055
+minimal cost:    11.0
 
 
 /******************************************************************************
@@ -71,11 +68,13 @@ minimal cost:    [...]
 **    Try a number of different examples per class.
 ******************************************************************************/
 
-GridGraph:  [...]
+GridGraph:  A* is 3 times faster.
 
-WordLadder: [...]
+WordLadder: It can be observed that the smaller the path-length, the greater the
+difference is in the number of iterations.
 
-NPuzzle:    [...]
+NPuzzle:    The difference between the number of iterations is very large. In the
+tests we conducted A* was 1 to 2 factors of 10 better than UCS.
 
 
 /******************************************************************************
@@ -84,7 +83,11 @@ NPuzzle:    [...]
 **    Why do you think this is the case?
 ******************************************************************************/
 
-[...]
+In the cases of GridGraph and WordLadder there's a possibility that you end up
+at a Node that doest lead to the goal and you have to return to previous nodes.
+N-puzzle on the other hand doesn't have a limiting factor such as a dead-end in
+a maze or lack of a pre-defined word in a dictionary which will make the guess
+more accurate.
 
 
 /******************************************************************************
@@ -92,15 +95,30 @@ NPuzzle:    [...]
 ******************************************************************************/
 
 WordLadder.outgoingEdges(String w):
-    [...]
+    LinkedList<DirectedEdge<String>> list = new LinkedList<>();
+        for i in ... w.length-1:
+            for o in ... charset.toArray:
+                StringBuilder sb = new StringBuilder()
+                sb.append(w)
+                sb.replace(i,i+1,o)
+                if(dictionary.contains(sb.toString())&&sb.toString()!=w):
+                    list.add(new DirectedEdge<>(w, sb.toString()))
+
+    return list
 
 
 WordLadder.guessCost(String w, String u):
-    [...]
+    if (w.length() != u.length()):
+        return 0
+    int diff = 0
+    for i in ... p.length-1:
+        if(w.charAt(i)!=u.charAt[i]):
+            diff++
+    return diff
 
 
 GridGraph.guessCost(Coord p, Coord q):
-    [...]
+    return sqrt((q.y-q.y)^2+(q.x-p.x)^2)
 
 
 /******************************************************************************
@@ -108,7 +126,26 @@ GridGraph.guessCost(Coord p, Coord q):
 ******************************************************************************/
 
 PathFinder.searchAstar(Node start, Node goal):
-    [...]
+    int iterations = 0;
+    Queue<PQEntry> pqueue = new PriorityQueue<>(Comparator.comparingDouble((entry) -> entry.costToHere + entry.estimatedCost))
+    Set<Node> visited = new HashSet<>()
+
+    pqueue.add(new PQEntry(start,graph.guessCost(start,goal), 0, null))
+    while (!pqueue.isEmpty()):
+        PQEntry entry = pqueue.remove()
+        iterations++
+        if (entry.node.equals(goal)):
+            return new Result(true, start, goal, entry.costToHere, extractPath(entry), iterations)
+
+        if (!visited.contains(entry.node)):
+            for (DirectedEdge<Node> edge : graph.outgoingEdges(entry.node)):
+                    double costToNext = entry.costToHere + edge.weight()
+                    Node n = edge.to()
+                    pqueue.add(new PQEntry(edge.to(), costToNext, entry))
+
+            visited.add(entry.node)
+
+    return new Result(false, start, goal, -1, null, iterations)
 
 
 /******************************************************************************
@@ -116,7 +153,12 @@ PathFinder.searchAstar(Node start, Node goal):
 **    of .searchAstar() and .searchUCS()?
 ******************************************************************************/
 
-[...]
+The main difference is that the priority queue in .searchAstar is ordered by the
+sum of the estimated cost from the current node to the end and the cost to that
+node while in .searchUCS the priority queue is ordered only by the cost to said
+node. To implement this in an efficient manner, all PQEntries now have an
+additional instance variable that stores the estimated cost from that node to
+the goal node. This resulted in PQEntry having two constructors.
 
 
 
@@ -126,16 +168,16 @@ PathFinder.searchAstar(Node start, Node goal):
 ** A. Approximately how many hours did you spend on the assignment?
 ******************************************************************************/
 
-[..group member..]:  [..hours..]
-[..group member..]:  [..hours..]
-[..group member..]:  [..hours..]
+Ali Alladin:  7
+William Hugo:  7
+Elias Johansson:  7
 
 
 /******************************************************************************
 ** B. Are there any known bugs / limitations?
 ******************************************************************************/
 
-[...]
+No
 
 
 /******************************************************************************
@@ -145,14 +187,14 @@ PathFinder.searchAstar(Node start, Node goal):
 **    may have used in creating your design.
 ******************************************************************************/
 
-[...]
+No
 
 
 /******************************************************************************
 ** D. Describe any serious problems you encountered.                    
 ******************************************************************************/
 
-[...]
+WordLadder was a bit challenging to implement (Not a serious problem).
 
 
 /******************************************************************************
@@ -162,4 +204,3 @@ PathFinder.searchAstar(Node start, Node goal):
 ******************************************************************************/
 
 [...]
-
