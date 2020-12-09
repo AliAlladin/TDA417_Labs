@@ -113,7 +113,18 @@ public class WordLadder implements DirectedGraph<String> {
          * TODO: Task 4               *
          * Change below this comment  *
          ******************************/
-        return 0;
+        if (w.length() != u.length()){
+            return 0;
+        }
+
+        int diff = 0;
+        for (int i = 0; i < w.length(); i++) {
+            if (w.charAt(i) != u.charAt(i)){
+                diff++;
+            }
+        }
+
+        return diff;
     }
 
 
